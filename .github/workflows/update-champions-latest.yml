@@ -1,0 +1,57 @@
+name: Update champions.json (latest)
+
+on:
+    schedule:
+        - cron: "0 6 * * *" # daily 06:00 UTC
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r requirements.txt
+
+            - name: Generate champions.json
+              run: |
+                  python -m lolstaticdata.champions
+
+            - name: Copy into public CDN path
+              run: |
+                  mkdir -p public/riot/lol/resources/latest/en-US
+
+                  # Prefer repo root output:
+                  if [ -f champions.json ]; then
+                    cp -f champions.json public/riot/lol/resources/latest/en-US/champions.json
+                  else
+                    # fallback: newest generated champions.json excluding public/
+                    GEN_PATH=$(find . -type f -name "champions.json" ! -path "./public/*" -printf "%T@ %p\n" | sort -nr | head -n 1 | cut -d' ' -f2-)
+                    if [ -z "$GEN_PATH" ]; then
+                      echo "Could not locate generated champions.json"
+                      exit 1
+                    fi
+                    echo "Using generated file: $GEN_PATH"
+                    cp -f "$GEN_PATH" public/riot/lol/resources/latest/en-US/champions.json
+                  fi
+
+                  date -u +"%Y-%m-%dT%H:%M:%SZ" > public/riot/lol/resources/latest/en-US/UPDATED_AT.txt
+
+            - name: Commit and push if changed
+              run: |
+                  git config user.name "github-actions"
+                  git config user.email "github-actions@github.com"
+                  git add public/riot/lol/resources/latest/en-US/champions.json public/riot/lol/resources/latest/en-US/UPDATED_AT.txt
+                  git diff --cached --quiet || git commit -m "Update champions.json (latest)"
+                  git push
