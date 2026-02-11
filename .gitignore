@@ -2,8 +2,6 @@
 /champions/
 __pycache__/
 __cache__/
-champions.json
-items.json
 .vscode/
 .env
 .venv
