@@ -504,6 +504,8 @@ class LolWikiDataHandler:
 
     def _render_abilities(self, champion_name, abilities: List[HTMLAbilityWrapper], default: str) -> Tuple[str, List[Ability]]:
         inputs, abilities = abilities, []  # rename variables
+        if not inputs:
+            return default, []
         skill_key = inputs[0]["skill"]
         for data in inputs:
             _skill_key = data["skill"]
@@ -732,9 +734,10 @@ class LolWikiDataHandler:
             except Exception as error:
                 print(f"ERROR: FAILURE TO PARSE MODIFIER:  {lvling}")
                 print("ERROR:", error)
+                safe_nvalues = nvalues or 5
                 modifier = Modifier(
-                    values=[0 for _ in range(nvalues)],
-                    units=[lvling for _ in range(nvalues)],
+                    values=[0 for _ in range(safe_nvalues)],
+                    units=[lvling for _ in range(safe_nvalues)],
                 )
                 modifiers.append(modifier)
         return modifiers
@@ -845,7 +848,7 @@ class LolWikiDataHandler:
             path = path.lower()
             path = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets" + path
             return path
-        base_url = "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1"
+        base_url = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1"
         # /lol-game-data/assets/v1/champion-chroma-images/32/32014.png
         path = path.split("v1")[1]
         return base_url + path
@@ -858,10 +861,17 @@ class LolWikiDataHandler:
         skins = []
         champ_id = self.skin_data[name]["id"]
 
-        cdragon = "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/{0}.json".format(
+        cdragon = "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/{0}.json".format(
             champ_id
         )
-        cdrag_json = download_json(cdragon, False)
+        try:
+            cdrag_json = download_json(cdragon, False)
+        except Exception as e:
+            print(f"WARNING: Failed to load skin data for {name} from {cdragon}: {e}")
+            return skins
+        if not isinstance(cdrag_json, dict) or "skins" not in cdrag_json:
+            print(f"WARNING: Missing skin payload for {name} from {cdragon}")
+            return skins
 
         for s in champ_data:
             # Default values for LOL Wiki attributes
@@ -1073,6 +1083,11 @@ class ParsingAndRegex:
 
     @staticmethod
     def get_modifier(mod: str, nvalues: int) -> Tuple[List[str], List[Union[int, float]]]:
+        # Skip headings / label-only lines that end with ":" and contain no digits
+        if isinstance(mod, str):
+            s = mod.strip()
+            if s.endswith(":") and not any(ch.isdigit() for ch in s):
+                raise UnparsableLeveling(f"Label-only modifier line: {s}")
         # Error handling
         if mod in list(LolWikiDataHandler.UNHANDLED_MODIFIERS.keys()):
             value = LolWikiDataHandler.UNHANDLED_MODIFIERS[mod]["value"]

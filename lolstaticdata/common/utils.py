@@ -14,6 +14,15 @@ from natsort import natsorted
 Json = Union[dict, list, str, int, float, bool, None]
 
 
+def _prefer_https(url: str) -> str:
+    """Upgrade known API hosts to HTTPS to avoid non-JSON HTTP gateway pages."""
+    if url.startswith("http://raw.communitydragon.org/"):
+        return "https://" + url[len("http://") :]
+    if url.startswith("http://ddragon.leagueoflegends.com/"):
+        return "https://" + url[len("http://") :]
+    return url
+
+
 def to_enum_like(string: str) -> str:
     return string.upper().replace(" ", "_")
 
@@ -118,6 +127,7 @@ def parse_top_level_parentheses(string):
 
 
 def download_json(url: str, use_cache: bool = True) -> Json:
+    url = _prefer_https(url)
     directory = os.path.dirname(os.path.realpath(__file__))
     fn = os.path.join(directory, "../../__cache__")
     if not os.path.exists(fn):
@@ -131,7 +141,16 @@ def download_json(url: str, use_cache: bool = True) -> Json:
     else:
         headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"}
         page = requests.get(url, headers=headers)
-        j = page.json()
+        page.raise_for_status()
+        try:
+            j = page.json()
+        except requests.exceptions.JSONDecodeError as e:
+            snippet = page.text[:160].replace("\n", " ").strip()
+            content_type = page.headers.get("Content-Type", "")
+            raise ValueError(
+                f"Invalid JSON response from {url} (status={page.status_code}, "
+                f"content_type={content_type!r}, body_start={snippet!r})"
+            ) from e
         if use_cache:
             with open(fn, "w") as f:
                 json.dump(j, f)
@@ -332,4 +351,3 @@ def strip_lua_comments(data):
         result.append(''.join(cleaned).rstrip())
 
     return result
-
