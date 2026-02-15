@@ -204,6 +204,7 @@
       }
     },
     "positions": [
+      "JUNGLE",
       "TOP"
     ],
     "roles": [
@@ -12354,6 +12355,7 @@
       }
     },
     "positions": [
+      "JUNGLE",
       "TOP"
     ],
     "roles": [
@@ -26294,7 +26296,7 @@
               "leveling": []
             },
             {
-              "description": "Breath of Light cannot be cast for 1 second if the channel is cancelled within the first 0.25 seconds.",
+              "description": "If the channel is cancelled within the first 0.25 seconds, Breath of Light is placed on a 1-second lockout but does not go on cooldown.",
               "leveling": []
             }
           ],
@@ -59159,6 +59161,7 @@
       }
     },
     "positions": [
+      "JUNGLE",
       "TOP"
     ],
     "roles": [
@@ -149265,7 +149268,7 @@
       "mobility": 2,
       "utility": 1,
       "abilityReliance": 30,
-      "difficulty": 3
+      "difficulty": 2
     },
     "abilities": {
       "P": [
@@ -266283,7 +266286,7 @@
               ]
             },
             {
-              "description": "Once it arrives, Shen empowers his next 3 basic attacks within 8 seconds to gain 75 bonus range and deal bonus magic damage. Against structures, only the flat damage portion is applied.",
+              "description": "Once it arrives, Shen empowers his next 3 basic attacks within 8 seconds to gain 75 bonus range and deal bonus magic damage on-hit. Against structures, only the flat damage portion is applied.",
               "leveling": [
                 {
                   "attribute": "Bonus Magic Damage",
