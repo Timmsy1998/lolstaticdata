@@ -21874,11 +21874,11 @@
         "chromas": [
           {
             "name": "Emerald",
-            "id": 523007,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/523/523007.png",
+            "id": 523008,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/523/523008.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#2DA130",
+              "#2DA130"
             ],
             "descriptions": [
               {
@@ -21937,11 +21937,11 @@
           },
           {
             "name": "Pearl",
-            "id": 523008,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/523/523008.png",
+            "id": 523007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/523/523007.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -75024,22 +75024,22 @@
         "chromas": [
           {
             "name": "Amethyst",
-            "id": 9016,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9016.png",
+            "id": 9018,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9018.png",
             "colors": [
-              "#D33528",
-              "#D33528"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a bundle exclusive in 2020.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -75066,22 +75066,22 @@
           },
           {
             "name": "Ruby",
-            "id": 9018,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9018.png",
+            "id": 9016,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/9/9016.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#D33528",
+              "#D33528"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           }
@@ -84276,7 +84276,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The  slow, bonus physical damage to champions, and keg health decay speed are determined when the keg is placed.\nGangplank's attacks and  Parrrley are special cased to deal  area damage instead of  basic damage.\nAs a consequence,  Hexoptics C44's Magnification does not proc against kegs.(note)\nThe triggering attack's damage can include  Parrrley's base damage and  Spellblade.\nThe percentage armor penetration stacks multiplicatively with other sources of percentage armor penetration.\nWhen triggered with critical strike, Spellblade and the bonus damage to champions are added after the calculations.\nDamage modifiers (eg.  Riftmaker's Void Corruption, mode-specific modifiers), with the exception of  Spear of Shojin's Focused Will, are applied to both the damage dealt to and by each keg.(bug)\nFor example, if Gangplank  attacks a chain of kegs with 100 AD and a 10% damage increase, the first keg in the chain will deal 110 damage, the second will deal 121 damage, the third will deal 133 damage, and so on.\nThe total damage can be calculated with this formula:{aDMG * [2 ( + 0.30)]} + sDMG + cDMGWhere:\naDMG = Triggering attack's damage\nsDMG = Spellblade's damage\ncDMG = Bonus damage to champions\nKegs have special interactions with  Spellblade:\nIf the keg destroying attack was empowered with Spellblade, its damage will be added to the explosions' damage.\nIf the keg was not destroyed, it will consume the effect and the keg will store the damage it would have dealt. If the storing keg is the initial detonation of the chain, it will add its damage to the explosions' damage as if it was triggered with Spellblade.\nIf the storing keg was attacked with a new instance of Spellblade, it will override the previously stored damage (if different).\nDamage can only be stored if Spellblade was consumed by Gangplank.\nThe stored damage is static and will not change if Gangplank's base attack damage or ability power (see below) changes.\nSpecific  Spellblade item interactions:\n Bloodsong: Dealing damage with kegs to champions won't apply Expose Weakness to them.\n Iceborn Gauntlet: The frost field will be created on the location of the keg that is attacked.\n Lich Bane: The magic damage will be added to the explosions' damage, but will be dealt as physical damage.\n Trinity Force: Attacking kegs grants the movespeed from Quicken; dealing damage with the explosion does not since it does not trigger  on-hit effects.\nKegs triggering a chain reaction will show a lit fuse traveling toward other kegs.\nThe lit fuse is only visual and does not affect the time it takes for kegs to explode.\nPlaced kegs do not grant  vision until they explode, but they are revealed to Gangplank.\nIf Gangplank loses allied vision, for instance due to  nearsight, he will also lose vision on his kegs temporarily.\nKegs prematurely grant  sight of their explosion radius (including across terrain and into bushes) if  Parrrley or a lit fuse is traveling towards them.\nThis area reveal happens even if  Parrrley is not going to make it explode.\nAn exploding Powder Keg will splash  Parrrley's bonus damage, and will also be modified if the attack  critically strikes.\nAttacks against Powder Kegs will apply  on-hit effects (such as  Tiamat's Cleave), but  proc damage against the keg itself is reduced to 0.\nDamage from on-hit effects will therefore not increase the damage of the explosion.\n Spellblade is a special-cased exception.\nPowder Kegs will take damage from effects that apply on-hit effects (eg.  Guinsoo's Rageblade's Seething Strike ), but will remain at 1 health if they would be killed by them.\n Dead Man's Plate's Crushing Blow will not trigger from Powder Kegs destroyed from Gangplank, even with  Parrrley.\nThe number of Powder Kegs in stock is visible under Gangplank's health bar for all players.\nGangplank stocks Powder Kegs even if the ability hasn't been learned yet.\nThis is due to the recharge rate at level 1 being set the same as level 0.\nWhile at maximum charges, ranking up the ability to rank 3 or 5 grants the remaining charge immediately regardless of the recharge timer.\nIf a keg is destroyed during the 0.33 seconds-delay between explosions, Gangplank will plunder  gold and  Silver Serpents upon killing enemies as if he had done so using  Parrrley.(bug)\nThis effect persists through  death and will only end upon killing an enemy with  Parrrley.",
+          "notes": "The  slow, bonus physical damage to champions, and keg health decay speed are determined when the keg is placed.\nThe triggering attack's damage can include  Parrrley's base damage and  Spellblade.\nThe percentage armor penetration stacks multiplicatively with other sources of percentage armor penetration.\nWhen triggered with critical strike, Spellblade and the bonus damage to champions are added after the calculations.\nDamage modifiers (eg.  Riftmaker's Void Corruption, mode-specific modifiers), with the exception of  Spear of Shojin's Focused Will, are applied to both the damage dealt to and by each keg.(bug)\nFor example, if Gangplank  attacks a chain of kegs with 100 AD and a 10% damage increase, the first keg in the chain will deal 110 damage, the second will deal 121 damage, the third will deal 133 damage, and so on.\nThe total damage can be calculated with this formula:{aDMG * [2 ( + 0.30)]} + sDMG + cDMGWhere:\naDMG = Triggering attack's damage\nsDMG = Spellblade's damage\ncDMG = Bonus damage to champions\nKegs have special interactions with  Spellblade:\nIf the keg destroying attack was empowered with Spellblade, its damage will be added to the explosions' damage.\nIf the keg was not destroyed, it will consume the effect and the keg will store the damage it would have dealt. If the storing keg is the initial detonation of the chain, it will add its damage to the explosions' damage as if it was triggered with Spellblade.\nIf the storing keg was attacked with a new instance of Spellblade, it will override the previously stored damage (if different).\nDamage can only be stored if Spellblade was consumed by Gangplank.\nThe stored damage is static and will not change if Gangplank's base attack damage or ability power (see below) changes.\nSpecific  Spellblade item interactions:\n Bloodsong: Dealing damage with kegs to champions won't apply Expose Weakness to them.\n Iceborn Gauntlet: The frost field will be created on the location of the keg that is attacked.\n Lich Bane: The magic damage will be added to the explosions' damage, but will be dealt as physical damage.\n Trinity Force: Attacking kegs grants the movespeed from Quicken; dealing damage with the explosion does not since it does not trigger  on-hit effects.\nKegs triggering a chain reaction will show a lit fuse traveling toward other kegs.\nThe lit fuse is only visual and does not affect the time it takes for kegs to explode.\nPlaced kegs do not grant  vision until they explode, but they are revealed to Gangplank.\nIf Gangplank loses allied vision, for instance due to  nearsight, he will also lose vision on his kegs temporarily.\nKegs prematurely grant  sight of their explosion radius (including across terrain and into bushes) if  Parrrley or a lit fuse is traveling towards them.\nThis area reveal happens even if  Parrrley is not going to make it explode.\nAn exploding Powder Keg will splash  Parrrley's bonus damage, and will also be modified if the attack  critically strikes.\nAttacks against Powder Kegs will apply  on-hit effects (such as  Tiamat's Cleave), but  proc damage against the keg itself is reduced to 0.\nDamage from on-hit effects will therefore not increase the damage of the explosion.\n Spellblade is a special-cased exception.\nPowder Kegs will take damage from effects that apply on-hit effects (eg.  Guinsoo's Rageblade's Seething Strike ), but will remain at 1 health if they would be killed by them.\n Dead Man's Plate's Crushing Blow will not trigger from Powder Kegs destroyed from Gangplank, even with  Parrrley.\nThe number of Powder Kegs in stock is visible under Gangplank's health bar for all players.\nGangplank stocks Powder Kegs even if the ability hasn't been learned yet.\nThis is due to the recharge rate at level 1 being set the same as level 0.\nWhile at maximum charges, ranking up the ability to rank 3 or 5 grants the remaining charge immediately regardless of the recharge timer.\nIf a keg is destroyed during the 0.33 seconds-delay between explosions, Gangplank will plunder  gold and  Silver Serpents upon killing enemies as if he had done so using  Parrrley.(bug)\nThis effect persists through  death and will only end upon killing an enemy with  Parrrley.",
           "blurb": "Active:  Gangplank places a Powder Keg at the target location, which can be  attacked or  shot to damage it. If an enemy destroys a Powder Keg, it is safely dismantled.",
           "missileSpeed": null,
           "rechargeRate": [
@@ -161969,11 +161969,11 @@
                     },
                     {
                       "values": [
-                        35,
-                        35,
-                        35,
-                        35,
-                        35
+                        30,
+                        30,
+                        30,
+                        30,
+                        30
                       ],
                       "units": [
                         "% AP",
@@ -162006,11 +162006,11 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70,
-                        70,
-                        70
+                        60,
+                        60,
+                        60,
+                        60,
+                        60
                       ],
                       "units": [
                         "% AP",
@@ -189660,7 +189660,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Darkness Rise deals  persistent area damage damage around Mordekaiser, while the bonus damage on his basic attacks is  proc damage.\nDarkness Rise's bonus damage  on-hit is not applied against  structures.\nMordekaiser has a stack counter under his health bar that is not visible to other champions. It will light up when the maximum effect is active.\nMordekaiser will still generate Darkness Rise stacks from hitting his abilities even if they deal no damage, such as if the target is  invulnerable or blocks an ability with a  spell shield.\nBasic attacks do not generate a stack if their damage event does not happen due to the target being  invulnerable, or the attack being  dodged,  blocked, or missed while Mordekaiser is  blinded.\n Dusk and Dawn's Spellblade  on-hit event is special cased to generate an additional Darkness Rise stack.\nThe  on-hit event is not triggered if the triggering attack is  dodged,  blocked, or missed while Mordekaiser is  blinded, thus not generating a Darkness Rise stack.\nDarkness Rise's area damage alone does not refresh Darkness Rise's buff.\nIf Darkness Rise is activated through either  Obliterate or  Death's Grasp, it will be treated as the same cast instance as the triggering spell.(bug)\nUnder these conditions, Darkness Rise will fail to interact with effects that interact once per cast instance (e.g  Conqueror), but will interact with effects such as  Spear of Shojin's Focused Will's stacking, which would normally not interact with innate abilities.(bug)[3]\nDarkness Rise's damage will be grouped with the triggering spell's damage in the death recap.(bug)[4]",
+          "notes": "Darkness Rise deals  persistent area damage damage around Mordekaiser, while the bonus damage on his basic attacks is  proc damage.\nDarkness Rise's bonus damage  on-hit is not applied against  structures.\nMordekaiser has a stack counter under his health bar that is not visible to other champions. It will light up when the maximum effect is active.\nMordekaiser will still generate Darkness Rise stacks from hitting his abilities even if they deal no damage, such as if the target is  invulnerable or blocks an ability with a  spell shield.\nBasic attacks do not generate a stack if their damage event does not happen due to the target being  invulnerable, or the attack being  dodged,  blocked, or missed while Mordekaiser is  blinded.\n Dusk and Dawn's Spellblade  on-hit event is special cased to generate an additional Darkness Rise stack.\nThe  on-hit event is not triggered if the triggering attack is  dodged,  blocked, or missed while Mordekaiser is  blinded, thus not generating a Darkness Rise stack.\nDarkness Rise's area damage alone does not refresh Darkness Rise's buff.\nIf Darkness Rise is activated through either  Obliterate or  Death's Grasp, it will be treated as the same cast instance as the triggering spell.(bug)\nUnder these conditions, Darkness Rise will fail to interact with effects that interact once per cast instance (e.g  Conqueror), but will interact with effects such as  Spear of Shojin's Focused Will's stacking, which would normally not interact with innate abilities.(bug)[4]\nDarkness Rise's damage will be grouped with the triggering spell's damage in the death recap.(bug)[5]\nDarkness Rise's aura will be invisible while using the  Dragon Knight Mordekaiser,  Infernal Mordekaiser,  Pentakill Mordekaiser,  Lord Mordekaiser or  King of Clubs Mordekaiser skins.(bug)[6]",
           "blurb": "Innate:  Mordekaiser's basic attacks deal bonus magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -215250,11 +215250,11 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 2007,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2007.png",
+            "id": 2011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2011.png",
             "colors": [
-              "#73BFBE",
-              "#73BFBE"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -215425,11 +215425,11 @@
           },
           {
             "name": "Turquoise",
-            "id": 2011,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2011.png",
+            "id": 2007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/2/2007.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#73BFBE",
+              "#73BFBE"
             ],
             "descriptions": [
               {
@@ -250701,7 +250701,7 @@
               "leveling": []
             },
             {
-              "description": "Upon completion, Ryze and allied units within will blink to the location and become rooted, disarmed, silenced and untargetable for 0.75 seconds.",
+              "description": "Upon completion, Ryze and all allied units within the portal will blink to the location and become rooted, disarmed, silenced and untargetable for 0.75 seconds.",
               "leveling": []
             }
           ],
@@ -250747,7 +250747,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Realm Warp's portal may try to predict allied players' intention via their movement. For this purpose, it uses three different radiuses around its center for registering units: a definitive radius of 250 units, an inner radius of 365 units and an outer radius of 465 units.\nRyze himself will always be teleported so long as he is within the inner radius, regardless of movement.\nNon-champion units within the outer radius will always be teleported, regardless of movement.\nChampions within the definitive radius will always be teleported, regardless of movement.\nChampions within the inner radius but outside of the definitive radius must not be currently moving in order to be teleported.\nChampions within the inner radius but outside of the definitive radius that are currently moving will not be teleported if their destination is outside the inner radius.\nChampions within the outer radius but outside of the inner radius that are currently moving will only be teleported if their destination is within the inner radius or their movement pathing otherwise intersects the inner radius' circle at two points.\nThis detection may occasionally fail when pathing around terrain.(bug)\nBlinked units retain the same relative positions to one another upon arrival.\nRealm Warp will teleport allies even if they are in a  zombie state, are  untargetable, or are affected by  crowd control.\nRealm Warp will not teleport allies that are using an ability that preloads UnstoppableForceMarker or are being affected by another ally's Realm Warp first.\nRealm Warp will still teleport an allied  Rift Herald that is winding up its leap.\nRealm Warp has various interactions with  channeled abilities that are being performed by an ally. Some channels will prevent their caster from being teleported and others will not.\nFor channels that do not prevent the teleport, Realm Warp will specifically not apply its  silence to the caster.\nCast times will not prevent the teleport.\nThe following channels will prevent the teleport:\n Caitlyn's  Ace in the Hole\n Galio's  Hero's Entrance\n Kayn's  Umbral Trespass\n Jhin's  Curtain Call\n Warwick's  Jaws of the Beast\n Xerath's  Rite of the Arcane\n Recall /  Empowered Recall\n Teleport /  Unleashed Teleport\nThe following table refers for interactions while Ryze is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nAllowed\n\n\nAbilities\n\nAllowed\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\nAll summoner spells are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection Grounding effects Immobilizing effects Cast-inhibiting effects",
+          "notes": "Blinked units retain the same relative positions to one another upon arrival.\nRealm Warp will teleport allies even if they are in a  zombie state, are  untargetable, or are affected by  crowd control.\nRealm Warp will not teleport allies that are using an ability that preloads UnstoppableForceMarker or are being affected by another ally's Realm Warp first.\nRealm Warp will still teleport an allied  Rift Herald that is winding up its leap.\nRealm Warp has various interactions with  channeled abilities that are being performed by an ally. Some channels will prevent their caster from being teleported and others will not.\nFor channels that do not prevent the teleport, Realm Warp will specifically not apply its  silence to the caster.\nCast times will not prevent the teleport.\nThe following channels will prevent the teleport:\n Caitlyn's  Ace in the Hole\n Galio's  Hero's Entrance\n Kayn's  Umbral Trespass\n Jhin's  Curtain Call\n Warwick's  Jaws of the Beast\n Xerath's  Rite of the Arcane\n Recall /  Empowered Recall\n Teleport /  Unleashed Teleport\nThe following table refers for interactions while Ryze is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nAllowed\n\n\nAbilities\n\nAllowed\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\nAll summoner spells are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection Grounding effects Immobilizing effects Cast-inhibiting effects",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -347886,7 +347886,7 @@
         "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 50)",
         "rarity": "Epic",
         "chromas": [],
-        "lore": "Though this ancient tree once stood resplendent in some forgotten petricite grove, the sudden bloom of wild magic has animated its branches and heartwood anew. It now lumbers far and wide, fiercely protecting its enchanted seedlings from the growing Demacian settlements encroaching upon the Wyldwoods.",
+        "lore": "Even the most wondrous works of Durand's masonry may warp if the petricite absorbs too much magic. This statue was raised by Demacians in times past to honor their beloved Winged Protectors, yet now it crackles with unpredictable arcane energies, a new threat against those it was built to protect.",
         "release": "0000-00-00",
         "set": [
           "The Laws of Stone"
