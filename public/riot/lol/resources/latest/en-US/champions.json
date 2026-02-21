@@ -15034,11 +15034,11 @@
           },
           {
             "name": "Rose Quartz",
-            "id": 32032,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/32/32032.png",
+            "id": 32026,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/32/32026.png",
             "colors": [
-              "#DED6B0",
-              "#DED6B0"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
@@ -15048,8 +15048,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "TENCENT"
               }
             ]
           },
@@ -17062,27 +17062,6 @@
         "chromas": [
           {
             "name": "Catseye",
-            "id": 34009,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34009.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive during 2019.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Emerald",
             "id": 34010,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34010.png",
             "colors": [
@@ -17103,28 +17082,7 @@
             ]
           },
           {
-            "name": "Obsidian",
-            "id": 34011,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34011.png",
-            "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Pearl",
+            "name": "Emerald",
             "id": 34012,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34012.png",
             "colors": [
@@ -17145,7 +17103,7 @@
             ]
           },
           {
-            "name": "Rainbow",
+            "name": "Obsidian",
             "id": 34013,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34013.png",
             "colors": [
@@ -17166,12 +17124,12 @@
             ]
           },
           {
-            "name": "Rose Quartz",
-            "id": 34014,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34014.png",
+            "name": "Pearl",
+            "id": 34011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34011.png",
             "colors": [
-              "#54209B",
-              "#54209B"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -17187,7 +17145,28 @@
             ]
           },
           {
-            "name": "Ruby",
+            "name": "Rainbow",
+            "id": 34016,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34016.png",
+            "colors": [
+              "#C1F2FF",
+              "#C1F2FF"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
             "id": 34015,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34015.png",
             "colors": [
@@ -17208,12 +17187,33 @@
             ]
           },
           {
-            "name": "Tanzanite",
-            "id": 34016,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34016.png",
+            "name": "Ruby",
+            "id": 34009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34009.png",
             "colors": [
-              "#C1F2FF",
-              "#C1F2FF"
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 34014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/34/34014.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
             ],
             "descriptions": [
               {
@@ -38713,6 +38713,27 @@
           },
           {
             "name": "Neon Facade",
+            "id": 63051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63051.png",
+            "colors": [
+              "#E14940",
+              "#83E584"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the 2024 Empyrean event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
             "id": 63050,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63050.png",
             "colors": [
@@ -38733,33 +38754,12 @@
             ]
           },
           {
-            "name": "Pearl",
-            "id": 63049,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63049.png",
-            "colors": [
-              "#54209B",
-              "#54209B"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
             "name": "Rose Quartz",
-            "id": 63047,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63047.png",
+            "id": 63048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63048.png",
             "colors": [
-              "#73BFBE",
-              "#73BFBE"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
@@ -38769,8 +38769,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "TENCENT"
               }
             ]
           },
@@ -38818,11 +38818,11 @@
           },
           {
             "name": "Tanzanite",
-            "id": 63048,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63048.png",
+            "id": 63049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63049.png",
             "colors": [
-              "#E58BA5",
-              "#E58BA5"
+              "#54209B",
+              "#54209B"
             ],
             "descriptions": [
               {
@@ -38832,18 +38832,18 @@
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "TENCENT"
+                "rarity": null,
+                "region": null
               }
             ]
           },
           {
             "name": "Turquoise",
-            "id": 63046,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63046.png",
+            "id": 63047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/63/63047.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#73BFBE",
+              "#73BFBE"
             ],
             "descriptions": [
               {
@@ -54829,43 +54829,43 @@
         "chromas": [
           {
             "name": "Emerald",
-            "id": 122022,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122022.png",
+            "id": 122020,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122020.png",
             "colors": [
-              "#E58BA5",
-              "#E58BA5"
+              "#2DA130",
+              "#2DA130"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "Obtained through Influencer audience giveaways.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
                 "rarity": 1,
-                "region": "TENCENT"
+                "region": "riot"
               }
             ]
           },
           {
             "name": "Nomad",
-            "id": 122021,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122021.png",
+            "id": 122023,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122023.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#95ECFF",
+              "#C33C3E"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -54892,11 +54892,11 @@
           },
           {
             "name": "Rose Quartz",
-            "id": 122021,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122021.png",
+            "id": 122022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122022.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
@@ -54906,8 +54906,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "TENCENT"
               }
             ]
           },
@@ -54934,22 +54934,22 @@
           },
           {
             "name": "Sapphire",
-            "id": 122020,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122020.png",
+            "id": 122021,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/122/122021.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
-                "description": "Obtained through Influencer audience giveaways.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -65669,22 +65669,22 @@
           },
           {
             "name": "Sapphire",
-            "id": 245055,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245055.png",
+            "id": 245048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245048.png",
             "colors": [
-              "#FDA4DA",
-              "#9DE5FF"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a Loot exclusive in the 2022 Star Guardian event.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -77238,11 +77238,11 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 114019,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114019.png",
+            "id": 114017,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114017.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -77288,11 +77288,11 @@
           },
           {
             "name": "Pearl",
-            "id": 114017,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114017.png",
+            "id": 114019,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114019.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -78865,6 +78865,27 @@
           },
           {
             "name": "Obsidian",
+            "id": 114097,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114097.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
             "id": 114096,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114096.png",
             "colors": [
@@ -78885,7 +78906,7 @@
             ]
           },
           {
-            "name": "Pearl",
+            "name": "Rose Quartz",
             "id": 114095,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114095.png",
             "colors": [
@@ -78902,27 +78923,6 @@
               {
                 "rarity": 1,
                 "region": "TENCENT"
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
-            "id": 114094,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114094.png",
-            "colors": [
-              "#54209B",
-              "#54209B"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
               }
             ]
           },
@@ -93667,7 +93667,7 @@
             ]
           },
           {
-            "name": "Solo",
+            "name": "Solo/Duo",
             "id": 104016,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/104/104016.png",
             "colors": [
@@ -122887,22 +122887,22 @@
           },
           {
             "name": "Rose Quartz",
-            "id": 222041,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222041.png",
+            "id": 222044,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222044.png",
             "colors": [
-              "#D33528",
-              "#D33528"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a bundle exclusive in 2022.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
                 "rarity": 1,
-                "region": "riot"
+                "region": "TENCENT"
               }
             ]
           },
@@ -126152,11 +126152,11 @@
         "chromas": [
           {
             "name": "Amethyst",
-            "id": 145022,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/145/145022.png",
+            "id": 145024,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/145/145024.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
@@ -126173,11 +126173,11 @@
           },
           {
             "name": "Aquamarine",
-            "id": 145024,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/145/145024.png",
+            "id": 145022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/145/145022.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -165499,11 +165499,11 @@
           },
           {
             "name": "Emerald",
-            "id": 127041,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127041.png",
+            "id": 127038,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127038.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#2DA130",
+              "#2DA130"
             ],
             "descriptions": [
               {
@@ -165541,11 +165541,11 @@
           },
           {
             "name": "Pearl",
-            "id": 127042,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127042.png",
+            "id": 127041,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127041.png",
             "colors": [
-              "#C1F2FF",
-              "#C1F2FF"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -165562,11 +165562,11 @@
           },
           {
             "name": "Rainbow",
-            "id": 127039,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127039.png",
+            "id": 127042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127042.png",
             "colors": [
-              "#E58BA5",
-              "#E58BA5"
+              "#C1F2FF",
+              "#C1F2FF"
             ],
             "descriptions": [
               {
@@ -165576,8 +165576,8 @@
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "TENCENT"
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -167413,28 +167413,28 @@
         "rarity": "NoRarity",
         "chromas": [
           {
-            "name": "Amethyst",
-            "id": 236028,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236028.png",
+            "name": "Challenger",
+            "id": 236030,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236030.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who reached Master rank in Solo/Duo or Flex ranked queue",
+                "description": "This Chroma was awarded to players who reached Challenger rank in Solo/Duo or Flex ranked queue",
                 "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": 3,
+                "rarity": 5,
                 "region": "riot"
               }
             ]
           },
           {
-            "name": "Aquamarine",
+            "name": "Diamond",
             "id": 236027,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236027.png",
             "colors": [
@@ -167455,28 +167455,7 @@
             ]
           },
           {
-            "name": "Emerald",
-            "id": 236026,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236026.png",
-            "colors": [
-              "#2DA130",
-              "#2DA130"
-            ],
-            "descriptions": [
-              {
-                "description": "This Chroma was awarded to players who reached Platinum rank in Solo/Duo or Flex ranked queue",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
+            "name": "Grandmaster",
             "id": 236029,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236029.png",
             "colors": [
@@ -167497,22 +167476,43 @@
             ]
           },
           {
-            "name": "Sapphire",
-            "id": 236030,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236030.png",
+            "name": "Master",
+            "id": 236028,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236028.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who reached Challenger rank in Solo/Duo or Flex ranked queue",
+                "description": "This Chroma was awarded to players who reached Master rank in Solo/Duo or Flex ranked queue",
                 "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": 5,
+                "rarity": 3,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Platinum",
+            "id": 236026,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/236/236026.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who reached Platinum rank in Solo/Duo or Flex ranked queue",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
                 "region": "riot"
               }
             ]
@@ -189660,7 +189660,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Darkness Rise deals  persistent area damage damage around Mordekaiser, while the bonus damage on his basic attacks is  proc damage.\nDarkness Rise's bonus damage  on-hit is not applied against  structures.\nMordekaiser has a stack counter under his health bar that is not visible to other champions. It will light up when the maximum effect is active.\nMordekaiser will still generate Darkness Rise stacks from hitting his abilities even if they deal no damage, such as if the target is  invulnerable or blocks an ability with a  spell shield.\nBasic attacks do not generate a stack if their damage event does not happen due to the target being  invulnerable, or the attack being  dodged,  blocked, or missed while Mordekaiser is  blinded.\n Dusk and Dawn's Spellblade  on-hit event is special cased to generate an additional Darkness Rise stack.\nThe  on-hit event is not triggered if the triggering attack is  dodged,  blocked, or missed while Mordekaiser is  blinded, thus not generating a Darkness Rise stack.\nDarkness Rise's area damage alone does not refresh Darkness Rise's buff.\nIf Darkness Rise is activated through either  Obliterate or  Death's Grasp, it will be treated as the same cast instance as the triggering spell.(bug)\nUnder these conditions, Darkness Rise will fail to interact with effects that interact once per cast instance (e.g  Conqueror), but will interact with effects such as  Spear of Shojin's Focused Will's stacking, which would normally not interact with innate abilities.(bug)[4]\nDarkness Rise's damage will be grouped with the triggering spell's damage in the death recap.(bug)[5]\nDarkness Rise's aura will be invisible while using the  Dragon Knight Mordekaiser,  Infernal Mordekaiser,  Pentakill Mordekaiser,  Lord Mordekaiser or  King of Clubs Mordekaiser skins.(bug)[6]",
+          "notes": "Darkness Rise deals  persistent area damage damage around Mordekaiser, while the bonus damage on his basic attacks is  proc damage.\nDarkness Rise's bonus damage  on-hit is not applied against  structures.\nMordekaiser has a stack counter under his health bar that is not visible to other champions. It will light up when the maximum effect is active.\nMordekaiser will still generate Darkness Rise stacks from hitting his abilities even if they deal no damage, such as if the target is  invulnerable or blocks an ability with a  spell shield.\nBasic attacks do not generate a stack if their damage event does not happen due to the target being  invulnerable, or the attack being  dodged,  blocked, or missed while Mordekaiser is  blinded.\n Dusk and Dawn's Spellblade  on-hit event is special cased to generate an additional Darkness Rise stack.\nThe  on-hit event is not triggered if the triggering attack is  dodged,  blocked, or missed while Mordekaiser is  blinded, thus not generating a Darkness Rise stack.\nDarkness Rise's area damage alone does not refresh Darkness Rise's buff.\nIf Darkness Rise is activated through either  Obliterate or  Death's Grasp, it will be treated as the same cast instance as the triggering spell.(bug)\nUnder these conditions, Darkness Rise will fail to interact with effects that interact once per cast instance (e.g  Conqueror), but will interact with effects such as  Spear of Shojin's Focused Will's stacking, which would normally not interact with innate abilities.(bug)[3]\nDarkness Rise's damage will be grouped with the triggering spell's damage in the death recap.(bug)[4]",
           "blurb": "Innate:  Mordekaiser's basic attacks deal bonus magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -190349,27 +190349,6 @@
         "chromas": [
           {
             "name": "Antimatter",
-            "id": 82007,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82007.png",
-            "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Emerald",
             "id": 82008,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82008.png",
             "colors": [
@@ -190390,12 +190369,33 @@
             ]
           },
           {
-            "name": "Pearl",
-            "id": 82009,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82009.png",
+            "name": "Emerald",
+            "id": 82012,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82012.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": "Obtained through Influencer audience giveaways.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 82007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82007.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -190412,27 +190412,6 @@
           },
           {
             "name": "Rose Quartz",
-            "id": 82010,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82010.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive in 2020.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
             "id": 82011,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82011.png",
             "colors": [
@@ -190453,16 +190432,16 @@
             ]
           },
           {
-            "name": "Sapphire",
-            "id": 82012,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82012.png",
+            "name": "Ruby",
+            "id": 82010,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82010.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#D33528",
+              "#D33528"
             ],
             "descriptions": [
               {
-                "description": "Obtained through Influencer audience giveaways.",
+                "description": "This chroma was released as a bundle exclusive in 2020.",
                 "region": "riot"
               }
             ],
@@ -190470,6 +190449,27 @@
               {
                 "rarity": 1,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 82009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82009.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -204330,21 +204330,21 @@
           },
           {
             "name": "Catseye",
-            "id": 518004,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/518/518004.png",
+            "id": 518003,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/518/518003.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#FFEE59",
+              "#FFEE59"
             ],
             "descriptions": [
               {
-                "description": "Obtained through Influencer audience giveaways.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 2,
+                "rarity": 1,
                 "region": "riot"
               }
             ]
@@ -204372,21 +204372,21 @@
           },
           {
             "name": "Emerald",
-            "id": 518003,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/518/518003.png",
+            "id": 518004,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/518/518004.png",
             "colors": [
-              "#FFEE59",
-              "#FFEE59"
+              "#2DA130",
+              "#2DA130"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "Obtained through Influencer audience giveaways.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
+                "rarity": 2,
                 "region": "riot"
               }
             ]
@@ -210964,11 +210964,11 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 56010,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/56/56010.png",
+            "id": 56011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/56/56011.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -211111,11 +211111,11 @@
           },
           {
             "name": "Sapphire",
-            "id": 56011,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/56/56011.png",
+            "id": 56010,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/56/56010.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
@@ -213212,32 +213212,32 @@
         "chromas": [
           {
             "name": "Amethyst",
-            "id": 20009,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20009.png",
+            "id": 20013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20013.png",
             "colors": [
-              "#D33528",
-              "#D33528"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a bundle exclusive during 2019.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
           {
             "name": "Aquamarine",
-            "id": 20010,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20010.png",
+            "id": 20011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20011.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -213254,11 +213254,11 @@
           },
           {
             "name": "Catseye",
-            "id": 20011,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20011.png",
+            "id": 20015,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20015.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#FFEE59",
+              "#FFEE59"
             ],
             "descriptions": [
               {
@@ -213296,11 +213296,11 @@
           },
           {
             "name": "Pearl",
-            "id": 20013,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20013.png",
+            "id": 20010,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20010.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -213338,22 +213338,22 @@
           },
           {
             "name": "Ruby",
-            "id": 20015,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20015.png",
+            "id": 20009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/20/20009.png",
             "colors": [
-              "#FFEE59",
-              "#FFEE59"
+              "#D33528",
+              "#D33528"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           }
@@ -234606,11 +234606,11 @@
           },
           {
             "name": "Catseye",
-            "id": 33019,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/33/33019.png",
+            "id": 33020,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/33/33020.png",
             "colors": [
-              "#DF9117",
-              "#DF9117"
+              "#FFEE59",
+              "#FFEE59"
             ],
             "descriptions": [
               {
@@ -234627,11 +234627,11 @@
           },
           {
             "name": "Citrine",
-            "id": 33020,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/33/33020.png",
+            "id": 33019,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/33/33019.png",
             "colors": [
-              "#FFEE59",
-              "#FFEE59"
+              "#DF9117",
+              "#DF9117"
             ],
             "descriptions": [
               {
@@ -267650,11 +267650,11 @@
           },
           {
             "name": "Tanzanite",
-            "id": 98013,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98013.png",
+            "id": 98014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98014.png",
             "colors": [
-              "#2DA130",
-              "#2DA130"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
@@ -275783,11 +275783,11 @@
           },
           {
             "name": "Rainbow",
-            "id": 15032,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15032.png",
+            "id": 15033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15033.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#C1F2FF",
+              "#C1F2FF"
             ],
             "descriptions": [
               {
@@ -275846,11 +275846,11 @@
           },
           {
             "name": "Sapphire",
-            "id": 15033,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15033.png",
+            "id": 15032,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15032.png",
             "colors": [
-              "#C1F2FF",
-              "#C1F2FF"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
@@ -282322,14 +282322,14 @@
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a Loot exclusive in the For Demacia: Act 2 Pass",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 5,
+                "region": "riot"
               }
             ]
           }
@@ -286286,11 +286286,11 @@
           },
           {
             "name": "Obsidian",
-            "id": 50018,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50018.png",
+            "id": 50019,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50019.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#27211C",
+              "#27211C"
             ],
             "descriptions": [
               {
@@ -286307,11 +286307,11 @@
           },
           {
             "name": "Pearl",
-            "id": 50019,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50019.png",
+            "id": 50020,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50020.png",
             "colors": [
-              "#27211C",
-              "#27211C"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -288081,27 +288081,6 @@
           },
           {
             "name": "Pearl",
-            "id": 517003,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517003.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive during 2019.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 2,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
             "id": 517007,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517007.png",
             "colors": [
@@ -288117,6 +288096,27 @@
             "rarities": [
               {
                 "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 517003,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517003.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive during 2019.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
                 "region": "riot"
               }
             ]
@@ -289041,7 +289041,27 @@
         "distribution": null,
         "rarity": "Legendary",
         "chromas": [
-          null,
+          {
+            "name": "Emerald",
+            "id": 517048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517048.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
           {
             "name": "Pearl",
             "id": 517051,
@@ -289065,6 +289085,48 @@
           },
           {
             "name": "Quasar",
+            "id": 517052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517052.png",
+            "colors": [
+              "#D02E47",
+              "#7931BD"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Worlds 2024 event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 517050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517050.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
             "id": 517047,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517047.png",
             "colors": [
@@ -289084,9 +289146,8 @@
               }
             ]
           },
-          null,
           {
-            "name": "Ruby",
+            "name": "Sapphire",
             "id": 517049,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517049.png",
             "colors": [
@@ -289103,27 +289164,6 @@
               {
                 "rarity": null,
                 "region": null
-              }
-            ]
-          },
-          {
-            "name": "Sapphire",
-            "id": 517052,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/517/517052.png",
-            "colors": [
-              "#D02E47",
-              "#7931BD"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a Loot exclusive in the Worlds 2024 event.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
               }
             ]
           }
@@ -296720,11 +296760,11 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 91021,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91021.png",
+            "id": 91022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91022.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -296741,11 +296781,11 @@
           },
           {
             "name": "Catseye",
-            "id": 91022,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91022.png",
+            "id": 91026,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91026.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#FFEE59",
+              "#FFEE59"
             ],
             "descriptions": [
               {
@@ -296783,27 +296823,48 @@
           },
           {
             "name": "Pearl",
-            "id": 91024,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91024.png",
+            "id": 91021,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91021.png",
             "colors": [
-              "#D33528",
-              "#D33528"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a bundle exclusive in 2020.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
           {
             "name": "Peridot",
+            "id": 91027,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91027.png",
+            "colors": [
+              "#B6E084",
+              "#B6E084"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
             "id": 91025,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91025.png",
             "colors": [
@@ -296824,44 +296885,23 @@
             ]
           },
           {
-            "name": "Rose Quartz",
-            "id": 91026,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91026.png",
-            "colors": [
-              "#FFEE59",
-              "#FFEE59"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
             "name": "Ruby",
-            "id": 91027,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91027.png",
+            "id": 91024,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/91/91024.png",
             "colors": [
-              "#B6E084",
-              "#B6E084"
+              "#D33528",
+              "#D33528"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -298589,11 +298629,11 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 44010,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44010.png",
+            "id": 44011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44011.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#6ABBEE",
+              "#6ABBEE"
             ],
             "descriptions": [
               {
@@ -298610,11 +298650,11 @@
           },
           {
             "name": "Amethyst",
-            "id": 44011,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44011.png",
+            "id": 44014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44014.png",
             "colors": [
-              "#6ABBEE",
-              "#6ABBEE"
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
@@ -298652,32 +298692,32 @@
           },
           {
             "name": "Pearl",
-            "id": 44013,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44013.png",
+            "id": 44010,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44010.png",
             "colors": [
-              "#D33528",
-              "#D33528"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
-                "description": "This chroma was released as a bundle exclusive in 2020.",
-                "region": "riot"
+                "description": null,
+                "region": null
               }
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "riot"
+                "rarity": null,
+                "region": null
               }
             ]
           },
           {
             "name": "Peridot",
-            "id": 44014,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44014.png",
+            "id": 44017,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44017.png",
             "colors": [
-              "#9C68D7",
-              "#9C68D7"
+              "#B6E084",
+              "#B6E084"
             ],
             "descriptions": [
               {
@@ -298694,27 +298734,6 @@
           },
           {
             "name": "Rainbow",
-            "id": 44015,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44015.png",
-            "colors": [
-              "#E58BA5",
-              "#E58BA5"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "TENCENT"
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
             "id": 44016,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44016.png",
             "colors": [
@@ -298735,12 +298754,12 @@
             ]
           },
           {
-            "name": "Ruby",
-            "id": 44017,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44017.png",
+            "name": "Rose Quartz",
+            "id": 44015,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44015.png",
             "colors": [
-              "#B6E084",
-              "#B6E084"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
@@ -298750,8 +298769,29 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 44013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/44/44013.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           }
@@ -314633,32 +314673,32 @@
         "chromas": [
           {
             "name": "Aquamarine",
-            "id": 29028,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29028.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive in 2020.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Amethyst",
             "id": 29029,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29029.png",
             "colors": [
               "#6ABBEE",
               "#6ABBEE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Amethyst",
+            "id": 29034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29034.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
             ],
             "descriptions": [
               {
@@ -314696,11 +314736,11 @@
           },
           {
             "name": "Emerald",
-            "id": 29031,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29031.png",
+            "id": 29033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29033.png",
             "colors": [
-              "#E58BA5",
-              "#E58BA5"
+              "#2DA130",
+              "#2DA130"
             ],
             "descriptions": [
               {
@@ -314710,8 +314750,8 @@
             ],
             "rarities": [
               {
-                "rarity": 1,
-                "region": "TENCENT"
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -314738,48 +314778,6 @@
           },
           {
             "name": "Pearl",
-            "id": 29033,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29033.png",
-            "colors": [
-              "#2DA130",
-              "#2DA130"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
-            "id": 29034,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29034.png",
-            "colors": [
-              "#9C68D7",
-              "#9C68D7"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
             "id": 29035,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29035.png",
             "colors": [
@@ -314796,6 +314794,48 @@
               {
                 "rarity": null,
                 "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 29031,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29031.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 29028,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/29/29028.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           }
@@ -339617,6 +339657,27 @@
           },
           {
             "name": "Obsidian",
+            "id": 106036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/106/106036.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
             "id": 106035,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/106/106035.png",
             "colors": [
@@ -339637,33 +339698,12 @@
             ]
           },
           {
-            "name": "Pearl",
-            "id": 106034,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/106/106034.png",
-            "colors": [
-              "#9C68D7",
-              "#9C68D7"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
             "name": "Rose Quartz",
-            "id": 106036,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/106/106036.png",
+            "id": 106037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/106/106037.png",
             "colors": [
-              "#27211C",
-              "#27211C"
+              "#E58BA5",
+              "#E58BA5"
             ],
             "descriptions": [
               {
@@ -339673,8 +339713,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "TENCENT"
               }
             ]
           },
@@ -347282,27 +347322,6 @@
           },
           {
             "name": "Emerald",
-            "id": 101007,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101007.png",
-            "colors": [
-              "#2756CE",
-              "#2756CE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Pearl",
             "id": 101008,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101008.png",
             "colors": [
@@ -347323,7 +347342,7 @@
             ]
           },
           {
-            "name": "Rose Quartz",
+            "name": "Pearl",
             "id": 101009,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101009.png",
             "colors": [
@@ -347344,7 +347363,7 @@
             ]
           },
           {
-            "name": "Ruby",
+            "name": "Rose Quartz",
             "id": 101010,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101010.png",
             "colors": [
@@ -347365,7 +347384,7 @@
             ]
           },
           {
-            "name": "Sapphire",
+            "name": "Ruby",
             "id": 101011,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101011.png",
             "colors": [
@@ -347382,6 +347401,27 @@
               {
                 "rarity": 1,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 101007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/101/101007.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -350453,7 +350493,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yasuo/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit, applies on-hit effects to the first enemy hit, and triggers on-attack effects once. Steel Tempest's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
+              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -368648,7 +368688,7 @@
               ]
             },
             {
-              "description": "Burst Fire's projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; applies on-hit effects to the first enemy hit; and triggers on-attack effects once. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 70% of attack speed in excess of the cap is converted into bonus attack damage.",
+              "description": "Burst Fire's projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; and applies on-hit and on-attack effects to the first enemy hit. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 70% of attack speed in excess of the cap is converted into bonus attack damage.",
               "leveling": []
             },
             {
@@ -368706,7 +368746,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not be hit.\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
+          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not be hit.\nBurst Fire will still apply  on-attack effects to stealthed wards.(bug)\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
           "blurb": "Active:  Zeri fires a burst of 7 rounds in the target direction that each deal physical damage to the first enemy hit. This is treated as a  basic attack, can  critically strike, and applies  on-hit and  on-attack effects to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -369262,11 +369302,11 @@
           },
           {
             "name": "Obsidian",
-            "id": 221006,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221006.png",
+            "id": 221007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221007.png",
             "colors": [
-              "#E58BA5",
-              "#E58BA5"
+              "#27211C",
+              "#27211C"
             ],
             "descriptions": [
               {
@@ -369283,11 +369323,11 @@
           },
           {
             "name": "Pearl",
-            "id": 221007,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221007.png",
+            "id": 221008,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221008.png",
             "colors": [
-              "#27211C",
-              "#27211C"
+              "#ECF9F8",
+              "#ECF9F8"
             ],
             "descriptions": [
               {
@@ -369367,11 +369407,11 @@
           },
           {
             "name": "Turquoise",
-            "id": 221008,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221008.png",
+            "id": 221009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/221/221009.png",
             "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
+              "#73BFBE",
+              "#73BFBE"
             ],
             "descriptions": [
               {
@@ -377128,11 +377168,11 @@
           },
           {
             "name": "Sapphire",
-            "id": 143022,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143022.png",
+            "id": 143021,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143021.png",
             "colors": [
-              "#54209B",
-              "#54209B"
+              "#2756CE",
+              "#2756CE"
             ],
             "descriptions": [
               {
@@ -377149,11 +377189,11 @@
           },
           {
             "name": "Tanzanite",
-            "id": 143021,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143021.png",
+            "id": 143022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/143/143022.png",
             "colors": [
-              "#2756CE",
-              "#2756CE"
+              "#54209B",
+              "#54209B"
             ],
             "descriptions": [
               {
