@@ -21145,7 +21145,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the end of the cast time.\nMoonshot's name is modified based on Aphelios' off-hand weapon:\n Resurgent Moonshot\n Binding Moonshot\n Incendiary Moonshot\n Arcing Moonshot",
+          "notes": "This ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active: Aphelios fires a bolt of energy in the target direction that deals physical damage to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -21269,7 +21269,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's name is modified based on Aphelios'  off-hand weapon:\n Precision Onslaught\n Binding Onslaught\n Incendiary Onslaught\n Arcing Onslaught\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.",
+          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.",
           "blurb": "Active: Aphelios gains bonus  movement speed and quickly attacks a nearby enemy with  Severum and his current off-hand weapon, dealing physical damage. The number of attacks is increased based on his bonus attack speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -21505,8 +21505,8 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The volley applies  area damage and the follow up attacks from the off-hand weapon deal  basic damage.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe hitbox also includes a very small portion behind Aphelios' character model.\nDuskwave's name is modified based on Aphelios' off-hand weapon:\n Precision Duskwave\n Resurgent Duskwave\n Binding Duskwave\n Arcing Duskwave\nAphelios is locked out of declaring attacks until the volley of attacks have been resolved.\nThe automatic attacks do not trigger any on-attack effects.\n Pix does not increase the damage of the volley.\nThe volley of attacks won't deal any damage, if they are  dodged,  blocked, or if Aphelios is  blinded.",
-          "blurb": "Active: Aphelios unleases a wave of energy in a cone, dealing physical damage to enemies hit and locking on to each of them, basic attacking them after a delay.",
+          "notes": "The volley applies  area damage and the follow up attacks from the off-hand weapon deal  basic damage.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe hitbox also includes a very small portion behind Aphelios' character model.\nAphelios is locked out of declaring attacks until the volley of attacks has resolved.\nThe automatic attacks do not trigger any on-attack effects.\n Pix does not increase the damage of the volley.\nThe volley of attacks won't deal any damage, if they are  dodged,  blocked, or if Aphelios is  blinded.",
+          "blurb": "Active: Aphelios unleashes a wave of energy in a cone, dealing physical damage to enemies hit and locking on to each of them, basic attacking them after a delay.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -21629,7 +21629,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Sentry's name is modified based on Aphelios' off-hand weapon:\n Precision Sentry\n Resurgent Sentry\n Heals Aphelios for any damage it deals.\nAttacks cannot be intercepted by  Wind Wall and  Unbreakable.\n Binding Sentry\n Incendiary Sentry\nThe Sentry will stop upon colliding with  Wind Wall. It will be deployed in front of the wall.\nThe Sentry's attacks can be  dodged and  blocked, but not missed from being  blinded.",
+          "notes": "Sentry's name is modified based on Aphelios' off-hand weapon:\nWhile Sentry's attacks are modified by  Severum, it will  heal Aphelios for any damage it deals and its attacks cannot be intercepted by  Wind Wall and  Unbreakable.\nThe Sentry will stop upon colliding with  Wind Wall. It will be deployed in front of the wall.\nThe Sentry's attacks can be  dodged and  blocked, but not missed from being  blinded.",
           "blurb": "Active: Aphelios deploys a lunar sentry that gains a copy of his off-hand weapon and attacks with it, dealing physical damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -29592,7 +29592,7 @@
               "leveling": []
             },
             {
-              "description": "When Azir declares a basic attack against an enemy in a soldier's attack range, the Sand Soldier attacks in his stead, thrusting their spear in the target's direction to deal magic damage to enemies struck in a line, applying on-hit effects to the primary target, with on-hit damage reduced to 50% effectiveness, and triggering on-attack effects once. Targets hit beyond the closest take 20% : 100% (based on level) damage. Subsequent Sand Soldiers against the same target deal 25% damage.",
+              "description": "When Azir declares a basic attack against an enemy in a soldier's attack range, the Sand Soldier attacks in his stead, thrusting their spear in the target's direction to deal magic damage to enemies struck in a line. Against the primary target, the Sand Soldier's attack applies on-hit and on-attack effects, with on-hit damage reduced to 50% effectiveness. Targets hit beyond the closest take 20% : 100% (based on level) damage. Subsequent Sand Soldiers against the same target deal 25% damage.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -33274,7 +33274,7 @@
               ]
             },
             {
-              "description": "While active, she rapidly slashes at the nearest enemy with the lowest current health percentage for up to 6 (+ 1 per 33.3% bonus attack speed) times over the duration. Each slash deals physical damage, increased by 0% : 300% (based on target's missing health), triggers on-attack effects, and applies on-hit effects and spell effects, with on-hit and spell effect damage reduced to 8% : 32% (based on target's missing health) effectiveness. Bel'Veth cannot perform slashes while she is affected by cast-inhibiting crowd control.",
+              "description": "While active, she rapidly slashes at the nearest enemy with the lowest current health percentage for up to 6 (+ 1 per 33.3% bonus attack speed) times over the duration. Each slash deals physical damage, increased by 0% : 300% (based on target's missing health), and applies on-hit, on-attack, and spell effects, which have their damage reduced to 8% : 32% (based on target's missing health) effectiveness. Bel'Veth cannot perform slashes while she is affected by cast-inhibiting crowd control.",
               "leveling": [
                 {
                   "attribute": "Minimum Physical Damage per hit",
@@ -76463,7 +76463,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Riposte is not  invulnerability but instead reduces any damage to her by 100% late into the damage event. Because of this, it interacts differently with effects triggered from damage:\n Life steal and  Healing based on damage dealt (Vamp) will still have effect even if the damage is ultimately ignored by Riposte.\n Shields will absorb damage before Riposte takes effect.\nFiora cannot be  executed by  Pyke's  Death from Below during Riposte, but she may by  Aspect of the Dragon.\nRiposte prevents  Azir's  Shurima's Legacy's  Sun Disc damage. (note)\nThe debuff immunity encompasses:\n Crowd control.\nNote this isn't  cc-immune, and effects that look specifically for that will not consider Riposte (i.e  Yasuo's  Last Breath may not be cast on cc-immune targets but it can be cast while Fiora is in Riposte [3]).\nDebuffs from summoner spells such as  Exhaust's damage reduction and all of  Ignite's effects.\n Persistent damage application.\n Tether application (i.e  Camille's  The Hextech Ultimatum,  Illaoi's  Test of Spirit), with the exception of  Malzahar's  Nether Grasp [4].\nSome mark application (i.e  Fiora's  Duelist's Dance,  Zilean's  Time Bomb), but not some other (i.e  Braum's  Concussive Blows and  Winter's Bite,  Caitlyn's  Ace in the Hole,  Kennen's  Electrical Surge on-hit,  Fiora's  Grand Challenge,  Tahm Kench's  Tongue Lash,  Vi's  lock-on).\nRiposte will not negate  nearsight.\n Immobilizing effects include those from  Blast Cone (only if triggered by an enemy) and  epic monsters.\nThe ability does not count  K'Sante's  All Out as an immobilizing effect. (bug)\nIn the last 0.25 seconds of Riposte's duration, Fiora cannot be selected. This is distinct from  untargetability and there are no known interactions beyond this.\nRiposte's effect prioritization is as follows:\nRiposte will negate effects before  spell shields.\n Black Shield will negate  crowd control before Riposte.\nBeing hit by a crowd control while affected by Black Shield means Riposte will not trigger its  stun empowerment condition, as it itself must negate the  immobilize and not any other external source.\n Spell shield will also prevent Vitals from being triggered by Riposte's shock.\nThe shock missile will be fired from wherever Fiora is after the first 0.5 seconds of Riposte.\nThe following table refers for interactions while Fiora is performing Riposte:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Riposte does not grant  invulnerability but instead reduces any damage to her by 100% late into the damage event. Because of this, it interacts differently with effects triggered from damage:\n Life steal and  Healing based on damage dealt (Vamp) will still have effect even if the damage is ultimately ignored by Riposte.\n Shields will absorb damage before Riposte takes effect.\nFiora cannot be  executed by  Pyke's  Death from Below during Riposte, but she may by  Aspect of the Dragon.\nRiposte prevents  Azir's  Shurima's Legacy's  Sun Disc damage. (note)\nThe debuff immunity encompasses:\n Crowd control.\nNote this isn't  cc-immune, and effects that look specifically for that will not consider Riposte (i.e  Yasuo's  Last Breath may not be cast on cc-immune targets but it can be cast while Fiora is in Riposte [3]).\nDebuffs from summoner spells such as  Exhaust's damage reduction and all of  Ignite's effects.\n Persistent damage application.\n Tether application (i.e  Camille's  The Hextech Ultimatum,  Illaoi's  Test of Spirit), with the exception of  Malzahar's  Nether Grasp [4].\nSome mark application (i.e  Fiora's  Duelist's Dance,  Zilean's  Time Bomb), but not some other (i.e  Braum's  Concussive Blows and  Winter's Bite,  Caitlyn's  Ace in the Hole,  Kennen's  Electrical Surge on-hit,  Fiora's  Grand Challenge,  Tahm Kench's  Tongue Lash,  Vi's  lock-on).\nRiposte will not negate  nearsight.\n Immobilizing effects include those from  Blast Cone (only if triggered by an enemy) and  epic monsters.\nThe ability does not count  K'Sante's  All Out as an immobilizing effect. (bug)\nIn the last 0.25 seconds of Riposte's duration, Fiora cannot be selected. This is distinct from  untargetability and there are no known interactions beyond this.\nRiposte's effect prioritization is as follows:\nRiposte will negate effects before  spell shields.\n Black Shield will negate  crowd control before Riposte.\nBeing hit by a crowd control while affected by Black Shield means Riposte will not trigger its  stun empowerment condition, as it itself must negate the  immobilize and not any other external source.\n Spell shield will also prevent Vitals from being triggered by Riposte's shock.\nThe shock missile will be fired from wherever Fiora is after the first 0.5 seconds of Riposte.\nThe following table refers for interactions while Fiora is performing Riposte:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Fiora briefly parries all incoming damage and  debuffs, then stabs in a direction, dealing magic damage to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -136441,7 +136441,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Katarina/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Katarina channels for up to 2.5 seconds, rapidly throwing a dagger every 0.166 seconds to up to 3 of the closest nearby enemy champions, revealing herself in the process.Each dagger deals physical damage and magic damage, applies on-hit effects, with on-hit damage reduced in effectiveness, triggers on-attack effects, and inflicts Grievous Wounds on the target for 3 seconds.",
+              "description": "Active: Katarina channels for up to 2.5 seconds, rapidly throwing a dagger every 0.166 seconds to up to 3 of the closest nearby enemy champions, revealing herself in the process.Each dagger deals physical damage and magic damage, applies on-hit and on-attack effects, with on-hit and on-attack damage reduced in effectiveness, and inflicts Grievous Wounds on the target for 3 seconds.",
               "leveling": [
                 {
                   "attribute": "Physical Damage Per Dagger",
@@ -136560,7 +136560,7 @@
                   ]
                 },
                 {
-                  "attribute": "On-Hit Damage Effectiveness",
+                  "attribute": "On-Hit/On-Attack Damage Effectiveness",
                   "modifiers": [
                     {
                       "values": [
@@ -187025,7 +187025,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/MissFortune/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Miss Fortune fires a shot at the target enemy that deals physical damage, triggers on-attack effects, and bounces to hit another enemy behind them, applying on-hit effects to both enemies hit.",
+              "description": "Active: Miss Fortune fires a shot at the target enemy that deals physical damage and bounces to hit another enemy behind them, applying on-attack effects to the primary target and on-hit effects to both enemies hit.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -314055,7 +314055,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The extra distance that the bolts travel scales with bonus attack range.\nSpray and Pray allows Twitch to outrange  turrets by 50 units, allowing him to hit them without them returning fire.\nTwitch targets his line attack at his target's location at the start of his attack windup.\nThe bolts reach targets at a delay, composed of Twitch's windup time and distance the bolt has to travel at finite speed. Even the primary target can dodge the attack if they are moving quickly enough.\nThe bolt projectiles will naturally pass through terrain and enemy structures (the latter will be damaged by bolts even if they are not directly targeted).\nIf Twitch is  blinded before winding up the attack, the hits will miss against all targets.\n Runaan's Hurricane's Wind's Fury interacts with Spray and Pray's  bonus attack range but not with the modified missile effect (the secondary bolts will not have pass-through effects).\nWhenever the bolts penetrate a target, a small elongated cloud appears at the location, which's VFX and SFX can be seen and heard inside the Fog of War.\nThe bolts' travel distance scales with the full value of Twitch's  attack range increases such as  Rapid Firecannon, but not with size increases (which only increase his effective attack range, thereby the target range).\n(Outdated as of V10.13, now can hit everything with edge range, except for turrets) The  center of a unit must be within the maximum travel distance of the bolt missile, and in front of the spawn location (Twitch's  center) for the bolt to be able to hit them.\nOther than this condition, the bolt missile has to only touch (pass within its half width of 60 units) the  edge of the unit's radius.\nThis is standard behaviour for linear skillshots.\n Malignance's Hatefog is special cased to work with Spray and Pray.\nBolt damage is considered  area of effect for  Axiom Arcanist.\nIt is not considered area of effect for other effects, i.e  omnivamp.",
+          "notes": "The extra distance that the bolts travel scales with bonus attack range.\nSpray and Pray allows Twitch to outrange  turrets by 50 units, allowing him to hit them without them returning fire.\nTwitch targets his line attack at his target's location at the start of his attack windup.\nThe bolts reach targets at a delay, composed of Twitch's windup time and distance the bolt has to travel at finite speed. Even the primary target can dodge the attack if they are moving quickly enough.\n On-attack effects such as  Help, Pix! and  Runaan's Hurricane's Wind's Fury will be triggered as usual from the completion of Twitch's basic attack windup. They will obey their standard target-acquisition rules in spite of Spray and Pray's special basic attack behavior.\nThe bolt projectiles will naturally pass through terrain and enemy structures (the latter will be damaged by bolts even if they are not directly targeted).\nIf Twitch is  blinded before winding up the attack, the hits will miss against all targets.\n Runaan's Hurricane's Wind's Fury interacts with Spray and Pray's  bonus attack range but not with the modified missile effect (the secondary bolts will not have pass-through effects).\nWhenever the bolts penetrate a target, a small elongated cloud appears at the location, which's VFX and SFX can be seen and heard inside the Fog of War.\nThe bolts' travel distance scales with the full value of Twitch's  attack range increases such as  Rapid Firecannon, but not with size increases (which only increase his effective attack range, thereby the target range).\n(Outdated as of V10.13, now can hit everything with edge range, except for turrets) The  center of a unit must be within the maximum travel distance of the bolt missile, and in front of the spawn location (Twitch's  center) for the bolt to be able to hit them.\nOther than this condition, the bolt missile has to only touch (pass within its half width of 60 units) the  edge of the unit's radius.\nThis is standard behaviour for linear skillshots.\n Malignance's Hatefog is special cased to work with Spray and Pray.\nBolt damage is considered  area of effect for  Axiom Arcanist.\nIt is not considered area of effect for other effects, i.e  omnivamp.",
           "blurb": "Active:  Twitch gains  bonus attack damage and  bonus attack range for a few seconds, during which his basic attacks are replaced with bolts that deal the attack's damage to all enemies in a line.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -317739,7 +317739,7 @@
               "leveling": []
             },
             {
-              "description": "Attacks with Purge deal modified physical damage, with a minimum threshold of 50 against monsters and minions, and cannot critically strike. Each attack applies on-hit effects, with on-hit damage reduced to 50% effectiveness, and triggers on-attack effects. Urgot cannot perform attacks while affected by disarming crowd control.",
+              "description": "Attacks with Purge deal modified physical damage, with a minimum threshold of 50 against monsters and minions, and cannot critically strike. Each attack applies on-hit and on-attack effects, with on-hit and on-attack damage reduced to 50% effectiveness. Urgot cannot perform attacks while affected by disarming crowd control.",
               "leveling": [
                 {
                   "attribute": "Modified Physical Damage",
@@ -319380,7 +319380,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Varus cannot gain the standard bonuses while Living Vengeance is empowered. If the buff was active at the time of the empowerment (from scoring a champion takedown), the duration is refreshed while overriding the standard bonuses with the empowered ones.\nIf Varus kills an enemy unit (non-champion) during the empowerment, he is special cased to gain the buff again after the empowerment expires with the standard bonuses. The re-granted buff lasts for 5 / 7 / 9 / 11 (based on level) seconds minus the remaining duration of the empowerment at the time of the last non-champion unit he killed.",
+          "notes": "Varus cannot gain the standard bonuses while Living Vengeance is empowered. If the buff was active at the time of the empowerment (from scoring a champion takedown), the duration is refreshed while overriding the standard bonuses with the empowered ones.\nIf Varus kills an enemy unit (non-champion) during the empowerment, he is special cased to gain the buff again after the empowerment expires with the standard bonuses. The re-granted buff lasts for 5 / 7 / 9 / 11 (based on level) seconds minus the remaining duration of the empowered version at the time of the last non-champion unit he killed.",
           "blurb": "Innate: When  Varus kills an enemy, he gains  bonus attack speed,  bonus attack damage, and  ability power for a few seconds. The amount is based on his other sources of  bonus attack speed, and is increased on an enemy  champion  takedown.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -350544,11 +350544,27 @@
                         120
                       ],
                       "units": [
-                        " (189%",
-                        " (189%",
-                        " (189%",
-                        " (189%",
-                        " (189%"
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "units": [
+                        "(189%",
+                        "(189%",
+                        "(189%",
+                        "(189%",
+                        "(189%"
                       ]
                     },
                     {
@@ -353697,7 +353713,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yone/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit, applies on-hit effects to the first enemy hit, and triggers on-attack effects once. Mortal Steel's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
+              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Mortal Steel's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -353748,11 +353764,27 @@
                         125
                       ],
                       "units": [
-                        " (198%",
-                        " (198%",
-                        " (198%",
-                        " (198%",
-                        " (198%"
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "units": [
+                        "(198%",
+                        "(198%",
+                        "(198%",
+                        "(198%",
+                        "(198%"
                       ]
                     },
                     {
@@ -368649,6 +368681,80 @@
                   ]
                 },
                 {
+                  "attribute": "Total Critical Strike Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        30,
+                        34,
+                        38,
+                        42,
+                        46
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        208,
+                        216,
+                        224,
+                        232,
+                        240
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Total Infinity Edge Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        34.5,
+                        39.1,
+                        43.7,
+                        48.3,
+                        52.9
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        239.2,
+                        248.4,
+                        257.6,
+                        266.8,
+                        276
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    }
+                  ]
+                },
+                {
                   "attribute": "Physical Damage per Hit",
                   "modifiers": [
                     {
@@ -368684,11 +368790,85 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "attribute": "Critical Strike per Hit",
+                  "modifiers": [
+                    {
+                      "values": [
+                        4.29,
+                        4.86,
+                        5.43,
+                        6,
+                        6.57
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        29.71,
+                        30.86,
+                        32,
+                        33.14,
+                        34.29
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Infinity Edge Damage per Hit",
+                  "modifiers": [
+                    {
+                      "values": [
+                        4.93,
+                        5.59,
+                        6.24,
+                        6.9,
+                        7.56
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        34.17,
+                        35.49,
+                        36.8,
+                        38.11,
+                        39.43
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
             {
-              "description": "Burst Fire's projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; and applies on-hit and on-attack effects to the first enemy hit. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 70% of attack speed in excess of the cap is converted into bonus attack damage.",
+              "description": "Burst Fire's 0.3 projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; and applies on-hit and on-attack effects to the first enemy hit. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 70% of attack speed in excess of the cap is converted into bonus attack damage.",
               "leveling": []
             },
             {
@@ -368746,7 +368926,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not be hit.\nBurst Fire will still apply  on-attack effects to stealthed wards.(bug)\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
+          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not take damage.\nBurst Fire will still apply  on-attack effects to stealthed wards.(bug)\n Neeko will be hit multiple times while  disguised as a ward, but any subsequent rounds will continue to travel through.\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
           "blurb": "Active:  Zeri fires a burst of 7 rounds in the target direction that each deal physical damage to the first enemy hit. This is treated as a  basic attack, can  critically strike, and applies  on-hit and  on-attack effects to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -368812,6 +368992,112 @@
                         25,
                         25,
                         25
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Critical Strike Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        52.5,
+                        122.5,
+                        192.5,
+                        262.5,
+                        332.5
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        210,
+                        210,
+                        210,
+                        210,
+                        210
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    },
+                    {
+                      "values": [
+                        43.75,
+                        43.75,
+                        43.75,
+                        43.75,
+                        43.75
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Infinity Edge Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        59.25,
+                        138.25,
+                        217.25,
+                        296.25,
+                        375.25
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        237,
+                        237,
+                        237,
+                        237,
+                        237
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
+                      ]
+                    },
+                    {
+                      "values": [
+                        49.375,
+                        49.375,
+                        49.375,
+                        49.375,
+                        49.375
                       ],
                       "units": [
                         "% AP",
@@ -369128,7 +369414,7 @@
               ]
             },
             {
-              "description": "Overcharged: Zeri gains 10% bonus movement speed and 30% bonus attack speed that is allowed to exceed her attack speed cap by the amount gained. Burst Fire is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed and chain to the nearest visible enemy within 650 units of the target, up to 4 subsequent targets, to deal 40% AD physical damage. This damage is affected by critical strike modifiers.",
+              "description": "Overcharged: Zeri gains 10% bonus movement speed, 30% bonus attack speed and an increased attack speed cap of 1.6875. Burst Fire is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed. Upon hitting an enemy for the first time, the rounds chain electricity to the nearest visible enemy within 650 units of the target, up to 4 subsequent targets, to deal 40% AD physical damage. This damage can critically strike for (40% + 12%) AD bonus physical damage.",
               "leveling": []
             },
             {
@@ -369186,7 +369472,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Lightning Crash does not interrupt Zeri's previous orders.\nZeri can stack Hypercharged up to 100,000 times.\nApplies  area damage for the nova and  proc damage for the chain lightning.\n Spell shield blocks Lightning Crash's initial nova but does not prevent Zeri from becoming Overcharged.\nIt does not block  Burst Fire's electricity chain.\n Clones count for granting Overcharge.\nLightning Crash's and  Spark Surge's empowerments to  Burst Fire can combine together.\n Burst Fire electricity chain will not chain across structures.\nEntering  resurrection causes Zeri to lose all stacks of Hypercharged.\nOvercharged is not removed, however.(note)\nZeri will not be able to gain stacks of Hypercharged again after reviving while Overcharged is active.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "Lightning Crash does not interrupt Zeri's previous orders.\nZeri can stack Hypercharged up to 100,000 times.\nApplies  area damage for the nova and  proc damage for the chain lightning.\n Spell shield blocks Lightning Crash's initial nova but does not prevent Zeri from becoming Overcharged.\nIt does not block  Burst Fire electricity chain.\n Clones count for granting Overcharge.\nLightning Crash's and  Spark Surge's empowerments to  Burst Fire can combine together.\n Burst Fire electricity chain will not trigger if the first target hit is a  ward or  trap, even if it is stealthed.(bug)[2]\n Burst Fire electricity chain will not chain across  structures.\nEntering  resurrection causes Zeri to lose all stacks of Hypercharged.\nOvercharged is not removed, however.(note)\nZeri will not be able to gain stacks of Hypercharged again after reviving while Overcharged is active.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Zeri explodes to deal magic damage to nearby enemies. If this hits at least one enemy champion, she enters Overcharged for a few seconds. Damaging an enemy will extend Overcharged.",
           "missileSpeed": null,
           "rechargeRate": null,
