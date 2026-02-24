@@ -199277,7 +199277,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Wither interrupts the target's attack windup when it is first applied. (bug)\nIf Wither's duration is affected by  Tenacity the effects will apply slower (negative tenacity percentage) or faster (positive tenacity percentage) so the maximum values are still reached when the modified duration ends.\nWither's cripple effectiveness calculates from its slow's base values, thus  slow resist will not interact with the attack speed modifier indirectly.\nBoth  slow and  cripple from Wither are considered to be a single debuff. (note)\nTherefore,  slow immunity will prevent both, even without technical  cripple immunity.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+          "notes": "Wither interrupts the target's attack windup when it is first applied. (bug)\nIf Wither's duration is affected by  Tenacity the effects will apply slower (negative tenacity percentage) or faster (positive tenacity percentage) so the maximum values are still reached when the modified duration ends.\nWither's cripple effectiveness calculates from its slow's base values, thus  slow resist will not interact with the attack speed modifier indirectly.\nBoth  slow and  cripple from Wither are considered to be a single  debuff. (note)\nTherefore,  slow immunity will prevent both, even without technical  cripple immunity.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
           "blurb": "Active:  Nasus ages the target enemy champion for a few seconds, gradually  slowing and  crippling them over the duration.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -369414,7 +369414,7 @@
               ]
             },
             {
-              "description": "Overcharged: Zeri gains 10% bonus movement speed, 30% bonus attack speed and an increased attack speed cap of 1.6875. Burst Fire is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed. Upon hitting an enemy for the first time, the rounds chain electricity to the nearest visible enemy within 650 units of the target, up to 4 subsequent targets, to deal 40% AD physical damage. This damage can critically strike for (40% + 12%) AD bonus physical damage.",
+              "description": "Overcharged: Zeri gains 10% bonus movement speed and 30% bonus attack speed and an increased attack speed cap of 1.6875. Burst Fire is empowered to have a 20% shorter cast time and instead fire 3 rounds that travel with increased speed. The first round to hit an enemy per cast instance chains electricity to the nearest visible enemy within 650 units of the target, up to 4 subsequent targets, to deal 40% AD physical damage. This damage can critically strike for (40% + 12%) AD bonus physical damage.",
               "leveling": []
             },
             {
