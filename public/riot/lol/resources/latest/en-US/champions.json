@@ -5839,7 +5839,7 @@
               "leveling": []
             },
             {
-              "description": "Declaring a basic attack or casting an ability will break the invisibility and prevent Akali from entering it for 1 : 0.625 (based on minutes) seconds, refreshing on subsequent attacks and casts.",
+              "description": "Declaring a basic attack or casting an ability will break the invisibility and prevent Akali from entering it again for 1 : 0.625 (based on game time) seconds, refreshing on subsequent attacks and casts.",
               "leveling": []
             },
             {
@@ -194379,7 +194379,7 @@
         "percentPerLevel": 0.0
       },
       "healthRegen": {
-        "flat": 6,
+        "flat": 6.25,
         "percent": 0.0,
         "perLevel": 0.6,
         "percentPerLevel": 0.0
