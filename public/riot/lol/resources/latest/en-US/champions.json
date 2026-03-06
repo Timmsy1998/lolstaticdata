@@ -11,15 +11,15 @@
     "adaptiveType": "PHYSICAL_DAMAGE",
     "stats": {
       "health": {
-        "flat": 650,
+        "flat": 625,
         "percent": 0.0,
-        "perLevel": 114,
+        "perLevel": 104,
         "percentPerLevel": 0.0
       },
       "healthRegen": {
-        "flat": 3,
+        "flat": 7,
         "percent": 0.0,
-        "perLevel": 0.5,
+        "perLevel": 0.8,
         "percentPerLevel": 0.0
       },
       "mana": {
@@ -35,9 +35,9 @@
         "percentPerLevel": 0.0
       },
       "armor": {
-        "flat": 38,
+        "flat": 35,
         "percent": 0.0,
-        "perLevel": 4.8,
+        "perLevel": 4,
         "percentPerLevel": 0.0
       },
       "magicResistance": {
@@ -47,13 +47,13 @@
         "percentPerLevel": 0.0
       },
       "attackDamage": {
-        "flat": 60,
+        "flat": 62,
         "percent": 0.0,
-        "perLevel": 5,
+        "perLevel": 3,
         "percentPerLevel": 0.0
       },
       "movespeed": {
-        "flat": 345,
+        "flat": 350,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -95,9 +95,9 @@
         "percentPerLevel": 0.0
       },
       "attackSpeed": {
-        "flat": 0.651,
+        "flat": 0.625,
         "percent": 0.0,
-        "perLevel": 2.5,
+        "perLevel": 2,
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
@@ -10482,7 +10482,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "If Alistar is at 7 stacks when Triumphant Roar comes off cooldown, he will roar as soon as it elapses.\nAlistar does not gain stacks for unsuccessfully trying to apply  crowd control, for instance against a  crowd control immune target.\nAlistar will still gain a stack for unsuccessfully trying to knock back a champion protected by a  spell shield with  Headbutt.(bug)\nHealing occurs simultaneously for Alistar and his allies.\nThere is a VFX projectile (700 missile speed) that cannot be destroyed by  Wind Wall and is unrelated to the actual heal.\nAlistar loses all Triumph stacks upon dying.",
+          "notes": "If Alistar is at 7 stacks when Triumphant Roar comes off cooldown, he will roar as soon as it elapses.\nAlistar does not gain stacks for unsuccessfully trying to apply  crowd control, for instance against a  crowd control immune target.\nHealing occurs simultaneously for Alistar and his allies.\nThere is a VFX projectile (700 missile speed) that cannot be destroyed by  Wind Wall and is unrelated to the actual heal.\nAlistar loses all Triumph stacks upon dying.",
           "blurb": "Innate:  Alistar generates  stacks of Triumph from  stunning or  displacing enemy champions or when a nearby enemy  dies.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -20808,7 +20808,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Runaan's Hurricane bolts will use Severum's attack animation instead of firing projectiles for Aphelios'  attacks with Severum.\nOnslaught begins with Aphelios' offhand weapon first. This means, when Crescendum is in his off-hand it will return n/2 Chakrams for even numbers of hits, (n-1/2)+1 Chakrams for odd numbers of hits.",
+          "notes": "Runaan's Hurricane bolts will use Severum's attack animation instead of firing projectiles for Aphelios'  attacks with Severum.",
           "blurb": "Aphelios' basic attacks will  heal him, and create a  shield from excess healing.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -21269,7 +21269,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.\nOnslaught begins with Aphelios' offhand weapon first. This means, when Crescendum is in his off-hand it will return n/2 Chakrams for even numbers of hits, (n-1/2)+1 Chakrams for odd numbers of hits.",
+          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\nOnslaught begins firing with Aphelios' off-hand weapon.\nThis means that, if used with  Crescendum, it will generate [n ÷ 2] Chakrams for even numbers of hits, and [(n - 1 ÷ 2) + 1] Chakrams for odd numbers of hits.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.",
           "blurb": "Active: Aphelios gains bonus  movement speed and quickly attacks a nearby enemy with  Severum and his current off-hand weapon, dealing physical damage. The number of attacks is increased based on his bonus attack speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -21629,7 +21629,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Sentry's name is modified based on Aphelios' off-hand weapon:\nWhile Sentry's attacks are modified by  Severum, it will  heal Aphelios for any damage it deals and its attacks cannot be intercepted by  Wind Wall and  Unbreakable.\nThe Sentry will stop upon colliding with  Wind Wall. It will be deployed in front of the wall.\nThe Sentry's attacks can be  dodged and  blocked, but not missed from being  blinded.",
+          "notes": "While Sentry's attacks are modified by  Severum, it will  heal Aphelios for any damage it deals and its attacks cannot be intercepted by  Wind Wall and  Unbreakable.\nThe Sentry will stop upon colliding with  Wind Wall. It will be deployed in front of the wall.\nThe Sentry's attacks can be  dodged and  blocked, but not missed from being  blinded.",
           "blurb": "Active: Aphelios deploys a lunar sentry that gains a copy of his off-hand weapon and attacks with it, dealing physical damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -119490,7 +119490,7 @@
     },
     "releaseDate": "2016-02-01",
     "releasePatch": "6.2",
-    "patchLastChanged": "26.04",
+    "patchLastChanged": "26.05",
     "price": {
       "blueEssence": 1234,
       "rp": 880,
@@ -135063,7 +135063,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Flash can be used during the cast time, allowing Kassadin to blink further away.",
+          "notes": "Flash can be used during the cast time, allowing Kassadin to blink further away.\nPinging Riftwalk will additionally display the remaining duration of its stacks.",
           "blurb": "Active:  Kassadin  blinks toward the target location, dealing magic damage to all nearby enemies upon arrival. He then gains a stack of Riftwalk, stacking up to a cap.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -152020,7 +152020,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Living Artillery will not reveal  stealthed champions.",
+          "notes": "Living Artillery will not reveal  stealthed champions.\nPinging Living Artillery will additionally display the remaining time duration of its stacks.",
           "blurb": "Active:  Kog'Maw spits a globule of acid into the air that drops to the target location, dealing magic damage to enemies hit based on their missing health. The damage is further  doubled against enemies at low health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -184272,7 +184272,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Radiant Volley has a channel time of 0.5 seconds.\n Spell shield will only block a single explosion.\nFor the given number of Radiant Volley bolts, the spread will result in the same individual areas being affected over the duration invariably.\nEach individual missile is explicitly assigned an explosion location at a small offset from the cast location. This varies by missile, which results in their combined area of effect distributing over a total radius of [explosion radius + maximum spread] = 200 + 50 = 250 units.\nThis means that the distribution area is not random.\nThe order of bolts however, which will determine the order of individual areas to be affected per explosion, is random.\nMel launching the missiles in the same arcing motion for every Radiant Volley cast does not correlate with which missile is being fired at the time. The height and gravity of each missile are irrelevant.\nNote that the combined area of effect may not always be the maximum possible (circle with radius of 250 units); this drawback diminishes with a higher number of bolts as the new missiles fill the gaps within.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "Spell shield will only block a single explosion.\nFor the given number of Radiant Volley bolts, the spread will result in the same individual areas being affected over the duration invariably.\nEach individual missile is explicitly assigned an explosion location at a small offset from the cast location. This varies by missile, which results in their combined area of effect distributing over a total radius of [explosion radius + maximum spread] = 200 + 50 = 250 units.\nThis means that the distribution area is not random.\nThe order of bolts however, which will determine the order of individual areas to be affected per explosion, is random.\nMel launching the missiles in the same arcing motion for every Radiant Volley cast does not correlate with which missile is being fired at the time. The height and gravity of each missile are irrelevant.\nNote that the combined area of effect may not always be the maximum possible (circle with radius of 250 units); this drawback diminishes with a higher number of bolts as the new missiles fill the gaps within.\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Mel concentrates a bombardment of luminous bolts that explode in an area, dealing magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -210136,7 +210136,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Nocturne/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Nocturne empowers his next basic attack to slash in a circle, dealing 120% AD physical damage to the target and nearby enemies and healing himself for 13 : 32 (based on level) (+ 30% AP) per enemy hit. Against minions, Umbra Blade's damage to secondary targets and healing are reduced by 50% and it applies on-hit effects to all targets(note) at 100% effectiveness.",
+              "description": "Innate: Periodically, Nocturne empowers his next basic attack to slash in a circle, dealing 120% AD physical damage to the target and nearby enemies and healing himself for 13 : 32 (based on level) (+ 30% AP) per enemy hit. Against minions, Umbra Blades' damage to secondary targets and healing are reduced by 50% and it applies on-hit effects to all targets(note) at 100% effectiveness.",
               "leveling": []
             },
             {
@@ -268807,7 +268807,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/q",
           "effects": [
             {
-              "description": "Passive: Shyvana's basic attacks on-hit deal bonus magic damage equal to 1% (+ 1.7% per 100 bonus AD) (+ 1.3% per 100 AP) of the target's maximum health. Against non-champions, this damage deals a minimum of 30 and is capped at 200. Additionally, they reduce the cooldown of this spell by 1.25 seconds.",
+              "description": "Passive: Shyvana's basic attacks on-hit deal bonus magic damage equal to 1% (+ 1.7% per 100 bonus AD) (+ 1.3% per 100 AP) of the target's maximum health. Against non-champions, this damage deals a minimum of 30 and is capped at 200. Additionally, her basic attacks on-hit reduce the remaining cooldown of Emberstrike by 1.25 seconds.",
               "leveling": []
             },
             {
@@ -268992,7 +268992,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Shyvana grants herself a shield for 2.5 seconds, increased by 30% for every nearby enemy champion. While the shield holds, she gains 25% bonus movement speed, increased to 43.75% while facing enemy champions within 600 units.",
+              "description": "Active: Shyvana grants herself a shield for 2.5 seconds, increased by 30% for every nearby enemy champion. While the shield holds, she gains 25% bonus movement speed, increased to 43.75% while facing visible enemy champions.",
               "leveling": [
                 {
                   "attribute": "Shield Strength",
@@ -269364,7 +269364,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/r",
           "effects": [
             {
-              "description": "Passive - Fury: Shyvana generates Dragon Fury per second while in Human Form. Her basic attacks and abilities also generate 1.25 Dragon Fury for every enemy they hit in either form, up to once per enemy per cast instance and reduced to 0.3125 Dragon Fury generated per non-champion hit by abilities. Shyvana gains 100 Dragon Fury upon learning Dragon's Descent.",
+              "description": "Passive - Fury: Shyvana generates Dragon Fury per second while in Human Form. Her basic attacks and abilities also generate 1.25 Dragon Fury for every enemy they hit, up to once per enemy per cast instance and increased[ by 200% ][ to 3.75 ]during Dragon Form. Against non-champions hit by abilities, the generated amount is reduced to[ 25%. ][ 0.3125 and 0.9375 Dragon Fury during Human Form and Dragon Form, respectively. ]Shyvana gains 100 Dragon Fury upon learning Dragon's Descent.",
               "leveling": [
                 {
                   "attribute": "Dragon Fury Generation per Second",
@@ -269432,7 +269432,7 @@
               ]
             },
             {
-              "description": "Dragon Form: Shyvana gains bonus health, bonus attack range, and increased size. Her basic abilities are also empowered to apply an additional effect. She maintains Dragon Form at a recurring cost of Dragon Fury and increases Dragon Fury generation by 300%, returning to Human Form once all Dragon Fury has been depleted.",
+              "description": "Dragon Form: Shyvana gains bonus health, bonus attack range, and increased size. Her basic abilities are also empowered to apply an additional effect. She maintains Dragon Form at a recurring cost of Dragon Fury, returning to Human Form once all Dragon Fury has been depleted.",
               "leveling": [
                 {
                   "attribute": "Bonus Health",
@@ -369082,11 +369082,11 @@
           "spellshieldable": "false",
           "resource": null,
           "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "basic",
+          "spellEffects": "special",
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not take damage.\nBurst Fire will still apply  on-attack effects to stealthed traps and wards.(bug)\n Neeko will be hit multiple times while  disguised as a ward, but any subsequent rounds will continue to travel through.\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
+          "notes": "Burst Fire is automatically learned with her first skill point upon spawning.\nBurst Fire deals  basic damage, additionally tagged as area of effect, and does not trigger  spell effects.(note)\nBurst Fire is still locked out while Zeri is affected by any form of other  cast-inhibiting crowd control.\n Silence is special cased to specifically not disable Burst Fire.\n Polymorph, despite functioning identically to  silence, will still lock Burst Fire from being cast.\nAny of Burst Fire's rounds hitting a champion will draw minion aggro, regardless of whether or not other targets were hit first by Burst Fire's rounds.\nA lightning chain from a  Lightning Crash empowered Burst Fire will not draw minion aggro.\nCasting Burst Fire does not cancel previous attack ( Living Battery) and movement orders.\nBurst Fire does not trigger  Tear of the Goddess' Mana Charge.\nBurst Fire's cooldown is not reduced by  Navori Flickerblade's Transcendence.\n Amumu's  Tantrum's,  Fizz's  Nimble Fighter's, and  Leona's  Eclipse's flat damage reduction apply to each of the 7 instances of damage from Burst Fire.\n Warden's Mail's flat damage reduction and cap only apply to the first instance of damage.\n Guardian's Horn's flat damage reduction only applies to the first instance of damage, but handles it as damage-over-time (reduced to 25% effectiveness).\nBurst Fire still counts as an ability activation for the purposes of on-cast effects such as triggering  Force Pulse's passive.\nIt does not count as an ability activation for  Spellblade.\nBurst Fire can hit all enemy units that a basic attack would be able to target. This does include jungle plants, structures, and wards.\nWards will only be hit once by Burst Fire. Stealthed wards and traps will not take damage.\nBurst Fire will still apply  on-attack effects to stealthed traps and wards.(bug)\n Neeko will be hit multiple times while  disguised as a ward, but any subsequent rounds will continue to travel through.\nChampion-summoned units behave differently depending on the unit.\n Gangplank's  Powder Keg and  Yorick's  Dark Procession are hit only once by Burst Fire, and any subsequent rounds not empowered by  Spark Surge will stop upon reaching the same object.\n Kalista's  Sentinel is hit only once by Burst Fire, but any subsequent rounds will continue to travel through the Sentinel.\nIf Burst Fire hits an enemy while Zeri is not visible to enemies, the area around her (400 units) will be revealed for 4.5 seconds.\nBurst Fire rolls  critical strike for all rounds as well as the additional physical damage dealt when Zeri is  Overcharged.\nBurst Fire is parried by  dodge and  block.\n Blind causes Burst Fire to cast in a random direction. The rounds will still deal damage to enemies hit.\nBurst Fire's rounds are each fired in the target direction from where Zeri is at the time.\nOnly attack speed granted by being  Overcharged can exceed the cap of 1.5.\n Hail of Blades does not allow Zeri to exceed her attack speed cap.\nItem and rune effects that trigger off of attacking (e.g.,  Fleet Footwork and  Kraken Slayer) will only trigger if Burst Fire hits a unit.\nIf Zeri would reach maximum  Energized stacks from a Burst Fire cast, the remaining rounds will trigger Energized's effect.\nBurst Fire's cast-indicator does not show  range increases; modified range VFX are still visible around the champion model.\nBurst Fire can apply the effect of  Horizon Focus when the enemy hit is within the last 50 units of this ability.(note)\nBurst Fire uses a modified icon when empowered by  Spark Surge () and  Lightning Crash () as well as both ().\nDestroying a ward that is targetable but not visible to Zeri's team (e.g. a  Control Ward in Fog of War) via Burst Fire uniquely allows her to remove its accompanying ward timer (if it exists) without seeing the ward being destroyed.\nIf Zeri is affected by an ally  Bard's  Tempered Fate during Burst Fire's cast time, she will be able to cast it during the effect.(bug)",
           "blurb": "Active:  Zeri fires a burst of 7 rounds in the target direction that each deal physical damage to the first enemy hit. This is treated as a  basic attack, can  critically strike, and applies  on-hit and  on-attack effects to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
