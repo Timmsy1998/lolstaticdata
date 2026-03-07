@@ -86189,11 +86189,11 @@
                     },
                     {
                       "values": [
-                        38,
-                        41,
-                        44,
-                        47,
-                        50
+                        40,
+                        43,
+                        46,
+                        49,
+                        52
                       ],
                       "units": [
                         "% AD",
@@ -86226,11 +86226,11 @@
                     },
                     {
                       "values": [
-                        49.4,
-                        53.3,
-                        57.2,
-                        61.1,
-                        65
+                        52,
+                        55.9,
+                        59.8,
+                        63.7,
+                        67.6
                       ],
                       "units": [
                         "% AD",
@@ -86263,11 +86263,11 @@
                     },
                     {
                       "values": [
-                        60.8,
-                        65.6,
-                        70.4,
-                        75.2,
-                        80
+                        64,
+                        68.8,
+                        73.6,
+                        78.4,
+                        83.2
                       ],
                       "units": [
                         "% AD",
@@ -86309,11 +86309,11 @@
                     },
                     {
                       "values": [
-                        47.5,
-                        51.25,
-                        55,
-                        58.75,
-                        62.5
+                        50,
+                        53.75,
+                        57.5,
+                        61.25,
+                        65
                       ],
                       "units": [
                         "% AD",
@@ -86346,11 +86346,11 @@
                     },
                     {
                       "values": [
-                        61.75,
-                        66.625,
-                        71.5,
-                        76.375,
-                        81.25
+                        65,
+                        69.875,
+                        74.75,
+                        79.625,
+                        84.5
                       ],
                       "units": [
                         "% AD",
@@ -86383,11 +86383,11 @@
                     },
                     {
                       "values": [
-                        76,
-                        82,
-                        88,
-                        94,
-                        100
+                        80,
+                        86,
+                        92,
+                        98,
+                        104
                       ],
                       "units": [
                         "% AD",
@@ -127842,15 +127842,19 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kalista/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Kalista inputs a movement command during her basic attack windup or the cast time of Pierce, she will dash in that direction afterward.Kalista cannot dash while immobilized or grounded, and she will be knocked down by any immobilizing or polymorphing crowd control during the dash.",
+              "description": "Innate: When Kalista inputs a movement command during her basic attack windup or shortly after it completes, or while in cast time of Pierce, she will dash in that direction.Kalista cannot dash while immobilized or grounded, and she will be knocked down by any immobilizing or polymorphing crowd control during the dash.",
               "leveling": []
             },
             {
-              "description": "Martial Poise's dash range and speed details:\nDash range of basic attacks is modified by the tier of Kalista's Boots and the angle of the dash.\nAt a 0° angle towards the target, the minimum dash range is 140 / 153 / 166 / 175 (based on Boots Tier) units.\nAt a 90° angle, the maximum dash range is 240 / 263 / 280 / 300 (based on Boots Tier) units.\nDash range of Pierce is 300 units when dashing anywhere in the direction of the point of cast.\nIf the dash is inputted to a location that is away from Pierce's point of cast, the dash range is reduced based on the angle, with a minimum distance of 150 units if the inputted location is directly opposite.\nDash speed is increased based on the tier of Kalista's Boots, and is affected by her bonus attack speed as well as multiplicative movement speed modifiers she is under the effect of (including slows).",
+              "description": "Martial Poise's dash range and speed details:\nDash range of basic attacks is modified by the tier of Kalista's Boots and the angle of the dash.\nAt a 0° angle towards the target, the minimum dash range is 140 / 153 / 166 / 175 (based on Boots Tier) units.\nAt a 90° angle, the maximum dash range is 240 / 263 / 280 / 300 (based on Boots Tier) units.\nDash range of Pierce is 300 units when dashing anywhere in the direction of the point of cast.\nIf the dash is inputted to a location that is away from Pierce's point of cast, the dash range is reduced based on the angle, with a minimum distance of 150 units if the inputted location is directly opposite.\nDash speed is increased based on the tier of Kalista's Boots, and is affected by her bonus attack speed as well as movement speed modifiers she is under the effect of (including slows).",
               "leveling": []
             },
             {
-              "description": "Innate - Oathsworn Bond: Kalista begins the game with an exclusive Black Spear that she can activate on an allied champion to deem them Oathsworn, forming a tether together.Kalista can purchase the Black Spear from the shop at no cost to obtain it again and, before 3 minutes of game time, may activate the item again on a different target to designate a new Oathsworn. See Black Spear for more details.",
+              "description": "Innate - Oathsworn Bond: Kalista begins the game with an exclusive Black Spear that she can activate on an allied champion to deem them Oathsworn, forming a tether together. While she and the ally bound as the Oathsworn are within tether range of each other, they can both interact with Soul-Mark and Fate's Call.",
+              "leveling": []
+            },
+            {
+              "description": "Kalista can purchase the Black Spear from the shop at no cost to obtain it again and, before 3 minutes of game time, may activate the item again on a different target to designate a new Oathsworn. See Black Spear for more details.",
               "leveling": []
             }
           ],
@@ -127865,8 +127869,8 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Basic attacks and  Pierce cannot be cast while dashing.\nMove commands inputted during an attack windup or the cast time of  Pierce while Kalista is  immobilized or  grounded will fail to cast and thus prevent the dash from triggering.\nIf multiple move commands are inputted during the attack windup, the most recent one is used for the dash's targeting.\nIf the most recent input is not a move command, the dash will not trigger.\nIn this case, the buffer for the previous move command was cancelled by a new non-move command such as an input for an attack or ability cast.\nThe move command will still be buffered to the end of the immobilization or the end of the attack windup or cast time of  Pierce while grounded if it has not been overridden by other inputs.\nKalista's facing direction will change immediately on move command even among multiple inputs, but will not visually update until the dash.\nThe facing direction when dashing is considered to be in the direction of the dash, not her apparent facing direction based on her model's animation state.\nDash distance decreases as the dash direction becomes closer to the minimum direction. This defines a forward distance for basic attacks and a backwards distance for  Pierce. Empirical testing has given the following values below.\nBasic attack dash range given the angle θ:\n{(175+(125×sin⁡(θ)))×T\nWhere T=0.800,0.875,0.950,1.000 depending on the tier of Boots (T0, T1, T2, T3)\nMinimum dash range of 225 units when dashing backwards\n Pierce's dash range given the angle θ:\n{150+(150×sin⁡(θ))Backwards300Otherwise\nThere is a very brief grace period after completing a basic attack windup wherein  Kalista can still input a movement command to trigger the dash.\nThe dash speed is unaffected by additive movement speed modifiers.\nThere are a total of 24 different dash ranges based on direction with Boots and  Pierce being cast.\nKalista will automatically be issued an attack command on her attack target at the end of the dash, as long as they remain in her attack range by then.\nThe attack move (default A + MB1) click feature checks for targets in brief intervals only if Kalista is not dashing.\n Sleep does not count for knocking the dash down.(bug)",
-          "blurb": "Innate: During each  basic attack or casting of  Pierce,  Kalista can optionally choose a target direction to quickly  dash to. The range is based on dash angle and Kalista's Boots tier. The dash speed scales with bonus attack speed and certain movement speed effects.",
+          "notes": "Basic attacks and  Pierce cannot be cast while dashing, unless animation cancelled with a movement command.\nKalista must wait for her auto attack windup or cast animation to finish, before she dashes. However, Kalista will dash immediately if the movement command to dash is input after her auto attack windup finishes.\n Martial Poise also \"remembers\" your auto attack target after dashing, letting you dash repeatedly by only clicking the ground.\n Martial Poise cannot keep up with attack speed values greater than 2.1, due to the combination of her auto attack windup taking too long, and her dashes being too slow. Movement speed bonuses make it less of an issue.\nSufficiently high attack speeds can also cause  Martial Poise to interpret movement inputs as dash inputs, during the dash of a previous auto attack (such as jumping towards attack-move inputs).\nMove commands inputted during an attack windup or the cast time of  Pierce while Kalista is  immobilized or  grounded will fail to cast and thus prevent the dash from triggering.\nIf multiple move commands are inputted during the attack windup, the most recent one is used for the dash's targeting.\nIf the most recent input is not a move command, the dash will not trigger.\nIn this case, the buffer for the previous move command was cancelled by a new non-move command such as an input for an attack or ability cast.\nThe move command will still be buffered to the end of the immobilization or the end of the attack windup or cast time of  Pierce while grounded if it has not been overridden by other inputs.\nKalista's facing direction will change immediately on move command even among multiple inputs, but will not visually update until the dash.\nThe facing direction when dashing is considered to be in the direction of the dash, not her apparent facing direction based on her model's animation state.\nDash distance decreases as the dash direction becomes closer to the minimum direction. This defines a forward distance for basic attacks and a backwards distance for  Pierce. Empirical testing has given the following values below.\nBasic attack dash range given the angle θ:\n{(175+(125×sin⁡(θ)))×T\nWhere T=0.800,0.875,0.950,1.000 depending on the tier of Boots (T0, T1, T2, T3)\nMinimum dash range of 225 units when dashing backwards\n Pierce's dash range given the angle θ:\n{150+(150×sin⁡(θ))Backwards300Otherwise\nThere is a very brief grace period after completing a basic attack windup wherein  Kalista can still input a movement command to trigger the dash.\nThe dash speed is unaffected by additive movement speed modifiers.\nThere are a total of 24 different dash ranges based on direction with Boots and  Pierce being cast.\nKalista will automatically be issued an attack command on her attack target at the end of the dash, as long as they remain in her attack range by then.\nThe attack move (default A + MB1) click feature checks for targets in brief intervals only if Kalista is not dashing.\n Sleep does not count for knocking the dash down.(bug)",
+          "blurb": "Innate: During each  basic attack or casting of  Pierce,  Kalista can optionally choose a target direction to quickly  dash to. The range is based on dash angle and Kalista's Boots tier. The dash speed scales with bonus attack speed and movement speed effects.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -127929,7 +127933,7 @@
               ]
             },
             {
-              "description": "If Pierce kills the target, the spear continues onward to transfer all of the target's Rend stacks to the next enemy it hits. If Pierce kills multiple targets, only the last target killed will have their Rend stacks transferred to the next enemy hit that survives. (bug)",
+              "description": "If Pierce kills the target, the spear continues onward to transfer all of the target's Rend stacks to the next enemy it hits.",
               "leveling": []
             }
           ],
@@ -127983,7 +127987,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "If Pierce kills multiple targets, only the last target killed will have their  Rend stacks transferred to the next enemy hit that survives.(bug)\nPierce cannot be cast during the dash of  Martial Poise unless animation cancelled with a movement command.\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Kalista throws a spear in the target direction that deals physical damage to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -128131,7 +128135,7 @@
               "leveling": []
             },
             {
-              "description": "Active: Kalista rips out all lodged spears from nearby enemies, consuming all stacks to deal physical damage while applying slow for 2 seconds, with each additional spear on the target, after the first dealing reduced damage. Also, if Rend kills a target, or is cast on a dead target (e.g. Glory in Death), then the cooldown is reset and Kalista restores mana. Rend also deals 50% damage against epic monsters.",
+              "description": "Active: Kalista rips out the lodged spears from all nearby enemies afflicted with Rend stacks, consuming the stacks on each target to deal physical damage and slow them for 2 seconds. For each stack beyond the first, the target is dealt additional physical damage. Rend deals 50% damage against epic monsters.Rend's cast also empowers the in-flight missiles of Kalista's basic attacks and Pierce to apply Rend's effects to their targets immediately upon hitting them.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -128187,7 +128191,7 @@
                   ]
                 },
                 {
-                  "attribute": "Damage per Additional Stack",
+                  "attribute": "Bonus Damage per Additional Stack",
                   "modifiers": [
                     {
                       "values": [
@@ -128279,7 +128283,7 @@
               ]
             },
             {
-              "description": "A nearby enemy with a Rend stack is required to cast this ability. Additionally empowers all in-flight spears with rend, allowing them to be ripped out immediately upon hitting their target. This totals the same damage as if they were stacked beforehand, while refreshing the slow duration, and potentially triggering a refund.",
+              "description": "If Rend kills at least one target, its cooldown is reset and Kalista restores mana.",
               "leveling": [
                 {
                   "attribute": "Mana Restored",
@@ -128305,7 +128309,7 @@
               ]
             },
             {
-              "description": "Rend can be used during the dash of Martial Poise, and during the cast time of Pierce. If rend is used during the cast time of Pierce, before the projectile spawns, doing so will repeat the first-spear damage to a target already damaged by rend, (note) in addition to empowering the projectile with rend's effects.",
+              "description": "A nearby enemy with a Rend stack is required to cast this ability.",
               "leveling": []
             }
           ],
@@ -128359,7 +128363,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Rend cannot activate on  untargetable enemies.\nRend applies its effects instantly on cast.\nThe cooldown will not reset if the target is protected by  resurrection effects.\nIf Rend is used against  Sion under the effects of  Glory in Death, the cooldown will reset even if it does not kill him.(bug)\nA stack is not applied if the attack is  dodged,  blocked or missed while Kalista is  blinded.\n Pierce does not apply a stack of Rend if blocked by  spell shield.\nWhile  berserk, Kalista's attacks will also apply Rend stacks on allies.\nKalista will be unable to cast Rend if there are no stacks on an enemy in range.\nRend cannot cast on allies, even if a valid enemy target exists. As such, any spears on allied units are purely cosmetic.\nRend has a lower cast range than effect range.\nRend at maximum stacks will deal a total of 1776 / 3557 / 5338 / 7119 / 8900 (+ 5130 / 6395 / 7660 / 8925 / 10190% AD) (+ 12715% AP) physical damage.",
+          "notes": "Rend cannot activate on  untargetable enemies.\nRend applies its effects instantly on cast.\nRend can be used during the dash of  Martial Poise, and during the cast time of  Pierce. If Rend is used during the cast time of  Pierce, before the projectile spawns, doing so will repeat the first-spear damage to a target already damaged by Rend, (note) in addition to empowering the projectile with Rend's effects.\nThe cooldown will not reset if the target is protected by  resurrection effects.\nIf Rend is used against  Sion under the effects of  Glory in Death, the cooldown will reset even if it does not kill him.(bug)\nA stack is not applied if the attack is  dodged,  blocked or missed while Kalista is  blinded.\n Pierce does not apply a stack of Rend if blocked by  spell shield.\nWhile  berserk, Kalista's attacks will also apply Rend stacks on allies.\nKalista will be unable to cast Rend if there are no stacks on an enemy in range.\nRend cannot cast on allies, even if a valid enemy target exists. As such, any spears on allied units are purely cosmetic.\nRend has a lower cast range than effect range.\nRend at maximum stacks will deal a total of 1776 / 3557 / 5338 / 7119 / 8900 (+ 5130 / 6395 / 7660 / 8925 / 10190% AD) (+ 12715% AP) physical damage.",
           "blurb": "Passive:  Kalista's  basic attacks  on-hit and  Pierce lodge a spear into their target, applying a  stack of Rend for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -128385,7 +128389,7 @@
               "leveling": []
             },
             {
-              "description": "While held, the Oathsworn is vanished and may select a target location to dash to with displacement immunity, ending Fate's Call's invocation and reappearing at the location. If the invocation ends without the Oathsworn selecting a target location, they will automatically do so at maximum range from Kalista's facing direction. Kalista is briefly unable to start basic attacks or cast basic abilities when the Oathsworn starts their flight.",
+              "description": "While held, the Oathsworn is vanished and may select a target location to dash to with displacement immunity, ending Fate's Call's invocation and reappearing at the location. If the invocation ends without the Oathsworn selecting a target location, they will automatically do so at maximum range from Kalista's facing direction.",
               "leveling": []
             },
             {
@@ -128457,7 +128461,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The Oathsworn's landing location of the lunge is precisely to their base attack range from the closest target they hit and relative to where this target would be displaced to from the knock back.\nIn other words, the Oathsworn will land to a location where they are within their exact base attack range of the target by the end of the target's displacement.\nThe calculated landing spot does not evaluate if the target was successfully displaced or not, meaning that the Oathsworn will end up closer than their base attack range if the closest target hit was not knocked back.\nIf the Oathsworn does not hit any targets with the knock up effect, the dash will simply end and they will reappear at the target location.\nThe following will defer Fate's Call's effects at the time of cast to the end of their duration if the Oathsworn is:\nIn a cast time.\n Channeling.\nFate's Call will not defer by the following channels:  Recall,  Defiant Dance,  Realm Warp, and  The Culling.\nFate's Call cannot be cast during the following channels:  Teleport,  Gate,  Grand Starfall,  Hero's Entrance and  Stand United.\nUsing an ability that preloads UnstoppableForceMarker.\nIf the Oathsworn is still occupied after 6 seconds of being deferred from this time, Fate's Call will cancel.\nFate's Call will not pull the Oathsworn if they are  dashing but they will be retrieved after 1 second regardless.\nFate's Call can be cast even if the Oathsworn is  untargetable.\nFate's Call is disabled if the Oathsworn is  resurrecting or is being affected by another Fate's Call.\nFate's Call can be used even if the Oathsworn is in a  zombie state.\nFate's Call does not render the target  vanished while being held if they are creating  Curse of the Black Mist's aura.\nThe Oathsworn being held is represented by a light over Kalista's head.\nKalista's death does not cancel Fate's Call.",
+          "notes": "The Oathsworn's landing location of the lunge is precisely to their base attack range from the closest target they hit and relative to where this target would be displaced to from the knock back.\nIn other words, the Oathsworn will land to a location where they are within their exact base attack range of the target by the end of the target's displacement.\nThe calculated landing spot does not evaluate if the target was successfully displaced or not, meaning that the Oathsworn will end up closer than their base attack range if the closest target hit was not knocked back.\nIf the Oathsworn does not hit any targets with the knock up effect, the dash will simply end and they will reappear at the target location.\nKalista is briefly unable to start basic attacks or cast basic abilities when the Oathsworn starts their flight.\nThe following will defer Fate's Call's effects at the time of cast to the end of their duration if the Oathsworn is:\nIn a cast time.\n Channeling.\nFate's Call will not defer by the following channels:  Recall,  Defiant Dance,  Realm Warp, and  The Culling.\nFate's Call cannot be cast during the following channels:  Teleport,  Gate,  Grand Starfall,  Hero's Entrance and  Stand United.\nUsing an ability that preloads UnstoppableForceMarker.\nIf the Oathsworn is still occupied after 6 seconds of being deferred from this time, Fate's Call will cancel.\nFate's Call will not pull the Oathsworn if they are  dashing but they will be retrieved after 1 second regardless.\nFate's Call can be cast even if the Oathsworn is  untargetable.\nFate's Call is disabled if the Oathsworn is  resurrecting or is being affected by another Fate's Call.\nFate's Call can be used even if the Oathsworn is in a  zombie state.\nFate's Call does not render the target  vanished while being held if they are creating  Curse of the Black Mist's aura.\nThe Oathsworn being held is represented by a light over Kalista's head.\nKalista's death does not cancel Fate's Call.",
           "blurb": "Active:  Kalista invokes her  tether to retrieve her Oathsworn,  vanishing and  cleansing them from all  crowd control, and hold them for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -180502,16 +180506,16 @@
         "name": "Corrupted Petricite",
         "id": 57035,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Corrupted Petricite",
         "lootEligible": true,
         "cost": "Battle Pass",
         "sale": 0,
-        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 50)",
+        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 8)",
         "rarity": "Epic",
         "chromas": [],
         "lore": "Though this ancient tree once stood resplendent in some forgotten petricite grove, the sudden bloom of wild magic has animated its branches and heartwood anew. It now lumbers far and wide, fiercely protecting its enchanted seedlings from the growing Demacian settlements encroaching upon the Wyldwoods.",
-        "release": "0000-00-00",
+        "release": "2026-03-04",
         "set": [
           "The Laws of Stone"
         ],
@@ -196238,7 +196242,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 950031,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950031.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 950035,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950035.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 950036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950036.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 950037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950037.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 950032,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950032.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 950030,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950030.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 950034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950034.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 950033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/950/950033.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "ALERT: Naafiri, alpha of the New Moon Pack, is active in the area. Once human, now wolf, she has proven to be intelligent and highly dangerous. Claims that wolves are \"higher beings\" and indoctrinates her followers through Quicksilver-induced lycanthropy. Naafiri preys on lone travelers and always hunts in a pack; do NOT pursue without backup.",
         "release": "0000-00-00",
         "set": [
@@ -235920,7 +236093,7 @@
               "leveling": []
             },
             {
-              "description": "Active: Rek'Sai singles out the target enemy champion Marked as Prey, becoming displacement immune and unable to act and vanishing into the ground, as well as revealing the target for 2 seconds. After 0.9 seconds, she blinks to a location near the target, becoming targetable again and emerging from the ground to pounce at them. Upon arrival, she slashes at the target with her claws, dealing physical damage, and dashes 125 units through them.",
+              "description": "Active: Rek'Sai singles out the target enemy champion Marked as Prey, becoming displacement immune and unable to act and vanishing into the ground, as well as revealing the target for 1.5 seconds. After 0.9 seconds, she blinks to a location near the target, becoming targetable again and emerging from the ground to pounce at them. Upon arrival, she slashes at the target with her claws, dealing physical damage, and dashes 125 units through them.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -258386,7 +258559,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 235074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235074.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 235075,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235075.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Fearless Fang",
+            "id": 235080,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235080.png",
+            "colors": [
+              "#FF5500",
+              "#550000"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 235079,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235079.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 235073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235073.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 235076,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235076.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 235078,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235078.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 235077,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/235/235077.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "ALERT: Warhound known as Senna sighted near local ruins. She leads the Hellfire Hounds, a group claiming to fight for Quicksilver access for all. Uses unknown Quicksilver technology to grow stronger with every drop. Prevent access to her fuel source, and do NOT underestimate her or the loyalty of her followers.",
         "release": "0000-00-00",
         "set": [
@@ -282413,12 +282755,12 @@
         "name": "Prestige Requiem",
         "id": 37075,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Requiem",
         "lootEligible": true,
         "cost": "Battle Pass",
         "sale": 0,
-        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 50)",
+        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 48)",
         "rarity": "Mythic",
         "chromas": [
           {
@@ -282444,7 +282786,7 @@
           }
         ],
         "lore": "In her finest funerary garb, Sona plays a hero's lament. Silent hands give voice to a melody that swells in triumph played forte, and cascades into the bittersweet shadow of pianissimo grief, her tribute to a fallen friend. With this performance, she will tell his tale in the form of a song that will never die, and never be forgotten.",
-        "release": "0000-00-00",
+        "release": "2026-03-04",
         "set": [
           "Chronicle"
         ],
@@ -295782,7 +296124,7 @@
               ]
             },
             {
-              "description": "If Noxian Diplomacy kills the target, Talon heals for 9 : 55 (based on level) and the ability's cooldown is reduced by 50%.",
+              "description": "If Noxian Diplomacy kills the target, Talon heals for 9 : 60.41 (based on level) and the ability's cooldown is reduced by 50%.",
               "leveling": []
             },
             {
@@ -342114,7 +342456,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 19062,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19062.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 19060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19060.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 19061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19061.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 19065,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19065.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 19066,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19066.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 19064,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19064.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 19059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19059.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 19063,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/19/19063.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "ALERT: rogue lycanthrottle sighting. Suspect codenamed “Warwick” is categorized as a “living weapon.” Half-wolf, half-machine. Highly dangerous, with a self-repairing body and unending hunger for Quicksilver. Use extreme caution, carry anti-healing countermeasures, and do NOT engage unless necessary. Contact local Wardens for retrieval.",
         "release": "0000-00-00",
         "set": [
@@ -348078,16 +348589,16 @@
         "name": "Corrupted Petricite",
         "id": 101032,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Corrupted Petricite",
         "lootEligible": true,
         "cost": "Battle Pass",
         "sale": 0,
-        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 50)",
+        "distribution": "2025, S2 Act 2 Premium Battle Pass reward (Level 24)",
         "rarity": "Epic",
         "chromas": [],
         "lore": "Even the most wondrous works of Durand's masonry may warp if the petricite absorbs too much magic. This statue was raised by Demacians in times past to honor their beloved Winged Protectors, yet now it crackles with unpredictable arcane energies, a new threat against those it was built to protect.",
-        "release": "0000-00-00",
+        "release": "2026-03-04",
         "set": [
           "The Laws of Stone"
         ],
