@@ -269112,7 +269112,7 @@
               "leveling": []
             },
             {
-              "description": "Scalemail: For each stack, Shyvana gains 0.3 bonus armor and 0.2 bonus magic resistance.",
+              "description": "Scalemail: For each stack, Shyvana gains 0.4 bonus armor and 0.4 bonus magic resistance.",
               "leveling": []
             }
           ],
@@ -269127,7 +269127,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": null,
+          "notes": "Each Scalemail stack is worth  16.\n 0.4 armor is worth  8.\n 0.4 magic resistance is worth  8.",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -269277,7 +269277,7 @@
               ]
             },
             {
-              "description": "Emberstrike's empowered attack deals 15 bonus damage to monsters.All Emberstrike casts reset Shyvana's basic attack timer.",
+              "description": "Emberstrike's empowered attack deals 10 bonus damage to monsters.All Emberstrike casts reset Shyvana's basic attack timer.",
               "leveling": []
             }
           ],
@@ -269357,18 +269357,18 @@
                     },
                     {
                       "values": [
-                        7.5,
-                        7.5,
-                        7.5,
-                        7.5,
-                        7.5
+                        5,
+                        5,
+                        5,
+                        5,
+                        5
                       ],
                       "units": [
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health"
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health"
                       ]
                     }
                   ]
@@ -269394,18 +269394,18 @@
                     },
                     {
                       "values": [
-                        2.25,
-                        2.25,
-                        2.25,
-                        2.25,
-                        2.25
+                        1.5,
+                        1.5,
+                        1.5,
+                        1.5,
+                        1.5
                       ],
                       "units": [
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health"
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health",
+                        "% maximum health"
                       ]
                     }
                   ]
@@ -269475,7 +269475,7 @@
               ]
             },
             {
-              "description": "Dragon Form Bonus: The recast's explosion will heal Shyvana for 100 : 267.65 (based on level) (+ 10% bonus AD) (+ 5% AP) if it hits an enemy champion, increased by 0% : 100% (based on missing health) for a heal of up to 200 : 535.29 (based on level) (+ 20% bonus AD) (+ 10% AP).",
+              "description": "Dragon Form Bonus: If the recast's explosion hits an enemy champion, Shyvana heals for 100 : 267.65 (based on level) (+ 10% bonus AD) (+ 5% AP), increased by 0% : 100% (based on missing health) for a maximum heal of 200 : 535.29 (based on level) (+ 20% bonus AD) (+ 10% AP).",
               "leveling": []
             }
           ],
@@ -269532,7 +269532,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Shyvana launches a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing magic damage to all nearby enemies and slowing them by 80% for 0.75 seconds.",
+              "description": "Active: Shyvana launches a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing magic damage to all nearby enemies and slowing them for 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -269555,6 +269555,22 @@
                     },
                     {
                       "values": [
+                        50,
+                        50,
+                        50,
+                        50,
+                        50
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
+                      ]
+                    },
+                    {
+                      "values": [
                         70,
                         70,
                         70,
@@ -269570,11 +269586,32 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "attribute": "Slow Strength",
+                  "modifiers": [
+                    {
+                      "values": [
+                        30,
+                        35,
+                        40,
+                        45,
+                        50
+                      ],
+                      "units": [
+                        "%",
+                        "%",
+                        "%",
+                        "%",
+                        "%"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
             {
-              "description": "Dragon Form Bonus: Molten Burst's fireball damage is increased by 25% and its slow strength is reduced to 40%. The fireball is wider, can pass through enemies, and scorches the ground along its path for 2 seconds. Upon hitting an enemy champion or large monster, or reaching maximum range, the fireball triggers an explosion centered around the target or location that deals the same damage to nearby enemies and applies the same slow. The explosion also scorches the ground in the same radius for 2 seconds. Enemies within a scorched field are dealt 3.75 / 5 / 6.25 (based on level) (+ 1.25% AP) magic damage every 0.25 seconds, for a total maximum damage of 30 / 40 / 50 (based on level) (+ 10% AP).Enemies may be damaged by only one scorched field at a time. Subsequent explosions that hit the same target deal 50% damage.",
+              "description": "Dragon Form Bonus: Molten Burst's fireball damage is increased by 25%. The fireball is wider, can pass through enemies, and scorches the ground along its path for 2 seconds. Upon hitting an enemy champion or large monster, or reaching maximum range, the fireball triggers an explosion centered around the target or location that deals the same damage to nearby enemies and applies the same slow. The explosion also scorches the ground in the same radius for 2 seconds. Enemies within a scorched field are dealt 3.75 / 5 / 6.25 (based on level) (+ 1.25% AP) magic damage every 0.25 seconds, for a total maximum damage of 30 / 40 / 50 (based on level) (+ 10% AP).Enemies may be damaged by only one scorched field at a time. Subsequent explosions that hit the same target deal 50% damage.",
               "leveling": [
                 {
                   "attribute": "Increased/Explosion Magic Damage",
@@ -269593,6 +269630,22 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        62.5,
+                        62.5,
+                        62.5,
+                        62.5,
+                        62.5
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
                       ]
                     },
                     {
@@ -269630,6 +269683,22 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        31.25,
+                        31.25,
+                        31.25,
+                        31.25,
+                        31.25
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
                       ]
                     },
                     {
@@ -269740,7 +269809,7 @@
               ]
             },
             {
-              "description": "Active: Shyvana transforms into Dragon Form and flies with displacement immunity in the target direction, exhaling a wave of fire in a frontal cone along the way that deals magic damage to enemies struck and fears them for 0.75 seconds.",
+              "description": "Active: Shyvana transforms into Dragon Form and flies with displacement immunity in the target direction, exhaling a wave of fire in a frontal cone along the way that deals magic damage to enemies struck and fears them for 1 second.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
