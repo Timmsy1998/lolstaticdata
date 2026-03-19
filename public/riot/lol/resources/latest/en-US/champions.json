@@ -101,7 +101,7 @@
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
-        "flat": 0.651000022888183,
+        "flat": 0.651,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -36794,7 +36794,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 53068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53068.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 53069,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53069.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 53072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53072.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 53071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53071.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 53074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53074.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 53067,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53067.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 53073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53073.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 53070,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/53/53070.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "For three summers in a row, Bubble Bash Blitzcrank has been flying off the shelves, driving both kids and parents crazy. Children can't get enough of slapping each other with its goopy hands, piling on stickers, and blowing bubbles everywhere, while parents groan at the ensuing messes left behind. And through it all, Blitzcrank stays smiling.",
         "release": "0000-00-00",
         "set": [
@@ -149541,7 +149710,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Kled is only vulnerable to death while Dismounted. Kled has 410 : 2061.86 (based on level) base health, which is not improved by sources of bonus health, his movement speed is reduced[ by 40 ][ to 305 ], and he gains 125 bonus attack range. Effects based on percentage health consider Kled and Skaarl's combined maximum health, meaning that a Dismounted Kled is never considered to be at full health.",
+              "description": "Innate: Kled is only vulnerable to death while Dismounted. Kled has 410 : 2061.86 (based on level) base health, which is not improved by sources of bonus health, his movement speed is reduced[ by 40 ][ to 305 ], and he gains 125 total attack range. Effects based on percentage health consider Kled and Skaarl's combined maximum health, meaning that a Dismounted Kled is never considered to be at full health.",
               "leveling": []
             },
             {
@@ -191561,7 +191730,29 @@
         "sale": 0,
         "distribution": "150 Mythic Essence",
         "rarity": "Mythic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 82058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/82/82058.png",
+            "colors": [
+              "#D231B6",
+              "#BBA147"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Mythic Shop.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": "In a past life, Mordekaiser was but a humble day trader at MundoCorp, buying and selling his meager portfolio until he was overcome with the urge to dump it all. The ensuing short-selling frenzy netted him a windfall, and Mordekaiser was reborn as the Currency Conqueror! A new day of trading has begun, and he will be ringing the bell.",
         "release": "0000-00-00",
         "set": [
@@ -214663,13 +214854,13 @@
         "percentPerLevel": 0.0
       },
       "attackSpeed": {
-        "flat": 0.694,
+        "flat": 0.72,
         "percent": 0.0,
         "perLevel": 2.7,
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
-        "flat": 0.72,
+        "flat": 0.694,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -215298,7 +215489,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The health cost is equal to 30% of the total damage dealt by Reckless Swing.\nReckless Swing can be cast even if Olaf doesn't have the sufficient amount of health to pay for the health cost.\nAs with all abilities with health costs, Reckless Swing will not reduce Olaf's health below 1.\nReckless Swing's health refund is considered a  heal therefore it is affected by healing modifiers.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nOlaf will also not receive the benefits from killing an enemy if this canceling takes place very shortly before the attack hits the invalidated target, but Reckless Swing's effect will be consumed.(bug)",
+          "notes": "The health cost is equal to 40% of the total damage dealt by Reckless Swing.\nReckless Swing can be cast even if Olaf doesn't have the sufficient amount of health to pay for the health cost.\nAs with all abilities with health costs, Reckless Swing will not reduce Olaf's health below 1.\nReckless Swing's health refund is considered a  heal therefore it is affected by healing modifiers.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nOlaf will also not receive the benefits from killing an enemy if this canceling takes place very shortly before the attack hits the invalidated target, but Reckless Swing's effect will be consumed.(bug)",
           "blurb": "Active:  Olaf consumes  health to strike thunder onto the target enemy, dealing true damage. If this kills the target, Olaf  heals the  health cost.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -256112,7 +256303,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 113053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113053.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 113052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113052.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 113056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113056.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 113055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113055.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 113051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113051.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 113049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113049.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 113050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113050.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 113054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/113/113054.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Sejuani is the latest and greatest in a long line of Pugmothers. Brutal in her rope-toy battles with her pups, yet benevolent in her handing out of treats, she rides atop her favorite pug, Snorty. With chewy flail in hand, they scamper together across the battlefield ready to face their feline adversaries.",
         "release": "0000-00-00",
         "set": [
@@ -269242,7 +269602,7 @@
               "leveling": []
             },
             {
-              "description": "Scalemail: For each stack, Shyvana gains 0.4 bonus armor and 0.4 bonus magic resistance.",
+              "description": "Scalemail: For each stack, Shyvana gains 0.3 bonus armor and 0.3 bonus magic resistance.",
               "leveling": []
             }
           ],
@@ -269257,7 +269617,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Each Scalemail stack is worth  16.\n 0.4 armor is worth  8.\n 0.4 magic resistance is worth  8.",
+          "notes": "Each Scalemail stack is worth  12.\n 0.3 armor is worth  6.\n 0.3 magic resistance is worth  6.",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -269279,11 +269639,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shyvana/ability-icon/q",
           "effects": [
             {
-              "description": "Passive: Shyvana's basic attacks on-hit deal bonus magic damage equal to 1% (+ 1.7% per 100 bonus AD) (+ 1.3% per 100 AP) of the target's maximum health. Against non-champions, this damage deals a minimum of 10 and is capped at 200. Additionally, her basic attacks on-hit reduce the remaining cooldown of Emberstrike by 1.25 seconds.",
+              "description": "Passive: Shyvana's basic attacks on-hit deal bonus magic damage equal to 1% (+ 1.1% per 100 bonus AD) (+ 1.1% per 100 AP) of the target's maximum health. Against non-champions, this damage deals a minimum of 10 and is capped at 200. Additionally, her basic attacks on-hit reduce the remaining cooldown of Emberstrike by 1 second.",
               "leveling": []
             },
             {
-              "description": "Active: Shyvana empowers her next basic attack within 6 seconds to gain 50 bonus range and trigger a blast in the target's direction that deals modified physical damage to enemies hit in a cone. Emberstrike's damage to the primary target is affected by critical strike modifiers.After 1.5 seconds of using the empowered attack, or immediately after her next basic attack, Shyvana can recast Emberstrike within and up to the next 4 seconds.",
+              "description": "Active: Shyvana empowers her next basic attack within 6 seconds to have an uncancellable windup, gain 50 bonus range and trigger a blast in the target's direction that deals modified physical damage to enemies hit in a cone. Emberstrike's damage to the primary target is affected by critical strike modifiers.After 1.5 seconds of using the empowered attack, or immediately after her next basic attack, Shyvana can recast Emberstrike within and up to the next 4 seconds.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -269349,7 +269709,7 @@
               "leveling": []
             },
             {
-              "description": "Second Recast: Shyvana empowers her next basic attack within 6 seconds to gain 50 bonus range and cause her to bite the target, dealing them modified true damage. This attack cannot critically strike.",
+              "description": "Second Recast: Shyvana empowers her next basic attack within 6 seconds to have an uncancellable windup, gain 50 bonus range and cause her to bite the target, dealing them modified true damage. This attack cannot critically strike.",
               "leveling": [
                 {
                   "attribute": "True Damage",
@@ -269605,7 +269965,7 @@
               ]
             },
             {
-              "description": "Dragon Form Bonus: If the recast's explosion hits an enemy champion, Shyvana heals for 100 : 267.65 (based on level) (+ 10% bonus AD) (+ 5% AP), increased by 0% : 100% (based on her missing health) for a maximum heal of 200 : 535.29 (based on level) (+ 20% bonus AD) (+ 10% AP).",
+              "description": "Dragon Form Bonus: If the recast's explosion hits an enemy champion, Shyvana heals for 75 : 270.59 (based on level) (+ 10% bonus AD) (+ 5% AP), increased by 0% : 100% (based on her missing health) for a maximum heal of 150 : 541.18 (based on level) (+ 20% bonus AD) (+ 10% AP).",
               "leveling": []
             }
           ],
@@ -269670,10 +270030,10 @@
                     {
                       "values": [
                         80,
-                        120,
-                        160,
-                        200,
-                        240
+                        110,
+                        140,
+                        170,
+                        200
                       ],
                       "units": [
                         "",
@@ -269685,11 +270045,11 @@
                     },
                     {
                       "values": [
-                        50,
-                        50,
-                        50,
-                        50,
-                        50
+                        35,
+                        35,
+                        35,
+                        35,
+                        35
                       ],
                       "units": [
                         "% bonus AD",
@@ -269722,11 +270082,11 @@
                   "modifiers": [
                     {
                       "values": [
+                        20,
+                        25,
                         30,
                         35,
-                        40,
-                        45,
-                        50
+                        40
                       ],
                       "units": [
                         "%",
@@ -269749,10 +270109,10 @@
                     {
                       "values": [
                         100,
-                        150,
-                        200,
-                        250,
-                        300
+                        137.5,
+                        175,
+                        212.5,
+                        250
                       ],
                       "units": [
                         "",
@@ -269764,11 +270124,11 @@
                     },
                     {
                       "values": [
-                        62.5,
-                        62.5,
-                        62.5,
-                        62.5,
-                        62.5
+                        43.75,
+                        43.75,
+                        43.75,
+                        43.75,
+                        43.75
                       ],
                       "units": [
                         "% bonus AD",
@@ -269802,10 +270162,10 @@
                     {
                       "values": [
                         50,
-                        75,
-                        100,
-                        125,
-                        150
+                        68.75,
+                        87.5,
+                        106.25,
+                        125
                       ],
                       "units": [
                         "",
@@ -269817,11 +270177,11 @@
                     },
                     {
                       "values": [
-                        31.25,
-                        31.25,
-                        31.25,
-                        31.25,
-                        31.25
+                        21.875,
+                        21.875,
+                        21.875,
+                        21.875,
+                        21.875
                       ],
                       "units": [
                         "% bonus AD",
@@ -269939,7 +270299,7 @@
               ]
             },
             {
-              "description": "Active: Shyvana transforms into Dragon Form and flies with displacement immunity in the target direction, exhaling a wave of fire in a frontal cone along the way that deals magic damage to enemies struck and fears them for 1 second.",
+              "description": "Active: Shyvana transforms into Dragon Form and flies with displacement immunity in the target direction, exhaling a wave of fire in a frontal cone along the way that deals magic damage to enemies struck and fears them for 0.75 seconds.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -270850,7 +271210,7 @@
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
-        "flat": 0.625,
+        "flat": 0.69,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -287581,7 +287941,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 50044,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50044.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 50046,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50046.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 50049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50049.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 50047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50047.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 50043,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50043.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 50048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50048.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 50045,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50045.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 50050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/50/50050.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Swain's Hot Chicken franchises sprung up everywhere seemingly overnight, thanks to the deliciously ruthless planning of The Fried King himself. After seizing control of his family's secret spice recipes, he saw an immediate path to world domination: fast food. Now Swain has the world eating out of his well-oiled palm, hungry for more.",
         "release": "0000-00-00",
         "set": [
@@ -294403,7 +294932,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 223044,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223044.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 223041,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223041.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 223042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223042.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 223047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223047.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 223040,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223040.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sandstone",
+            "id": 223046,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223046.png",
+            "colors": [
+              "#DED6B0",
+              "#DED6B0"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 223043,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223043.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 223045,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/223/223045.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "When Tahm Kench heard that this year's TFT Open Series was taking place near his watering hole, he couldn't believe his luck. Tears of anguish will be flowing everywhere, enough to feed on for months! Tahm decided that this called for a special outfit, dressing up as the only thing in the world hungrier than him: Choncc.",
         "release": "0000-00-00",
         "set": [
@@ -330665,7 +331363,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 711031,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711031.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 711032,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711032.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 711037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711037.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 711036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711036.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 711035,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711035.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 711030,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711030.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 711034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711034.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 711033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/711/711033.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Vex used to hate clowns. Dressing up in a goofy outfit and doing tricks to make people laugh? Why would anyone want to do that? Then she discovered that most people are scared of clowns. Now she loves them, and for the first time in her life, has a calling she actually enjoys.",
         "release": "0000-00-00",
         "set": [
@@ -364075,7 +364942,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The bonus attack damage granted by Determination stacks will update dynamically with Zaahen's total attack damage.\nDetermination stacks are generated per damage instance per champion damaged with Zaahen's attacks and abilities.\n The Darkin Glaive's initial cast empowered attack can generate a stack for each strike.\nBoth passes of  Dreaded Return can generate a stack.\nBoth  Aureate Rush's swing and  Grim Deliverance's shockwave generate a stack for every champion hit.\nDuring the resurrection's health restoration, Zaahen's  current health is set to a percentage of his maximum health equal to the cumulative amount of health restored on that restoration tick, for every single tick.\nIn other words, his current health will always be overridden by the percentage of health he is supposed to have restored on every restoration tick, to prevent him from healing or restoring health by other sources.\nUpon the resurrection being triggered, all summoner spells that are not already on cooldown are placed on a 5-second  cooldown.\nThe  untargetability from the resurrection does not  destroy in-flight  projectiles.\nCultivation of War's resurrection takes priority over  Guardian Angel's Rebirth, but grants priority to  Zilean's  Chronoshift.\nThe resurrection does not activate if Zaahen is killed by the  Nexus Obelisk.\n Spell shield will not prevent stacks from being generated, even if no damage is dealt.(bug)\nCultivation of War  stacks additively with  Infernal Might and  Overlord's Bloodmail's Retribution.\nDetermination stacks are displayed in a secondary resource bar under Zaahen's health bar.\nThe bar is white at <4 stacks, yellow at ≥4 stacks and orange at ≥9 stacks.\nAt maximum stacks, if the revive is available, the bar will be red and will remain red after Zaahen revives until he loses stacks again.(note)\nThere's a short delay between the stacks falling off and the removal of the revive. If Zaahen triggers it during this time, it will fail to go on cooldown.(bug)\nThe following table refers for interactions while Zaahen is locked out during the resurrection:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "The bonus attack damage granted by Determination stacks will update dynamically with Zaahen's total attack damage.\nDetermination stacks are generated per damage instance per champion damaged with Zaahen's attacks and abilities.\n The Darkin Glaive's initial cast empowered attack can generate a stack for each strike.\nBoth passes of  Dreaded Return can generate a stack.\nBoth  Aureate Rush's swing and  Grim Deliverance's shockwave generate a stack for every champion hit.\n Ivern's  Triggerseed generates a stack for every champion hit when cast on Zaahen.(bug)\nDuring the resurrection's health restoration, Zaahen's  current health is set to a percentage of his maximum health equal to the cumulative amount of health restored on that restoration tick, for every single tick.\nIn other words, his current health will always be overridden by the percentage of health he is supposed to have restored on every restoration tick, to prevent him from healing or restoring health by other sources.\nUpon the resurrection being triggered, all summoner spells that are not already on cooldown are placed on a 5-second  cooldown.\nThe  untargetability from the resurrection does not  destroy in-flight  projectiles.\nCultivation of War's resurrection takes priority over  Guardian Angel's Rebirth, but grants priority to  Zilean's  Chronoshift.\nThe resurrection does not activate if Zaahen is killed by the  Nexus Obelisk.\n Spell shield will not prevent stacks from being generated, even if no damage is dealt.(bug)\nCultivation of War  stacks additively with  Infernal Might and  Overlord's Bloodmail's Retribution.\nDetermination stacks are displayed in a secondary resource bar under Zaahen's health bar.\nThe bar is white at <4 stacks, yellow at ≥4 stacks and orange at ≥9 stacks.\nAt maximum stacks, if the revive is available, the bar will be red and will remain red after Zaahen revives until he loses stacks again.(note)\nThere's a short delay between the stacks falling off and the removal of the revive. If Zaahen triggers it during this time, it will fail to go on cooldown.(bug)\nThe following table refers for interactions while Zaahen is locked out during the resurrection:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Innate:  Zaahen's  basic attacks and  abilities against enemy  champions grant him  stacks of Determination, refreshing on subsequent damage to champions and stacking up to 12 times.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -364376,10 +365243,47 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Zaahen/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Zaahen extends his glaive in the target direction, dealing physical damage to enemies hit. Upon reaching maximum range, all enemies hit are dealt the same physical damage, stunned for 0.25 seconds, and pulled 225 units toward Zaahen.",
+              "description": "Active: Zaahen extends his glaive in the target direction, dealing physical damage to enemies hit. Upon reaching maximum range, all enemies hit are dealt physical damage, stunned for 0.25 seconds, and pulled 225 units toward Zaahen.",
               "leveling": [
                 {
-                  "attribute": "Physical Damage",
+                  "attribute": "Initial Physical Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        60,
+                        80,
+                        100,
+                        120
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        50,
+                        50,
+                        50,
+                        50,
+                        50
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Subsequent Physical Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -364420,11 +365324,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        60,
-                        100,
-                        140,
-                        180,
-                        220
+                        70,
+                        110,
+                        150,
+                        190,
+                        230
                       ],
                       "units": [
                         "",
@@ -364436,11 +365340,11 @@
                     },
                     {
                       "values": [
-                        60,
-                        60,
-                        60,
-                        60,
-                        60
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
                       ],
                       "units": [
                         "% bonus AD",
@@ -376030,7 +376934,7 @@
               ]
             },
             {
-              "description": "The next instance of non- persistent damage that the sleeping target takes from champions, large monsters or turrets consumes the debuff to deal bonus true damage equal to the post-mitigation damage dealt, capped at Sleepy Trouble Bubble's damage.",
+              "description": "The next instance of non- persistent damage from champions, large monsters or turrets within 3.25 seconds after the target starts sleeping consumes the debuff to deal bonus true damage equal to the post-mitigation damage dealt, capped at Sleepy Trouble Bubble's damage.",
               "leveling": [
                 {
                   "attribute": "Bonus Damage Cap",
