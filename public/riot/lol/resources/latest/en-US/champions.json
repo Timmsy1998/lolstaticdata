@@ -36787,7 +36787,7 @@
         "name": "Bubble Bash",
         "id": 53066,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Bubble Bash",
         "lootEligible": true,
         "cost": 1350,
@@ -36965,7 +36965,7 @@
           }
         ],
         "lore": "For three summers in a row, Bubble Bash Blitzcrank has been flying off the shelves, driving both kids and parents crazy. Children can't get enough of slapping each other with its goopy hands, piling on stickers, and blowing bubbles everywhere, while parents groan at the ensuing messes left behind. And through it all, Blitzcrank stays smiling.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Toy Box"
         ],
@@ -41178,7 +41178,197 @@
         "sale": 0,
         "distribution": "Reward for earning split points in Season 2026 - Split 1.",
         "rarity": "NoRarity",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Bronze",
+            "id": 201052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201052.png",
+            "colors": [
+              "#764D43",
+              "#764D43"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Challenger",
+            "id": 201060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201060.png",
+            "colors": [
+              "#1D62C8",
+              "#1D62C8"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Diamond",
+            "id": 201055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201055.png",
+            "colors": [
+              "#55CDE5",
+              "#55CDE5"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 201056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201056.png",
+            "colors": [
+              "#26854C",
+              "#26854C"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 3,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Gold",
+            "id": 201054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201054.png",
+            "colors": [
+              "#D9C445",
+              "#D9C445"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Grandmaster",
+            "id": 201059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201059.png",
+            "colors": [
+              "#B31316",
+              "#B31316"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 4,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Master",
+            "id": 201058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201058.png",
+            "colors": [
+              "#9D228D",
+              "#9D228D"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 4,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Platinum",
+            "id": 201057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201057.png",
+            "colors": [
+              "#65337F",
+              "#65337F"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 3,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Silver",
+            "id": 201053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201053.png",
+            "colors": [
+              "#AAB5BA",
+              "#AAB5BA"
+            ],
+            "descriptions": [
+              {
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Victorious Braum was earned by players who accumulated enough split points in Ranked. Braum's tenacity proved him a hero worthy of divine blessings. Wielding the phoenix's frost, the ram's armor, and the bear's claws, Braum became the Freljord's eternal protector. Behind his steadfast shield, all the land now knows the power of peace and a warm smile.",
         "release": "0000-00-00",
         "set": [
@@ -191793,7 +191983,7 @@
         "name": "Prestige Money Miser",
         "id": 82055,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Money Miser",
         "lootEligible": true,
         "cost": "Special",
@@ -191824,7 +192014,7 @@
           }
         ],
         "lore": "In a past life, Mordekaiser was but a humble day trader at MundoCorp, buying and selling his meager portfolio until he was overcome with the urge to dump it all. The ensuing short-selling frenzy netted him a windfall, and Mordekaiser was reborn as the Currency Conqueror! A new day of trading has begun, and he will be ringing the bell.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Day Job"
         ],
@@ -221572,11 +221762,11 @@
           "spellshieldable": "special",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "aoe",
+          "spellEffects": "special",
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The initial cast count as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDetonating the ability manually is not.\nPantheon retains his  invulnerability during the recast's cast time.\nThis ability will cast from wherever the caster is at the start of the cast time.\nPantheon will slam from wherever he was at the start of the recast's' cast time.\n Spell shield will only block the slam's damage.\nThe following table refers for interactions while Pantheon is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport\n\n\nDisabled\n\n Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Deals  persistent area damage for the continuous strikes and  area damage with the slam.\nThe initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nRecasting the ability manually does not.\nPantheon retains his  invulnerability during the recast's cast time.\nThis ability will cast from wherever the caster is at the start of the cast time.\nPantheon will slam from wherever he was at the start of the recast's' cast time.\n Spell shield will only block the slam's damage.\nThe following table refers for interactions while Pantheon is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport\n\n\nDisabled\n\n Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -256366,7 +256556,7 @@
         "name": "Pug Trainer",
         "id": 113048,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Pug Trainer",
         "lootEligible": true,
         "cost": 1350,
@@ -256544,7 +256734,7 @@
           }
         ],
         "lore": "Sejuani is the latest and greatest in a long line of Pugmothers. Brutal in her rope-toy battles with her pups, yet benevolent in her handing out of treats, she rides atop her favorite pug, Snorty. With chewy flail in hand, they scamper together across the battlefield ready to face their feline adversaries.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Cats Versus Dogs"
         ],
@@ -277896,7 +278086,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 15074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15074.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 15076,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15076.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 15077,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15077.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 15078,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15078.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 15080,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15080.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 15073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15073.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 15075,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15075.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 15079,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/15/15079.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Sivir harbors a dark secret beneath her chassis. On the surface, she is a skilled hacker for the G/NETIC rebellion, able to bypass even the most complex code or security system in Sound City. But none know of her deep ties to Command Line—or of the corruption in her system that could activate at any moment, turning rebel into sleeper agent.",
         "release": "0000-00-00",
         "set": [
@@ -288043,7 +288402,7 @@
         "name": "Fried Chicken King",
         "id": 50042,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Fried Chicken King",
         "lootEligible": true,
         "cost": 1350,
@@ -288221,7 +288580,7 @@
           }
         ],
         "lore": "Swain's Hot Chicken franchises sprung up everywhere seemingly overnight, thanks to the deliciously ruthless planning of The Fried King himself. After seizing control of his family's secret spice recipes, he saw an immediate path to world domination: fast food. Now Swain has the world eating out of his well-oiled palm, hungry for more.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Day Job"
         ],
@@ -295034,7 +295393,7 @@
         "name": "Choncc Kench",
         "id": 223039,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Choncc Kench",
         "lootEligible": true,
         "cost": 1350,
@@ -295212,7 +295571,7 @@
           }
         ],
         "lore": "When Tahm Kench heard that this year's TFT Open Series was taking place near his watering hole, he couldn't believe his luck. Tears of anguish will be flowing everywhere, enough to feed on for months! Tahm decided that this called for a special outfit, dressing up as the only thing in the world hungrier than him: Choncc.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Superfans"
         ],
@@ -313157,7 +313516,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nRecasting the ability does not.\nThe first card shown is random but the order always remains the same ( Blue Card,  Red Card,  Gold Card, repeat).\nUpon activation, an indicator visible to allies and enemies appears above Twisted Fate to show him shuffling his deck of cards while remaining in the same order, the card he can choose at every moment glows over the others. The selected card is specified for the duration of the enhanced attack.\nPENDING FOR TEST: The interval until the next card is hovered is 0.528 seconds every time, instead of some times 0.528 and other times 0.495.\nIf the target becomes  untargetable,  dies, or is too far away during the empowered attack's cast time, it is cancelled but not consumed.\nThe empowered attack will trigger against structures and buildings but not wards and plants.",
+          "notes": "The initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nRecasting the ability does not.\nThe first card shown is random but the order always remains the same ( Blue Card,  Red Card,  Gold Card, repeat).\nUpon activation, an indicator visible to allies and enemies appears above Twisted Fate to show him shuffling his deck of cards while remaining in the same order, the card he can choose at every moment glows over the others. The selected card is specified for the duration of the enhanced attack.\nPENDING FOR TEST: The interval until the next card is hovered is 0.528 seconds every time, instead of some times 0.528 and other times 0.495.\nIf the target becomes  untargetable,  dies, or is too far away during the empowered attack's cast time, it is cancelled but not consumed.\nThe empowered attack will trigger against structures and buildings but not wards and plants.\nThe empowered attack is special cased to not trigger a stack of  Fiendhunter Bolts' Opening Barrage.",
           "blurb": "Active:  Twisted Fate cycles through three cards over the next few seconds. Pick a Card can be recast within the duration, which selects the current card hovered.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -331465,7 +331824,7 @@
         "name": "Surprise Party",
         "id": 711029,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Surprise Party",
         "lootEligible": true,
         "cost": 1350,
@@ -331643,7 +332002,7 @@
           }
         ],
         "lore": "Vex used to hate clowns. Dressing up in a goofy outfit and doing tricks to make people laugh? Why would anyone want to do that? Then she discovered that most people are scared of clowns. Now she loves them, and for the first time in her life, has a calling she actually enjoys.",
-        "release": "2026-04-15",
+        "release": "2026-04-01",
         "set": [
           "Surprise Party"
         ],
@@ -339618,7 +339977,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 8051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8051.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 8055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8055.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 8056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8056.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 8057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8057.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 8052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8052.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 8050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8050.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 8054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8054.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 8053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/8/8053.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "In the Black Rose Group, an unseen overseer whispers commands from the shadows. He is Vladimir, some say the <i>true</i> leader of the BRG—a soldier as ancient as the very practice of psychic operations. He is a puppet master without equal, the bodies and minds he controls an extension of himself used to carry out his sinister, hidden agenda.",
         "release": "0000-00-00",
         "set": [
@@ -339637,7 +340165,10 @@
         "voiceActor": [
           "Kevin M. Connolly"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Francis Tneh",
+          "West Studio"
+        ]
       }
     ]
   },
@@ -367871,7 +368402,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 154035,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154035.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 154038,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154038.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 154041,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154041.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 154040,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154040.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 154036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154036.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 154034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154034.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 154037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154037.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 154039,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/154/154039.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Zac bubbled up from the primordial rivers of Boogiewonderland, a living mass of groove given form. On his planet, funk isn't just music, but the makeup of all matter, pulsing through Zac's bass-boosted heart as he dances across the galaxy. Wherever this entity goes, the rhythm flows—and silence won't stand a chance!",
         "release": "0000-00-00",
         "set": [
