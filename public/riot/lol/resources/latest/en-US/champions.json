@@ -13927,6 +13927,10 @@
                   ]
                 }
               ]
+            },
+            {
+              "description": "Despair is toggled off automatically if Amumu becomes unable to pay its mana cost.",
+              "leveling": []
             }
           ],
           "cost": {
@@ -16623,7 +16627,7 @@
               ]
             },
             {
-              "description": "Active: Anivia calls forth a driving rain of ice and hail at the target location, dealing magic damage every 0.5 seconds to enemies within and slowing them for 1 second, refreshing every 0.5 seconds while they remain inside.",
+              "description": "Toggle: Anivia calls forth a driving rain of ice and hail at the target location, dealing magic damage every 0.5 seconds to enemies within and slowing them for 1 second, refreshing every 0.5 seconds while they remain inside.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Tick",
@@ -16725,11 +16729,7 @@
               ]
             },
             {
-              "description": "Glacial Storm can be recast after 1 second, and does so automatically if Anivia is no longer in range or unable to pay the mana cost, or becomes affected by any form of cast-inhibiting crowd control.",
-              "leveling": []
-            },
-            {
-              "description": "Recast: Anivia ends Glacial Storm, dealing one last tick of damage.",
+              "description": "Toggling Glacial Storm off triggers a final tick of damage and incurs its full cooldown. Glacial Storm is toggled off automatically if Anivia moves too far away from the blizzard or becomes unable to pay the mana cost, or is affected by any form of cast-inhibiting crowd control.",
               "leveling": []
             }
           ],
@@ -16764,7 +16764,7 @@
                 ]
               }
             ],
-            "affectedByCdr": true
+            "affectedByCdr": false
           },
           "targeting": "Location / Auto",
           "affects": "Enemies",
@@ -16775,7 +16775,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nGlacial Storm's slow leaves a trail that is visible even if the target is stealthed.\nGlacial Storm deals 3 half ticks at 200 / 267 / 333 radius for a total of 1.5 normal damage ticks before it starts dealing empowered damage at 400 radius.\n Stasis via  Zhonya's Hourglass doesn't interrupt Glacial Storm.\n Tahm Kench's  Devour does interrupt (allied and enemy) Glacial Storm.",
+          "notes": "Toggled abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nGlacial Storm's slow leaves a trail that is visible even if the target is stealthed.\nGlacial Storm deals 3 half ticks at 200 / 267 / 333 radius for a total of 1.5 normal damage ticks before it starts dealing empowered damage at 400 radius.\n Stasis via  Zhonya's Hourglass doesn't interrupt Glacial Storm.\n Tahm Kench's  Devour does interrupt (allied and enemy) Glacial Storm.",
           "blurb": "Passive:  Flash Frost's  slow is increased.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -100582,11 +100582,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Heimerdinger/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Heimerdinger empowers his next basic ability for an additional effect, consuming the empowerment upon cast and placing UPGRADE!!! on full cooldown. These empowered abilities have the same cooldowns as their basic forms, deal modified damage, and do not have a mana cost. UPGRADE!!! can be recast after 3 seconds while the empowerment is available.",
+              "description": "Toggle: Heimerdinger empowers his next basic ability for an additional effect, consuming the empowerment upon cast and placing UPGRADE!!! on full cooldown. These empowered abilities have the same cooldowns as their basic forms, deal modified damage, and do not have a mana cost.",
               "leveling": []
             },
             {
-              "description": "Recast: Heimerdinger ends UPGRADE!!! and puts it on a 3-second cooldown.",
+              "description": "UPGRADE!!! incurs its static cooldown on-cast, and can be toggled off to remove the empowerment and place the ability on its static cooldown.",
               "leveling": []
             },
             {
@@ -100625,7 +100625,7 @@
                 ]
               }
             ],
-            "affectedByCdr": true
+            "affectedByCdr": false
           },
           "targeting": "Auto",
           "affects": "Self",
@@ -100636,7 +100636,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nConsuming the buff for an empowered basic ability does.\nNo compensations for  mana are made if UPGRADE!!! is recast.",
+          "notes": "Toggled abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nConsuming the buff for an empowered basic ability does.\nNo compensations for  mana are made if UPGRADE!!! is toggled off; Heimerdinger will lose 100 mana each time he toggles the ability on and off.",
           "blurb": "Active:  Heimerdinger can empower his next ability to apply an additional effect. These empowered abilities have the same  cooldowns as their basic forms, deal modified damage, and do not cost mana.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -133281,7 +133281,7 @@
               ]
             },
             {
-              "description": "Toggle: Karthus surrounds himself in a necrotic aura that deals magic damage every 0.25 seconds to all nearby enemies. Toggling Defile off triggers a final tick of damage.",
+              "description": "Toggle: Karthus surrounds himself in a necrotic aura that deals magic damage every 0.25 seconds to all nearby enemies.",
               "leveling": [
                 {
                   "attribute": "Magic Damage Per Tick",
@@ -133360,6 +133360,10 @@
               ]
             },
             {
+              "description": "Toggling Defile off triggers a final tick of damage. Defile is toggled off automatically if Karthus becomes unable to pay its mana cost.",
+              "leveling": []
+            },
+            {
               "description": "Defile cannot be toggled off during Death Defied.",
               "leveling": []
             }
@@ -133414,7 +133418,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDefile will restore  mana if Karthus destroys an enemy structure.\nDefile re-calculates its damage with each tick based on changes in Karthus's ability power or an increase in the rank of Defile without the need to toggle it off and on again.\nDefile will toggle off automatically if Karthus enters  resurrection.",
+          "notes": "Toggled abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDefile will restore  mana if Karthus destroys an enemy structure.\nDefile re-calculates its damage with each tick based on changes in Karthus's ability power or an increase in the rank of Defile without the need to toggle it off and on again.\nDefile will toggle off automatically if Karthus enters  resurrection.",
           "blurb": "Passive:  Karthus restores  mana whenever he kills an enemy.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -271646,7 +271650,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Singed/ability-icon/q",
           "effects": [
             {
-              "description": "Toggle: Singed continually creates a toxic cloud in his wake that lingers for 3.25 seconds. The cloud inflicts poison to enemies within.",
+              "description": "Toggle: Singed continually creates a toxic cloud in his wake that lingers for 3.25 seconds. The cloud inflicts poison to enemies within.Poison Trail is toggled off automatically if Singed becomes unable to pay its mana cost.",
               "leveling": []
             },
             {
@@ -368994,7 +368998,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Shurikens blocked by  spell shield still count as being hit for the reduced pass-through damage.\nIf Zed buffers an attack command during Razor Shuriken's cast time the attack will perform slower than if Zed had attacked after the cast time.\nThe same does not happen if Zed recasts  Living Shadow during Razor Shuriken's cast time.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "Shurikens blocked by  spell shield still count as being hit for the reduced pass-through damage.\nRazor Shuriken is special cased to not lock out  Living Shadow's recast during its cast time.\nOther abilities are locked out and buffered to cast after Razor Shuriken's cast time, as normal.\nIf Zed buffers an attack command during Razor Shuriken's cast time the attack will perform slower than if Zed had attacked after the cast time.\nThe same does not happen if Zed recasts  Living Shadow during Razor Shuriken's cast time.\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Zed throws a shuriken in the target direction that deals physical damage to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
