@@ -46015,9 +46015,11 @@
                 "values": [
                   18,
                   14,
-                  10
+                  10,
+                  6
                 ],
                 "units": [
+                  " (based on level)",
                   " (based on level)",
                   " (based on level)",
                   " (based on level)"
@@ -64005,7 +64007,9 @@
         "voiceActor": [
           "Erik Braa"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Pandart Studio"
+        ]
       }
     ]
   },
@@ -346243,7 +346247,9 @@
         "voiceActor": [
           "Spike Spencer"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Pandart Studio"
+        ]
       }
     ]
   },
