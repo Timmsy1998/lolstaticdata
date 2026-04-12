@@ -942,12 +942,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "800 / Up to 1340",
+          "speed": "800 | Up to 1340",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "75 / 300 / 500"
+          "targetRange": "75 | 300 | 500"
         }
       ],
       "R": [
@@ -2545,7 +2545,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1550 / 60 - 2600",
+          "speed": "1550 | 60 - 2600",
           "width": "200",
           "angle": null,
           "castTime": "0.25",
@@ -2820,11 +2820,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "75.92° per second / 1400",
+          "speed": "75.92° per second | 1400",
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "150 / 550 / 725",
+          "effectRadius": "150 | 550 | 725",
           "targetRange": null
         }
       ],
@@ -3061,7 +3061,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1200 + 100% movement speed / 1400",
+          "speed": "1200 + 100% movement speed | 1400",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -5779,7 +5779,7 @@
           "angle": "20°",
           "castTime": "0.25 / 0.225 / 0.2 / 0.175 (based on level)",
           "effectRadius": null,
-          "targetRange": "500 / 120"
+          "targetRange": "500 | 120"
         }
       ],
       "W": [
@@ -5894,7 +5894,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "350 / 1175",
+          "effectRadius": "350 | 1175",
           "targetRange": "250"
         }
       ],
@@ -6122,7 +6122,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction | Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "True",
           "resource": "ENERGY",
@@ -6139,10 +6139,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 / 1500",
+          "speed": "1800 | 1500",
           "width": "120",
           "angle": null,
-          "castTime": "0.25 / 0.1",
+          "castTime": "0.25 | 0.1",
           "effectRadius": "Global",
           "targetRange": "825"
         }
@@ -6284,7 +6284,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Unit / Direction",
+          "targeting": "Unit | Direction",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": null,
@@ -6301,10 +6301,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 / 3000",
+          "speed": "1500 | 3000",
           "width": null,
           "angle": null,
-          "castTime": "0.25 / None",
+          "castTime": "0.25 | None",
           "effectRadius": null,
           "targetRange": "675"
         }
@@ -9005,7 +9005,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 5000",
+          "speed": "2000 | 5000",
           "width": null,
           "angle": null,
           "castTime": null,
@@ -9191,7 +9191,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 / 2400",
+          "speed": "1500 | 2400",
           "width": "120",
           "angle": null,
           "castTime": "0.25",
@@ -9459,7 +9459,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 / 1200 / 3000",
+          "speed": "2500 | 1200 | 3000",
           "width": "80",
           "angle": null,
           "castTime": "none",
@@ -10494,7 +10494,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "1000 / 950",
+          "effectRadius": "1000 | 950",
           "targetRange": null
         }
       ],
@@ -10607,7 +10607,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25 / 0.15",
+          "castTime": "0.25 | 0.15",
           "effectRadius": "375",
           "targetRange": null
         }
@@ -10710,7 +10710,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The dash speed depends on the inverse of the distance to the target:\nIf Alistar's  radius overlaps with his target's, he will dash with 1200 speed.\nIf Alistar is further from his target than the previous condition, he will dash with (1200  ×  dash distance) / (dash distance - sum of radiuses).\nAt maximum target range, against an enemy with a 65  gameplay radius (median of all champions), Alistar will dash with 1544 speed (reaching his target within 0.429 seconds).\nBoth the lower the dash distance and the larger Alistar and/or his target, the faster the dash becomes; this scales hyperbolically.\nWhen  Pulverize is buffered during the dash, the knockback distance is reduced to 200 units.\nThe CC duration of the ability can be reduced by up to 33.33%  Tenacity, due to airborne not being reducible while the stun is.\nThe  knockback direction is in a straight line from Alistar's original location at start of cast and the enemy when Alistar's dash ends.\nHeadbutt can knock enemies through terrain. The  knockback stops short on walls that cannot be surpassed but the disable duration is not changed.\nThe spell indicator for this ability also displays the direction for the knock back relative to Alistar's position.\nAlistar's  attack range is reduced[ to -375 ][ by 500 ]during Headbutt, to prevent him from being able to attack the target when he completes the dash.\n Displacement immunity will not resist the application of the  stun.",
+          "notes": "The dash speed depends on the inverse of the distance to the target:\nIf Alistar's  radius overlaps with his target's, he will dash with 1200 speed.\nIf Alistar is further from his target than the previous condition, he will dash with (1200  ×  dash distance) / (dash distance - sum of radiuses).\nAt maximum target range, against an enemy with a 65  gameplay radius (median of all champions), Alistar will dash with 1544 speed (reaching his target within 0.429 seconds).\nBoth the lower the dash distance and the larger Alistar and/or his target, the faster the dash becomes; this scales hyperbolically (dash speed can theoretically scale up to ∞).\nWhen  Pulverize is buffered during the dash, the knock back distance is reduced to 200 units.\nThe CC duration of the ability can be reduced by up to 33.33%  Tenacity, due to airborne not being reducible while the stun is.\nThe  knockback direction is in a straight line from Alistar's original location at start of cast and the enemy when Alistar's dash ends.\nHeadbutt can knock enemies through terrain. The  knockback stops short on walls that cannot be surpassed but the disable duration is not changed.\nThe spell indicator for this ability also displays the direction for the knock back relative to Alistar's position.\nAlistar's  attack range is reduced[ to -375 ][ by 500 ]during Headbutt, to prevent him from being able to attack the target when he completes the dash.\n Displacement immunity will not resist the application of the  stun.",
           "blurb": "Active:  Alistar  dashes to the target enemy, dealing magic damage,  stunning, and  knocking them back.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -10718,7 +10718,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1200 / 1544 / ∞",
+          "speed": "1200 | 1544",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -12416,7 +12416,7 @@
           "angle": null,
           "castTime": null,
           "effectRadius": null,
-          "targetRange": "175 / 350"
+          "targetRange": "175 | 350"
         }
       ],
       "Q": [
@@ -12606,7 +12606,7 @@
           "width": null,
           "angle": "180°",
           "castTime": "none",
-          "effectRadius": "275 / 135 / 400",
+          "effectRadius": "275 | 135 | 400",
           "targetRange": null
         },
         {
@@ -13873,7 +13873,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 1800",
+          "speed": "2000 | 1800",
           "width": "160",
           "angle": null,
           "castTime": "0.25",
@@ -16441,7 +16441,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "1000 / 100"
+          "targetRange": "1000 | 100"
         }
       ],
       "E": [
@@ -18891,8 +18891,8 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25 / None",
-          "effectRadius": "250 /  350",
+          "castTime": "0.25 | None",
+          "effectRadius": "250 |  350",
           "targetRange": "600"
         }
       ]
@@ -23306,7 +23306,7 @@
           "innerRadius": null,
           "speed": "2000",
           "width": "20",
-          "angle": "27.75°/ 37° / 46.25° / 4.625°",
+          "angle": "27.75° / 37° / 37° / 46.25° / 46.25° | 4.625°",
           "castTime": "0.25",
           "effectRadius": "1200",
           "targetRange": null
@@ -23492,11 +23492,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 : 2100",
+          "speed": "1500 : 2100 (based on Seconds traveled)",
           "width": "260",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "400 /  350",
+          "effectRadius": "400 |  350",
           "targetRange": null
         }
       ]
@@ -26388,7 +26388,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/AurelionSol/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Aurelion Sol dashes in the target direction and resets Breath of Light's cooldown. During flight, he has unobstructed vision and Breath of Light has no cooldown and maximum channel duration and its flat damage is increased, but Astral Flight's dash speed is reduced by 50% during its channel.",
+              "description": "Active: Aurelion Sol dashes in the target direction and resets Breath of Light's cooldown. During flight, he has unobstructed vision and Breath of Light has no cooldown and maximum channel duration and its non-burst flat damage is increased, but Astral Flight's dash speed is reduced by 50% during its channel.",
               "leveling": [
                 {
                   "attribute": "Breath of Light Flat Damage Modifier",
@@ -26492,10 +26492,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "340 + 100% movement speed / 170 + 50% movement speed",
+          "speed": "340 + 100% movement speed | 170 + 50% movement speed",
           "width": null,
           "angle": null,
-          "castTime": "0.4 / None",
+          "castTime": "0.4 | None",
           "effectRadius": null,
           "targetRange": "1500 (+ 7.5  ×  Stardust)"
         }
@@ -28282,7 +28282,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction | Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -28299,10 +28299,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 2000",
-          "width": "210 /  90",
+          "speed": "1600 | 2000",
+          "width": "210 |  90",
           "angle": null,
-          "castTime": "0.25 / None",
+          "castTime": "0.25 | None",
           "effectRadius": "Global",
           "targetRange": null
         }
@@ -28690,7 +28690,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction | Auto",
           "affects": "Self, Enemies",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -29594,7 +29594,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "150 / 325",
+          "effectRadius": "150 | 325",
           "targetRange": "740"
         }
       ],
@@ -30081,12 +30081,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1000 / 1400",
+          "speed": "1000 | 1400",
           "width": null,
           "angle": null,
           "castTime": "0.5",
           "effectRadius": "125",
-          "targetRange": "400 / -325"
+          "targetRange": "400 | -325"
         }
       ]
     },
@@ -31475,7 +31475,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "900 / 1197",
+          "speed": "900 | 1197",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -34858,8 +34858,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 / 1800",
-          "width": "140 /  60",
+          "speed": "1800 | 1800",
+          "width": "140 |  60",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -37667,7 +37667,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "300 / 600",
+          "effectRadius": "300 | 600",
           "targetRange": "675"
         }
       ],
@@ -39720,7 +39720,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Braum/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Braum sets his shield in the target direction for a duration, creating a barrier in front of him that intercepts all incoming hostile projectiles and reduces the damage Braum takes through it. The first instance of damage dealt by a champion from this direction is reduced by 100%. Unbreakable does not affect turrets.",
+              "description": "Active: Braum sets his shield in the target direction for a duration, creating a barrier in front of him that intercepts all incoming hostile projectiles and reduces the damage Braum takes through it from enemies in the target direction. The first instance of damage dealt by a champion from this direction is reduced by 100%. Unbreakable does not affect turrets.",
               "leveling": [
                 {
                   "attribute": "Damage reduction",
@@ -39880,7 +39880,7 @@
               "description": "The first target hit is knocked up for at least 0.6 seconds, increased if they are further away from Braum. All other enemies hit are knocked up for 0.6 seconds.",
               "leveling": [
                 {
-                  "attribute": "Maximum Knockup Duration",
+                  "attribute": "Maximum Knock up Duration",
                   "modifiers": [
                     {
                       "values": [
@@ -39972,10 +39972,10 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1400",
-          "width": "230 /  170",
+          "width": "230 |  170",
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "300 /  60 × 10",
+          "effectRadius": "300 |  60 × 10",
           "targetRange": null
         }
       ]
@@ -41973,8 +41973,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "1000 / 275",
-          "targetRange": "75 - 300 / 650"
+          "effectRadius": "1000 | 275",
+          "targetRange": "75 - 300 | 650"
         },
         {
           "name": "Snack Attack",
@@ -42469,7 +42469,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction | Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "true",
           "resource": "CURRENT_HEALTH",
@@ -42486,10 +42486,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1900 / 1800",
+          "speed": "1900 | 1800",
           "width": "380",
           "angle": null,
-          "castTime": "None / 0.15",
+          "castTime": "None | 0.15",
           "effectRadius": null,
           "targetRange": null
         }
@@ -42635,11 +42635,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 2500 : 5000",
+          "speed": "2000 | 2500 : 5000",
           "width": "320",
           "angle": null,
-          "castTime": "1 / 1.25",
-          "effectRadius": "Global /  1500 /  575",
+          "castTime": "1 | 1.25",
+          "effectRadius": "Global |  1500 |  575",
           "targetRange": null
         }
       ]
@@ -43734,7 +43734,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2200",
-          "width": "120 / 180",
+          "width": "120 | 180",
           "angle": null,
           "castTime": "0.625",
           "effectRadius": null,
@@ -44023,7 +44023,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 1000",
+          "speed": "1600 | 1000",
           "width": null,
           "angle": null,
           "castTime": "0.15",
@@ -46441,7 +46441,7 @@
           "width": null,
           "angle": "70°",
           "castTime": "none",
-          "effectRadius": "325 / 650",
+          "effectRadius": "325 | 650",
           "targetRange": null
         }
       ],
@@ -46628,7 +46628,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "130",
-          "targetRange": "400 / 800"
+          "targetRange": "400 | 800"
         }
       ],
       "R": [
@@ -52315,7 +52315,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "275 /  500",
+          "effectRadius": "275 |  500",
           "targetRange": "825"
         }
       ],
@@ -52507,7 +52507,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "200",
-          "targetRange": "300 / 600"
+          "targetRange": "300 - 600"
         }
       ],
       "E": [
@@ -52843,8 +52843,8 @@
           "width": "80",
           "angle": null,
           "castTime": "0.175",
-          "effectRadius": "150 / 300",
-          "targetRange": "1300 / 1500"
+          "effectRadius": "150 | 300",
+          "targetRange": "1300 | 1500"
         }
       ]
     },
@@ -54375,12 +54375,12 @@
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": null,
+          "innerRadius": "240",
           "speed": null,
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "240 / 460",
+          "effectRadius": "460",
           "targetRange": null
         }
       ],
@@ -56930,7 +56930,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1900 / 2100",
+          "speed": "1900 | 2100",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -57328,7 +57328,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Diana/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Diana pulls in all nearby enemies, during which they are revealed, then slows them for 2 seconds.",
+              "description": "Active: Diana pulls all nearby enemies towards her, during which they are revealed, then slows them for 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Slow",
@@ -57350,7 +57350,7 @@
               ]
             },
             {
-              "description": "If an enemy champion is pulled in, she calls down a beam of moonlight to strike upon the area around her after 1 second, dealing magic damage to all nearby enemies, increased for each champion pulled beyond the first.",
+              "description": "If an enemy champion is pulled, she calls down a beam of moonlight to strike upon the area around her after 1 second, dealing magic damage to all nearby enemies, increased for each champion pulled beyond the first.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -57496,7 +57496,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "475 / 225",
+          "effectRadius": "475 | 225",
           "targetRange": null
         }
       ]
@@ -59860,7 +59860,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "1050 /  990"
+          "targetRange": "1050 |  990"
         }
       ],
       "W": [
@@ -60023,7 +60023,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "None / None",
+          "castTime": "None",
           "effectRadius": "325",
           "targetRange": null
         }
@@ -64495,8 +64495,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1650 / 200 / 2300",
-          "width": "120 / 200",
+          "speed": "1650 | 200 | 2300",
+          "width": "120 | 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": "160 : 210",
@@ -64744,7 +64744,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "325 / 550"
+          "targetRange": "325 | 550"
         }
       ],
       "R": [
@@ -64858,7 +64858,7 @@
             "affectedByCdr": true
           },
           "targeting": "Auto",
-          "affects": "Enemies / Self",
+          "affects": "Enemies | Self",
           "spellshieldable": "True",
           "resource": "MANA",
           "damageType": "MAGIC_DAMAGE",
@@ -64878,7 +64878,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "375 / Global",
+          "effectRadius": "375 | Global",
           "targetRange": null
         }
       ]
@@ -76662,7 +76662,7 @@
           "width": null,
           "angle": "90°",
           "castTime": null,
-          "effectRadius": "1200  1350 /  250",
+          "effectRadius": "1200 |  1350 |  250",
           "targetRange": null
         }
       ],
@@ -76780,12 +76780,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1100 + 300% / 350% bonus movement speed",
+          "speed": "1100 (+ 300% | 350% bonus movement speed)",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "50 / 400"
+          "targetRange": "50 | 400"
         }
       ],
       "W": [
@@ -76894,7 +76894,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Riposte does not grant  invulnerability but instead reduces any damage to her by 100% late into the damage event. Because of this, it interacts differently with effects triggered from damage:\n Life steal and  healing based on damage dealt (Vamp) will still have effect even if the damage is ultimately ignored by Riposte.\n Shields will absorb damage before Riposte takes effect.\nFiora cannot be  executed by  Pyke's  Death from Below during Riposte, but she may by  Aspect of the Dragon.\nRiposte prevents  Azir's  Shurima's Legacy's  Sun Disc damage. (unexpected)\nThe debuff immunity encompasses:\n Crowd control.\nNote that this is not  crowd control immunity, and effects that look specifically for that will not consider Riposte (e.g.,  Yasuo's  Last Breath may not be cast on cc-immune targets but it can be cast while Fiora is in Riposte). [3]\nDebuffs from summoner spells such as  Exhaust's damage reduction and all of  Ignite's effects.\n Persistent damage application.\n Tether application (e.g.,  Camille's  The Hextech Ultimatum and  Illaoi's  Test of Spirit), with the exception of  Malzahar's  Nether Grasp. [4]\nSome mark application (e.g.,  Duelist's Dance and  Zilean's  Time Bomb), but not some other (e.g.,  Grand Challenge,  Braum's  Concussive Blows and  Winter's Bite,  Caitlyn's  Ace in the Hole,  Kennen's  Electrical Surge's passive effect,  Tahm Kench's  Tongue Lash, and  Vi's  Cease and Desist).\nRiposte will not negate  nearsight.\n Immobilizing effects include those from  Blast Cone (only if triggered by an enemy) and  epic monsters.\nRiposte does not count  K'Sante's  All Out as an immobilizing effect. (bug)\nIn the last 0.25 seconds of Riposte's duration, Fiora cannot be selected. This is distinct from  untargetability and there are no known interactions beyond this.\nRiposte's effect prioritization is as follows:\nRiposte will negate effects before  spell shields.\n Morgana's  Black Shield will negate  crowd control before Riposte.\nBeing hit by a crowd control while affected by Black Shield means Riposte will not trigger its  stun empowerment condition, as it itself must negate the  immobilize and not any other external source.\n Spell shield will also prevent Vitals from being triggered by Riposte's shock.\nThe shock missile will be fired from wherever Fiora is after the first 0.5 seconds of Riposte.\nThe following table refers for interactions while Fiora is performing Riposte:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Riposte does not grant  invulnerability but instead reduces any incoming damage by 100% late into the damage event. Because of this, it interacts differently with effects triggered from damage:\n Life steal and  healing based on damage dealt (Vamp) will still have effect even if the damage is ultimately ignored by Riposte.\n Shields will absorb damage before Riposte takes effect.\nFiora cannot be  executed by  Pyke's  Death from Below during Riposte, but she may by  Aspect of the Dragon.\nRiposte prevents  Azir's  Shurima's Legacy's  Sun Disc damage. (unexpected)\nThe debuff immunity encompasses:\n Crowd control.\nNote that this is not  crowd control immunity, and effects that look specifically for that will not consider Riposte (e.g.,  Yasuo's  Last Breath may not be cast on cc-immune targets but it can be cast while Fiora is in Riposte). [3]\nDebuffs from summoner spells such as  Exhaust's damage reduction and all of  Ignite's effects.\n Persistent damage application.\n Tether application (e.g.,  Camille's  The Hextech Ultimatum and  Illaoi's  Test of Spirit), with the exception of  Malzahar's  Nether Grasp. [4]\nSome mark applications (e.g.,  Duelist's Dance and  Zilean's  Time Bomb), but not some other (e.g.,  Grand Challenge,  Braum's  Concussive Blows and  Winter's Bite,  Caitlyn's  Ace in the Hole,  Kennen's  Electrical Surge's passive effect,  Tahm Kench's  Tongue Lash, and  Vi's  Cease and Desist).\nIf Fiora negates an  immobilizing effect when the shock missile has struck an enemy champion already, the afflicted  slow and  cripple on the target will be removed and they will become  stunned for a duration equal to the slow and cripple's remaining duration (effectively converting the slow/cripple into the stun).\nThis event may only occur in the last 0.25 seconds of Riposte's duration, during which Fiora retains her stance even while the missile is in-flight (timing of her stance and the missile's travel time overlap).\nSince the stun is applied equal to the remaining duration, it will last shorter than if it were applied normally.\nThis results in an unintended consequence of the stun duration being reduced by  tenacity twice, as the base stun duration would be equal to the reduced duration of the slow and cripple after tenacity is applied to it.(unexpected)\nThe slow debuff on the target is however not removed properly, despite the slow itself being removed.(bug)\nRiposte will not negate  nearsight.\n Immobilizing effects include those from  Blast Cone (only if triggered by an enemy) and  epic monsters.\nRiposte does not count  K'Sante's  All Out as an immobilizing effect. (bug)\nIn the last 0.25 seconds of Riposte's duration, Fiora cannot be selected. This is distinct from  untargetability and there are no known interactions beyond this.\nRiposte's effect prioritization is as follows:\nRiposte will negate effects before  spell shields.\n Morgana's  Black Shield will negate  crowd control before Riposte.\nBeing hit by a crowd control while affected by Black Shield means Riposte will not trigger its  stun empowerment condition, as it itself must negate the  immobilize and not any other external source.\n Spell shield will also prevent Vitals from being triggered by Riposte's shock.\nThe shock missile takes ~0.25 seconds to reach maximum range.\nThe shock missile will be fired from wherever Fiora is after the first 0.5 seconds of Riposte.\nThe following table refers for interactions while Fiora is performing Riposte:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Fiora briefly parries all incoming damage and  debuffs, then stabs in a direction, dealing magic damage to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -77220,7 +77220,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "550 / 500",
+          "effectRadius": "550 | 500",
           "targetRange": "500"
         }
       ]
@@ -93037,9 +93037,9 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "3800 / 3000 / 3400",
+          "speed": "3800 | 3000 | 3400",
           "width": "40",
-          "angle": "24° /  30°",
+          "angle": "24° |  30°",
           "castTime": null,
           "effectRadius": null,
           "targetRange": "425"
@@ -93235,7 +93235,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "80 / 500 / 200",
+          "width": "80 | 500 | 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -93530,7 +93530,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "275 / 375"
+          "targetRange": "275 | 375"
         }
       ],
       "R": [
@@ -93641,7 +93641,7 @@
             "affectedByCdr": true
           },
           "targeting": "Direction",
-          "affects": "Enemies / Self",
+          "affects": "Enemies | Self",
           "spellshieldable": "special",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
@@ -95723,7 +95723,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "75 / 360 /  25",
+          "width": "75 | 360 |  25",
           "angle": null,
           "castTime": "0.5",
           "effectRadius": "-50 : 465",
@@ -95981,7 +95981,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "350 / 450"
+          "targetRange": "350 | 450"
         }
       ],
       "R": [
@@ -96289,7 +96289,7 @@
           "speed": "1800",
           "width": "240 to 30",
           "angle": null,
-          "castTime": "0.25 / 0.5",
+          "castTime": "0.25 | 0.5",
           "effectRadius": null,
           "targetRange": null
         }
@@ -102975,7 +102975,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "350 / 600 / 450",
+          "effectRadius": "350 | 600 | 450",
           "targetRange": "900"
         },
         {
@@ -104483,7 +104483,7 @@
           "affects": "Enemies",
           "spellshieldable": "Special",
           "resource": "MANA",
-          "damageType": "MIXED_DAMAGE",
+          "damageType": "OTHER_DAMAGE",
           "spellEffects": null,
           "projectile": "SPECIAL",
           "onHitEffects": null,
@@ -104493,7 +104493,7 @@
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
-          "tetherRadius": "1500 /  1700",
+          "tetherRadius": "1500 |  1700",
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1900",
@@ -105735,7 +105735,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "PENDING FOR TEST:: Parry interactions ( block and  dodge).\nIonian Fervor will not deal damage if the attack misses due to  blind, but its duration will be refreshed.\n Blade Surge cannot be missed while Irelia is  blinded, applying Ionian Fervor from the ability will not be prevented from that parry effect.\nIonian Fervor stacks are represented by a counter under Irelia's health bar. It is highlighted while the ability is at its maximum effect.",
+          "notes": "PENDING FOR TEST:: Parry interactions ( block and  dodge).\nIonian Fervor will not deal damage if the attack misses due to  blind, but its duration will be refreshed.\n Bladesurge cannot be missed while Irelia is  blinded, applying Ionian Fervor from the ability will not be prevented from that parry effect.\nIonian Fervor stacks are represented by a counter under Irelia's health bar. It is highlighted while the ability is at its maximum effect.",
           "blurb": "Innate:  Irelia's  abilities generate a  stack of Ionian Fervor for each enemy champion hit, as well as one stack if she hits at least one non-champion.  Basic attacks against enemy  champions and large  monsters will also refresh the duration.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -108142,7 +108142,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Freeing the  Krug camp will only grant the  gold and  experience of 1  Ancient Krug, 2  Krugs, and 3  Mini Krugs.\nIvern must be within  275 units of the large monster of the targeted camp to start channeling or collect a grove. The large monsters also must be  visible.\nIf Ivern cannot afford the cost to place a grove, Friend of the Forest is placed on a cooldown equal to the number of seconds it takes for his  health regeneration and/or  mana regeneration to restore him to the amount of health and/or mana needed to afford the cost.\nThe cooldown will update based on Ivern's current health and mana regeneration, as well as his current health and mana.\nFriend of the Forest can be used while Ivern or the camp is in combat and, once the grove is placed,  Smite can be used to instantly claim the camp.  Interrupting Ivern's channel is the only way to contest jungle camps, short of killing the camp during the channel time.\nFreeing a grove causes the monsters within the camp to be dealt 5000 true damage in the  internalraw damage source type by Ivern, despite his inability to damage them.\nFriend of the Forest will leave Ivern at 1 health if cast with exactly the required amount. Friend of the Forest cannot be cast with less, unlike other abilities with health costs.\nNon-epic monsters can attack Ivern if his allies enter combat with the monster and he manages to receive aggro.(bug)\n Voidmites uses the allied healthbar-colours whilst still being able to be damaged by Ivern.(bug)\nThe following table refers for interactions while Ivern is  channeling:\nIvern is unable to act during the first 0.15 and last 0.5 seconds of the channel.\n\n\nType\n\nChannel\n\n\nAttacking\n\nInterrupts\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nInterrupts\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nDamaging effectsDeath Cast-inhibiting effects",
+          "notes": "Freeing the  Krug camp will only grant the  gold and  experience of 1  Ancient Krug, 2  Krugs, and 3  Mini Krugs.\nIvern must be within  275 units of the large monster of the targeted camp to start channeling or collect a grove. The large monsters also must be  visible.\nIf Ivern cannot afford the cost to place a grove, Friend of the Forest is placed on a cooldown equal to the number of seconds it takes for his  health regeneration and/or  mana regeneration to restore him to the amount of health and/or mana needed to afford the cost.\nThe cooldown will update based on Ivern's current health and mana regeneration, as well as his current health and mana.\nIf Ivern's level is 19 or higher, he will be  healed and receive mana when placing a grove.\nFriend of the Forest can be used while Ivern or the camp is in combat and, once the grove is placed,  Smite can be used to instantly claim the camp.  Interrupting Ivern's channel is the only way to contest jungle camps, short of killing the camp during the channel time.\nFreeing a grove causes the monsters within the camp to be dealt 5000 true damage in the  internalraw damage source type by Ivern, despite his inability to damage them.\nFriend of the Forest will leave Ivern at 1 health if cast with exactly the required amount. Friend of the Forest cannot be cast with less, unlike other abilities with health costs.\nNon-epic monsters can attack Ivern if his allies enter combat with the monster and he manages to receive aggro.(bug)\n Voidmites uses the allied healthbar-colours whilst still being able to be damaged by Ivern.(bug)\nThe following table refers for interactions while Ivern is  channeling:\nIvern is unable to act during the first 0.15 and last 0.5 seconds of the channel.\n\n\nType\n\nChannel\n\n\nAttacking\n\nInterrupts\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nInterrupts\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nDamaging effectsDeath Cast-inhibiting effects",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -108227,7 +108227,7 @@
               ]
             },
             {
-              "description": "Ivern and allied champions can select the target rooted by Rootcaller to dash to their location, stopping at their attack range.",
+              "description": "Ivern and allied champions can issue an attack order against the target rooted by Rootcaller to dash to their location, stopping at their attack range.",
               "leveling": []
             },
             {
@@ -108280,7 +108280,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction | Auto",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -108289,7 +108289,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the start of the cast time.\n Daisy dashes to rooted  monsters, and enemy champions if within 1200 units when Rootcaller hits.\nShe does not dash to enemy minions.(unexpected)\n Daisy can not dash if she's more than 1200 units from the target hit. She will not dash even if she later walks in range.(bug)\nRegardless of  Daisy's and Ivern's distance from the target hit, Ivern dashing does not affect  Daisy in any way.(bug)\nRootcaller will hit  monsters but does not deal damage to it unless the target is an epic monster.\nIvern's pull/attack range is determined when he dashes to the target - not from when he initially casts Rootcaller and throws the vine.\nIvern can rightclick on the target hit to dash to it, stopping at his attack range.\nRightclicking while closer than attack range to the target makes Ivern dash to 425 units away from it.\nThis interacts like expected with attack range increases, increasing the dash distance away from the target 1:1.\nIvern will never dash closer than his current distance from the target when rightclicking within attack range.\nRecasting dashes Ivern to on top of the enemy instead of at attack range.\nIvern and his allies are not able to dash to the target unless they are within 1200 units.\nRootcaller cannot be used to  dash while  grounded or  rooted. This applies to Ivern and his allies.\nRootcaller's dash does not follow targets, their position at the time of starting the dash is the location Ivern and his allies will stop from.",
+          "notes": "This ability will cast from wherever the caster is at the start of the cast time.\n Daisy dashes to rooted  monsters, and enemy champions if within 1200 units when Rootcaller hits.\nShe does not dash to enemy minions.(unexpected)\n Daisy can not dash if she is more than 1200 units from the target hit. She will not dash even if she later walks in range.(bug)\nRegardless of  Daisy's and Ivern's distance from the target hit, Ivern dashing does not affect  Daisy in any way.(bug)\nRootcaller will hit  monsters but does not deal damage to it unless the target is an epic monster.\nIvern's pull/attack range is determined when he dashes to the target - not from when he initially casts Rootcaller and throws the vine.\nWhen using an attack order to dash to a target further than 475 units, Ivern may stop at his attack range (475 units).\nIf he is closer than his attack range from them, Ivern will dash to 425 units away from it instead.\nAttack range bonuses affect the offset from the target at a 1:1 ratio.\nIvern will never dash closer than his current distance from the target in this case.\nRootcaller's  dash is disabled while the user is  grounded or  rooted when targeting via either means (applies to Ivern and his allies).\nRootcaller's dash does not follow targets, their position at the time of starting the dash is the relative range Ivern and his allies will stop at.",
           "blurb": "Active:  Ivern throws a vine in the target direction that deals magic damage and  roots the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -108302,7 +108302,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "1150 /  0 /  475 /  Attack range"
+          "targetRange": "1200"
         }
       ],
       "W": [
@@ -112491,7 +112491,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The armor reduction is applied after the damage. The damage dealt does not benefit from it in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDragon Strike will still pull Jarvan IV to  Demacian Standard even if he is  immobilized or  grounded.\n Flash will interrupt the  dash to a  Demacian Standard but Jarvan IV will still  knock up and damage enemies he comes in contact with at the new location.\nCasting Flash right before the dash begins will cause Jarvan IV to be pulled to the flag from the new position.\nEnemies already hit by Dragon Strike cannot be affected more than once.\nThe  knockup also slightly moves the target, landing 50-100 units in a random direction.\nIf Dragon Strike finds multiple Demacian Standards in the range, it will pull Jarvan IV to the one furthest from his position.",
+          "notes": "The armor reduction is applied after the damage. The damage dealt does not benefit from it in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDragon Strike will still pull Jarvan IV to  Demacian Standard even if he is  immobilized or  grounded.\n Flash will interrupt the  dash to a  Demacian Standard but Jarvan IV will still  knock up and damage enemies he comes in contact with at the new location.\nCasting Flash right before the dash begins will cause Jarvan IV to be pulled to the flag from the new position.\nEnemies already hit by Dragon Strike cannot be affected more than once.\nThe  knockup also slightly moves the target, landing 50:100 units in a random direction.\nIf Dragon Strike finds multiple Demacian Standards in the range, it will pull Jarvan IV to the one furthest from his position.",
           "blurb": "Active:  Jarvan IV extends his lance in the target direction, dealing physical damage to enemies hit and  reducing their armor for a short time.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -112500,7 +112500,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "136 /  300",
+          "width": "136 |  300",
           "angle": null,
           "castTime": "0.4",
           "effectRadius": null,
@@ -112787,7 +112787,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "200 / 1000 / 700",
+          "effectRadius": "200 | 1000 | 700",
           "targetRange": "860"
         }
       ],
@@ -112889,11 +112889,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "Varies",
+          "speed": "Distance to target ÷ 0.35 s",
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "350 / 1700",
+          "effectRadius": "350 | 1700",
           "targetRange": "650"
         }
       ]
@@ -116971,11 +116971,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1450 / 2350",
+          "speed": "1450 | 2350",
           "width": "140",
           "angle": null,
           "castTime": "0.2143",
-          "effectRadius": "170 / 250 /  160 / 250",
+          "effectRadius": "170 | 250 |  160 | 250",
           "targetRange": null
         }
       ],
@@ -122197,11 +122197,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1700 / 2200",
+          "speed": "1700 | 2200",
           "width": "280",
           "angle": null,
           "castTime": "0.6",
-          "effectRadius": "400 /  1000 / 1000",
+          "effectRadius": "400 |  1000 | 1000",
           "targetRange": "Global"
         }
       ]
@@ -157148,7 +157148,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": null
+          "targetRange": "1250"
         }
       ],
       "W": [
@@ -190576,8 +190576,8 @@
           "width": "200",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "800 / 200",
-          "targetRange": "700 / 900"
+          "effectRadius": "800 | 200",
+          "targetRange": "700 | 900"
         }
       ],
       "R": [
@@ -221818,15 +221818,15 @@
               ]
             },
             {
-              "description": "Active: Pantheon channels for 2 seconds, then leaps high into the air, vanishing and becoming immune to crowd control until he reappears. While in the air, Pantheon channels again for 2.25 seconds and grants sight around the target location 0.5 seconds into the channel.",
+              "description": "Active: Pantheon channels for 2 seconds before leaping into the sky, causing him to vanish and become immune to crowd control. He continues channeling for 2.25 seconds and grants sight around the target location 0.5 seconds into the channel.",
               "leveling": []
             },
             {
-              "description": "After 0.8 seconds into the channel, Pantheon prepares for landing by hurling his spear to the target location over 0.2 seconds that deals 40 : 190 (based on Comet Spear's rank) (+ 115% bonus AD) (+ 50% AP) physical damage to enemies near its landing point and slows them by 50% for 2 seconds.",
+              "description": "After 0.8 seconds into the channel, Pantheon hurls his spear to the target location over 0.2 seconds that deals 40 : 190 (based on Comet Spear's rank) (+ 115% bonus AD) (+ 50% AP) physical damage to enemies near the impact and slows them by 50% for 2 seconds.",
               "leveling": []
             },
             {
-              "description": "Over the remaining 1.25 seconds, Pantheon crashes down after 0.55 seconds and creates a shockwave alongside himself that travels toward the target location over 0.7 seconds, dealing magic damage to enemies hit, reduced by up to 50% for those hit at the edge of the area. Upon completion of the channel, Pantheon reappears at the target location and gains maximum stacks of Mortal Will.",
+              "description": "Over the remaining 1.25 seconds, Pantheon crashes down after 0.55 seconds and creates a shockwave alongside himself that travels toward the target location over 0.7 seconds, dealing magic damage to enemies hit, reduced by up to 50% for those hit at the edge of the area. Upon completion of the channel, Pantheon will lose the crowd control immunity and reappear at the target location, as well as gain maximum stacks of Mortal Will.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -243788,7 +243788,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The start of the leap is considered to be the end of Rengar's attack windup, triggering attack effects (i.e.  Navori Flickerblade,  Lethal Tempo) and generating the Ferocity.\nWhile  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other effects (i.e  Teleport) will still cause the buff to linger upon leaving  brush.\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nGo off but have no effect if the target dies or becomes  untargetable.\nWhen the attack goes off,  Savagery's empowered attack is consumed.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nRengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
+          "notes": "The start of the leap is considered to be the end of Rengar's attack windup, triggering attack effects (i.e.  Navori Flickerblade,  Lethal Tempo) and generating the Ferocity.\nWhile  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other  blink effects will still cause the buff to linger upon exiting the  brush area.\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nGo off but have no effect if the target dies or becomes  untargetable.\nWhen the attack goes off,  Savagery's empowered attack is consumed.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nRengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
           "blurb": "Innate:  Rengar generates Ferocity when he casts a basic ability or uses  Savagery's empowered attack, which expires after a period out of combat. At max Ferocity, his next basic ability consumes them to become empowered with an additional effect, gain an extra cast, and briefly grant him  bonus movement speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -342424,7 +342424,7 @@
                   ]
                 },
                 {
-                  "attribute": "Maximum Monster Damage",
+                  "attribute": "Capped Monster Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -342558,7 +342558,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Details\n\nJaws of the Beast deals  basic damage, but also triggers spell effects by also being tagged as  spell damage.\nJaws of the Beast has a 0.264 seconds cast delay, which is the amount of time required for the bite to occur from the start of the cast. This should not be confused with a cast time.\nIf the cast started beforehand, both the damage and the heal occur even after Warwick's  death, or during  resurrection.\nIf the target dies prior to Warwick reaching them, Jaws of the Beast refunds its cooldown when tapped. The ability can be still held, however, Warwick is no longer eligible for the refund in this case.  Editor's Note: The refund can occasionally fail. (bug)\nThe healing is calculated only from Jaws of the Beast's damage, while additional effects, such as on-hits, are not.\nWhile the bite always occurs after the same delay, the time spent lunging does not, which depends on the range Jaws of the Beast was cast away from the target, up to 0.5 seconds when cast at maximum range.\nThis does not affect the  lockout timer, which is the same as the bite's delay.\nThe lunge always places Warwick to his attack range to the center of his target, while the dash will place him up to the edge of his attack range from the target's edge.\nIt has been special cased so Warwick does not follow an enemy's  Recall or a  Sion that revives from  Glory in Death.Editor's Note: This may occasionally fail. Also note that as of currently, if Warwick manages to bite the target in those conditions, he will almost always end up following them to their base. (bug)\nJaws of the Beast's channel cannot be initiated while  grounded or  rooted. Warwick can only use the normal cast.\nThe channel will not be interrupted by either of the two effects, despite the lock-on being a movement channel.\nInteractions & Other\n\nIn order to hit the cap, the target monster needs to have at least 2500 / 2358 / 2250 / 2167 / 2100 health.\nJaws of the Beast is the only ability in the game that combines  channeling with  displacement immunity. Every  interrupting crowd control effect that is not resisted by the displacement immunity will prematurely stop the  dash.\nThe bite can still occur if cast before the crowd control application, but Warwick cannot start channeling.\nAbilities that apply both  stun and  airborne at the same time cause Warwick to ignore the displacement, but prematurely stop the channel and the dash.\nThe only exception to this is  Sion's  Glory in Death.\nWarwick will follow enemies that move via  attachment effects but the lock-on will not be extended.\nWhile Jaws of the Beast does not use Quick Casting by default, click-and-hold is comparable to the input required to use  Bone Skewer or  Comet Spear. It does not accept two-click input (e.g. First Cast and Recast) that abilities like  Piercing Arrow or  Decimating Smash use in Standard Casting.\nWarwick will attempt to basic attack the target after a short delay.\nThe following table refers for interactions while Warwick is  channeling:\n Flash,  Teleport,  Hexflash, and  Recall are disabled during the first 0.4 seconds of the channel.\n\n\nType\n\nCharge channel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Primal Howl is usable.  Blood Hunt and  Infinite Duress are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects\n\nKnown Issues\n\nJaws of the Beast will also refund its  cooldown if it kills the target after being held for exactly its bite delay. (bug)\nThe ability may briefly cast on a dead target, with the ability going on cooldown.(bug)",
+          "notes": "Details\n\nJaws of the Beast deals  basic damage, but also triggers spell effects by also being tagged as  spell damage.\nJaws of the Beast has a 0.264 seconds cast delay, which is the amount of time required for the bite to occur from the start of the cast. This should not be confused with a cast time.\nIf the cast started beforehand, both the damage and the heal occur even after Warwick's  death, or during  resurrection.\nIf the target dies prior to Warwick reaching them, Jaws of the Beast refunds its cooldown when tapped. The ability can be still held, however, Warwick is no longer eligible for the refund in this case.  Editor's Note: The refund can occasionally fail. (bug)\nThe mana cost is not refunded in either case.\nThe healing is calculated only from Jaws of the Beast's damage, while additional effects, such as on-hits, are not.\nWhile the bite always occurs after the same delay, the time spent lunging does not, which depends on the range Jaws of the Beast was cast away from the target, up to 0.5 seconds when cast at maximum range.\nThis does not affect the  lockout timer, which is the same as the bite's delay.\nThe lunge always places Warwick to his attack range to the center of his target, while the dash will place him up to the edge of his attack range from the target's edge.\nIt has been special cased so Warwick never follows an enemy that uses a  blink with a destination that is their spawn platform (such as  Recall), or  Sion when he respawns after his  Glory in Death ends. This only applies to the charge when the ability is held.Editor's Note: This may occasionally fail. The rule does not apply to the tapped cast; Warwick will still be able follow an enemy into their spawn if Jaws of the Beast was not held with its cast.(bug)\nJaws of the Beast's channel cannot be initiated while  grounded or  rooted. Warwick can only use the normal cast.\nThe channel will not be interrupted by either of the two effects, despite the lock-on being a movement channel.\nInteractions & Other\n\nIn order to hit the cap, the target monster needs to have at least 2500 / 2358 / 2250 / 2167 / 2100 health.\nJaws of the Beast is the only ability in the game that combines  channeling with  displacement immunity. Every  interrupting crowd control effect that is not resisted by the displacement immunity will prematurely stop the  dash.\nThe bite can still occur if cast before the crowd control application, but Warwick cannot start channeling.\nAbilities that apply both  stun and  airborne at the same time will cause Warwick to ignore the displacement, but prematurely stop the channel and the dash.\nThis occurs unless the ability's  stun portion is able to be resisted by  displacement immunity, in which case Warwick will ignore both the displacement and the stun and be able to continue the channel and dash.\nWarwick will follow enemies that move via  attachment effects but the lock-on will not be extended.\nWhile Jaws of the Beast does not use Quick Casting by default, click-and-hold is comparable to the input required to use  Bone Skewer or  Comet Spear. It does not accept two-click input (e.g. First Cast and Recast) that abilities like  Piercing Arrow or  Decimating Smash use in Standard Casting.\nWarwick will attempt to basic attack the target after a short delay.\nThe following table refers for interactions while Warwick is  channeling:\n Flash,  Teleport,  Hexflash, and  Recall are disabled during the first 0.4 seconds of the channel.\n\n\nType\n\nCharge channel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Primal Howl is usable.  Blood Hunt and  Infinite Duress are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects\n\nKnown Issues\n\nJaws of the Beast will also refund its  cooldown if it kills the target after being held for exactly its bite delay. (bug)\nThe ability may briefly cast on a dead target, with the ability going on cooldown.(bug)",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -353622,7 +353622,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Last Breath can be cast on targets  suspended in mid-air by  Nami's  Aqua Prison's  stun.\nThe wiki has adopted the term suspension for this unique property due to a statement by Yasuo's designer.[2]\nThe percentage bonus armor penetration stacks additively with other sources of percentage armor penetration.(unexpected)\nYasuo gains the bonus armor penetration on-cast.\nLast Breath requires the target to be affected by  airborne from an enemy source, and simultaneously that the target is not considered  cc-immune,  displacement immune, or  untargetable during it.\nLast Breath cannot be cast if there are no nearby enemy champions that meet the conditions.\nAttempting to cast the ability on an enemy champion that is not airborne will indicate that they \"Must Be Airborne!\".\n Spell shield will not prevent Last Breath from being cast and the target will be knocked up and dealt the damage.\nThe spell shield is still consumed in this case.(unexpected)\nSelf-applied or allied-applied  displacements do not allow Last Breath to target the champion. Those applied by the neutral team (e.g.  Dragon's initial knock back) can be targeted.\nAn indicator will be placed towards enemy champions that meet the cast conditions within range of Last Breath to signify the ability can be cast.\n The Hextech Ultimatum will prevent Yasuo from casting Last Breath on an airborne enemy champion far outside its borders.\nYasuo can only do so if the airborne enemy champion is positioned slightly outside of the borders.\nUpon Last Breath's cast, the targets' facing directions snap to Yasuo. Afterwards, their facing directions shift in all other directions every 0.25 seconds over the duration of the airborne.\nThe last shift snaps them to the facing direction of the second one.\nOn the  Nightbringer Yasuo skin, these shifts in facing direction do not occur, but the targets' facing directions will still snap to Yasuo upon Last Breath's cast.\nYasuo does not need  sight of enemy champions near his target to affect them with the ability.\nLast Breath applies its damage and removes any forced movement(unexpected) on the targets when it ends, including if it is removed early by being  cleansed.\nThis is in contrast to most other effects with  airborne, which have their forced movement linger if the disabling debuff is removed and have to be overridden by another movement spell (such as  Lucian's  Relentless Pursuit or  Flash).\nTerrain displacing abilities (e.g.  Weaver's Wall,  Pillar of Ice,  Volcanic Rupture) that affect enemy champions are considered  airborne, and will therefore interact with Last Breath.\nWhile blinking, Yasuo creates an  untargetable clone of himself that cues a dashing animation (similar to  Sweeping Blade's) towards the target. This unit's rules do not follow those of a  clone's. As such, it is more alike a champion, unless special cased.\nWhile performing Last Breath, Yasuo is  locked out of performing actions.\nThe lock out will end prematurely if all targets:\n Cleanse the  knock up.\nMove far away from Yasuo.\nLeave Yasuo's  sight (e.g. by  nearsight).\nBecome  untargetable.\n Die.\nEnter the  Realm of Death.\nThe following table refers for interactions while Yasuo is locked out:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A",
+          "notes": "Last Breath can be cast on targets  suspended in mid-air by  Nami's  Aqua Prison's  stun.\nThe wiki has adopted the term suspension for this unique property due to a statement by Yasuo's designer.[2]\nThe percentage bonus armor penetration stacks additively with other sources of percentage armor penetration.(unexpected)\nYasuo gains the bonus armor penetration on-cast.\nLast Breath requires the target to be affected by  airborne from an enemy source, and simultaneously that the target is not considered  cc-immune,  displacement immune, or  untargetable during it.\nLast Breath cannot be cast if there are no nearby enemy champions that meet the conditions.\nAttempting to cast the ability on an enemy champion that is not airborne will indicate that they \"Must Be Airborne!\".\n Spell shield will not prevent Last Breath from being cast and the target will be knocked up and dealt the damage.\nThe spell shield is still consumed in this case.(unexpected)\nSelf-applied or allied-applied  displacements do not allow Last Breath to target the champion. Those applied by the neutral team (e.g.  Dragon's initial knock back) can be targeted.\nAn indicator will be placed towards enemy champions that meet the cast conditions within range of Last Breath to signify the ability can be cast.\n The Hextech Ultimatum will prevent Yasuo from casting Last Breath on an airborne enemy champion far outside its borders.\nYasuo can only do so if the airborne enemy champion is positioned slightly outside of the borders.\nUpon Last Breath's cast, the targets' facing directions snap to Yasuo. Afterwards, their facing directions shift in all other directions every 0.25 seconds over the duration of the airborne.\nThe last shift snaps them to the facing direction of the second one.\nOn the  Nightbringer Yasuo skin, these shifts in facing direction do not occur, but the targets' facing directions will still snap to Yasuo upon Last Breath's cast.\nYasuo does not need  sight of  airborne enemy champions near his target to affect them with Last Breath.\nLast Breath applies its damage and removes any forced movement(unexpected) on the targets when it ends, including if it is removed early by being  cleansed.\nThis is in contrast to most other effects with  airborne, which have their forced movement linger if the disabling debuff is removed and have to be overridden by another movement spell (such as  Lucian's  Relentless Pursuit or  Flash).\nTerrain displacing abilities (e.g.  Weaver's Wall,  Pillar of Ice,  Volcanic Rupture) that affect enemy champions are considered  airborne, and will therefore interact with Last Breath.\nWhile blinking, Yasuo creates an  untargetable clone of himself that cues a dashing animation (similar to  Sweeping Blade's) towards the target. This unit's rules do not follow those of a  clone's. As such, it is more alike a champion, unless special cased.\nWhile performing Last Breath, Yasuo is  locked out of performing actions.\nThe lock out will end prematurely if all targets:\n Cleanse the  knock up.\nMove far away from Yasuo.\nLeave Yasuo's  sight (e.g. by  nearsight).\nBecome  untargetable.\n Die.\nEnter the  Realm of Death.\nThe following table refers for interactions while Yasuo is locked out:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A",
           "blurb": "Active:  Yasuo  blinks to the target  airborne enemy champion and instantly generates max  Flow. He then briefly  knocks up,  reveals, and deals physical damage to all nearby  airborne enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
