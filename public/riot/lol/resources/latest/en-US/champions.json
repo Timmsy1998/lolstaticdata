@@ -942,12 +942,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "800 | Up to 1340",
+          "speed": "800 • 1340",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "75 | 300 | 500"
+          "targetRange": "75 - 300 • 500"
         }
       ],
       "R": [
@@ -2545,7 +2545,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1550 | 60 - 2600",
+          "speed": "1550 • 60 - 2600",
           "width": "200",
           "angle": null,
           "castTime": "0.25",
@@ -2820,11 +2820,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "75.92° per second | 1400",
+          "speed": "75.92° per second • 1400",
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "150 | 550 | 725",
+          "effectRadius": "150 • 550 • 725",
           "targetRange": null
         }
       ],
@@ -3061,7 +3061,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1200 + 100% movement speed | 1400",
+          "speed": "1200 + 100% movement speed • 1400",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -5779,7 +5779,7 @@
           "angle": "20°",
           "castTime": "0.25 / 0.225 / 0.2 / 0.175 (based on level)",
           "effectRadius": null,
-          "targetRange": "500 | 120"
+          "targetRange": "500 • 120"
         }
       ],
       "W": [
@@ -5894,7 +5894,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "350 | 1175",
+          "effectRadius": "350 • 1175",
           "targetRange": "250"
         }
       ],
@@ -6122,7 +6122,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction | Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "True",
           "resource": "ENERGY",
@@ -6139,10 +6139,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 | 1500",
+          "speed": "1800 • 1500",
           "width": "120",
           "angle": null,
-          "castTime": "0.25 | 0.1",
+          "castTime": "0.25 • 0.1",
           "effectRadius": "Global",
           "targetRange": "825"
         }
@@ -6284,7 +6284,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Unit | Direction",
+          "targeting": "Unit • Direction",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": null,
@@ -6301,10 +6301,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 | 3000",
+          "speed": "1500 • 3000",
           "width": null,
           "angle": null,
-          "castTime": "0.25 | None",
+          "castTime": "0.25 • None",
           "effectRadius": null,
           "targetRange": "675"
         }
@@ -9005,7 +9005,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 | 5000",
+          "speed": "2000 • 5000",
           "width": null,
           "angle": null,
           "castTime": null,
@@ -9191,7 +9191,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 | 2400",
+          "speed": "1500 • 2400",
           "width": "120",
           "angle": null,
           "castTime": "0.25",
@@ -9459,7 +9459,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 | 1200 | 3000",
+          "speed": "2500 • 1200 • 3000",
           "width": "80",
           "angle": null,
           "castTime": "none",
@@ -10494,7 +10494,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "1000 | 950",
+          "effectRadius": "1000 • 950",
           "targetRange": null
         }
       ],
@@ -10607,7 +10607,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25 | 0.15",
+          "castTime": "0.25 • 0.15",
           "effectRadius": "375",
           "targetRange": null
         }
@@ -10718,7 +10718,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1200 | 1544",
+          "speed": "1200 • 1544",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -12416,7 +12416,7 @@
           "angle": null,
           "castTime": null,
           "effectRadius": null,
-          "targetRange": "175 | 350"
+          "targetRange": "175 - 350"
         }
       ],
       "Q": [
@@ -12606,7 +12606,7 @@
           "width": null,
           "angle": "180°",
           "castTime": "none",
-          "effectRadius": "275 | 135 | 400",
+          "effectRadius": "275 • 135 • 400",
           "targetRange": null
         },
         {
@@ -13873,7 +13873,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 | 1800",
+          "speed": "2000 • 1800",
           "width": "160",
           "angle": null,
           "castTime": "0.25",
@@ -16441,7 +16441,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "1000 | 100"
+          "targetRange": "1000 • 100"
         }
       ],
       "E": [
@@ -18891,8 +18891,8 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25 | None",
-          "effectRadius": "250 |  350",
+          "castTime": "0.25 • None",
+          "effectRadius": "250 •  350",
           "targetRange": "600"
         }
       ]
@@ -23306,7 +23306,7 @@
           "innerRadius": null,
           "speed": "2000",
           "width": "20",
-          "angle": "27.75° / 37° / 37° / 46.25° / 46.25° | 4.625°",
+          "angle": "27.75° / 37° / 37° / 46.25° / 46.25° • 4.625°",
           "castTime": "0.25",
           "effectRadius": "1200",
           "targetRange": null
@@ -23496,7 +23496,7 @@
           "width": "260",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "400 |  350",
+          "effectRadius": "400 •  350",
           "targetRange": null
         }
       ]
@@ -26492,10 +26492,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "340 + 100% movement speed | 170 + 50% movement speed",
+          "speed": "340 + 100% movement speed • 170 + 50% movement speed",
           "width": null,
           "angle": null,
-          "castTime": "0.4 | None",
+          "castTime": "0.4 • None",
           "effectRadius": null,
           "targetRange": "1500 (+ 7.5  ×  Stardust)"
         }
@@ -28282,7 +28282,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction | Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -28299,10 +28299,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 | 2000",
-          "width": "210 |  90",
+          "speed": "1600 • 2000",
+          "width": "210 •  90",
           "angle": null,
-          "castTime": "0.25 | None",
+          "castTime": "0.25 • None",
           "effectRadius": "Global",
           "targetRange": null
         }
@@ -28690,7 +28690,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction | Auto",
+          "targeting": "Direction • Auto",
           "affects": "Self, Enemies",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -29594,7 +29594,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "150 | 325",
+          "effectRadius": "150 • 325",
           "targetRange": "740"
         }
       ],
@@ -30081,12 +30081,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1000 | 1400",
+          "speed": "1000 • 1400",
           "width": null,
           "angle": null,
           "castTime": "0.5",
           "effectRadius": "125",
-          "targetRange": "400 | -325"
+          "targetRange": "400 • -325"
         }
       ]
     },
@@ -31025,11 +31025,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Bard/ability-icon/p",
           "effects": [
             {
-              "description": "Innate - Ancient Chimes: Bard's presence causes sacred Chimes to appear at random locations on the map, lingering for up to 10 minutes. Collecting a Chime restores 12% maximum mana and grants Bard 20 + (1 per minute after 5 minutes) experience, as well as 24% bonus movement speed out of combat for 20 seconds, which stacks up to 10 times. Each Chime collected beyond the first instead grants an additional 14% bonus movement speed, up to a total of 150% bonus movement speed. Bard empowers his Meeps each time he collects 5 Chimes.",
+              "description": "Innate - Ancient Chimes: Bard's presence causes sacred Chimes to periodically appear at random locations on the battlefield, lingering for up to 10 minutes. Collecting a Chime restores 12% maximum mana and grants Bard 20 + (1 per minute after 5 minutes) experience, as well as 24% bonus movement speed out of combat for 20 seconds, which stacks up to 10 times. Each Chime collected beyond the first instead grants an additional 14% bonus movement speed, up to a total of 150% bonus movement speed. Bard empowers his Meeps each time he collects 5 Chimes.",
               "leveling": []
             },
             {
-              "description": "Innate - Meeps: Bard's presence attracts Meeps, which are small spirits that come to his side. While he has Meeps, his basic attacks are empowered to each consume a Meep on-attack to deal 35 (+ 10 per 5 Chimes collected) (+ 40% AP) bonus magic damage.\nAt 5 Chimes, Meeps slow damaged enemies by 25% : 75% (based on number of Chimes) for 1 second.\nAt 15 Chimes, Meeps deal the damage to enemies within 150 units of the primary target as well as those in a cone behind them.\nAt 35 Chimes, the cone's radius increases.",
+              "description": "Innate - Meeps: Bard's presence attracts Meeps every few seconds, which are small spirits that come to his side. While he has Meeps, his basic attacks are empowered to each consume a Meep on-attack to deal 35 (+ 10 per 5 Chimes collected) (+ 40% AP) bonus magic damage.\nAt 5 Chimes, Meeps slow damaged enemies by 25% : 75% (based on number of Chimes) for 1 second.\nAt 15 Chimes, Meeps deal the damage to enemies within 150 units of the primary target as well as those in a cone behind them.\nAt 35 Chimes, the cone's radius increases.",
               "leveling": []
             },
             {
@@ -31042,12 +31042,14 @@
             "modifiers": [
               {
                 "values": [
-                  50,
-                  8
+                  0,
+                  0,
+                  0
                 ],
                 "units": [
-                  " : 4 (based on number of Chimes)",
-                  " : 4 (based on number of Chimes)"
+                  "50 • 8 : 4 (based on number of Chimes)",
+                  "50 • 8 : 4 (based on number of Chimes)",
+                  "50 • 8 : 4 (based on number of Chimes)"
                 ]
               }
             ],
@@ -31475,7 +31477,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "900 | 1197",
+          "speed": "900 • 1197",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -34858,8 +34860,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 | 1800",
-          "width": "140 |  60",
+          "speed": "1800 • 1800",
+          "width": "140 •  60",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -37667,7 +37669,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "300 | 600",
+          "effectRadius": "300 • 600",
           "targetRange": "675"
         }
       ],
@@ -39972,10 +39974,10 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1400",
-          "width": "230 |  170",
+          "width": "230 •  170",
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "300 |  60 × 10",
+          "effectRadius": "300 •  60 × 10",
           "targetRange": null
         }
       ]
@@ -41973,8 +41975,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "1000 | 275",
-          "targetRange": "75 - 300 | 650"
+          "effectRadius": "1000 • 275",
+          "targetRange": "75 - 300 • 650"
         },
         {
           "name": "Snack Attack",
@@ -42469,7 +42471,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction | Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "true",
           "resource": "CURRENT_HEALTH",
@@ -42486,10 +42488,10 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1900 | 1800",
+          "speed": "1900 • 1800",
           "width": "380",
           "angle": null,
-          "castTime": "None | 0.15",
+          "castTime": "None • 0.15",
           "effectRadius": null,
           "targetRange": null
         }
@@ -42635,11 +42637,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 | 2500 : 5000",
+          "speed": "2000 • 2500 : 5000",
           "width": "320",
           "angle": null,
-          "castTime": "1 | 1.25",
-          "effectRadius": "Global |  1500 |  575",
+          "castTime": "1 • 1.25",
+          "effectRadius": "Global •  1500 •  575",
           "targetRange": null
         }
       ]
@@ -43734,7 +43736,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2200",
-          "width": "120 | 180",
+          "width": "120 • 180",
           "angle": null,
           "castTime": "0.625",
           "effectRadius": null,
@@ -44023,7 +44025,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 | 1000",
+          "speed": "1600 • 1000",
           "width": null,
           "angle": null,
           "castTime": "0.15",
@@ -46441,7 +46443,7 @@
           "width": null,
           "angle": "70°",
           "castTime": "none",
-          "effectRadius": "325 | 650",
+          "effectRadius": "325 • 650",
           "targetRange": null
         }
       ],
@@ -46628,7 +46630,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "130",
-          "targetRange": "400 | 800"
+          "targetRange": "400 • 800"
         }
       ],
       "R": [
@@ -52315,7 +52317,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "275 |  500",
+          "effectRadius": "275 •  500",
           "targetRange": "825"
         }
       ],
@@ -52843,8 +52845,8 @@
           "width": "80",
           "angle": null,
           "castTime": "0.175",
-          "effectRadius": "150 | 300",
-          "targetRange": "1300 | 1500"
+          "effectRadius": "150 • 300",
+          "targetRange": "1300 • 1500"
         }
       ]
     },
@@ -56930,7 +56932,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1900 | 2100",
+          "speed": "1900 • 2100",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -57496,7 +57498,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "475 | 225",
+          "effectRadius": "475 • 225",
           "targetRange": null
         }
       ]
@@ -59860,7 +59862,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "1050 |  990"
+          "targetRange": "1050 •  990"
         }
       ],
       "W": [
@@ -64495,8 +64497,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1650 | 200 | 2300",
-          "width": "120 | 200",
+          "speed": "1650 • 200 • 2300",
+          "width": "120 • 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": "160 : 210",
@@ -64744,7 +64746,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "325 | 550"
+          "targetRange": "325 • 550"
         }
       ],
       "R": [
@@ -64858,7 +64860,7 @@
             "affectedByCdr": true
           },
           "targeting": "Auto",
-          "affects": "Enemies | Self",
+          "affects": "Enemies • Self",
           "spellshieldable": "True",
           "resource": "MANA",
           "damageType": "MAGIC_DAMAGE",
@@ -64878,7 +64880,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "375 | Global",
+          "effectRadius": "375 • Global",
           "targetRange": null
         }
       ]
@@ -67282,7 +67284,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "825 /  900"
+          "targetRange": "825 •  900"
         }
       ],
       "R": [
@@ -68825,7 +68827,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Proximity",
+          "targeting": "Direction • Proximity",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -68843,11 +68845,11 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2400",
-          "width": "120 / 180",
+          "width": "120 • 180",
           "angle": null,
-          "castTime": "0.3 / None",
+          "castTime": "0.3 • None",
           "effectRadius": "550",
-          "targetRange": "800 / 680"
+          "targetRange": "800 • 680"
         }
       ],
       "W": [
@@ -76662,7 +76664,7 @@
           "width": null,
           "angle": "90°",
           "castTime": null,
-          "effectRadius": "1200 |  1350 |  250",
+          "effectRadius": "1200 •  1350 •  250",
           "targetRange": null
         }
       ],
@@ -76780,12 +76782,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1100 (+ 300% | 350% bonus movement speed)",
+          "speed": "1100 (+ 300% • 350% bonus movement speed)",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "50 | 400"
+          "targetRange": "50 - 400"
         }
       ],
       "W": [
@@ -77220,7 +77222,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "550 | 500",
+          "effectRadius": "550 • 500",
           "targetRange": "500"
         }
       ]
@@ -80417,7 +80419,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nPlayful counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDetonating the ability early for  Trickster does not.\nThe distance covered during Playful's directed splash is equal to half of Fizz's movement speed.\nPlayful cannot be used for approximately 0.5 seconds after using  Urchin Strike.\n Flash can be used while hopping off the trident, but not while balanced on it.\nFizz can receive aggro while hopping off the trident, but not while balanced on it\nIf the first dash is interrupted, Fizz initiates the hop immediately, and if the second one is, the splash will not occur.\nIn either cases, Fizz loses the untargetability. [2]\nIf Playful is cast while under the effect of a move block, Fizz will not become untargetable and will initiate the hop instantly.(bug)\nIf  Trickster is cast, the splash will not occur.(bug)\nThere is a minimum dash distance of 25 units for Playful.\nIf Fizz casts Playful on top of himself after being teleported (e.g.  Flash,  Recall), the minimum dash distance will not apply.(bug)\nIf Fizz enters  stasis during either Playful or  Trickster, the splash occurs after the stasis ends.",
+          "notes": "This ability always employs Quick cast.\nPlayful counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDetonating the ability early for  Trickster does not.\nThe distance covered during Playful's directed splash is equal to half of Fizz's movement speed.\nPlayful cannot be used for approximately 0.5 seconds after using  Urchin Strike.\n Flash can be used while hopping off the trident, but not while balanced on it.\nFizz can receive aggro while hopping off the trident, but not while balanced on it\nIf the first dash is interrupted, Fizz initiates the hop immediately, and if the second one is, the splash will not occur.\nIn either cases, Fizz loses the untargetability. [2]\nIf Playful is cast while under the effect of a move block, Fizz will not become untargetable and will initiate the hop instantly.(bug)\nIf  Trickster is cast, the splash will not occur.(bug)\nIf Fizz casts Playful on top of himself after  blinking and not moving from the blinked-to spot, the minimum dash distance of 25 units will not apply (casts at 0 range).(bug)\nIf Fizz enters  stasis during either Playful or  Trickster, the splash occurs after the stasis ends.",
           "blurb": "Active:  Fizz  vaults in the target direction and balances onto his spear, becoming  untargetable. From this position, Fizz can either slam the ground or choose to jump again with  Trickster.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -80430,7 +80432,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "375",
-          "targetRange": "400"
+          "targetRange": "25 - 400"
         },
         {
           "name": "Trickster",
@@ -80490,7 +80492,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nTrickster does not count as an ability activation.\nBoth  Playful's and Trickster's  dashes may be directed separately.\nTrickster has a minimum dash distance of 75 units.\n Flash cannot be used during the dash.\nThe splash occurs immediately if Fizz encounters terrain that cannot be dashed through (he has to be particularly close to the wall).",
+          "notes": "This ability always employs Quick cast.\nTrickster does not count as an ability activation.\nBoth  Playful's and Trickster's  dashes may be directed separately.\n Flash cannot be used during the dash.\nThe splash occurs immediately if Fizz encounters terrain that cannot be dashed through (he has to be particularly close to the wall).",
           "blurb": "Active:  Fizz  vaults in the target direction and slams down, dealing magic damage to nearby enemies.This area is smaller than  Playful.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -80503,7 +80505,7 @@
           "angle": null,
           "castTime": null,
           "effectRadius": "225",
-          "targetRange": "300"
+          "targetRange": "75 - 300"
         }
       ],
       "R": [
@@ -82196,7 +82198,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1400 / 50",
+          "speed": "1400 • 50",
           "width": "120",
           "angle": null,
           "castTime": "0.25",
@@ -82684,7 +82686,7 @@
           "angle": null,
           "castTime": "0.4",
           "effectRadius": null,
-          "targetRange": "250 / 650"
+          "targetRange": "250 - 650"
         }
       ],
       "R": [
@@ -84725,7 +84727,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "345 /  360",
+          "effectRadius": "345 •  360",
           "targetRange": "1000"
         }
       ],
@@ -88803,8 +88805,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 - 1400 / 60 - 2600",
-          "width": "110 / 150",
+          "speed": "2500 - 1400 • 60 - 2600",
+          "width": "110 • 150",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -89238,7 +89240,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Hop does not allow Gnar to bounce off wards.\nIf Gnar generates Rage to maximum during Hop, he may cast  Boulder Toss,  Wallop, or  GNAR! during the bounce.\nIf Hop generates Rage to maximum after Gnar bounces off an enemy, he may cast  GNAR!, and then  Boulder Toss or  Wallop before he lands.(bug)\n Sleep does not count for preventing the bounce.(bug)\nIf circumstances allow it, Crunch's shockwave from using it to transform can hit the target Gnar bounced off of.\nIf Hop is used to transform, the area of effect is missing at the first landing location, whether he bounces off a target or not.(bug)\nThis interaction broke in V9.13.",
+          "notes": "Hop has no minimum dash range.\nHop does not allow Gnar to bounce off wards.\nIf Gnar generates Rage to maximum during Hop, he may cast  Boulder Toss,  Wallop, or  GNAR! during the bounce.\nIf Hop generates Rage to maximum after Gnar bounces off an enemy, he may cast  GNAR!, and then  Boulder Toss or  Wallop before he lands.(bug)\n Sleep does not count for preventing the bounce.(bug)\nIf circumstances allow it, Crunch's shockwave from using it to transform can hit the target Gnar bounced off of.\nIf Hop is used to transform, the area of effect is missing at the first landing location, whether he bounces off a target or not.(bug)\nThis interaction broke in V9.13.",
           "blurb": "Active:  Mini Gnar  leaps to the target location and bounces off of any unit he lands on,  leaping forth again without a bounce. He also gains  bonus attack speed for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -91466,7 +91468,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "180 /  180",
+          "effectRadius": "180 •  180",
           "targetRange": "600"
         }
       ],
@@ -93037,9 +93039,9 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "3800 | 3000 | 3400",
+          "speed": "3800 • 3000 • 3400",
           "width": "40",
-          "angle": "24° |  30°",
+          "angle": "24° •  30°",
           "castTime": null,
           "effectRadius": null,
           "targetRange": "425"
@@ -93235,7 +93237,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "80 | 500 | 200",
+          "width": "80 • 500 • 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -93530,7 +93532,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "275 | 375"
+          "targetRange": "275 - 375"
         }
       ],
       "R": [
@@ -93641,7 +93643,7 @@
             "affectedByCdr": true
           },
           "targeting": "Direction",
-          "affects": "Enemies | Self",
+          "affects": "Enemies • Self",
           "spellshieldable": "special",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
@@ -95723,7 +95725,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "75 | 360 |  25",
+          "width": "75 • 360 •  25",
           "angle": null,
           "castTime": "0.5",
           "effectRadius": "-50 : 465",
@@ -95981,7 +95983,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "350 | 450"
+          "targetRange": "350 • 450"
         }
       ],
       "R": [
@@ -96287,9 +96289,9 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1800",
-          "width": "240 to 30",
+          "width": "240 - 30",
           "angle": null,
-          "castTime": "0.25 | 0.5",
+          "castTime": "0.25 • 0.5",
           "effectRadius": null,
           "targetRange": null
         }
@@ -98270,11 +98272,11 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1100",
-          "width": "80 / 480",
+          "width": "80 • 480",
           "angle": null,
           "castTime": "none",
           "effectRadius": "315",
-          "targetRange": "300 / 1000"
+          "targetRange": "300 - 1000"
         }
       ]
     },
@@ -102975,7 +102977,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "350 | 600 | 450",
+          "effectRadius": "350 • 600 • 450",
           "targetRange": "900"
         },
         {
@@ -104493,7 +104495,7 @@
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
-          "tetherRadius": "1500 |  1700",
+          "tetherRadius": "1500 •  1700",
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1900",
@@ -106064,8 +106066,8 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Auto / Direction",
-          "affects": "Self / Enemies",
+          "targeting": "Auto • Direction",
+          "affects": "Self, Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
@@ -106084,8 +106086,8 @@
           "speed": null,
           "width": "240",
           "angle": null,
-          "castTime": "None / 0.25",
-          "effectRadius": "300 /  120",
+          "castTime": "None • 0.25",
+          "effectRadius": "300 • 120",
           "targetRange": null
         }
       ],
@@ -106207,7 +106209,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / Distance ÷ 0.1 s",
+          "speed": "2000 • Distance ÷ 0.1 s",
           "width": "70",
           "angle": null,
           "castTime": "None",
@@ -108280,7 +108282,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction | Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -112500,7 +112502,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "136 |  300",
+          "width": "136 •  300",
           "angle": null,
           "castTime": "0.4",
           "effectRadius": null,
@@ -112787,7 +112789,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "200 | 1000 | 700",
+          "effectRadius": "200 • 1000 • 700",
           "targetRange": "860"
         }
       ],
@@ -112893,7 +112895,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "350 | 1700",
+          "effectRadius": "350 • 1700",
           "targetRange": "650"
         }
       ]
@@ -116971,11 +116973,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1450 | 2350",
+          "speed": "1450 • 2350",
           "width": "140",
           "angle": null,
           "castTime": "0.2143",
-          "effectRadius": "170 | 250 |  160 | 250",
+          "effectRadius": "170 • 250 • 160 • 250",
           "targetRange": null
         }
       ],
@@ -119356,7 +119358,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 / 600",
+          "speed": "1800 • 600",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -119746,7 +119748,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "260 / 260",
+          "effectRadius": "260 • 260",
           "targetRange": "750"
         }
       ],
@@ -119939,7 +119941,7 @@
           "speed": "5000",
           "width": "160",
           "angle": "60°",
-          "castTime": "1 / 0.25",
+          "castTime": "1 • 0.25",
           "effectRadius": null,
           "targetRange": null
         }
@@ -122197,11 +122199,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1700 | 2200",
+          "speed": "1700 • 2200",
           "width": "280",
           "angle": null,
           "castTime": "0.6",
-          "effectRadius": "400 |  1000 | 1000",
+          "effectRadius": "400 • 1000 • 1000",
           "targetRange": "Global"
         }
       ]
@@ -124180,11 +124182,11 @@
                   0
                 ],
                 "units": [
-                  "3.5 : 2 (based on bonus resistances) / 2.33 : 1.33",
-                  "3.5 : 2 (based on bonus resistances) / 2.33 : 1.33",
-                  "3.5 : 2 (based on bonus resistances) / 2.33 : 1.33",
-                  "3.5 : 2 (based on bonus resistances) / 2.33 : 1.33",
-                  "3.5 : 2 (based on bonus resistances) / 2.33 : 1.33"
+                  "3.5 : 2 (based on bonus resistances) • 2.33 : 1.33",
+                  "3.5 : 2 (based on bonus resistances) • 2.33 : 1.33",
+                  "3.5 : 2 (based on bonus resistances) • 2.33 : 1.33",
+                  "3.5 : 2 (based on bonus resistances) • 2.33 : 1.33",
+                  "3.5 : 2 (based on bonus resistances) • 2.33 : 1.33"
                 ]
               }
             ],
@@ -124208,7 +124210,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "100 / 100",
+          "width": "100 • 100",
           "angle": null,
           "castTime": "0.45 : 0.35 (based on bonus resistances)",
           "effectRadius": null,
@@ -124453,7 +124455,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Self, Enemies",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -124470,7 +124472,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1300 / 1500 / 1800",
+          "speed": "1300 • 1500 • 1800",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -124579,7 +124581,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Location /  Unit",
+          "targeting": "Location • Unit",
           "affects": "Self, Allies",
           "spellshieldable": null,
           "resource": "MANA",
@@ -124596,7 +124598,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "(500 / 1250 / 1100 / 1400) + 100% movement speed",
+          "speed": "(500 • 1250 • 1100 • 1400) + 100% movement speed",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -124779,7 +124781,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.4",
-          "effectRadius": "350 / 5000 / Global",
+          "effectRadius": "350 • 5000 • Global",
           "targetRange": "300"
         }
       ]
@@ -128579,7 +128581,7 @@
           "angle": null,
           "castTime": "0.5",
           "effectRadius": null,
-          "targetRange": "1400 / 5000"
+          "targetRange": "1400 - 5000"
         }
       ],
       "E": [
@@ -128923,7 +128925,7 @@
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
-          "tetherRadius": "1100",
+          "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
@@ -135304,7 +135306,7 @@
           "width": null,
           "angle": "78°",
           "castTime": "0.25",
-          "effectRadius": "600 / 1800",
+          "effectRadius": "600 • 1800",
           "targetRange": null
         }
       ],
@@ -136631,7 +136633,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Katarina/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Katarina throws a Dagger at the target enemy that deals magic damage and can bounce to up to two additional visible nearby enemies.",
+              "description": "Active: Katarina throws a Dagger at the target enemy that deals magic damage. Upon arrival, the Dagger also bounces to up to two additional visible nearby enemies, dealing the same damage and travelling to bounce targets over 0.15 seconds each time.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -136716,7 +136718,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 0.15 seconds",
+          "speed": "1600",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -136919,7 +136921,7 @@
           "angle": null,
           "castTime": "0.15",
           "effectRadius": null,
-          "targetRange": "725 / 775"
+          "targetRange": "725 • 775"
         }
       ],
       "R": [
@@ -142492,10 +142494,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "description": "Reaping Slash's dash speed scales with Kayn's total movement speed.",
-              "leveling": []
             }
           ],
           "cost": {
@@ -142548,7 +142546,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spell shields will block only a single instance of damage - either the dash or the slash.\nIf the  dash is  interrupted, Kayn will not swing his scythe.\nReaping Slash's swing can be performed quicker if the dash stops prematurely upon colliding with terrain.\nAs the  Shadow Assassin, an  alternate icon for Reaping Slash is used but has no modified effect.\nOther abilities can be queued while casting Reaping Slash.\nItem actives are locked out while casting.\nThe swing's animation has a 0.25-second  lockout time.\nKayn will only be able to move after 0.416 seconds.",
+          "notes": "Reaping Slash's dash speed is increased by Kayn's bonus movement speed.\n Spell shields will block only a single instance of damage - either the dash or the slash.\nIf the  dash is  interrupted, Kayn will not swing his scythe.\nReaping Slash's swing can be performed quicker if the dash stops prematurely upon colliding with terrain.\nAs the  Shadow Assassin, an  alternate icon for Reaping Slash is used but has no modified effect.\nOther abilities can be queued while casting Reaping Slash.\nItem actives are locked out while casting.\nThe swing's animation has a 0.25-second  lockout time.\nKayn will only be able to move after 0.416 seconds.",
           "blurb": "Active:  Kayn  dashes in the target direction, dealing physical damage to enemies he passes through. He then swings his scythe, dealing the same damage to surrounding enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -142681,9 +142679,9 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.55 / None",
+          "castTime": "0.55 • None",
           "effectRadius": null,
-          "targetRange": "700 / 900"
+          "targetRange": "700 • 900"
         }
       ],
       "E": [
@@ -142944,8 +142942,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "300 / 500",
-          "targetRange": "550 / 750"
+          "effectRadius": "300 • 300 - 500",
+          "targetRange": "550 • 750"
         }
       ]
     },
@@ -148141,7 +148139,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nThe  dash distance can be extended to up to 400 units when dashing across terrain.\nThe  cooldown will not be modified if it cannot be reduced (the current cooldown would have to be less than the reduction amount in this case).",
+          "notes": "Dance of Arrows has no minimum dash range.\nThis ability always employs Quick cast.\nThe  cooldown will not be modified if it cannot be reduced (the current cooldown would have to be less than the reduction amount in this case).",
           "blurb": "Active:  Lamb  dashes toward the target location, gaining  bonus attack speed for a few seconds. She then fires at up to three nearby enemies, dealing physical damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -148154,7 +148152,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "500 (+ 100% bonus  attack range)",
-          "targetRange": "300"
+          "targetRange": "300 • 400"
         }
       ],
       "W": [
@@ -150418,7 +150416,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "3000 / 1025",
+          "speed": "3000 • 1025",
           "width": "80",
           "angle": "20°",
           "castTime": "0.25",
@@ -150730,16 +150728,16 @@
           "blurb": "Active:  Skaarl  dashes in the target direction, dealing physical damage to enemies she passes through and marking enemy  champions hit. The mark  reveals the target for a short time, during which Jousting can be recast.",
           "missileSpeed": null,
           "rechargeRate": null,
-          "collisionRadius": null,
+          "collisionRadius": "230",
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "600 + 100% movement speed",
-          "width": "230",
+          "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "550 /  765"
+          "targetRange": "550 •  765"
         },
         {
           "name": "Dismounted Jousting",
@@ -150944,7 +150942,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "During the charge the duo gain (950 − (starting movement speed)) ÷ 12 × (time ÷ 0.25) bonus movement speed\nThe bonus movement speed is not affected by movement speed caps.\nThe charge will not give any movement speed to the duo if they have more than [ 1440 raw movement speed ][ 950 after movement speed soft caps ].\nThe trail will not give Kled and his allies any movement speed out-of-champion-combat if they have more than [ 840 raw movement speed ][ 650 after movement speed soft caps ].\nMovement speed is granted by facing the direction of the draft and lasts for 0.528 seconds upon exiting the trail or facing another direction.\n Voidmites, and  Bel'Veth's  Void Remora are considered to be lane  minions for the purpose of Mr. Kled's Wild Ride.\nKled will re-path if his current path is blocked by a newly created terrain (either player created or by the  Mountainous Rift).\nThe charge will continue towards the target location even if Kled's location changes drastically.\nKled will mark his path with an indicator visible to him and his allies.\nKled's pathing indicator will not account for changes in Kled's pathing.\nKled's pathing indicator will sometimes display a path different from his real path.(bug) [4]\n Axiom Arcanist only increases the first instance of shield gained.(bug)\nWhile charging, if any out of  sight enemy  champions were within 500 range of Kled during the last second, Kled locks on to the closest visible enemy champion within 800 range in his facing direction, and begins dashing toward them.\nIf Kled passes over the charge's target location, the charge will end even during the dash.(bug)\nIf the charge ends before, or during the dash, the dash will not:\nGenerate a shield;\nTrail a directional draft, applying Mr. Kled's Wild Ride;\nDisable summoner spells and items.\nKled sometimes fails to lock on to valid targets in range.(bug) [5]\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest trigger at the end of the charge or at the end of the dash, whichever comes last, even if the charge ends before or during the dash.\nKled and  Skaarl will track the target if they change locations.\nThey will dash to the target's previous location if the target moves beyond 2500 units of the dash's beginning location.\nIf the target moves 2500 or more units away from Kled and  Skaarl during the dash, it will be interrupted.\nIf the dash does not complete within 9 seconds, Kled and  Skaarl will continue to track their target, but will be able to cast spells, and will not be able to collide with enemy champions.\nWhile dashing, Kled will mark his target with an indicator visible to both teams.\nThe damage dealt is based on time spent traveling before the beginning of the dash.\nIt is possible for Kled to briefly lose his  crowd control immunity while colliding with an enemy champion, which can cause the  dash, and its subsequent damage and  displacement to be interrupted.(bug) [6]\nUnits  knocked back by Chaaaaaaaarge!!!  knockback can pass through terrain if it is player-generated, or if they are already inside it.(unexpected)\nThe  airborne debuff is removed early when the forced movement stops.\nThe following table refers for interactions while Kled is charging:\n Ghost is also disabled, contrary to the table below.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nAllowed, but cannot input movement commands.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A\n\nThe following table refers for interactions while Kled is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A\n\nEvery summoner spell is disabled, but summoner spells that aren't disabled while Kled is charging will not visually appear disabled.(bug)\nNo summoner spells or items are disabled if the charge ends before or during the dash.(bug)\nBuffering Interactions\n\nNothing can be buffered during the charge.\nMovement and attack commands, as well as  Bear Trap on a Rope and  Jousting can be buffered during the dash.",
+          "notes": "While charging, if any out of  sight enemy  champions were within 500 range of Kled during the last second, Kled locks on to the closest visible enemy champion within 800 range in his facing direction, and begins dashing toward them.\nDuring the charge the duo gain (950 − (starting movement speed)) ÷ 12 × (time ÷ 0.25) bonus movement speed\nThe bonus movement speed is not affected by movement speed caps.\nThe charge will not give any movement speed to the duo if they have more than [ 1440 raw movement speed ][ 950 after movement speed soft caps ].\nThe trail will not give Kled and his allies any movement speed out-of-champion-combat if they have more than [ 840 raw movement speed ][ 650 after movement speed soft caps ].\nMovement speed is granted by facing the direction of the draft and lasts for 0.528 seconds upon exiting the trail or facing another direction.\n Voidmites, and  Bel'Veth's  Void Remora are considered to be lane  minions for the purpose of Mr. Kled's Wild Ride.\nKled will re-path if his current path is blocked by a newly created terrain (either player created or by the  Mountainous Rift).\nThe charge will continue towards the target location even if Kled's location changes drastically.\nKled will mark his path with an indicator visible to him and his allies.\nKled's pathing indicator will not account for changes in Kled's pathing.\nKled's pathing indicator will sometimes display a path different from his real path.(bug) [4]\n Axiom Arcanist only increases the first instance of shield gained.(bug)\nIf Kled passes over the charge's target location, the charge will end even during the dash.(bug)\nIf the charge ends before, or during the dash, the dash will not:\nGenerate a shield;\nTrail a directional draft, applying Mr. Kled's Wild Ride;\nDisable summoner spells and items.\nKled sometimes fails to lock on to valid targets in range.(bug) [5]\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest trigger at the end of the charge or at the end of the dash, whichever comes last, even if the charge ends before or during the dash.\nKled and  Skaarl will track the target if they change locations.\nThey will dash to the target's previous location if the target moves beyond 2500 units of the dash's beginning location.\nIf the target moves 2500 or more units away from Kled and  Skaarl during the dash, it will be interrupted.\nIf the dash does not complete within 9 seconds, Kled and  Skaarl will continue to track their target, but will be able to cast spells, and will not be able to collide with enemy champions.\nWhile dashing, Kled will mark his target with an indicator visible to both teams.\nThe damage dealt is based on time spent traveling before the beginning of the dash.\nIt is possible for Kled to briefly lose his  crowd control immunity while colliding with an enemy champion, which can cause the  dash, and its subsequent damage and  displacement to be interrupted.(bug) [6]\nUnits  knocked back by Chaaaaaaaarge!!!  knockback can pass through terrain if it is player-generated, or if they are already inside it.(unexpected)\nThe  airborne debuff is removed early when the forced movement stops.\nThe following table refers for interactions while Kled is charging:\n Ghost is also disabled, contrary to the table below.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nAllowed, but cannot input movement commands.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A\n\nThe following table refers for interactions while Kled is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nN/A\n\nEvery summoner spell is disabled, but summoner spells that aren't disabled while Kled is charging will not visually appear disabled.(bug)\nNo summoner spells or items are disabled if the charge ends before or during the dash.(bug)\nBuffering Interactions\n\nNothing can be buffered during the charge.\nMovement and attack commands, as well as  Bear Trap on a Rope and  Jousting can be buffered during the dash.",
           "blurb": "Active: Kled &  Skaarl become  ghosted and  unstoppably charge to a location, building up  bonus movement speed and  shield and leaving a draft in their wake that grants Mr. Kled's Wild Ride to allies that follow the draft.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -150952,12 +150950,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1000 / 600",
+          "speed": "1000 • 600",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "3500 / 3750 / 4000 / 4250 / 4500"
+          "targetRange": "500 - (3500 / 3750 / 4000 / 4250 / 4500)"
         },
         {
           "name": "Dismounted Chaaaaaaaarge!!!",
@@ -152437,7 +152435,7 @@
               ]
             },
             {
-              "description": "Kog'Maw then gains a stack of Living Artillery for 8 seconds, refreshing on subsequent casts and stacking up to 9 times.",
+              "description": "Kog'Maw then generates a stack of Living Artillery for 8 seconds, refreshing on subsequent casts and stacking up to 9 times.",
               "leveling": []
             },
             {
@@ -154684,7 +154682,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Location / Auto",
+          "targeting": "Location • Auto",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -154693,7 +154691,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Distortion will be buffered and cast as soon as the cooldown ends if the player attempts to cast it within 0.5 seconds of the cooldown ending.\nThe recast will be buffered and cast as soon as it becomes available if the player attempts to cast it within 0.3 seconds of it becoming available to cast.\nThe initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nRecasting the ability does not.\n Mimic: Distortion has the same properties.\nDistortion and  Mimic: Distortion have independent return pads and LeBlanc can travel to both while they are active.\nDistortion's pad duration starts once the dash ends.",
+          "notes": "Distortion has no minimum dash range.\nDistortion will be buffered and cast as soon as the cooldown ends if the player attempts to cast it within 0.5 seconds of the cooldown ending.\nThe recast will be buffered and cast as soon as it becomes available if the player attempts to cast it within 0.3 seconds of it becoming available to cast.\nThe initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nRecasting the ability does not.\n Mimic: Distortion has the same properties.\nDistortion and  Mimic: Distortion have independent return pads and LeBlanc can travel to both while they are active.\nDistortion's pad duration starts once the dash ends.",
           "blurb": "Active:  LeBlanc  dashes to the target location, dealing magic damage to nearby enemies upon arrival. She leaves behind a return pad at her original location that lasts a few seconds, during which she can recast.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -154706,7 +154704,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "240",
-          "targetRange": "600 / Global"
+          "targetRange": "600 • Global"
         }
       ],
       "E": [
@@ -157471,7 +157469,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/LeeSin/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Lee Sin slows nearby enemies marked by Tempest, decaying over 4 seconds.",
+              "description": "Active: Lee Sin slows nearby enemies marked by Tempest, decaying in strength over 4 seconds.",
               "leveling": [
                 {
                   "attribute": "Slow",
@@ -157531,7 +157529,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Tempest's reveal is not removed when Lee Sin casts Cripple.\nCripple cannot be cast without a marked target within 550 range.",
+          "notes": null,
           "blurb": "Active:  Lee Sin sends a wave to nearby enemies marked by  Tempest, inflicting a decaying  slow that lasts a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -157539,11 +157537,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600",
+          "speed": null,
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "550 / 600",
+          "effectRadius": "550",
           "targetRange": null
         }
       ],
@@ -160308,7 +160306,7 @@
               ]
             },
             {
-              "description": "If she hits at least one enemy champion, she will dash 225 units behind the last one struck within 3000 range and root them for 0.5 seconds.",
+              "description": "After reaching its maximum range, if the sword hit an enemy champion during its flight, Leona dashes to 225 units beyond the location of the last champion struck and roots them for 0.5 seconds.",
               "leveling": []
             },
             {
@@ -160366,7 +160364,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Leona will be ordered to basic attack the target.\n Spell shield will block Zenith Blade's effects, and prevent Leona from dashing to the target.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "Leona will fail to  dash to and  root the last champion struck if they are not within 3000 units of her by the time the sword missile fizzles from reaching maximum range.\nLeona will not track the target if they change locations during her dash.\nShe will only dash to their current location at the time the sword fizzled.\nThe  root application on the last champion struck is applied at an inconsistent timing.(unexpected)\nLeona will be ordered to basic attack the target she dashed to, after her dash completes.\n Spell shield will block the damage, and prevent Leona from dashing as the last champion struck by her sword.\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Leona projects her sword in the target direction that deals magic damage to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -160388,7 +160386,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Leona/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Leona calls down a solar flare that strikes upon the target location after 0.625 seconds, granting sight of the area before impact and for another 3 seconds afterwards. Enemies hit are dealt magic damage.",
+              "description": "Active: Leona calls down a solar flare that strikes upon the target location after 0.625 seconds, granting sight of the area before impact and for another 3 seconds afterwards. Enemies hit are dealt magic damage and slowed by 80% for 1.75 seconds, and are also stunned for the same duration if they are struck by the epicenter.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -160420,10 +160418,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "description": "Targets are also slowed by 80% for 1.75 seconds, or stunned for the same duration if they are hit by the epicenter.",
-              "leveling": []
             }
           ],
           "cost": {
@@ -160480,7 +160474,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "325 / 175 / 800",
+          "effectRadius": "325 • 175 • 800",
           "targetRange": "1200"
         }
       ]
@@ -162574,12 +162568,12 @@
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": null,
+          "innerRadius": "225",
           "speed": null,
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "225 / 485",
+          "effectRadius": "485",
           "targetRange": null
         }
       ],
@@ -162804,13 +162798,13 @@
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": null,
+          "innerRadius": "65",
           "speed": null,
           "width": null,
           "angle": null,
           "castTime": "None",
-          "effectRadius": "65 /  250",
-          "targetRange": "500 / 350"
+          "effectRadius": "250",
+          "targetRange": "500 • 350"
         }
       ],
       "E": [
@@ -162919,12 +162913,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "5000 / 1400",
+          "speed": "5000 • 1400",
           "width": "120",
           "angle": null,
           "castTime": "0.4",
           "effectRadius": "150",
-          "targetRange": "700 / Global"
+          "targetRange": "700 • Global"
         }
       ],
       "R": [
@@ -164513,7 +164507,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "1350 /  450",
+          "effectRadius": "1350 •  450",
           "targetRange": null
         }
       ],
@@ -164649,7 +164643,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2200",
-          "width": "150 / 180",
+          "width": "150 • 180",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -164839,7 +164833,7 @@
               ]
             },
             {
-              "description": "Recast: Lissandra consumes the claw and blinks to its current location.",
+              "description": "Recast: Lissandra blinks to the claw's current location, ending its trajectory.",
               "leveling": []
             }
           ],
@@ -164884,7 +164878,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies, Self",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -164901,7 +164895,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1200 / 640",
+          "speed": "1200 - 640",
           "width": "250",
           "angle": null,
           "castTime": "0.25",
@@ -165148,7 +165142,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.375 / None",
+          "castTime": "0.375 • None",
           "effectRadius": "550",
           "targetRange": "550"
         }
@@ -167002,7 +166996,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "200 / 425"
+          "targetRange": "200 - 425"
         }
       ],
       "R": [
@@ -167148,7 +167142,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The fire rate increases with the number of shots.\nDuring The Culling, Lucian's facing direction is in the direction that he is firing.\nLucian can interact with  Dark Passage or allied  Devour without  interrupting The Culling.\nThe Culling creates the shots at an offset of 35 units to the front plus 35 units towards each side of Lucian (sides alternating, first shot fired from Lucian's right gun), unlike the missiles of most abilities.\nThe damage dealt by each bullet of The Culling is calculated when the bullet reaches a target, just like single missile abilities.\n Spell shield only blocks one instance of damage.\nThe following table refers for interactions while Lucian is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Relentless Pursuit is usable.  Piercing Light and  Ardent Blaze are disabled. This ability recasts to end channel.\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport\n\n\nDisabled\n\n Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
+          "notes": "The Culling creates the shots at an offset of 35 units to the front plus 35 units towards each side of Lucian (sides alternating, first shot fired from Lucian's right gun), unlike the missiles of most abilities.\nThe fire rate increases with the number of shots.\nDuring The Culling, Lucian's facing direction is in the direction that he is firing.\nLucian can interact with  Dark Passage or allied  Devour without  interrupting The Culling.\nThe damage dealt by each bullet of The Culling is calculated when the bullet reaches a target, just like single missile abilities.\n Spell shield only blocks one instance of damage.\nThe following table refers for interactions while Lucian is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Relentless Pursuit is usable.  Piercing Light and  Ardent Blaze are disabled. This ability recasts to end channel.\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport\n\n\nDisabled\n\n Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -167157,7 +167151,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2800",
-          "width": "220 (plus offset)",
+          "width": "220 + offset",
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
@@ -169638,7 +169632,7 @@
           "speed": "2250",
           "width": null,
           "angle": null,
-          "castTime": "0.2419 / None",
+          "castTime": "0.2419 • None",
           "effectRadius": null,
           "targetRange": "650"
         }
@@ -169914,7 +169908,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "400 / 400",
+          "effectRadius": "400 •  400",
           "targetRange": "900"
         }
       ]
@@ -171975,7 +171969,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Location / Auto",
+          "targeting": "Location • Auto",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -171996,7 +171990,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "310 / 650",
+          "effectRadius": "310 • 650",
           "targetRange": "1100"
         }
       ],
@@ -175029,7 +175023,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The dash speed can be up-to doubled if Unstoppable Force is targeted at the middle of a wall so that his destination ends up on the other side.\nIt will be decreased if his destination ends up closer to him than his target location.\nIf Malphite dies during his  dash, the ability cancels.\nIf the dash is interrupted without Malphite dying, for instance when he enters  resurrection during Unstoppable Force, he halts and the ability instead affects enemies at the stopped location.",
+          "notes": "Unstoppable Force has no minimum dash range.\nThe dash speed can be up-to doubled if Unstoppable Force is targeted at the middle of a wall so that his destination ends up on the other side.\nIt will be decreased if his destination ends up closer to him than his target location.\nIf Malphite dies during his  dash, the ability cancels.\nIf the dash is interrupted without Malphite dying, for instance when he enters  resurrection during Unstoppable Force, he halts and the ability instead affects enemies at the stopped location.",
           "blurb": "Active:  Malphite  dashes with  displacement immunity to the target location. Upon arrival, he deals magic damage to nearby enemies and briefly  knocks them up.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -179604,11 +179598,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Maokai/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Maokai flings a Sapling to the target location, granting sight of the area.",
+              "description": "Active: Maokai flings a Sapling to the target location, granting sight of the area while it is in-flight.",
               "leveling": []
             },
             {
-              "description": "Once landed, a Sapling remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies, capped at 300 against non-champions, and slowing them by 45% for 2 seconds.",
+              "description": "Once landed, the Sapling grants sight of its surroundings and remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies, capped at 300 against non-champions, and slowing them by 45% for 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -179666,7 +179660,7 @@
               ]
             },
             {
-              "description": "A Sapling placed in a brush becomes empowered: lasting 30 (+ 1.5% bonus health) seconds and causing its explosion to deal 66.7% damage to non- minion targets struck and attach two Saplings to them for 1.5 seconds, as well as slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. The attached Saplings explode on the afflicted target every 0.75 seconds over the duration, dealing them the same damage each time. Targets can only be attached to two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already. Against minions, the explosion deals 100% damage. The total damage is capped at 600 against non-champions.",
+              "description": "A Sapling placed in a brush becomes empowered: lasting 30 (+ 1.5% bonus health) seconds and causing its explosion to deal 66.7% damage to non- minion targets struck and attach two Saplings to them for 1.5 seconds, as well as slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. The attached Saplings explode on the afflicted target every 0.75 seconds over the duration, dealing them the same damage each time.Targets can only be attached to two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already. Against minions, the explosion deals 100% damage. The total damage is capped at 600 against non-champions.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Instance",
@@ -179937,19 +179931,19 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Applies  area damage from a normal Sapling and deals  persistent damage to enemies hit by an empowered Sapling.\nSapling Toss grants  sight of the target location even while the Sapling is in flight.\nThe Saplings will continue to chase their target even if they lose  sight of them (but they do not prioritize champions so they will chase the first target they encounter).\nSaplings cannot stack on top of each other (they will move a short distance away from one another if they are aimed at the same location).\nThe Sapling will stop its movement upon colliding with  Unbreakable.\nSaplings attack  Baron Nashor always at the same two points, no matter where they were placed.",
+          "notes": "Applies  area damage from a normal Sapling and deals  persistent damage to enemies hit by an empowered Sapling.\nThe Saplings will continue to chase their target even if they lose  sight of them.\nSaplings cannot be stacked on top of each other; if Sapling Toss is cast to the same point as a Sapling currently on the ground, the new Sapling will move a short distance away from the existing one upon landing.\nSapling Toss's cast does not initially fling the actual Sapling unit but instead a Sapling-like  projectile that can be destroyed by projectile-interception effects.\nThe projectile will stop its flight upon colliding with  Unbreakable, causing the Sapling to land in front of the barrier.\nWhen Saplings acquire the  Baron Nashor as their chase target, they will move to a specific point next to him before exploding. This behavior only occurs if the Sapling is not already within collision range.",
           "blurb": "Active:  Maokai flings a Sapling to the target location, where it remains for some time. A Sapling will chase nearby enemies for a short time, expiring afterward or upon contact.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
-          "tetherRadius": "250",
+          "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "175 / 350 / 475",
+          "effectRadius": "175 • 250 • 350 • 475",
           "targetRange": "1100"
         }
       ],
@@ -184785,7 +184779,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.35",
-          "effectRadius": "200 /  100",
+          "effectRadius": "200 • 100",
           "targetRange": "950"
         }
       ],
@@ -185287,7 +185281,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "70 / 70 / 230 / 60",
+          "effectRadius": "70 • 70 • 230 • 60 • 400",
           "targetRange": null
         }
       ],
@@ -186168,7 +186162,7 @@
           "width": "120",
           "angle": null,
           "castTime": "none",
-          "effectRadius": "100 /  250 / 275 / 190",
+          "effectRadius": "100 •  250 • 275 • 190",
           "targetRange": null
         }
       ],
@@ -186331,7 +186325,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Location / Unit",
+          "targeting": "Location • Unit",
           "affects": "Self, Allies",
           "spellshieldable": null,
           "resource": "MANA",
@@ -186351,9 +186345,9 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25 / None",
+          "castTime": "0.25 • None",
           "effectRadius": "415",
-          "targetRange": "650 / 3000"
+          "targetRange": "650 • 3000"
         }
       ],
       "E": [
@@ -190576,8 +190570,8 @@
           "width": "200",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "800 | 200",
-          "targetRange": "700 | 900"
+          "effectRadius": "800 • 200",
+          "targetRange": "700 • 900"
         }
       ],
       "R": [
@@ -195941,7 +195935,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "230",
-          "targetRange": "250 : 450 / 650"
+          "targetRange": "250 : 450 • 650"
         }
       ],
       "R": [
@@ -197363,7 +197357,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "200 / 225",
+          "effectRadius": "200 • 225",
           "targetRange": "850"
         }
       ],
@@ -197588,7 +197582,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 / 1500",
+          "speed": "2500 • 1500",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -200285,7 +200279,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "400 /  200",
+          "effectRadius": "400 • 200",
           "targetRange": "650"
         }
       ],
@@ -200468,7 +200462,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.2",
-          "effectRadius": "400",
+          "effectRadius": "400 + 0.8 per 1% bonus size",
           "targetRange": null
         }
       ]
@@ -202382,7 +202376,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2000",
-          "width": "180 /  0",
+          "width": "180 •  0",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -202833,7 +202827,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "0 - 350 / 215 - 465 / 350 - 590",
+          "effectRadius": "0 - 350 • 215 - 465 • 350 - 590",
           "targetRange": null
         }
       ],
@@ -202999,7 +202993,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.46",
-          "effectRadius": "225 / 300 / 750",
+          "effectRadius": "225 • 300 • 750",
           "targetRange": "825"
         }
       ]
@@ -204919,8 +204913,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1300 / 1500",
-          "width": "140 / 200",
+          "speed": "1300 • 1500",
+          "width": "140 • 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
@@ -205029,7 +205023,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.6",
-          "effectRadius": "590 /  600",
+          "effectRadius": "590 •  600",
           "targetRange": null
         }
       ]
@@ -206467,7 +206461,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Hunt: Hitting monsters or enemy champions with Javelin Toss or Bushwhack when Nidalee is nearby grants her ghosting and 10% bonus movement speed for 4 seconds and applies a Hunted mark to the target for the same duration, during which they are revealed as well as grant sight of a 300-unit radius around them. The bonus movement speed is increased to 30% while facing a Hunted target. Additionally, the first cast of both Takedown and Pounce against a Hunted target is enhanced.",
+              "description": "Innate - Hunt: Hitting enemy champions or monsters with Javelin Toss or Bushwhack applies a Hunted mark to the target for 4 seconds, during which they are revealed as well as grant sight of a 300-unit radius around them. If Nidalee is nearby when the target is hit, she gains ghosting and 10% bonus movement speed for 4 seconds, increased to 30% while she is facing a Hunted target. Additionally, the first cast of both Takedown and Pounce against a Hunted target is enhanced.",
               "leveling": []
             },
             {
@@ -206486,7 +206480,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Bushwhack  reveals and grants  sight around the target for 4 seconds even while Nidalee is not nearby.",
+          "notes": null,
           "blurb": "Innate - Prowl: While in  brush,  Nidalee becomes  ghosted and gains  bonus movement speed for a short time, increased when facing a nearby enemy  champion. These bonuses briefly persist after exiting brush.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -206498,7 +206492,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "3000 / 5500",
+          "effectRadius": "3000 • 5500",
           "targetRange": null
         }
       ],
@@ -207121,7 +207115,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Unit",
+          "targeting": "Direction • Unit",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": null,
@@ -207142,8 +207136,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "200 / 250",
-          "targetRange": "375 / 750"
+          "effectRadius": "250",
+          "targetRange": "375 • 750"
         }
       ],
       "E": [
@@ -209508,7 +209502,7 @@
           "speed": null,
           "width": "150",
           "angle": null,
-          "castTime": "0.35 : 0.28 (based on bonus attack speed) / None",
+          "castTime": "0.35 : 0.28 (based on bonus attack speed) • None",
           "effectRadius": null,
           "targetRange": null
         }
@@ -209932,7 +209926,7 @@
           "width": null,
           "angle": null,
           "castTime": "None",
-          "effectRadius": "450 / 1500",
+          "effectRadius": "450 • 1500",
           "targetRange": null
         }
       ]
@@ -212666,7 +212660,7 @@
           "angle": null,
           "castTime": null,
           "effectRadius": null,
-          "targetRange": "1000 / 700"
+          "targetRange": "1000 • 700"
         }
       ],
       "Q": [
@@ -213055,7 +213049,7 @@
               "leveling": []
             },
             {
-              "description": "The snowball explodes upon hitting an enemy champion, large pet, medium or large monster, or terrain, dealing magic damage to nearby enemies, increased by 0% : 400% (based on charge time), knocking them up for 0.5 : 0.75 (based on charge time) seconds and subsequently stunning them for 0 : 0.75 (based on charge time) seconds. If the snowball explodes while still being steered, it will stun Willump for 0.132 seconds seconds.",
+              "description": "The snowball explodes upon hitting an enemy champion, large pet, medium or large monster, or terrain, dealing magic damage to nearby enemies, increased by 0% : 400% (based on charge time), knocking them up for 0.5 : 0.75 (based on charge time) seconds and subsequently stunning them for 0 : 0.75 (based on charge time) seconds. If the snowball exploded while it was being steered, Willump becomes stunned for 0.132 seconds.",
               "leveling": [
                 {
                   "attribute": "Minimum Magic Damage",
@@ -213213,7 +213207,7 @@
               ]
             },
             {
-              "description": "Recast: Willump releases the snowball, sending it rolling forward up to a maximum distance during which it will not grow any larger and will explode upon hitting an enemy.",
+              "description": "Recast: Willump releases the snowball, sending it rolling forward up to a maximum distance during which it will not grow any larger and will explode upon hitting any enemy.",
               "leveling": []
             }
           ],
@@ -213275,11 +213269,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "425 / 435 : 594 / 595",
+          "speed": "(425 • 435 : 594 • 595) + 100% bonus movement speed",
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": null,
+          "effectRadius": "130 •  260 •  390",
           "targetRange": "750 : 1750 (based on charge time)"
         }
       ],
@@ -213368,7 +213362,7 @@
               ]
             },
             {
-              "description": "Enemies hit 3 times are slowed for 1 second. Enemy champions and large monsters hit once are marked Snowbound for 4 seconds, refreshing on subsequent hits. Snowball Barrage can be recast twice within 3 seconds at no additional cost and with a cooldown in between casts.",
+              "description": "Enemies hit 3 times are slowed for 1 second. Enemy champions and large monsters hit once are marked Snowbound for 4 seconds, refreshing on subsequent hits. Snowball Barrage can be recast twice within 3 seconds at no additional cost and with a 1-second cooldown between casts.",
               "leveling": [
                 {
                   "attribute": "Slow",
@@ -213394,7 +213388,7 @@
               ]
             },
             {
-              "description": "Recast: Nunu hurls another volley of snowballs, mimicking the first cast's effects. An enemy may only be slowed once for being hit by snowballs.",
+              "description": "Recast: Nunu hurls another volley of snowballs, mimicking the first cast's effects. An enemy may be slowed only once for being hit by snowballs.",
               "leveling": [
                 {
                   "attribute": "Maximum Total Magic Damage",
@@ -213539,7 +213533,7 @@
           "speed": "2000",
           "width": "50",
           "angle": null,
-          "castTime": "None / None",
+          "castTime": "None • None",
           "effectRadius": null,
           "targetRange": "700"
         }
@@ -215487,8 +215481,8 @@
           "width": "180",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "100 / 250 / 300",
-          "targetRange": "425 / 1000"
+          "effectRadius": "100 • 250 • 300",
+          "targetRange": "425 • 1000"
         }
       ],
       "W": [
@@ -217473,7 +217467,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "1290 / 1355 / 135",
+          "effectRadius": "1290 • 1355 • 135",
           "targetRange": null
         }
       ],
@@ -219676,7 +219670,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "175",
-          "targetRange": "500 / 560"
+          "targetRange": "500 • 560"
         }
       ],
       "E": [
@@ -219817,8 +219811,8 @@
           "width": null,
           "angle": null,
           "castTime": "0.35",
-          "effectRadius": "360 / 150",
-          "targetRange": "800 / 650"
+          "effectRadius": "360 • 150",
+          "targetRange": "800 • 650"
         }
       ],
       "R": [
@@ -219970,11 +219964,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 450 / 1250",
+          "speed": "1600 • 450 • 1250",
           "width": "340",
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "3000 / 2550",
+          "effectRadius": "3000 • 2550",
           "targetRange": "300"
         }
       ]
@@ -221497,7 +221491,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Auto / Direction",
+          "targeting": "Auto • Direction",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -221515,7 +221509,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2700",
-          "width": "120 / 110",
+          "width": "120 • 110",
           "angle": null,
           "castTime": "0.2",
           "effectRadius": null,
@@ -221785,7 +221779,7 @@
           "speed": null,
           "width": null,
           "angle": "60°",
-          "castTime": "None / 0.25",
+          "castTime": "None • 0.25",
           "effectRadius": "525",
           "targetRange": null
         }
@@ -221942,13 +221936,13 @@
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": "225 / 450",
+          "innerRadius": "225 • 450",
           "speed": null,
           "width": null,
           "angle": null,
           "castTime": "0.1",
-          "effectRadius": "450 / 125",
-          "targetRange": "5500 / 1350 + 450"
+          "effectRadius": "450 • 125",
+          "targetRange": "5500 • 1350 + 450"
         }
       ]
     },
@@ -224142,7 +224136,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Auto / Direction",
+          "targeting": "Auto • Direction",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -224162,8 +224156,8 @@
           "speed": "2500",
           "width": "180",
           "angle": null,
-          "castTime": "0.25 / 0.35",
-          "effectRadius": "180 / 225",
+          "castTime": "0.25 • 0.35",
+          "effectRadius": "180 • 225",
           "targetRange": null
         }
       ]
@@ -225813,7 +225807,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Auto / Direction",
+          "targeting": "Auto • Direction",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -225831,7 +225825,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "140 / 200",
+          "width": "140 • 200",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": "550",
@@ -226108,7 +226102,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "125 / 282.5  ×  100",
+          "effectRadius": "125 • 282.5 × 100",
           "targetRange": "750"
         }
       ]
@@ -228712,8 +228706,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 2000",
-          "width": "250 / 200",
+          "speed": "1600 • 2000",
+          "width": "250 • 200",
           "angle": null,
           "castTime": null,
           "effectRadius": null,
@@ -228892,7 +228886,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Terrashape does not interact with player-generated terrain.\nThe water puddles formed by the  Ocean Rift on  Summoner's Rift count as valid terrain for obtaining the   River element.\nThe  brushes grown by  Ivern's  Brushmaker count for gathering the   Brush element.\nPassive bonus damage from basic attacks can be  blocked.\nThe passive damage works with  Guinsoo's Rageblade's Phantom Hit.\nPENDING FOR TEST:: Passive bonus damage interaction with parrying effects ( dodge,  blind).",
+          "notes": "Terrashape has no minimum dash range.\nTerrashape does not interact with player-generated terrain.\nThe water puddles formed by the  Ocean Rift on  Summoner's Rift count as valid terrain for obtaining the   River element.\nThe  brushes grown by  Ivern's  Brushmaker count for gathering the   Brush element.\nPassive bonus damage from basic attacks can be  blocked.\nPENDING FOR TEST:: Passive bonus damage interaction with parrying effects ( dodge,  blind).",
           "blurb": "Passive: While holding an Element,  Qiyana gains bonus  attack speed and  attack range, as well as bonus magic damage on her basic attacks and basic abilities. Qiyana gains  bonus movement speed speed while moving near the current Element.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -229161,8 +229155,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 2840",
-          "width": "280 / 120",
+          "speed": "2000 • 2840",
+          "width": "280 • 120",
           "angle": null,
           "castTime": "0.25",
           "effectRadius": "11000",
@@ -231020,7 +231014,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 / 850",
+          "speed": "2500 • 850",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -232336,7 +232330,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Sleep does not count for knocking the dash down.(bug)",
+          "notes": "Grand Entrance has no minimum dash range.\n Sleep does not count for knocking the dash down.(bug)",
           "blurb": "Active:  Rakan  dashes to the target location.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -232475,7 +232469,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "700 / 1000"
+          "targetRange": "700 • 1000"
         }
       ],
       "R": [
@@ -234771,7 +234765,7 @@
               ]
             },
             {
-              "description": "If Soaring Slam was cast during Powerball, enemies within the epicenter are also knocked up for 0.75 seconds and are dealt Powerball's damage. Powerball will not collide with enemies during the dash, and its channel will be maintained for the dash and end afterwards.",
+              "description": "If Soaring Slam was cast during Powerball, enemies within the epicenter of the impact are also knocked up for 0.75 seconds and are dealt Powerball's damage. Powerball will not collide with enemies during the dash, and its channel will be maintained for the dash and end afterwards.",
               "leveling": []
             },
             {
@@ -234825,19 +234819,19 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spell shield will block the impact (including with  Powerball) but not each aftershock.\nRammus is required to have had at least 461.5 movement speed average over the last second to be able to cast Soaring Slam further than its minimum cast range and thereby deal the increased damage at the epicenter.\nThe maximum increased center damage is reachable once  Rammus has had at least 1307.69 movement speed average for the past second.\nSoaring Slam will not impact nor generate aftershocks if the dash is interrupted.\nThe following table refers for interactions while Rammus is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Spell shield will block the impact (including with  Powerball) but not each aftershock.\nRammus is required to have at least 461.5 total movement speed average over the last second to be able to cast Soaring Slam further than its base maximum dash range (>800 units).\nSoaring Slam will not impact nor generate aftershocks if the dash is interrupted.\nThe following table refers for interactions while Rammus is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Rammus  leaps to the target location with  Cc-immunity, dealing magic damage to nearby enemies and briefly  slowing them.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": null,
-          "speed": "900 / 2000",
+          "innerRadius": "200",
+          "speed": "900 • 2000",
           "width": null,
           "angle": null,
           "castTime": "None",
-          "effectRadius": "400 / 200 / 400",
+          "effectRadius": "400 • 400",
           "targetRange": "800 OR 150% movement speed"
         }
       ]
@@ -235771,7 +235765,7 @@
     "title": "The Void Burrower",
     "fullName": "",
     "icon": "http://ddragon.leagueoflegends.com/cdn/16.7.1/img/champion/RekSai.png",
-    "resource": "RAGE",
+    "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
     "stats": {
@@ -235992,7 +235986,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/RekSai/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Rek'Sai basic attacks generate 25 Fury on-hit, reduced to 4 per hit against minions, and to 5 per hit against wards, and plants. Rek'Sai's abilities other than Queen's Wrath generate 25 Fury upon hitting at least one unit. Prey Seeker does not generate Fury against non- champions. After 8 seconds of being out of combat, she loses 20 Fury per second.",
+              "description": "Innate: Rek'Sai basic attacks generate 25 Fury on-hit, reduced to 4 per hit against minions, and to 5 per hit against wards and jungle plants. Rek'Sai's abilities other than Queen's Wrath generate 25 Fury upon hitting at least one unit. Prey Seeker does not generate Fury against non- champions hit. After 8 seconds of being out of combat, she loses 20 Fury per second.",
               "leveling": []
             },
             {
@@ -236428,7 +236422,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "220 /  250 /  75",
+          "effectRadius": "220 •  250 •  75",
           "targetRange": null
         }
       ],
@@ -236573,11 +236567,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/RekSai/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Rek'Sai dashes in the target direction, leaving behind a Tunnel with two interconnected entrances that lasts up to 10 minutes. The Tunnel can be traversed again when Rek'Sai targets either entrance, causing her to dash to the selected entrance before travelling through the Tunnel to the opposite side. Once a Tunnel has been traversed, it is shut down for a few seconds during which Rek'Sai cannot enter it again.",
+              "description": "Active: Rek'Sai dashes in the target direction, leaving behind a Tunnel that has two interconnected entrances and lasts up to 10 minutes. The Tunnel can be traversed again when Rek'Sai targets either entrance, causing her to dash to the selected entrance before travelling through the Tunnel to the opposite side. Once a Tunnel has been traversed, it is shut down for a few seconds during which Rek'Sai cannot enter it again.",
               "leveling": []
             },
             {
-              "description": "Rek'Sai can have up to 8 Tunnels active on the map at once, but deploying beyond the maximum destroys the oldest one. Enemy champions can destroy a Tunnel by standing on either entrance for 1.5 seconds, granting them 5 upon successfully destroying the Tunnel.",
+              "description": "Rek'Sai can have up to 8 Tunnels active on the battlefield at once. Deploying Tunnels beyond the maximum causes the oldest one to be destroyed. Enemy champions can destroy a Tunnel by standing on either entrance for 1.5 seconds, granting them 5 upon successfully destroying the Tunnel.",
               "leveling": []
             },
             {
@@ -238163,7 +238157,7 @@
           "angle": null,
           "castTime": "0.625",
           "effectRadius": "180",
-          "targetRange": "400 / 100"
+          "targetRange": "100 - 400"
         },
         {
           "name": "Ferromancy: Mount Up",
@@ -238368,7 +238362,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Unit / Auto",
+          "targeting": "Unit • Auto",
           "affects": "Self, Allies, Enemies",
           "spellshieldable": "true",
           "resource": "MANA",
@@ -238389,7 +238383,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "300 / 2200 / 1600",
+          "effectRadius": "300 • 2200 • 1600",
           "targetRange": "1200"
         }
       ],
@@ -238516,7 +238510,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "450 /  375",
+          "effectRadius": "450 •  375",
           "targetRange": null
         }
       ]
@@ -240022,7 +240016,7 @@
           "width": "220",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "325 / 225",
+          "effectRadius": "325 • 225",
           "targetRange": "800"
         }
       ],
@@ -240112,7 +240106,7 @@
           "width": "500",
           "angle": "14°",
           "castTime": "0.75",
-          "effectRadius": "750 /  1000",
+          "effectRadius": "1000 • 750",
           "targetRange": null
         }
       ]
@@ -241488,7 +241482,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "400 / 480",
+          "effectRadius": "400 • 480",
           "targetRange": null
         }
       ],
@@ -243761,7 +243755,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Rengar/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Upon casting a basic ability or using Savagery's first attack, Rengar generates a stack of Ferocity for 1.5 seconds, refreshing on subsequent triggers and stacking up 4 times. At maximum stacks, his next basic ability consumes them all to become empowered with an additional effect and grant him an additional cast along with 30% / 40% / 50% (based on level) bonus movement speed for 1.5 seconds. Generated Ferocity is prevented from expiring for 10 seconds after entering champion combat.Reaching 4 Ferocity with Savagery or Bola Strike locks the empowered version of the ability from being cast for 0.1 seconds. Similarly, consuming all Ferocity with an empowered ability locks the unempowered version of the ability from being cast for 0.1 seconds if it is not already on cooldown, increased to 0.25 seconds for Battle Roar.",
+              "description": "Innate: Upon casting a basic ability or using Savagery's first attack, Rengar generates a stack of Ferocity for 1 second, stacking up 4 times but not refreshing on subsequent triggers. At maximum stacks, his next basic ability consumes them all to become empowered with an additional effect and grant him an additional cast along with 30% / 40% / 50% (based on level) bonus movement speed for 1.5 seconds. Generated Ferocity is prevented from expiring for 10 seconds after dealing or taking damage, excluding damage dealt by damage over time or proc effects.Consuming all Ferocity with an empowered ability locks the unempowered version of the ability from being cast for 0.1 seconds if it is not already on cooldown, increased to 0.25 seconds for Battle Roar.",
               "leveling": []
             },
             {
@@ -243769,7 +243763,7 @@
               "leveling": []
             },
             {
-              "description": "Unseen Predator: Rengar's basic attacks have massively increased range and cause him to leap to the target's location if they are beyond his normal basic attack range, triggering on-attack effects, and attacking the target upon arrival and landing closer than his normal melee range. Unseen Predator will generate 1 Ferocity if none of his current Ferocity was generated this way.Rengar can cast any of his abilities during the dash.",
+              "description": "Unseen Predator: Rengar's next basic attack on-attack generates 1 Ferocity if none of his current Ferocity was generated this way. The attack also has massively increased range and causes him to leap to the target's location if they are beyond his normal basic attack range, attacking the target upon arrival and landing closer than his normal melee range.Rengar can cast any of his abilities during the dash. The start of the leap is the end of Rengar's attack windup, putting the attack timer on cooldown, triggering on-attack effects and additionally refreshing the Ferocity duration.",
               "leveling": []
             },
             {
@@ -243788,7 +243782,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The start of the leap is considered to be the end of Rengar's attack windup, triggering attack effects (i.e.  Navori Flickerblade,  Lethal Tempo) and generating the Ferocity.\nWhile  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other  blink effects will still cause the buff to linger upon exiting the  brush area.\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nGo off but have no effect if the target dies or becomes  untargetable.\nWhen the attack goes off,  Savagery's empowered attack is consumed.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nRengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
+          "notes": "While  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other  blink effects will still cause the buff to linger upon exiting the  brush area.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nThe same does not apply for other bonus ranges such as  Hexoptics C44's.\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nWhile out of combat, if abilities are used one after the other, only the first will count towards the 1 second Ferocity timer, without refreshing from the second cast. [2] (unexpected)\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nNot go off if the target  dies or becomes  untargetable.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nWhen the attack goes off,  Savagery's empowered attack is consumed.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\nRengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
           "blurb": "Innate:  Rengar generates Ferocity when he casts a basic ability or uses  Savagery's empowered attack, which expires after a period out of combat. At max Ferocity, his next basic ability consumes them to become empowered with an additional effect, gain an extra cast, and briefly grant him  bonus movement speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -243814,10 +243808,10 @@
               "leveling": []
             },
             {
-              "description": "His first attack is empowered to stab the target, having an uncancellable windup, gaining 25 bonus range, and dealing bonus physical damage. The attack can critically strike for (100% + 30%) AD bonus physical damage.",
+              "description": "His first attack on-hit is empowered to stab the target, having an uncancellable windup, gaining 25 bonus range, and dealing additional physical damage. The attack can critically strike for (100% + 30%) AD bonus physical damage.",
               "leveling": [
                 {
-                  "attribute": "Bonus Physical Damage",
+                  "attribute": "Additional Physical Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -243856,7 +243850,7 @@
               ]
             },
             {
-              "description": "Ferocity Bonus: Savagery's damage is modified to deal 35 : 260 (based on level) (+ 20% AD) bonus physical damage. Rengar instead gains 50% : 107% (based on level) bonus attack speed for 5 seconds.",
+              "description": "Ferocity Bonus: Savagery's damage is modified to deal 35 : 260 (based on level) (+ 20% AD) bonus physical damage. In addition to gaining another instance of the base attack speed on-cast, consuming the attack also grants 50% : 107% (based on level) bonus attack speed for 5 seconds.",
               "leveling": []
             },
             {
@@ -243895,7 +243889,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Savagery deals  basic damage, but also triggers spell effects by also being tagged as  spell damage.\nSavagery's empowered attack is consumed against jungle plants.\nThe bonus attack speed from the unempowered and empowered casts can stack with each other, if both are cast shortly one after another.\nThe enhanced attack applies other  on-hit effects as well as  life steal as normal.\nCasting Savagery does not  break stealth.",
+          "notes": "The additional damage is tagged as  proc damage,  basic damage, and  spell damage.\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [4] (unexpected)\nSavagery's empowered attack is consumed against jungle plants.\nThe bonus attack speed from the unempowered and empowered casts can stack with each other, if both are cast shortly one after another.\nThe enhanced attack applies other  on-hit effects as well as  life steal as normal.\nIf  energized kills the target before the attack hits, Savagery won't be consumed but it will still grant free Ferocity. [5] (unexpected)\nWhile the Ferocity timer is not running, if the attack  misses or is  dodged it will grant a permanent Ferocity stack until the timer is triggered and refreshed. [6] (unexpected)\nCasting Savagery does not  break stealth.",
           "blurb": "Active:  Rengar gains  bonus attack speed for his next two  basic attacks. His next basic attack deals bonus physical damage and will  critically strike, dealing increased damage based on his  critical strike chance.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -244129,7 +244123,7 @@
           "speed": "1500",
           "width": "140",
           "angle": null,
-          "castTime": "0.25 / None",
+          "castTime": "0.25 • None",
           "effectRadius": null,
           "targetRange": "1000"
         }
@@ -244244,7 +244238,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Thrill of the Hunt's duration starts on-cast.\nThe armor reduction applies after the attack.\nIf the attack out of Thrill of the Hunt is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe  true sight reveal on the target stays until the leap finishes.\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nUsing a basic attack  breaks the stealth at the end of the attack windup.\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons",
+          "notes": "Thrill of the Hunt's duration starts on-cast.\nThe ability's damage is tagged as  proc damage and  basic damage.\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [5] (unexpected)\nThe ability applies a mark on the target at the start of attack windup that is successively consumed when the basic attack hits to apply the effect.\nIf the attack is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe mark will however still linger for a very short period after that, allowing Rengar to consume it with a quick basic attack. [6]\nRengar may sometimes be able to still leap away after consuming the ability with a melee basic attack. [7] (unexpected)\nThe  true sight reveal on the target stays until the leap finishes.\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nUsing a basic attack  breaks the stealth at the start of the attack windup.\nUnlike other champions that break the stealth at the start of attack windup, Rengar may automatically start attacking a nearby target if the player's \"Auto Attack\" setting is turned on. [8] (unexpected)\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons",
           "blurb": "Passive:  Rengar also gains  Unseen Predator while  camouflaged.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -245856,7 +245850,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Auto / Unit",
+          "targeting": "Auto • Unit",
           "affects": "Enemies",
           "spellshieldable": "true",
           "resource": null,
@@ -245877,7 +245871,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "150 / 250 / 200 / 300",
+          "effectRadius": "150 • 250 • 200 • 300",
           "targetRange": null
         }
       ],
@@ -245972,7 +245966,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "300 / 360",
+          "effectRadius": "300 • 360",
           "targetRange": null
         }
       ],
@@ -249948,7 +249942,7 @@
           "speed": "1600",
           "width": "410 - 368.4",
           "angle": null,
-          "castTime": "None / 0.5833",
+          "castTime": "None • 0.5833",
           "effectRadius": null,
           "targetRange": "1700"
         }
@@ -251441,7 +251435,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spell Flux's second cast on a target will apply a new Flux debuff as well as triggering the previous one (effectively refreshing the duration).\nThe \"main\" missile of Spell Flux is blocked by  projectile-intercepting effects, while the spreading bounce missiles are not.\nPENDING FOR TEST: bounce range  to-edge or  to-center?\nGame data notes additional range checks of 400 (bounce range) and 500 (Q damage bounce range) against 'large' enemies.\nSpell Flux can be buffered 0.5 seconds before it comes off cooldown.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+          "notes": "Spell Flux's second cast on a target will apply a new Flux debuff as well as triggering the previous one (effectively refreshing the duration).\nThe \"main\" missile of Spell Flux is blocked by  projectile-intercepting effects, while the spreading bounce missiles are not.\nPENDING FOR TEST: bounce range  to-edge or  to-center?\nGame data notes additional range checks of 400 (bounce range) and 500 (Q damage bounce range) against 'large' enemies.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
           "blurb": "Active:  Ryze projects an orb upon the target enemy that deals magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -251449,7 +251443,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "4000 / 1500",
+          "speed": "4000 • 1500",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -251485,7 +251479,7 @@
               ]
             },
             {
-              "description": "Active: Ryze channels for 2 seconds to open a portal beneath him, marking the target location as its destination and granting sight of its area. Ryze is able to act while channeling, but the portal will cancel if he is interrupted.",
+              "description": "Active: Ryze channels for 2 seconds to open a portal beneath him, marking the target location as its destination and granting sight of the target area. Ryze is able to act while channeling, but the portal will cancel if he is interrupted.",
               "leveling": []
             },
             {
@@ -251547,8 +251541,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "250 : 350 : 465 /  515",
-          "targetRange": "3000 / 1000"
+          "effectRadius": "465 • 515",
+          "targetRange": "1000 • 3000"
         }
       ]
     },
@@ -252852,7 +252846,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": "10",
           "innerRadius": null,
-          "speed": "2050 / 2800",
+          "speed": "2050 • 2800",
           "width": null,
           "angle": null,
           "castTime": null,
@@ -252979,7 +252973,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "2600",
-          "width": "120 / 130",
+          "width": "120 • 130",
           "angle": "100°",
           "castTime": "0.25",
           "effectRadius": null,
@@ -254843,7 +254837,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Champions will slightly be  knocked back, while minions and monsters will instead be slightly  pulled for a fixed distance.\nArctic Assault cannot  knock enemies over terrain.\nCasting  Flash during Arctic Assault will end the dash and affect enemies at the new location.\nUpon colliding with an enemy  champion, Sejuani will  attack them.",
+          "notes": "Arctic Assault has no minimum dash range.\nChampions will be slightly  knocked back, while minions and monsters will instead be slightly  pulled for a fixed distance. Neither can displace through terrain.\nCasting  Flash during Arctic Assault will end the dash and affect enemies at the new location.\nIf the dash collides with an enemy champion, Sejuani will be ordered to basic attack them.",
           "blurb": "Active:  Sejuani  dashes to the target location, dealing magic damage and briefly  knocking up enemies she passes through. She will stop upon hitting an enemy  champion.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -255304,7 +255298,7 @@
               "leveling": []
             },
             {
-              "description": "The enemy hit by the bola is not affected by the storm's effects.",
+              "description": "The enemy hit by the bola is unaffected by the storm's effects.",
               "leveling": []
             }
           ],
@@ -255362,7 +255356,7 @@
           "width": "240",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "450 /  450 /  300",
+          "effectRadius": "450 •  450 • 300",
           "targetRange": "1300"
         }
       ]
@@ -257232,7 +257226,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "100 / 280",
+          "width": "100 • 280",
           "angle": null,
           "castTime": "80% of Senna's windup time (0.4 at base attack speed)",
           "effectRadius": null,
@@ -257629,7 +257623,7 @@
             "affectedByCdr": true
           },
           "targeting": "Direction",
-          "affects": "Allies / Enemies",
+          "affects": "Self, Allies, Enemies",
           "spellshieldable": "true",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
@@ -257646,7 +257640,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "20000",
-          "width": "320 / 2400",
+          "width": "320 • 2400",
           "angle": null,
           "castTime": "1",
           "effectRadius": null,
@@ -259932,7 +259926,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1300 / 875",
+          "speed": "1300 • 875",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -260378,7 +260372,7 @@
           "speed": "1600",
           "width": "320",
           "angle": null,
-          "castTime": "0.5 / 0.5",
+          "castTime": "0.5 • 0.5",
           "effectRadius": null,
           "targetRange": "1300"
         }
@@ -262452,7 +262446,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "300 / 620 /  70",
+          "width": "300  • 620 •  70",
           "angle": null,
           "castTime": "0.75",
           "effectRadius": null,
@@ -267618,7 +267612,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shen/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Shen recalls his Spirit Blade to his location. Enemy champions hit are slowed for the next 2 seconds while moving away from Shen.",
+              "description": "Active: Shen recalls his Spirit Blade to him. Enemy champions hit by the Spirit Blade along its path are slowed for the next 2 seconds while moving away from Shen.",
               "leveling": [
                 {
                   "attribute": "Slow",
@@ -267982,7 +267976,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The Spirit Blade will stop in place upon colliding with  Wind Wall or  Unbreakable. If this occurs, Shen will not receive the empowered attacks.\nWhen it is called, the Spirit Blade also checks for units which's  gameplay radius it overlaps which (equal to a  0 radius check) before flying off, allowing it to hit enemies whose center is behind the missile origin.\nThe empowered attack will not trigger against  wards.",
+          "notes": "The Spirit Blade will track Shen as it is traveling to him, following his movements if he changes locations while the blade is in-flight.\nThe Spirit Blade will stop in place upon colliding with  projectile-intercepting effects. If this occurs, Shen will not gain the empowered attacks as the Spirit Blade failed to complete its travel to him.\nWhen it is recalled, the Spirit Blade also checks for units whose  gameplay radius it overlaps with (equal to a  0 radius check) before flying off, allowing it to hit enemies whose center is behind the missile origin.\nThe empowered attack will not trigger against  wards.",
           "blurb": "Active:  Shen recalls his Spirit Blade to his location, which shortly  slows enemies hit while moving away from him.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -268184,7 +268178,7 @@
           "blurb": "Passive: Dealing damage with  Twilight Assault or Shadow Dash will restore  energy.",
           "missileSpeed": null,
           "rechargeRate": null,
-          "collisionRadius": "60 /  150",
+          "collisionRadius": "60 •  150",
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
@@ -268193,7 +268187,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "600 / 300"
+          "targetRange": "300 - 600"
         }
       ],
       "R": [
@@ -270522,11 +270516,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 / 1575",
-          "width": "120 / 100",
+          "speed": "1600 • 1575",
+          "width": "120 • 100",
           "angle": null,
-          "castTime": "0.25 / 0.3333",
-          "effectRadius": "150 / 300",
+          "castTime": "0.25 • 0.3333",
+          "effectRadius": "150 • 300",
           "targetRange": null
         }
       ],
@@ -270708,7 +270702,7 @@
           "angle": null,
           "castTime": "0.25",
           "effectRadius": null,
-          "targetRange": "400 / 1050"
+          "targetRange": "400 - 1050"
         }
       ]
     },
@@ -275865,8 +275859,8 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1450 / 1200",
-          "width": "180 / 200",
+          "speed": "1450 • 1200",
+          "width": "180 • 200",
           "angle": null,
           "castTime": "0.25 : 0.1 (based on bonus attack speed)",
           "effectRadius": null,
@@ -276055,7 +276049,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1750 / 1000",
+          "speed": "1750 •  1000",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -278792,7 +278786,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Skarner/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Skarner ends Shattered Earth by throwing his boulder in the target direction. It explodes upon colliding with the first enemy hit, applying the same damage and slow to the target and surrounding enemies as the final attack would.",
+              "description": "Active: Skarner ends Shattered Earth by throwing his boulder in the target direction. It explodes upon colliding with the first enemy hit, applying the same damage and slow to the target and surrounding enemies as Shattered Earth's final empowered attack would.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -278960,7 +278954,7 @@
           "speed": "1600",
           "width": "180",
           "angle": null,
-          "castTime": "0.25 / none",
+          "castTime": "0.25 • none",
           "effectRadius": "300",
           "targetRange": null
         }
@@ -279079,7 +279073,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.3",
-          "effectRadius": "600 / 700",
+          "effectRadius": "600 • 700",
           "targetRange": null
         }
       ],
@@ -279324,7 +279318,7 @@
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": null,
-          "width": "350 / 200",
+          "width": "350 • 200",
           "angle": null,
           "castTime": "0.75",
           "effectRadius": null,
@@ -280172,11 +280166,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1800 / 900",
+          "speed": "1800 • 900",
           "width": null,
           "angle": "15°",
           "castTime": "100% of Smolder's windup time (0.261 at base attack speed)",
-          "effectRadius": "285 / 150",
+          "effectRadius": "285 • 150",
           "targetRange": "550 (+ 100% bonus  attack range)"
         }
       ],
@@ -280392,7 +280386,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 400",
+          "speed": "2000 • 400",
           "width": "115",
           "angle": null,
           "castTime": "0.35",
@@ -280561,7 +280555,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Smolder/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Smolder shouts for his mother to attack from above, causing her to exhale a wave of fire from behind him and towards the target direction, granting sight of its surroundings as it travels. The wave heals Smolder and deals physical damage to enemies hit, with those in the center taking 50% increased damage and becoming slowed by 40% for 2 seconds.",
+              "description": "Active: Smolder shouts for his mother to attack from above, causing her to exhale a wave of fire starting from behind him and towards the target direction, granting sight of its surroundings as it travels. The wave heals Smolder and deals physical damage to enemies hit, with those in the center taking 50% increased damage and becoming slowed by 40% for 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Self Heal",
@@ -281631,7 +281625,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "825 /  400",
+          "effectRadius": "825 •  400",
           "targetRange": null
         }
       ],
@@ -281789,7 +281783,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "1000 /  400",
+          "effectRadius": "1000 •  400",
           "targetRange": null
         }
       ],
@@ -286598,7 +286592,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Swain/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Enemy champions that die will leave behind a Soul Fragment for 16 seconds. Swain's ravens will collect nearby dropped Soul Fragments, as well as rip the Soul Fragments out of champions hit by Vision of Empire or Nevermove's recast. Once a raven has collected a Soul Fragment, it will fly towards Swain to grant it to him, while also granting sight of its surroundings during the travel.\nSoul Fragment: For each stack, Swain gains 15 bonus health permanently. Upon claiming the fragment, he will heal for 6% of his maximum health.",
+              "description": "Innate: Enemy champions that die will leave behind a Soul Fragment for 16 seconds. Swain's ravens will collect nearby dropped Soul Fragments, as well as rip the Soul Fragments out of champions hit by Vision of Empire or Nevermove's recast. Once a raven has collected a Soul Fragment, it will fly towards Swain to grant it to him, while also granting sight of its surroundings during the travel.\nSoul Fragment: For each stack, Swain gains 15 bonus health permanently. Upon claiming a fragment, he will heal for 6% of his maximum health.",
               "leveling": []
             }
           ],
@@ -286625,7 +286619,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "1100 /  250",
+          "effectRadius": "1100 • 250",
           "targetRange": null
         }
       ],
@@ -287073,7 +287067,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies",
           "spellshieldable": "special",
           "resource": "MANA",
@@ -287090,11 +287084,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1125 : 1800 (based on seconds in flight) / 2000 : 2800 (based on seconds in flight)",
+          "speed": "1125 : 1800 (based on seconds in flight) • 2000 : 2800 (based on seconds in flight)",
           "width": "180",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "100 / Global",
+          "effectRadius": "100 • Global",
           "targetRange": "850"
         }
       ],
@@ -287224,7 +287218,7 @@
               ]
             },
             {
-              "description": "After 2 seconds, Swain gains the ability to cast Demonflare, up to 100 times, and does so automatically when Demonic Ascension expires if Demonflare is not on cooldown.",
+              "description": "After 2 seconds, Swain gains the ability to cast Demonflare, up to 100 times, and does so automatically when Demonic Ascension expires if Demonflare is not on cooldown at the time of expiration.",
               "leveling": []
             },
             {
@@ -289171,8 +289165,8 @@
           "width": null,
           "angle": null,
           "castTime": "0.4",
-          "effectRadius": "180 / 200",
-          "targetRange": "50 / 775"
+          "effectRadius": "180 • 200",
+          "targetRange": "50 • 775"
         }
       ],
       "W": [
@@ -289549,7 +289543,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 - 400 / 1800",
+          "speed": "2500 - 400 • 1800",
           "width": "120",
           "angle": null,
           "castTime": "0.25",
@@ -291491,7 +291485,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Unit / Location",
+          "targeting": "Unit • Location",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -291513,7 +291507,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": "225",
-          "targetRange": "925 / 950 / 500"
+          "targetRange": "925 • 950 • 500"
         }
       ],
       "E": [
@@ -291630,9 +291624,9 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2500 / 2000",
-          "width": "120 / 200",
-          "angle": "56° / 84°",
+          "speed": "2500 • 2000",
+          "width": "120 • 200",
+          "angle": "56° • 84°",
           "castTime": "0.25",
           "effectRadius": null,
           "targetRange": null
@@ -294070,11 +294064,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/TahmKench/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Tahm Kench channels for 1.35 seconds as he dives into the waters, then blinks to the target location after a 0.15-second delay and remains unable to act for 0.65 seconds after the channel completes. Abyssal Dive grants sight of the area during the channel.",
+              "description": "Active: Tahm Kench channels for 1.35 seconds as he dives into the waters to emerge at the target location, granting sight of the area during the channel.",
               "leveling": []
             },
             {
-              "description": "Tahm Kench emerges to deal magic damage to nearby enemies, as well as knock up and stun them for 1 second. If this hits at least one enemy champion, 40% of Abyssal Dive's mana cost as well as a percentage of its cooldown are refunded.",
+              "description": "Upon completion of the channel, Tahm Kench blinks to the target location after a 0.15-second delay, dealing magic damage to nearby enemies and knocking them up and stunning them for 1 second. If at least one enemy champion is hit, 40% of Abyssal Dive's mana cost as well as a percentage of its cooldown are refunded.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -294137,7 +294131,7 @@
               ]
             },
             {
-              "description": "Enemies can see the indicator for Tahm Kench's destination after he has channeled for 0.75 seconds.",
+              "description": "Enemies can see the indicator for Tahm Kench's destination after he has channeled for 0.75 seconds. Tahm Kench remains unable to act for 0.65 seconds after the blink.",
               "leveling": []
             }
           ],
@@ -294191,7 +294185,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Tahm Kench is  vanished (but does not become untargetable) during the 0.15 seconds delay.\nThe following table refers for interactions while Tahm Kench is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects\n\nThe following table refers for interactions while Tahm Kench is unable to act:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Tahm Kench is  vanished (but does not become untargetable) during the 0.15 seconds delay.\nThe following table refers for interactions while Tahm Kench is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects\n\nThe following table refers for interactions while Tahm Kench is unable to act after the blink:\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -294203,7 +294197,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "275 /  200",
+          "effectRadius": "275 • 200",
           "targetRange": "1000 / 1050 / 1100 / 1150 / 1200"
         }
       ],
@@ -296222,11 +296216,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "3600 - 1800 / 2000",
+          "speed": "3600 - 1800 • 2000",
           "width": "200",
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "175 /  225",
+          "effectRadius": "175 •  225",
           "targetRange": null
         }
       ],
@@ -296563,7 +296557,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Self, Enemies",
           "spellshieldable": "false",
           "resource": "MANA",
@@ -296580,12 +296574,12 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1500 / 1200",
+          "speed": "1500 • 1200",
           "width": null,
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "2500 / 3500 / 4500 / 5500 / 6500 // 900"
+          "targetRange": "2500 / 3500 / 4500 / 5500 / 6500 • 900"
         }
       ]
     },
@@ -297639,9 +297633,9 @@
           "speed": "1400",
           "width": null,
           "angle": null,
-          "castTime": "None / 100% of Talon's windup time (0.198 at base attack speed)",
+          "castTime": "None • 100% of Talon's windup time (0.198 at base attack speed)",
           "effectRadius": null,
-          "targetRange": "575 /  170"
+          "targetRange": "575 •  170"
         }
       ],
       "W": [
@@ -297854,7 +297848,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2571 / 2429 / 3000",
+          "speed": "2571 • 2429 • 3000",
           "width": "150",
           "angle": "22°",
           "castTime": "0.25",
@@ -298072,7 +298066,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2400 / 4000",
+          "speed": "2400 • 4000",
           "width": "280",
           "angle": null,
           "castTime": "none",
@@ -301951,7 +301945,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Teemo/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Teemo tosses a poisonous mushroom to the target location that becomes stealthed after arming over 1 second, lasting for up to 5 minutes and granting sight of its surroundings. If the mushroom lands on an already-placed one, it will bounce forward again for its cast distance, up to a cap, which can happen repeatedly.",
+              "description": "Active: Teemo tosses a poisonous mushroom to the target location that becomes stealthed after arming over 1 second, lasting for up to 5 minutes and granting sight of its surroundings. If the mushroom lands on one that has already been placed, it will bounce forward from the placed mushroom for its cast distance, up to a cap, which can happen repeatedly.",
               "leveling": [
                 {
                   "attribute": "Bounce Distance Cap",
@@ -302138,7 +302132,7 @@
             30,
             25
           ],
-          "collisionRadius": "160 / 150",
+          "collisionRadius": "160 • 150",
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
@@ -341160,7 +341154,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "300 / 500 / 700",
+          "effectRadius": "300 • 500 • 700",
           "targetRange": "700"
         }
       ]
@@ -345034,8 +345028,8 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "Clone's attack range",
-          "targetRange": "100 / 300"
+          "effectRadius": null,
+          "targetRange": "100 - 300"
         }
       ],
       "E": [
@@ -361964,7 +361958,7 @@
           "angle": null,
           "castTime": "none",
           "effectRadius": null,
-          "targetRange": "225 : 450 / 550"
+          "targetRange": "225 - 450 • 550"
         }
       ],
       "R": [
@@ -366276,19 +366270,19 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The dash does not have a minimum cast distance.\nIf the dash is interrupted, Zaahen will fail to deal damage.\nZaahen will, however, deal damage if the dash is interrupted at the very end, shortly before the damage would occur. [2] (bug)\nThe mixed damage is applied in two instances, and the physical damage will be dealt first within the same game tick.\nIf the physical damage finishes off the unit, the magic damage will not be dealt against it.(bug)\nThe following table refers for interactions while Zaahen is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n The Darkin Glaive and its  recast are usable.  Dreaded Return and  Grim Deliverance are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Hextech Rocketbelt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Teleport  Recall  Mark  Dash\n\n\nDisabled\n\n Hexflash\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath",
+          "notes": "Aureate Rush has no minimum dash range.\nIf the dash is interrupted, Zaahen will fail to deal damage.\nZaahen will, however, deal damage if the dash is interrupted at the very end, shortly before the damage would occur. [2] (bug)\nThe mixed damage is applied in two instances, and the physical damage will be dealt first within the same game tick.\nIf the physical damage finishes off the unit, the magic damage will not be dealt against it.(bug)\nThe following table refers for interactions while Zaahen is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n The Darkin Glaive and its  recast are usable.  Dreaded Return and  Grim Deliverance are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nAll the other item-actives are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Hextech Rocketbelt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Teleport  Recall  Mark  Dash\n\n\nDisabled\n\n Hexflash\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Zaahen  dashes to the target location. Upon arrival, he flourishes his glaive to deal physical damage to nearby enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
-          "innerRadius": null,
+          "innerRadius": "200",
           "speed": "900",
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "200 / 375",
+          "effectRadius": "375",
           "targetRange": "350"
         }
       ],
@@ -366442,7 +366436,7 @@
           "angle": null,
           "castTime": "0.5",
           "effectRadius": "550",
-          "targetRange": "10 / 600"
+          "targetRange": "10 - 600"
         }
       ]
     },
@@ -366928,7 +366922,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Goo: Whenever Zac damages at least one enemy with an ability, he sheds a number of chunks of himself to a nearby location, landing towards nearby visible enemy champions and lasting for 6 seconds.\n Stretching Strikes: 1 chunk for the initial hit, and 1 chunk if the second hit is on a different unit\n Unstable Matter: 1 chunk if it hits at least one unit\n Elastic Slingshot: 1 chunk for each enemy champion hit, with a minimum of 1 if it hits at least one unit\n Let's Bounce!: 1 chunk for each bounce that hits at least one unit",
+              "description": "Innate - Goo: Whenever Zac hits enemies with an ability, he sheds a number of chunks of himself to a nearby location, landing towards nearby visible enemy champions and lasting for 6 seconds.\n Stretching Strikes: 1 chunk for the initial hit, and 1 chunk if the second hits a different enemy\n Unstable Matter: 1 chunk if it hits at least one enemy\n Elastic Slingshot: 1 chunk for each enemy champion hit, with a minimum of 1 if it hits at least one enemy\n Let's Bounce!: 1 chunk for each bounce that hits at least one enemy",
               "leveling": []
             },
             {
