@@ -304114,7 +304114,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies / Self",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -304131,11 +304131,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1900 / 1400",
+          "speed": "1900 • 1400",
           "width": "140",
           "angle": null,
-          "castTime": "0.5 / None",
-          "effectRadius": "Global / 3000",
+          "castTime": "0.5 • None",
+          "effectRadius": "Global • 3000",
           "targetRange": null
         }
       ],
@@ -304257,7 +304257,7 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "350 / 150",
+          "effectRadius": "350 • 150",
           "targetRange": "950"
         }
       ],
@@ -307084,7 +307084,7 @@
           "width": null,
           "angle": null,
           "castTime": "100% of Tristana's windup time (0.23 at base attack speed)",
-          "effectRadius": "300 / 300 / 600",
+          "effectRadius": "300 • 300 • 600",
           "targetRange": "550 : 700 (based on level)"
         }
       ],
@@ -307224,7 +307224,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "2000 / 1500",
+          "speed": "2000 • 1500",
           "width": null,
           "angle": null,
           "castTime": "0.25",
@@ -309716,7 +309716,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Trundle/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Trundle erects a pillar of ice at the target location for 6 seconds, which knocks back units hit to 225 units from its center. The pillar acts as terrain and slows nearby enemies.",
+              "description": "Active: Trundle erects a pillar of ice at the target location for 6 seconds, which knocks back units hit up to 225 units from its center. The pillar acts as terrain and slows nearby enemies.",
               "leveling": [
                 {
                   "attribute": "Slow",
@@ -309804,7 +309804,7 @@
           "width": null,
           "angle": null,
           "castTime": "0.25",
-          "effectRadius": "360 / 225",
+          "effectRadius": "360 • 225",
           "targetRange": "1000"
         }
       ],
@@ -318846,11 +318846,11 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "109.5 : 250 (based on level)",
+          "speed": null,
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "370 /  1300",
+          "effectRadius": "370 •  1300",
           "targetRange": null
         }
       ]
@@ -319919,7 +319919,7 @@
           "angle": null,
           "castTime": "0.45",
           "effectRadius": null,
-          "targetRange": "475 / 450"
+          "targetRange": "475 • 450"
         }
       ],
       "R": [
@@ -320011,7 +320011,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction / Auto",
+          "targeting": "Direction • Auto",
           "affects": "Enemies",
           "spellshieldable": "Special",
           "resource": "MANA",
@@ -320032,7 +320032,7 @@
           "width": "160",
           "angle": null,
           "castTime": "0.5",
-          "effectRadius": "Global /  600",
+          "effectRadius": "Global •  600",
           "targetRange": "2500"
         }
       ]
@@ -322074,7 +322074,7 @@
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
-          "tetherRadius": "650 /  600",
+          "tetherRadius": "650 •  600",
           "onTargetCdStatic": null,
           "innerRadius": null,
           "speed": "1500",
