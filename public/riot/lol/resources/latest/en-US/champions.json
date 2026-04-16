@@ -670,7 +670,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The highlighted areas denote the sweetspot - enemies are affected where the two areas overlap (See  edge range and  center range). The first and second casts function like any point-blank AOE (i.e. an effect centered on the caster). An enemy is considered to be hit by the ability based on  edge range - i.e. if any part of your  gameplay radius is within the hitbox, you are affected.\nThe third cast, as well as the Sweetspot for the first and second cast, function like ground-targeted abilities. An enemy is considered to be hit by the ability based on  center range - i.e. an enemy's center has to be within the hitbox to be affected.\nAs implied by the previous point, the Sweetspot for the first and second cast is implemented as separate areas of effect to the main component of the ability. Enemies must be within both areas to trigger the bonus damage,  knock up and  Deathbringer Stance's cooldown reduction.\nThe 'target gets hit' SFX plays whenever an enemy is within the Sweetspot - meaning it is possible to trigger the sound effect without affecting an enemy.\nIn the game, Sweetspot damage is incorrectly displayed as  a real critical strike.(bug)\nEach cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nThe hitbox and Aatrox's model are fixed to the initial target direction.\nAatrox's facing-direction, for effects such as  Petrifying Gaze, is the direction he is moving, and not the direction the model is facing.\nAll damage modifiers  stack multiplicatively.\nThere's a small period of time in which Aatrox can't declare basic attacks after casting The Darkin Blade.(unexpected)\nThis ability's damage is calculated based on the caster's current stats and changes dynamically.\nThis ability will cast from wherever the caster is at the end of the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Umbral Dash can be cast. Other abilities are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "The highlighted areas denote the sweetspot - enemies are affected where the two areas overlap (See  edge range and  center range). The first and second casts function like any point-blank AOE (i.e. an effect centered on the caster). An enemy is considered to be hit by the ability based on  edge range - i.e. if any part of your  gameplay radius is within the hitbox, you are affected.\nThe third cast, as well as the Sweetspot for the first and second cast, function like ground-targeted abilities. An enemy is considered to be hit by the ability based on  center range - i.e. an enemy's center has to be within the hitbox to be affected.\nAs implied by the previous point, the Sweetspot for the first and second cast is implemented as separate areas of effect to the main component of the ability. Enemies must be within both areas to trigger the bonus damage,  knock up and  Deathbringer Stance's cooldown reduction.\nThe 'target gets hit' SFX plays whenever an enemy is within the Sweetspot - meaning it is possible to trigger the sound effect without affecting an enemy.\nIn the game, Sweetspot damage is incorrectly displayed as  a real critical strike.(bug)\nEach cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nThe hitbox and Aatrox's model are fixed to the initial target direction.\nAatrox's facing-direction, for effects such as  Petrifying Gaze, is the direction he is moving, and not the direction the model is facing.\nAll damage modifiers  stack multiplicatively.\nThere's a small period of time in which Aatrox can't declare basic attacks after casting The Darkin Blade.(unexpected)\nThis ability's damage is calculated based on the caster's current stats and changes dynamically.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe Darkin Blade maintains its casting angle direction in relation to Aatrox if he moves during the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Umbral Dash can be cast. Other abilities are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -869,7 +869,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The impact area is oriented relative to Aatrox's position when the projectile hits, not where the projectile originated from.\nThe location that the target is dragged to is not at the target's original location, but slightly closer towards Aatrox's position when the zone expires.\n Spell shield will block the chain's application and initial damage but not the aftereffects of one already applied.\nThis ability's damage is calculated based on the caster's current stats and changes dynamically.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "The impact area is oriented relative to Aatrox's position when the projectile hits, not where the projectile originated from.\nThe location that the target is dragged to is not at the target's original location, but slightly closer towards Aatrox's position when the zone expires.\n Spell shield will block the chain's application and initial damage but not the aftereffects of one already applied.\nThis ability's damage is calculated based on the caster's current stats and changes dynamically.\nThis ability will cast from wherever the caster is at the end of the cast time.\nInfernal Chains maintains its casting angle direction in relation to Aatrox if he moves during the cast time.",
           "blurb": "Active:  Aatrox sends a chain in the target direction that deals physical damage and  slows the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -104251,7 +104251,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction",
+          "targeting": "Location",
           "affects": "Enemies",
           "spellshieldable": "True",
           "resource": "MANA",
@@ -104528,7 +104528,7 @@
             ],
             "affectedByCdr": true
           },
-          "targeting": "Direction",
+          "targeting": "Location",
           "affects": "Enemies",
           "spellshieldable": "Special",
           "resource": "MANA",
@@ -106354,7 +106354,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Enemies that cross the perimeter are not marked Unsteady.\nThis ability will cast from wherever the caster is at the end of the cast time.\nIn addition to its  projectile, Vanguard's Edge will check for enemy champions within a  90-unit radius area from the projectile's origin point.\nThe projectile interacts with projectile-blocking effects but the area check doesn't.\nThe blades will still expand if the champion hit by the blades is protected by a  spell shield.\nThe  sight is granted in a 1350 unit radius at the location of the enemy champion at the time of being hit and can be blocked by terrain.\nIf this spell is casted while there are blades from a previous Vanguard's Edge still active, the previous blades will disappear.",
+          "notes": "Enemies that cross the perimeter are not marked Unsteady.\nThis ability will cast from wherever the caster is at the end of the cast time.\nVanguard's Edge maintains its casting angle direction in relation to Irelia if he moves during the cast time.\nIn addition to its  projectile, Vanguard's Edge will check for enemy champions within a  90-unit radius area from the projectile's origin point.\nThe projectile interacts with projectile-blocking effects but the area check doesn't.\nThe blades will still expand if the champion hit by the blades is protected by a  spell shield.\nThe  sight is granted in a 1350 unit radius at the location of the enemy champion at the time of being hit and can be blocked by terrain.\nIf this spell is cast while there are blades from a previous Vanguard's Edge still active, the previous blades will disappear.",
           "blurb": "Active:  Irelia launches a barrage of blades in the target direction that expand outward upon hitting an enemy champion, dealing magic damage to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -184355,7 +184355,7 @@
         "name": "PROJECT Command Line Yi",
         "id": 11116,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "PROJECT: Command Line Yi",
         "lootEligible": false,
         "cost": "Special",
@@ -243838,7 +243838,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Rengar/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Upon casting a basic ability or using Savagery's first attack, Rengar generates a stack of Ferocity for 1 second, stacking up 4 times but not refreshing on subsequent triggers. At maximum stacks, his next basic ability consumes them all to become empowered with an additional effect and grant him an additional cast along with 30% / 40% / 50% (based on level) bonus movement speed for 1.5 seconds. Generated Ferocity is prevented from expiring for 10 seconds after dealing or taking damage, excluding damage dealt by damage over time or proc effects.Consuming all Ferocity with an empowered ability locks the unempowered version of the ability from being cast for 0.1 seconds if it is not already on cooldown, increased to 0.25 seconds for Battle Roar.",
+              "description": "Innate: Upon casting a basic ability or using Savagery's first attack, Rengar generates a stack of Ferocity for 1 second, stacking up 4 times but not refreshing on subsequent triggers. At maximum stacks, his next basic ability consumes them all to become empowered with an additional effect and grant him an additional cast along with 30% / 40% / 50% (based on level) bonus movement speed for 1.5 seconds. Generated Ferocity is prevented from expiring for 10 seconds after dealing or taking damage, excluding damage dealt by damage over time or proc effects.",
               "leveling": []
             },
             {
@@ -243865,7 +243865,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "While  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other  blink effects will still cause the buff to linger upon exiting the  brush area.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nThe same does not apply for other bonus ranges such as  Hexoptics C44's.\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nWhile out of combat, if abilities are used one after the other, only the first will count towards the 1 second Ferocity timer, without refreshing from the second cast. [4] (unexpected)\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nNot go off if the target becomes  untargetable.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\nReaching 4 Ferocity with an ability immediatelly grants access to empowered abilities, however reaching it with a brush attack will grant the access after a short delay - causing Rengar to still be able to cast normal abilities while at 4 Ferocity. [5] [6] (unexpected)\nRengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
+          "notes": "Rengar has a secondary resource bar that indicates how much Ferocity he currently has as pips.\nFerocity generated by Unseen Predator has a purple color.\nFerocity generated by his other abilities has a white color.\nWhile out of combat, if abilities are used one after the other, only the first will count towards the 1 second Ferocity timer, without refreshing from the second cast. [5] (unexpected)\nReaching 4 Ferocity with an ability immediatelly grants access to empowered abilities, however reaching it with a brush attack will grant the access after a short delay - causing Rengar to still be able to cast normal abilities while at 4 Ferocity. [6] [7] (unexpected)\nOnly  Flash and  Hexflash instantly end Unseen Predator. Other  blink effects will still cause the buff to linger upon exiting the  brush area.\nThe attack deals  basic damage but is considered  ability damage for  Spear of Shojin.\nWhile  grounded or  rooted, Rengar loses the enhanced  attack range from Unseen Predator.\n Rapid Firecannon's and  Savagery's bonus ranges are lost after 0.25 seconds upon gaining Unseen Predator, and are re-gained after 0.25 seconds upon losing Unseen Predator.\nThe same does not apply for other bonus ranges such as  Hexoptics C44's.\nRengar will only leap to a target if his basic attack timer has been refreshed (if not so he will not automatically attempt to path towards his target, despite them being within leap range).\nThe leap will consume  energized  on-attack but only expend it once the leap hits.\nIf the leap is  interrupted, the energized will be indefinitely stored in the background until expended by a successive leap. Only 1 energized may be stored, but another can continue to recharge on the buffbar.\nWhile the energized is stored, normal basic attacks are prevented from expending any energized, however abilities may still expend the one from the buffbar. [8] (unexpected)\nRengar can freely use any  abilities, summoner spells, or item actives while leaping.\nUsing a  dash or  blink ability will interrupt the leap.\nThe attack from the leap will:\nNot go off if the dash was interrupted.\nNot go off if the target becomes  untargetable.\nGo off at the end of the dash even if its normal destination is obstructed by boundaries he cannot cross (e.g. terrain,  The Hextech Ultimatum).\nGo off regardless of distance the enemy travels away from Rengar's original location.\nGo off even if Rengar loses  sight of the target.\nBonetooth Necklace uses different icons corresponding to the number of stacks acquired:\n1 Stack: \n2 Stacks: \n3 Stacks: \n4 Stacks: \n5 Stacks: \n6th Stack:  Head of Kha'Zix",
           "blurb": "Innate:  Rengar generates Ferocity when he casts a basic ability or uses  Savagery's empowered attack, which expires after a period out of combat. At max Ferocity, his next basic ability consumes them to become empowered with an additional effect, gain an extra cast, and briefly grant him  bonus movement speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -243972,7 +243972,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The additional damage is tagged as  proc damage,  basic damage, and  spell damage.\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [7] (unexpected)\nSavagery's empowered attack is consumed against jungle plants.\nThe bonus attack speed from the unempowered and empowered casts can stack with each other, if both are cast shortly one after another.\nThe enhanced attack applies other  on-hit effects as well as  life steal as normal.\nIf  energized kills the target before the attack hits, Savagery won't be consumed but it will still grant free Ferocity. [8] (unexpected)\nWhile the Ferocity timer is not running, if the attack  misses or is  dodged it will grant a permanent Ferocity stack until the timer is triggered and refreshed. [9] (unexpected)\nCasting Savagery does not  break stealth.\nDifferent attack speeds may desync the animation from the hit. [10] (unexpected)\n Interrupting  Unseen Predator's leap will shortly after replace Savagery's own animation with a normal basic attack animation. [11] (unexpected)\nThe extended tooltip incorrectly states that the additional damage is reduced against structures. [12] (unexpected)",
+          "notes": "Casting Savagery does not  break stealth.\nThe bonus attack speed from the unempowered and empowered casts can stack with each other, if both are cast shortly one after another.\nThe empowered attack windup may still be manually cancelled when targeting jungle plants or  structures. [8] (unexpected)\nDifferent attack speeds may desync the animation from the hit. [9] (unexpected)\n Interrupting  Unseen Predator's leap will shortly after replace Savagery's own animation with a normal basic attack animation. [10] (unexpected)\nIf  energized kills the target before the attack hits, Savagery won't be consumed but it will still grant free Ferocity. [11] (unexpected)\nSavagery's empowered attack is consumed against jungle plants.\nWhile the Ferocity timer is not running, if the attack  misses or is  dodged it will grant a permanent Ferocity stack until the timer is triggered and refreshed. [12] (unexpected)\nThe additional damage is tagged as  proc damage,  basic damage, and  spell damage, and applies other  on-hit effects as well as  life steal as normal.\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [13] (unexpected)\nThe in-game extended tooltip incorrectly states that the additional damage is reduced against structures. [14] (unexpected)",
           "blurb": "Active:  Rengar gains  bonus attack speed for his next two  basic attacks. His next basic attack deals bonus physical damage and will  critically strike, dealing increased damage based on his  critical strike chance.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -244067,7 +244067,7 @@
             "affectedByCdr": true
           },
           "targeting": "Auto",
-          "affects": "Self / Enemies",
+          "affects": "Self • Enemies",
           "spellshieldable": "True",
           "resource": null,
           "damageType": "MAGIC_DAMAGE",
@@ -244075,7 +244075,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Grey health will not be consumed upon casting Battle Roar despite visually appearing so. It will only ever expire after its duration ends.",
+          "notes": "Grey health will not be consumed upon casting Battle Roar despite visually appearing so. It will only ever expire after its duration ends.\nThe ability will visibly attempt to but fail to buffer if cast during a non-ability cast time. [2] (unexpected)",
           "blurb": "Passive:  Rengar stores grey health equal to a portion of damage taken within a brief moment.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -244195,7 +244195,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "If Rengar casts  Savagery and/or  Battle Roar during Bola Strike's cast time, he will buffer them and cast them when Bola Strike completes.\nThis ability will cast from wherever the caster is at the end of the cast time.\nBola Strike's end point will not move in relation to Rengar if he moves during the cast time.",
+          "notes": "If Rengar casts  Savagery and/or  Battle Roar during Bola Strike's cast time, he will buffer them and cast them when Bola Strike completes.\nThis ability will cast from wherever the caster is at the end of the cast time.\nBola Strike maintains its casting angle direction in relation to Rengar if he moves during the cast time.",
           "blurb": "Active:  Rengar throws a bola in the target direction that deals  physical damage and briefly  slows the first enemy hit,  revealing them for a short time.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -244221,7 +244221,7 @@
               "leveling": []
             },
             {
-              "description": "Active: Rengar prowls for a duration, gaining bonus movement speed. After a 2-second delay, he also becomes camouflaged and gains Unseen Predator.\nThe camouflage duration can only go up to 14 seconds. (unexpected)",
+              "description": "Active: Rengar prowls for a duration, gaining bonus movement speed. After a 2-second delay, he also becomes camouflaged and gains Unseen Predator.\nThe camouflage can only last up to 14 seconds. (unexpected)",
               "leveling": [
                 {
                   "attribute": "Effect Duration",
@@ -244268,7 +244268,7 @@
               "leveling": []
             },
             {
-              "description": "Rengar's next basic attack within 125 range against any enemy or with Unseen Predator to the marked enemy deals 100% AD additional physical damage, then inflicts armor reduction for 4 seconds.",
+              "description": "Rengar's next basic attack within 125 range against any enemy or with Unseen Predator to the marked enemy deals 100% AD additional physical damage, then inflicts armor reduction for 4 seconds.\nThe target is revealed until the leap has finished.",
               "leveling": [
                 {
                   "attribute": "Armor Reduction",
@@ -244321,7 +244321,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "It is not expected for the camouflage duration to be lower than the total effect duration. [8] (unexpected)\nThrill of the Hunt's duration starts on-cast.\nThe Unseen Predator buff may randomly end before a melee attack hits, causing the ability's effects to go through but without generating Ferocity. [9] (unexpected)\nThe ability deals  basic damage.\nUnlike other ability empowered attacks (i.e  Kled's  Violent Tendencies,  Malphite's  Thunderclap), the additional damage is also tagged as  proc damage - preventing triggering certain effects (e.g  Malignance). [10] (unexpected)\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [11] (unexpected)\nThe ability applies a mark on the target at the start of attack windup that is successively consumed when the basic attack hits to apply the effect.\nIf the attack is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe mark will however still linger for a very short period after that, allowing Rengar to consume it with a quick basic attack. [12]\nRengar may sometimes be able to still leap away after consuming the ability with a melee basic attack. [13] (unexpected)\nThe  true sight reveal on the target stays until the leap finishes.\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nUsing a basic attack  breaks the stealth at the start of the attack windup.\nUnlike other champions that break the stealth at the start of attack windup, Rengar may automatically start attacking a nearby target if the player's \"Auto Attack\" setting is turned on. [14] (unexpected)\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons",
+          "notes": "Thrill of the Hunt's duration starts on-cast.\nIt is not expected for the camouflage duration to be lower than the total effect duration. [10] (unexpected)\nIf a  revealed enemy  stealths, their  true sight debuff will be removed, dropping aggro. [11] [12] (unexpected)\nThe debuff will be reapplied after 0.033s if they get back in range.\nUsing a basic attack  breaks the stealth at the start of the attack windup.\nUnlike other champions that break the stealth at the start of attack windup, Rengar may automatically start attacking a nearby target if the player's \"Auto Attack\" setting is turned on. [13] (unexpected)\nThe ability applies a mark on the target at the start of attack windup that is successively consumed when the basic attack hits to apply the effect.\nIf the attack is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe mark will however still linger for a very short period after that, allowing Rengar to consume it with a quick basic attack. [14]\nThe ability deals  basic damage.\nUnlike other ability empowered attacks (i.e  Kled's  Violent Tendencies,  Malphite's  Thunderclap), the additional damage is also tagged as  proc damage - preventing triggering certain effects (e.g  Malignance). [15] (unexpected)\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse,  Electrocute and  Phase Rush (e.g while using  Black Cleaver). [16] (unexpected)\nThe Unseen Predator buff may randomly end before a melee attack hits, causing the ability's effects to go through but without generating Ferocity. [17] (unexpected)\nRengar may sometimes be able to still leap away after consuming the ability with a melee basic attack. [18] (unexpected)\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons",
           "blurb": "Passive:  Rengar also gains  Unseen Predator while  camouflaged.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -267419,7 +267419,29 @@
         "sale": 0,
         "distribution": "2026, S2 Act 1 Premium Battle Pass reward",
         "rarity": "Mythic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 35072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35072.png",
+            "colors": [
+              "#CE1717",
+              "#550000"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the PANDEMONIUM: Act 1 Pass",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": "Shaco's bizarre emotions are an acquired taste. His delight is perverse, his despair obsessive—a warped kaleidoscope of chaos and comedy. His exaggerated expressions and theatrical gestures make a mockery of real emotion.",
         "release": "0000-00-00",
         "set": [
@@ -269958,8 +269980,8 @@
       "JUNGLE"
     ],
     "roles": [
+      "DIVER",
       "FIGHTER",
-      "JUGGERNAUT",
       "MAGE"
     ],
     "attributeRatings": {
@@ -278199,7 +278221,7 @@
         "name": "PROJECT",
         "id": 15072,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "PROJECT: Sivir",
         "lootEligible": true,
         "cost": 1350,
@@ -294441,9 +294463,9 @@
                   "modifiers": [
                     {
                       "values": [
+                        650,
                         800,
-                        900,
-                        1000
+                        950
                       ],
                       "units": [
                         "",
@@ -326427,7 +326449,134 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Legendary",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 67069,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67069.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 67070,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67070.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 67073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67073.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 67072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67072.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 67068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67068.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 67071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/67/67071.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Vayne spent years hunting the demon that killed her parents, only to become the unwitting host to a demon of her own. Possessed with preternatural sight and dark power, she's driven by overwhelming paranoia and bloodlust. Wild, unrestrained, and unaware of the demon within, Vayne has become the very thing she hunts.",
         "release": "0000-00-00",
         "set": [
@@ -340121,7 +340270,7 @@
         "name": "PsyOps",
         "id": 8049,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "PsyOps",
         "lootEligible": true,
         "cost": 1350,
@@ -351287,7 +351436,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "PENDING FOR TEST: The self-reveal has not been fully tested for complete confirmation. Is the ability invisible when hitting minions and there is no enemy champion nearby? Is the tip of the ability enough to reveal him? Whether it can hit a minion or not? Just if he's around the exit of the fog of war, and even if he points towards the inside of the fog of war? [2]\n Spell shield will block both the slashes and the thrust.\nIf the spell shield blocks the first, or sometimes the second slash, it will block the rest of the ability, including the thrust. If it is activated after the first slash, it will only block up to 2 slashes and will not block the trust.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe thrust will occur from wherever Xin Zhao is at the end of the cast time.\nThe slashes will occur from wherever Xin Zhao is at the time during the first 0.15 seconds.\nWind Becomes Lightning's end point will not move in relation to Xin Zhao if he moves during the cast time.\nThe direction of the slashes will also not move during the cast time.\nThe first strike's hitbox includes a  275 radius 160° cone in front of Xin Zhao and an additional  125 radius around him.\nThe second strike's hitbox includes the same  125 radius around Xin Zhao, a missile with  1000 range and  80 total width, and a  -60 radius area check upon the end of the missile.\nThe 125 radius check does not hit champion summoned units.(unexpected)\nBecause Wind Becomes Lightning uses an older type of 'healing based on life steal' and not applies life steal,  Spirit Visage will amplify the life gain twice (+25% life steal and +25% healing), for a total of +56.25%.\nEach of Wind Becomes Lightning's slashes are applied in a separate damage instance from each other.\nThis causes effects like  Bone Plating to be applied twice and  Black Cleaver's Carve to be applied multiple times.",
+          "notes": "PENDING FOR TEST: The self-reveal has not been fully tested for complete confirmation. Is the ability invisible when hitting minions and there is no enemy champion nearby? Is the tip of the ability enough to reveal him? Whether it can hit a minion or not? Just if he's around the exit of the fog of war, and even if he points towards the inside of the fog of war? [2]\n Spell shield will block both the slashes and the thrust.\nIf the spell shield blocks the first, or sometimes the second slash, it will block the rest of the ability, including the thrust. If it is activated after the first slash, it will only block up to 2 slashes and will not block the trust.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe thrust will occur from wherever Xin Zhao is at the end of the cast time.\nThe slashes will occur from wherever Xin Zhao is at the time during the first 0.15 seconds.\nWind Becomes Lightning maintains its casting angle direction in relation to Xin Zhao if he moves during the cast time.\nThe direction of the slashes will not move during the cast time.\nThe first strike's hitbox includes a  275 radius 160° cone in front of Xin Zhao and an additional  125 radius around him.\nThe second strike's hitbox includes the same  125 radius around Xin Zhao, a missile with  1000 range and  80 total width, and a  -60 radius area check upon the end of the missile.\nThe 125 radius check does not hit champion summoned units.(unexpected)\nBecause Wind Becomes Lightning uses an older type of 'healing based on life steal' and not applies life steal,  Spirit Visage will amplify the life gain twice (+25% life steal and +25% healing), for a total of +56.25%.\nEach of Wind Becomes Lightning's slashes are applied in a separate damage instance from each other.\nThis causes effects like  Bone Plating to be applied twice and  Black Cleaver's Carve to be applied multiple times.",
           "blurb": "Active:  Xin Zhao slashes in an arc, then thrusts his spear in a line in the target direction. Each strike deals physical damage to enemies hit and heals Xin Zhao based on his  life steal.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -353299,7 +353448,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nCasting  Sweeping Blade when Steel Tempest's remaining cooldown is less than 0.5 seconds resets this remaining cooldown to allow casting it in combination, but adds the refunded time to Steel Tempest's cooldown.\nIf Yasuo  blinks during  Sweeping Blade after having buffered Steel Tempest during it, he will perform the slash at the blink location, applying Steel Tempest's effects to enemies in the area at the time.\nIf Yasuo becomes unable to cast abilities during  Sweeping Blade's dash after buffering Steel Tempest, Steel Tempest will not cast, but will still go on cooldown.(unexpected)\nThe whirlwind from consuming stacks of Gathering Storm can strike targets whose center is behind Yasuo, unlike most  missiles.\nSteel Tempest applies  basic damage to the first (closest) enemy hit and  area damage to secondary enemies:\nSteel Tempest will not apply  spell effects to the first target hit, but will do so to the secondary ones.\n Spell vamp will only grant  healing from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.\n Life steal will heal based on the damage dealt to the first target hit.\nThe whirlwind is a missile and can therefore be  intercepted.\nSteel Tempest will only draw minion aggro if the first target is a champion.\nThis ability will cast from wherever the caster is at the end of the cast time.\nEach parry has different interactions with this ability, whether it's the first target of Steel Tempest or the secondary one. In either case Yasuo still gains a stack of Gathering Storm and his whirlwind knock-up cannot be negated by parries:\n Dodge: both first target and secondary target do not take damage.\n Block: first target does not take damage, secondary target does take damage.\n Blind: both first target and secondary target do take damage.\nSteel Tempest rolls its  critical strikes individually against each enemy hit.\nCasting  Last Breath during Steel Tempest will buffer it to cast after the cast time has completed.\nHowever, if  Last Breath is used on a target affected by an  airborne source that is not Yasuo, it is cast immediately due to Steel Tempest's cast time ending prematurely. Steel Tempest will still cast in this case.\n Spell shield does not prevent a stack of Gathering Storm from being gained.\nWhile at two stacks, a range indicator will be shown for the effective range of the whirlwind.",
+          "notes": "This ability always employs Quick cast.\nCasting  Sweeping Blade when Steel Tempest's remaining cooldown is less than 0.5 seconds resets this remaining cooldown to allow casting it in combination, but adds the refunded time to Steel Tempest's cooldown.\nIf Yasuo  blinks during  Sweeping Blade after having buffered Steel Tempest during it, he will perform the slash at the blink location, applying Steel Tempest's effects to enemies in the area at the time.\nIf Yasuo becomes unable to cast abilities during  Sweeping Blade's dash after buffering Steel Tempest, Steel Tempest will not cast, but will still go on cooldown.(unexpected)\nThe whirlwind from consuming stacks of Gathering Storm can strike targets whose center is behind Yasuo, unlike most  missiles.\nSteel Tempest applies  basic damage to the first (closest) enemy hit and  area damage to secondary enemies:\nSteel Tempest will not apply  spell effects to the first target hit, but will do so to the secondary ones.\n Spell vamp will only grant  healing from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.\n Life steal will heal based on the damage dealt to the first target hit.\nThe whirlwind is a missile and can therefore be  intercepted.\nSteel Tempest will only draw minion aggro if the first target is a champion.\nThis ability will cast from wherever the caster is at the end of the cast time.\nSteel Tempest maintains its casting angle direction in relation to Yasuo if he moves during the cast time.\nEach parry has different interactions with this ability, whether it's the first target of Steel Tempest or the secondary one. In either case Yasuo still gains a stack of Gathering Storm and his whirlwind knock-up cannot be negated by parries:\n Dodge: both first target and secondary target do not take damage.\n Block: first target does not take damage, secondary target does take damage.\n Blind: both first target and secondary target do take damage.\nSteel Tempest rolls its  critical strikes individually against each enemy hit.\nCasting  Last Breath during Steel Tempest will buffer it to cast after the cast time has completed.\nHowever, if  Last Breath is used on a target affected by an  airborne source that is not Yasuo, it is cast immediately due to Steel Tempest's cast time ending prematurely. Steel Tempest will still cast in this case.\n Spell shield does not prevent a stack of Gathering Storm from being gained.\nWhile at two stacks, a range indicator will be shown for the effective range of the whirlwind.",
           "blurb": "Active:  Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies  on-hit and  on-attack effects to the first enemy hit. This can  critically strike.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -356515,7 +356664,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nMortal Steel applies  basic damage for the first (closest) enemy hit and  area damage for secondary enemies:\nMortal Steel will not apply  spell effects to the first target hit, but will do so to the secondary ones.\n Spell vamp will only grant  healing from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.\n Life steal will heal based on the damage dealt to the first target hit.\nMortal Steel will not benefit from the bonus attack speed gained by  Hail of Blades.(bug)\nAll three of the thrust, whirlwind and dash roll for a critical strike on each individual target hit.\n Blinking during Mortal Steel's cast with two stacks of Gathering Storm (after the cast time) will end the dash prematurely but enemies in range of Yone at the new location are affected. The whirlwind's trajectory cannot be changed once it has already been unleashed.\nOnly the whirlwind can be  intercepted.\nEach parry has different interactions with this ability, whether it's the first target of Mortal Steel or the secondary one. In either case Yone still gains a stack of Gathering Storm and his whirlwind  knock up cannot be negated by parries:\n Dodge and  Block: first target does not take damage, secondary target does take damage.\n Blind: both first target and secondary target take damage.\n Spell shield does not prevent Yone from receiving a stack.\nMortal Steel is disabled while  grounded or  rooted if Yone has two stacks of Gathering Storm.\nWhile at two stacks, a range indicator will be shown for the effective range of the whirlwind.\nThe  dash can cross terrain.\nIf Yone gets knocked back during the 3rd cast, the dash will only damage and knockup around Yone's current position then will stop colliding, making Yone play Mortal Steel's dash winddown animation while still visually dashing.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.\nYone will always cast Mortal Steel in his facing direction, and he will turn to face the target direction at the start of the cast time. While at two stacks, Yone will always cast it in the target direction.",
+          "notes": "This ability always employs Quick cast.\nMortal Steel applies  basic damage for the first (closest) enemy hit and  area damage for secondary enemies:\nMortal Steel will not apply  spell effects to the first target hit, but will do so to the secondary ones.\n Spell vamp will only grant  healing from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.\n Life steal will heal based on the damage dealt to the first target hit.\nMortal Steel will not benefit from the bonus attack speed gained by  Hail of Blades.(bug)\nAll three of the thrust, whirlwind and dash roll for a critical strike on each individual target hit.\n Blinking during Mortal Steel's cast with two stacks of Gathering Storm (after the cast time) will end the dash prematurely but enemies in range of Yone at the new location are affected. The whirlwind's trajectory cannot be changed once it has already been unleashed.\nOnly the whirlwind can be  intercepted.\nEach parry has different interactions with this ability, whether it's the first target of Mortal Steel or the secondary one. In either case Yone still gains a stack of Gathering Storm and his whirlwind  knock up cannot be negated by parries:\n Dodge and  Block: first target does not take damage, secondary target does take damage.\n Blind: both first target and secondary target take damage.\n Spell shield does not prevent Yone from receiving a stack.\nMortal Steel is disabled while  grounded or  rooted if Yone has two stacks of Gathering Storm.\nWhile at two stacks, a range indicator will be shown for the effective range of the whirlwind.\nThe  dash can cross terrain.\nIf Yone gets knocked back during the 3rd cast, the dash will only damage and knockup around Yone's current position then will stop colliding, making Yone play Mortal Steel's dash winddown animation while still visually dashing.(bug)\nThis ability will cast from wherever the caster is at the end of the cast time.\nMortal Steel cast without the Gathering Storm bonus maintains its casting angle direction in relation to Yone if he moves during the cast time.",
           "blurb": "Active:  Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies  on-hit and  on-attack effects to the first enemy hit. This can  critically strike.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -356932,7 +357081,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Yone will  blink after a 0.05-second delay of the cast time being completed.\nMarked enemies that are not within the area will not be affected by the second portion of the ability.\nIf Fate Sealed's maximum range is inside terrain, enemies will not be  pulled through walls.\nFate Sealed  pulls targets to the location Yone would  blink to, and not towards his current position by the end of the cast time.\nFate Sealed can hit targets whose center is behind Yone, if their  radius overlaps with the rectangle hitbox in front of him.\nEnemies are  pulled with 3000 speed.\nThis ability will cast from wherever the caster is at the end of the cast time.\nFate Sealed will not  stun enemies that are  displacement immune.\nYone can blink up to 1200 units + enemy size, if the last enemy champion's radius intersects with the maximum range slightly.\nThe mixed damage is applied in two instances, and the magic damage will be dealt first within the same game tick.\nIf the magic damage finishes off the unit, the physical damage will not be dealt against it.(bug)\nYone will  reveal himself during the cast time if there is an enemy champion nearby.\nWhen striking against  spell shield, Yone will still  blink to the last champion hit even if they block the effects to themselves.\nThe  knock up starts once the pull ends.\nYone is  locked out of performing actions for 0.45 seconds after the cast time. All abilities that have been buffered during this time will cast shortly before the lock out ends.\nThe following table refers for interactions while Yone is in cast time:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Yone will  blink after a 0.05-second delay of the cast time being completed.\nMarked enemies that are not within the area will not be affected by the second portion of the ability.\nIf Fate Sealed's maximum range is inside terrain, enemies will not be  pulled through walls.\nFate Sealed  pulls targets to the location Yone would  blink to, and not towards his current position by the end of the cast time.\nFate Sealed can hit targets whose center is behind Yone, if their  radius overlaps with the rectangle hitbox in front of him.\nEnemies are  pulled with 3000 speed.\nThis ability will cast from wherever the caster is at the end of the cast time.\nFate Sealed maintains its casting angle direction in relation to Yone if he moves during the cast time.\nFate Sealed will not  stun enemies that are  displacement immune.\nYone can blink up to 1200 units + enemy size, if the last enemy champion's radius intersects with the maximum range slightly.\nThe mixed damage is applied in two instances, and the magic damage will be dealt first within the same game tick.\nIf the magic damage finishes off the unit, the physical damage will not be dealt against it.(bug)\nYone will  reveal himself during the cast time if there is an enemy champion nearby.\nWhen striking against  spell shield, Yone will still  blink to the last champion hit even if they block the effects to themselves.\nThe  knock up starts once the pull ends.\nYone is  locked out of performing actions for 0.45 seconds after the cast time. All abilities that have been buffered during this time will cast shortly before the lock out ends.\nThe following table refers for interactions while Yone is in cast time:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": "Active:  Yone prepares a strike over an area in the target direction,  knocking down and briefly  stunning enemies within. He then  blinks behind the furthest target, else to max range.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -362693,7 +362842,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yuumi/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Yuumi's next basic attack against an enemy champion is empowered to have an uncancellable windup, gain 50 bonus range and become non-projectile. Upon hitting them with the basic attack or Prowling Projectile, or upon a Final Chapter hit on ally champions while attached, the buff is consumed to heal her for 20 : 176.47 (based on level) (+ 25% AP). If she is attached to an ally or does so within 4 seconds, they are healed for the same amount.",
+              "description": "Innate: Periodically, Yuumi's next basic attack against an enemy champion is empowered to have an uncancellable windup, gain 50 bonus range and become non-projectile. Upon hitting them with the basic attack or Prowling Projectile, or upon a Final Chapter hit on ally champions while attached, the buff is consumed to heal her for 20 : 120.59 (based on level) (+ 25% AP). If she is attached to an ally or does so within 4 seconds, they are healed for the same amount.",
               "leveling": []
             },
             {
@@ -363551,7 +363700,7 @@
               "leveling": []
             },
             {
-              "description": "Best Friend Bonus: Final Chapter's heal to the Best Friend is increased by 30% / 45% / 60% (based on level).",
+              "description": "Best Friend Bonus: Final Chapter's heal to the Best Friend is increased by 30% : 60% (based on level).",
               "leveling": []
             },
             {
@@ -366178,7 +366327,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spell shield will block both passes, as well as the second one individually if circumstances permit.\n Intercepting the initial projectile will instantly trigger Dreaded Return's pull.\n Displacement immunity will not resist the application of the  stun.\nThe projectile is shown on the minimap and Dreaded Return can be cast targeting the minimap.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDreaded Return's end point will not move in relation to Zaahen if he moves during the cast time.\nDreaded Return briefly provides  vision over an area.\nPENDING FOR TEST: How big is the vision bubble and how long does it last?",
+          "notes": "Spell shield will block both passes, as well as the second one individually if circumstances permit.\n Intercepting the initial projectile will instantly trigger Dreaded Return's pull.\n Displacement immunity will not resist the application of the  stun.\nThe projectile is shown on the minimap and Dreaded Return can be cast targeting the minimap.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDreaded Return maintains its casting angle direction in relation to Zaahen if he moves during the cast time.\nDreaded Return briefly provides  vision over an area.\nPENDING FOR TEST: How big is the vision bubble and how long does it last?",
           "blurb": "Active:  Zaahen extends his glaive in the target direction, dealing physical damage to enemies hit. Upon reaching maximum range, all enemies in the area are dealt physical damage,  stunned briefly, and  pulled toward Zaahen.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -368492,7 +368641,7 @@
         "name": "Space Groove",
         "id": 154033,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Space Groove",
         "lootEligible": true,
         "cost": 1350,
