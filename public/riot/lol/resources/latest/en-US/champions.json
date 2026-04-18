@@ -86902,7 +86902,7 @@
           },
           "targeting": "Auto",
           "affects": "Self, Enemies",
-          "spellshieldable": null,
+          "spellshieldable": "false",
           "resource": null,
           "damageType": "PHYSICAL_DAMAGE",
           "spellEffects": "aoedot",
@@ -125511,7 +125511,7 @@
           "width": null,
           "angle": null,
           "castTime": null,
-          "effectRadius": "2750",
+          "effectRadius": "3000",
           "targetRange": null
         }
       ],
@@ -150838,39 +150838,10 @@
               "leveling": []
             },
             {
-              "description": "While charging, the duo gain a shield for every 0.25 seconds of traveling, up to 10 times over 2.25 seconds. The shield lasts for 1.75 seconds to 2 seconds upon finishing the charge. Additionally, the duo trails a directional draft in their wake, lasting 9 seconds. Allied units other than lane minions following the draft gain Mr. Kled's Wild Ride. After 0.5 seconds of charging, the duo gain bonus movement speed every 0.25 seconds, up to 950 total movement speed over 3 seconds.",
+              "description": "While charging, the duo gain 2 instances of a shield, and another instance for every 0.25 seconds of traveling, up to 8 instances over 2 to 2.25 seconds. The shield lasts for 1.75 to 2 seconds upon finishing the charge. Additionally, the duo trails a directional draft in their wake, lasting 9 seconds. Allied units other than lane minions following the draft gain Mr. Kled's Wild Ride. After 0.5 seconds of charging, the duo gain bonus movement speed every 0.25 seconds, up to 950 total movement speed over 3 seconds.",
               "leveling": [
                 {
-                  "attribute": "Minimum Shield",
-                  "modifiers": [
-                    {
-                      "values": [
-                        20,
-                        30,
-                        40
-                      ],
-                      "units": [
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "values": [
-                        30,
-                        30,
-                        30
-                      ],
-                      "units": [
-                        "% bonus AD",
-                        "% bonus AD",
-                        "% bonus AD"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "attribute": "Maximum Shield",
+                  "attribute": "Total Shield",
                   "modifiers": [
                     {
                       "values": [
@@ -150889,6 +150860,64 @@
                         300,
                         300,
                         300
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Initial Shield",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        60,
+                        80
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        60,
+                        60,
+                        60
+                      ],
+                      "units": [
+                        "% bonus AD",
+                        "% bonus AD",
+                        "% bonus AD"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Shield Per Tick",
+                  "modifiers": [
+                    {
+                      "values": [
+                        20,
+                        30,
+                        40
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        30,
+                        30,
+                        30
                       ],
                       "units": [
                         "% bonus AD",
@@ -243937,7 +243966,7 @@
           },
           "targeting": "Auto",
           "affects": "Self",
-          "spellshieldable": "True",
+          "spellshieldable": "false",
           "resource": null,
           "damageType": "PHYSICAL_DAMAGE",
           "spellEffects": "Special",
@@ -301459,7 +301488,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Teemo/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Teemo gains invisibility after 1.5 seconds without moving, taking damage, performing actions that break stealth, channeling, or being in stasis. Teemo will maintain stealth so long as he remains idle and is not displaced. While in brush, Teemo gains the stealth even while moving and can move without breaking stealth, but will lose the stealth in this case if he is knocked up.",
+              "description": "Innate: Teemo gains invisibility after 1.5 seconds without moving, taking non- persistent damage, performing actions that break stealth, channeling, or being in stasis. Teemo will maintain stealth so long as he remains idle and is not displaced. While in brush, Teemo gains the stealth even while moving and can move without breaking stealth, but will lose the stealth in this case if he is knocked up.",
               "leveling": []
             },
             {
@@ -301661,7 +301690,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Teemo/ability-icon/w",
           "effects": [
             {
-              "description": "Passive: Teemo gains bonus movement speed after 5 seconds without taking damage from enemy champions or turrets.",
+              "description": "Passive: Teemo gains bonus movement speed after 5 seconds without taking non- persistent damage from enemy champions or turrets.",
               "leveling": [
                 {
                   "attribute": "Bonus Movement Speed",
@@ -334693,7 +334722,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Viego/ability-icon/q",
           "effects": [
             {
-              "description": "Passive: Viego's basic attacks deal bonus physical damage on-hit. This damage can critically strike for (170% + 21%) damage, has a minimum threshold and is capped at 80 against monsters.",
+              "description": "Passive: Viego's basic attacks deal bonus physical damage on-hit. This damage can critically strike for (170% + 15%) damage, has a minimum threshold and is capped at 80 against monsters.",
               "leveling": [
                 {
                   "attribute": "Bonus Physical Damage",
@@ -362188,11 +362217,11 @@
             "modifiers": [
               {
                 "values": [
-                  9,
-                  9,
-                  9,
-                  9,
-                  9
+                  7,
+                  7,
+                  7,
+                  7,
+                  7
                 ],
                 "units": [
                   "",
