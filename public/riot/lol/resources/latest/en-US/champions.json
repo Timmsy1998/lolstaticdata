@@ -5621,7 +5621,7 @@
               "leveling": []
             },
             {
-              "description": "Swinging Kama: Akali's next basic attack is empowered to have its range doubled and deal 35 : 212 (based on level) (+ 60% bonus AD) (+ 55% AP) bonus magic damage.",
+              "description": "Swinging Kama: Akali's next basic attack is empowered to have an uncancellable windup, gain doubled range and deal 35 : 212 (based on level) (+ 60% bonus AD) (+ 55% AP) bonus magic damage.",
               "leveling": []
             }
           ],
@@ -26620,7 +26620,7 @@
               ]
             },
             {
-              "description": "Enemies in the black hole are dragged inward until they reach the center, and minions and monsters also have their movement speed reduced to 0. Enemies within the center are executed below 5% (+ 2.6% per 100 Stardust) of their maximum health, excluding epic monsters.",
+              "description": "Enemies in the black hole are dragged inward until they reach the center, and minions and monsters also have their movement speed reduced to a static 0. Enemies within the center are executed below 5% (+ 2.6% per 100 Stardust) of their maximum health, excluding epic monsters.",
               "leveling": []
             },
             {
@@ -41994,7 +41994,7 @@
           "spellshieldable": null,
           "resource": "CURRENT_HEALTH",
           "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "default",
+          "spellEffects": "proc",
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
@@ -193067,7 +193067,1980 @@
     },
     "lore": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.",
     "faction": "demacia",
-    "skins": []
+    "skins": [
+      {
+        "name": "Original",
+        "id": 25000,
+        "isBase": true,
+        "availability": "Available",
+        "formatName": "Original",
+        "lootEligible": true,
+        "cost": 585,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [
+          {
+            "name": "Ebony",
+            "id": 25009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25009.png",
+            "colors": [
+              "#1B1C27",
+              "#1B1C27"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 0,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pale",
+            "id": 25008,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25008.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 0,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Toxic",
+            "id": 25007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25007.png",
+            "colors": [
+              "#B6E084",
+              "#B6E084"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 0,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.",
+        "release": "2009-02-21",
+        "set": [],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_centered_0.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_uncentered_0.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/images/morgana_splash_tile_0.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/base/morganaloadscreen.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": false,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Jessica 'OwleyCat' Oyhenart",
+          "Victor '3rdColossus' Maury",
+          "Jennifer Wuestling"
+        ]
+      },
+      {
+        "name": "Exiled",
+        "id": 25001,
+        "isBase": false,
+        "availability": "Legacy",
+        "formatName": "Exiled",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "A battle spirit exiled from her tribe in a past age, Morgana has silently plotted revenge on her betrayers and their descendants for hundreds of years. Each passing winter she comes closer to her goal—a climactic battle in which the tribe falls, and Kayle with it.",
+        "release": "2010-06-01",
+        "set": [
+          "Woad"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/images/morgana_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/images/morgana_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/images/morgana_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/morganaloadscreen_1.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Bo 'chenbowow' Chen"
+        ]
+      },
+      {
+        "name": "Sinful Succulence",
+        "id": 25002,
+        "isBase": false,
+        "availability": "Legacy",
+        "formatName": "Sinful Succulence",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "She's the original sugary sin, the dark diva of confectionary cunning, the fallen angel of fantastic flavor. Her terrifying treats will trap you in your seat. Let's give a Culinary Masters welcome to Morgana!",
+        "release": "2010-09-02",
+        "set": [
+          "Culinary Masters"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/images/morgana_splash_centered_2.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/images/morgana_splash_uncentered_2.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/images/morgana_splash_tile_2.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/morganaloadscreen_2.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": false,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Jennifer Wuestling"
+        ]
+      },
+      {
+        "name": "Blade Mistress",
+        "id": 25003,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Blade Mistress",
+        "lootEligible": true,
+        "cost": 750,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Morgana is a deadly combatant and former pilot of the X09-Xibalba combat exosuit, as well as one of the last half-aliens alive in the galaxy. She has surgically hidden her suit's forbidden, lost technologies beneath her skin—her goal being to evade her sister, the mad military justicar, Kayle.",
+        "release": "2010-12-01",
+        "set": [
+          "Steel Valkyries"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/images/morgana_splash_centered_3.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/images/morgana_splash_uncentered_3.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/images/morgana_splash_tile_3.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/morganaloadscreen_3.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": false,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Kelly Aleshire"
+        ]
+      },
+      {
+        "name": "Blackthorn",
+        "id": 25004,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Blackthorn",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Aquamarine",
+            "id": 25013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25013.png",
+            "colors": [
+              "#6ABBEE",
+              "#6ABBEE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Citrine",
+            "id": 25014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25014.png",
+            "colors": [
+              "#DF9117",
+              "#DF9117"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 25016,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25016.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 25015,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25015.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25012,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25012.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "The Dark Forest Elves are the shattered remnants of the great elven empires, jealously guarding evil power that some once considered the cornerstone of their magical supremacy. Morgana has hidden this magic deep within her body, chaining it to her soul so that only she might wield it.",
+        "release": "2012-05-23",
+        "set": [
+          "Albion"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/images/morgana_splash_centered_4.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/images/morgana_splash_uncentered_4.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/images/morgana_splash_tile_4.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/morganaloadscreen_4.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Zeen Chin"
+        ]
+      },
+      {
+        "name": "Ghost Bride",
+        "id": 25005,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Ghost Bride",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Legends speak of the weeping bride who searches for her lost husband along the river bank, and takes revenge upon the living for their happiness. Parents sternly warn their children to beware this 'ghost bride,' for those who go with her are never seen again.",
+        "release": "2013-06-13",
+        "set": [
+          "Fables"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/images/morgana_splash_centered_5.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/images/morgana_splash_uncentered_5.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/images/morgana_splash_tile_5.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/morganaloadscreen_5.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Michelle Hoefener"
+        ]
+      },
+      {
+        "name": "Victorious",
+        "id": 25006,
+        "isBase": false,
+        "availability": "Limited",
+        "formatName": "Victorious",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "Reward for finishing the ranked season in Gold or higher.",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Victorious Morgana was awarded to players who reached Gold or higher in the 2014 season. A queen of shadows, Victorious Morgana glides through Summoner's Rift in deep blue armor, with a flashy recall.",
+        "release": "2014-11-11",
+        "set": [
+          "Victorious"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/images/morgana_splash_centered_6.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/images/morgana_splash_uncentered_6.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/images/morgana_splash_tile_6.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/morganaloadscreen_6.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": []
+      },
+      {
+        "name": "Lunar Wraith",
+        "id": 25010,
+        "isBase": false,
+        "availability": "Legacy",
+        "formatName": "Lunar Wraith",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Morgana is a dark spirit who appears during Lunar Revel—a famed seducer of mortals, monsters, and gods alike. Legend says she ensnares the hearts and minds of her victims before dragging their souls away to an unspeakable purgatory, never to be heard from again.",
+        "release": "2016-01-27",
+        "set": [
+          "Lunar Revel"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/images/morgana_splash_centered_10.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/images/morgana_splash_uncentered_10.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/images/morgana_splash_tile_10.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/morganaloadscreen_10.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": []
+      },
+      {
+        "name": "Bewitching",
+        "id": 25011,
+        "isBase": false,
+        "availability": "Legacy",
+        "formatName": "Bewitching",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [
+          {
+            "name": "Citrine",
+            "id": 25032,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25032.png",
+            "colors": [
+              "#DF9117",
+              "#DF9117"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Meteorite",
+            "id": 25038,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25038.png",
+            "colors": [
+              "#5F432B",
+              "#5F432B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 25037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25037.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25036.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "TENCENT"
+              },
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25031,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25031.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 25034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25034.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25035,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25035.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 25033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25033.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Ultimately, trick-or-treating is less about dark magic and occult superstition, and more about finding a witch costume that actually fits. Have you seen these sizes? Who is this stuff even made for…?!",
+        "release": "2016-10-19",
+        "set": [
+          "Bewitching"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/images/morgana_splash_centered_11.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/images/morgana_splash_uncentered_11.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/images/morgana_splash_tile_11.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/morganaloadscreen_11.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/morganaloadscreen_11_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Alex 'alexplank' Flores"
+        ]
+      },
+      {
+        "name": "Majestic Empress",
+        "id": 25017,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Majestic Empress",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 25019,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25019.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Heavenly Crane",
+            "id": 25024,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25024.png",
+            "colors": [
+              "#E0FFFF",
+              "#C50041"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in 2019.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Meteorite",
+            "id": 25025,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25025.png",
+            "colors": [
+              "#5F432B",
+              "#5F432B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25023,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25023.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25018,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25018.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2019.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 25020,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25020.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25022.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 25021,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25021.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "A feared sorceress queen from the heavenly kingdoms, Morgana looked on with disdain as Irelia sealed away the power of a dragon. Crushing her in combat, Morgana soon realized the young demigoddess had hidden that power away, and now ruthlessly searches for a way to return it to its rightful owner.",
+        "release": "2019-09-26",
+        "set": [
+          "Immortal Journey"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/images/morgana_splash_centered_17.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/images/morgana_splash_uncentered_17.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/images/morgana_splash_tile_17.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/morganaloadscreen_17.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/morganaloadscreen_17_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Clare Wong",
+          "West Studio"
+        ]
+      },
+      {
+        "name": "Coven",
+        "id": 25026,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Coven",
+        "lootEligible": true,
+        "cost": 1820,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Legendary",
+        "chromas": [
+          {
+            "name": "Dark Ritual",
+            "id": 25040,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25040.png",
+            "colors": [
+              "#162B30",
+              "#8E0A38"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the 2021 Coven event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 25030,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25030.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 25028,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25028.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25027,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25027.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2020.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25029,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25029.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "Queen of the coven, and patron of that called Ashen Owl. Morgana worshipped the Old Gods, and wept when they were slain -- betrayed when her sister murdered the primordial sun and delivered its power to an army of witch-knights. Now Morgana has returned to end the reign of mankind, returning the world's true lords to their rightful, mouldering thrones.",
+        "release": "2020-04-16",
+        "set": [
+          "Coven"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/images/morgana_splash_centered_26.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/images/morgana_splash_uncentered_26.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/images/morgana_splash_tile_26.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/morganaloadscreen_26.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/morganaloadscreen_26_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": true,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Alex 'alexplank' Flores"
+        ]
+      },
+      {
+        "name": "Dawnbringer",
+        "id": 25039,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Dawnbringer",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 25045,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25045.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 25043,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25043.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 25044,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25044.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Lifebringer",
+            "id": 25049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25049.png",
+            "colors": [
+              "#73BFBE",
+              "#A67400"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Worlds 2021 event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 25046,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25046.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 25048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25048.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25047.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25042.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2021.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Determined to see order triumph over chaos, Morgana has sacrificed much to tip the scales in favor of light. If dawn emerges victorious, she is certain that they can avoid the gods' destruction and usher in a new age, one free from the corruption of chaos… Perhaps then Yone will see balance for the delusion that it is.",
+        "release": "2021-09-23",
+        "set": [
+          "Nightbringer and Dawnbringer"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/images/morgana_splash_centered_39.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/images/morgana_splash_uncentered_39.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/images/morgana_splash_tile_39.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/morganaloadscreen_39.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/morganaloadscreen_39_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Pan Chengwei"
+        ]
+      },
+      {
+        "name": "Prestige Bewitching",
+        "id": 25041,
+        "isBase": false,
+        "availability": "Rare",
+        "formatName": "Prestige Bewitching",
+        "lootEligible": true,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "150 Mythic Essence",
+        "rarity": "Mythic",
+        "chromas": [],
+        "lore": "Literal magic wasn't necessary for Morgana to nab top prize in the holiday costume contest. But that didn't stop her from casting a figurative spell on the judges with her enchanting ensemble. This is a party they won't soon forget!",
+        "release": "2021-10-07",
+        "set": [
+          "Bewitching"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/images/morgana_splash_centered_41.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/images/morgana_splash_uncentered_41.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/images/morgana_splash_tile_41.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/morganaloadscreen_41.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/morganaloadscreen_41_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "West Studio"
+        ]
+      },
+      {
+        "name": "Star Nemesis",
+        "id": 25050,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Star Nemesis",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 25058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25058.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 25052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25052.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 25057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25057.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Peridot",
+            "id": 25053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25053.png",
+            "colors": [
+              "#B6E084",
+              "#B6E084"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25056.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25051.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2022.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 25055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25055.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 25054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25054.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Wicked",
+            "id": 25059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25059.png",
+            "colors": [
+              "#5F4AFF",
+              "#B11450"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the 2022 Star Guardian event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "A villainess of mysterious origins, Morgana believes that concepts like justice and order are holding the universe back... and she's willing to do anything to return it to a state of entropy. Targeting the Star Guardians for destruction, she torments them relentlessly before dealing the final, crushing blow.",
+        "release": "2022-07-28",
+        "set": [
+          "Star Guardian Season 4"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/images/morgana_splash_centered_50.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/images/morgana_splash_uncentered_50.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/images/morgana_splash_tile_50.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/morganaloadscreen_50.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/morganaloadscreen_50_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Horace 'Hozure' Hsu"
+        ]
+      },
+      {
+        "name": "Snow Moon",
+        "id": 25060,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Snow Moon",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Citrine",
+            "id": 25066,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25066.png",
+            "colors": [
+              "#DF9117",
+              "#DF9117"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 25064,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25064.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 25068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25068.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rainbow",
+            "id": 25067,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25067.png",
+            "colors": [
+              "#C1F2FF",
+              "#C1F2FF"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25063,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25063.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25061.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2023.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25065,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25065.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 25062,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25062.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "As a priestess and chief exorcist of the Snow Moon, Morgana's magic has been used to bind and destroy corruption wherever it is found. Once disciples complete their trials and offer their memories and emotions to Ahri, it is Morgana's duty to chain their souls to the Snow Moon, completing their initiation into the Order.",
+        "release": "2023-05-18",
+        "set": [
+          "Snow Moon"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/images/morgana_splash_centered_60.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/images/morgana_splash_uncentered_60.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/images/morgana_splash_tile_60.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/morganaloadscreen_60.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Marie Magny",
+          "West Studio"
+        ]
+      },
+      {
+        "name": "Porcelain",
+        "id": 25070,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Porcelain",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 25078,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25078.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 25072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25072.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 25076,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25076.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Opulent",
+            "id": 25079,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25079.png",
+            "colors": [
+              "#3AC8B1",
+              "#B0412A"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the 2024 Lunar Revel event.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 25077,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25077.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 25075,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25075.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "TENCENT"
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 25071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25071.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2024.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 25074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25074.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 25073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25073.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "There is no one who comprehends the power of the sorceress Lissandra more than Morgana. The magic that bound Lissandra to her relic came at a cost: the protector who uttered the words would be trapped as well. Morgana made this sacrifice, the wings of her Rooster Relic wrapping her in a porcelain cocoon for millennia. Awake once more, she seeks revenge.",
+        "release": "2024-02-22",
+        "set": [
+          "Porcelain"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/images/morgana_splash_centered_70.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/images/morgana_splash_uncentered_70.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/images/morgana_splash_tile_70.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/morganaloadscreen_70.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/morganaloadscreen_70_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Marie Magny",
+          "West Studio"
+        ]
+      },
+      {
+        "name": "Spirit Blossom",
+        "id": 25080,
+        "isBase": false,
+        "availability": "Available",
+        "formatName": "Spirit Blossom",
+        "lootEligible": false,
+        "cost": "Sanctum",
+        "sale": 0,
+        "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
+        "rarity": "Exalted",
+        "chromas": [
+          null
+        ],
+        "lore": "Twins, born of branch and bloom, guarded mortals from afar. But one sister yearned to feel as mortals do, and from this hunger made masked, demonic children—becoming the Grovemother. She traded places with a queen of nearby lands… but her children followed, bringing ruin and death. Now imprisoned in her grove, she still longs for the fullness of emotion.",
+        "release": "2025-06-25",
+        "set": [
+          "Spirit Blossom"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/images/morgana_splash_centered_80.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/images/morgana_splash_uncentered_80.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/images/morgana_splash_tile_80.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/morganaloadscreen_80.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": true,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Terence 'Terrylefruit' Cantal"
+        ]
+      },
+      {
+        "name": "Prestige Veiled Lady",
+        "id": 25081,
+        "isBase": false,
+        "availability": "Rare",
+        "formatName": "Prestige Veiled Lady",
+        "lootEligible": true,
+        "cost": "Battle Pass",
+        "sale": 0,
+        "distribution": "2026, S1 Act 1 Premium Battle Pass reward (Level 48)",
+        "rarity": "Mythic",
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 25082,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25082.png",
+            "colors": [
+              "#3D266C",
+              "#E89DFE"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the For Demacia: Act 1 Pass",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "“O Veiled Lady, hear my plea. When light and justice feel beyond reach, let the wayward and the lost find forgiveness and renewed strength in your shadow. May your divine mercy guide them to reflect upon the chains that bind us all to one another, and know that even in our darkest hour, there is always a path to atonement.” —traditional Demacian prayer",
+        "release": "2026-01-08",
+        "set": [
+          "Chronicle"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_centered_81.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_uncentered_81.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/images/morgana_splash_tile_81.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/morganaloadscreen_81.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin81/morganaloadscreen_81_le.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erica Lindbeck"
+        ],
+        "splashArtist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ]
+      }
+    ]
   },
   "Naafiri": {
     "id": 950,
@@ -361276,7 +363249,7 @@
               "leveling": []
             },
             {
-              "description": "Yuumi will be knocked down by any immobilizing or polymorphing crowd control during the dash.",
+              "description": "Yuumi will be knocked down by any immobilizing or polymorphing crowd control during the dash to the ally.",
               "leveling": []
             },
             {
