@@ -18881,7 +18881,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Only the initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade.\nRecasting the ability does, however, count as casting an ultimate ability for the purposes of  Experimental Hexplate's Overdrive and similar effects.(bug)\nPENDING FOR TEST: What about  Force Pulse's?\nThe active deals  area damage.\nTibbers will  blink back next to Annie if he gets too far away.\nRecasting Summon: Tibbers does not interrupt  Recall's channel.",
-          "blurb": "Active:  Annie summons her bear  Tibbers, dealing magic damage to enemies in the area.",
+          "blurb": "Passive:  Annie gains  magic penetration.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -64794,7 +64794,7 @@
               "leveling": []
             },
             {
-              "description": "Active: Ekko enters stasis at the start of the cast time, and afterwards heals himself, increased by 0% : 300% (based on health lost in the past 4 seconds), and dashes to his afterimage's location at the time of cast over 0.5 seconds. Upon arrival, the stasis ends and he creates an explosion that deals magic damage to nearby enemies.",
+              "description": "Active: Ekko enters stasis at the start of the cast time, and afterwards heals himself, increased by 0% : 300% (based on health lost in the last 4 seconds), and dashes to his afterimage's location at the time of cast over 0.5 seconds. Upon arrival, the stasis ends and he creates an explosion that deals magic damage to nearby enemies.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -68643,7 +68643,7 @@
               ]
             },
             {
-              "description": "Evelynn's next 3 basic attacks or abilities against the marked target deal bonus magic damage.",
+              "description": "Evelynn's next 3 basic attacks on-hit or abilities against the marked target deal bonus magic damage.",
               "leveling": [
                 {
                   "attribute": "Bonus Magic Damage",
@@ -282034,7 +282034,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "To achieve a 99%  slow with the empowered attack via  Power Chord, it would require at least 1475 AP.",
+          "notes": "To achieve a 99%  slow with the empowered attack via  Power Chord, it would require at least 1225 AP.",
           "blurb": "Active:  Sona gains  bonus movement speed for a short time, which is extended to a few seconds if she does not take damage during this time.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -315673,7 +315673,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Twitch/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Twitch hurls a cask of venom that explodes at the target location, applying Deadly Venom to enemies hit and granting sight of the area.",
+              "description": "Active: Twitch hurls a cask of corrosive mixture at the target location that breaks upon landing, applying Deadly Venom to enemies in the area and granting sight of it.",
               "leveling": []
             },
             {
@@ -315770,7 +315770,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Venom Cask can apply a maximum of 4  Deadly Venom stacks per enemy per cast.\nVenom Cask's missile will fail to fire if Twitch is  suppressed during the cast time.(unexpected)",
-          "blurb": "Active:  Twitch tosses a cask that explodes at the target location, inflicting  Deadly Venom to enemies hit.",
+          "blurb": "Active:  Twitch hurls a cask of corrosive mixture that explodes at the target location, inflicting  Deadly Venom to enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
