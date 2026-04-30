@@ -20367,7 +20367,7 @@
         "name": "Pandemonium",
         "id": 1059,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Pandemonium",
         "lootEligible": true,
         "cost": 1350,
@@ -20376,7 +20376,7 @@
         "rarity": "Epic",
         "chromas": [],
         "lore": "Annie carries emotions too big for a child to hold. Though she has buried these feelings deep within, they simmer and burn without end. When the flame threatens to engulf her, Tibbers bears what she cannot—unleashing her grief in a raging inferno.",
-        "release": "0000-00-00",
+        "release": "2026-04-29",
         "set": [
           "Pandemonium"
         ],
@@ -54511,7 +54511,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Crippling Strike deals  basic damage but will also trigger  spell effects by also being tagged as  spell damage.\nThis includes the  basic attack itself.\n Spell shield will all effects, including the damage of the basic attack itself.(unexpected)\nThe attack's animation can be cancelled by casting  Decimate, but the attack will still land.\nThe cooldown reduction and mana refund will not trigger when killing jungle plants.",
+          "notes": "Crippling Strike deals  basic damage but will also trigger  spell effects by also being tagged as  spell damage.\nThis includes the  basic attack itself.\n Spell shields will negate all effects of Crippling Strike, including the damage of the basic attack itself.(unexpected)\nThe attack's animation can be cancelled by casting  Decimate, but the attack will still land.\nThe cooldown reduction and mana refund will not trigger when killing jungle plants.",
           "blurb": "Active:  Darius' next  basic attack within a few seconds deals increased physical damage and  slows the target.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -86392,7 +86392,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Perseverance does not go on nor refresh its cooldown from damage which was fully prevented by a  shield or  invulnerability.",
+          "notes": "Perseverance does not go on nor refresh its cooldown from damage which was:\nReduced to or equal to 0 damage.\nDealt to  shields.\nAbsorbed by  invulnerability.",
           "blurb": "Innate:  Garen continually  regenerates a portion of his  maximum health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -109507,209 +109507,6 @@
         ],
         "splashArtist": [
           "Rudy Siswanto"
-        ]
-      },
-      {
-        "name": "Rain Shepherd",
-        "id": 427031,
-        "isBase": false,
-        "availability": "Upcoming",
-        "formatName": "Rain Shepherd",
-        "lootEligible": true,
-        "cost": 1350,
-        "sale": 0,
-        "distribution": null,
-        "rarity": "Epic",
-        "chromas": [
-          {
-            "name": "Catseye",
-            "id": 427033,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427033.png",
-            "colors": [
-              "#FFEE59",
-              "#FFEE59"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Obsidian",
-            "id": 427039,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427039.png",
-            "colors": [
-              "#27211C",
-              "#27211C"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Pearl",
-            "id": 427038,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427038.png",
-            "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
-            "id": 427036,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427036.png",
-            "colors": [
-              "#E58BA5",
-              "#E58BA5"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
-            "id": 427032,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427032.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive in 2026.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Sapphire",
-            "id": 427034,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427034.png",
-            "colors": [
-              "#2756CE",
-              "#2756CE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Tanzanite",
-            "id": 427035,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427035.png",
-            "colors": [
-              "#54209B",
-              "#54209B"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Turquoise",
-            "id": 427037,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/427/427037.png",
-            "colors": [
-              "#73BFBE",
-              "#73BFBE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          }
-        ],
-        "lore": "As the drought swept across the lands, the gentle cloud Ivern watched his vaporous brethren slowly disappear. With the Rain Shepherds being the only hope for bringing back the rains, Ivern dons his best wetwear and sets out to help.The ground may be dry, but he'll coax life from it yet, and bring back his cloudy pals! ",
-        "release": "0000-00-00",
-        "set": [
-          "Rain Shepherd"
-        ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_centered_31.skins_ivern_skin31.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_uncentered_31.skins_ivern_skin31.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_tile_31.skins_ivern_skin31.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/ivernloadscreen_31.skins_ivern_skin31.jpg",
-        "loadScreenVintagePath": null,
-        "newEffects": true,
-        "newAnimations": true,
-        "newRecall": true,
-        "newVoice": false,
-        "newQuotes": false,
-        "voiceActor": [
-          "David Lodge"
-        ],
-        "splashArtist": [
-          "Terence 'Terrylefruit' Cantal"
         ]
       }
     ]
@@ -149912,7 +149709,7 @@
         "name": "Pandemonium",
         "id": 203045,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Pandemonium",
         "lootEligible": true,
         "cost": 1350,
@@ -149921,7 +149718,7 @@
         "rarity": "Epic",
         "chromas": [],
         "lore": "Even demons must face Kindred. Lamb offers stillness: a quiet end to the hunger that drives all demons. Wolf offers a final, tantalizing feast of emotion, but to partake is to feel a hunger that can never be sated. Together, they are a demon's final choice: nothing, or everything.",
-        "release": "0000-00-00",
+        "release": "2026-04-29",
         "set": [
           "Pandemonium"
         ],
@@ -190933,7 +190730,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Mordekaiser's Realm of Death. Champions outside of the death realm are seen as spirits. Blue spirits (above Mordekaiser) are allied champions while red spirits (below Mordekaiser) are enemy champions.\nAlly spirit\nEnemy spirit\nThe Death Realm is a battlefield that exists outside of the normal realm in an alternate \"dimension\". It exists only for Mordekaiser and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and  brushes.\nThe boundaries of the arena are impassable but not considered terrain themselves ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\nDuring the cast time of Realm of Death, it is possible to pathfind outside the boundaries of the arena by issuing a movement command toward an area that becomes inaccessible due to terrain inside the Death Realm.(bug)[41]\nRealm of Death retains Mordekaiser's previous current health percentage when granting him a portion of the target's maximum health.\nRealm of Death's  healing is affected by healing modifiers.\nRealm of Death does not trigger in-combat effects.\nRealm of Death will cancel and go on cooldown after its cast time if:\nThe target is  displacement immune,  crowd control immune or protected by a  spell shield.\nNote that all of the above are ineffective if they are applied after the target has been banished.\nThe target is a  clone or  Sion when his  Glory in Death is active.\nIf the target becomes  untargetable,  dies, is too far away or Mordekaiser loses  sight of them due to  nearsight during the cast time, this ability will cancel but does not go on  cooldown.\nIf either Mordekaiser or the target  dies at the same time of the transition into the Death Realm, the Death Realm will not end prematurely and will continue until its full duration has ended.(bug)[42]\nIf the target dies this way, Mordekaiser will not keep their stats after leaving the Death Realm.\n Tahm Kench's  Devour will always trigger this bug if used during the cast of Realm of Death and the spit would kill Mordekaiser.[43]\nIf Mordekaiser or the target cast another Realm of Death, the affected champions will remain stuck for the duration of the new circle.\nThe previous circle will be overridden by the new one; it will be dispelled to enter the new circle.\n Spell shield will not block the initial  slow.\nThe  reveal effect lasts for 1.25 seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.\nUpon entering or leaving the Death Realm, targets revealed by effects such as  Ignite or  Ashe's  Hawkshot will keep the  reveal VFX but will stop being revealed.(bug)[44]\nIf the target's  health is lower than the amount that should be stolen, they will be brought down to 1 health. Mordekaiser will still get the intended amount of maximum health.\nIf the target's  health is higher than their  health after the reduction, they will lose the excess HP on top of taking 10% of their maximum health as damage. This happens because Realm of Death first reduces 10% of the target's maximum health, and then deals an additional 10% of their maximum health as damage.\nRealm of Death's maximum health reduction ignores  invulnerability effects.\nEntering or leaving the Death Realm will cause all targeted  projectiles to be  destroyed.\nThe transition in and out of the Death Realm doesn't interrupt  channels.\n Grand Starfall will always be interrupted by the transition into the realm.\nRealm of Death will not be dispelled if either of the two affected champions enter  resurrection after taking lethal damage. It is dispelled if the target enters a  zombie state.\nAny active  tether effects (both friendly and hostile ones) existing on either of the two champions entering the realm will be broken (unless the tether is between those two).\nUpon entering the realm, Mordekaiser and the target are  cleansed from all  forced action effects.\nThe cleanse will occur even if the source of the crowd control enters the realm.(unexpected)\nUnlike the other stats, Mordekaiser does not steal enemy total size; instead he gains 10% of his own size and reduces the enemy's size by 10% of theirs (all size modifiers stack additively).\nMordekaiser grows in size over 0.25 seconds after successfully stealing his targets' stats, and shrinks over 0.25 seconds after the buff runs out again. The target shrinks over 0.25 seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.\nWhile Mordekaiser has hold of his enemy's stats, that champion's circular portrait will appear as a pip next to his health bar, visible to all players.\nThe champion's portrait will ocasionally stay even after Mordekaiser has lost hold of the enemy's stats.(bug)\nRealm of Death's interactions with other elements/abilities (This list might be incomplete, last updated on patch V26.05):\nMultiple Death Realms (possible through a  hijacked Realm of Death or if multiple Mordekaisers are in the same match) spawned will exist in the same realm, allowing champions to see and interact with champions bound to other circles. Champions are only affected by their boundaries and are not able to see the others.\nIf another Realm of Death is cast while one is already active, upon leaving, the spirits from the second Realm of Death will be invisible from the perspective of the players affected by the first Realm of Death.(bug)[45]\n Tahm Kench's  Devour can carry a target outside of their circle, but they will be displaced back inside once  Regurgitated.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until her circle ends. She can knock back and damage secondary targets multiple times.\nChampions inside the Death Realm continue gaining  gold and  experience from any source, which includes nearby and global bounties as well as neutral buffs.\nStructures exist in all realms at the same time.  Turrets will behave normally as if all units were in the same realm.\n Turret's Crystalline Overgrowth can still be triggered while inside the Death Realm.\nThe Overgrowth's VFX of the Outer Turrets (Tier 1) will be invisible inside the Death Realm.(bug)[46]\nThe faelights and jungle plants ( Blast Cone,  Honeyfruit,  Scryer's Bloom) will not be present in the Death Realm.\nThe faelights indicator will still be visible if the player's cursor is placed in their location.(bug)[47]\nThe  Blast Cone's landing indicator will still be visible while in the Death Realm and within its range.(bug)[48]\nEpic  monsters, with the exception of  Voidgrub's, will be visible for a brief moment after entering the Death Realm, but they will be untargetable.(bug)[49]\n Hex-gates on  Hextech Rift will not be present between realms.\n Eye of the Herald and  Teleport are disabled while in the Death Realm.\nUsing  Unsealed Spellbook to swap Teleport for another summoner spell while in the Death Realm will disable the new summoner spell until the user leaves the realm.(bug)[50]\nControllable pets and  clones can still be commanded between realms.\nMordekaiser will be given gold, if applicable, for  pets killed at the end of Realm of Death.\n Illaoi's  Tentacles will not be killed at the end of Realm of Death.(unexpected)\n Annie's  Tibbers,  Heimerdinger's  H-28Q Apex Turret,  Ivern's  Daisy and  Yorick's  Maiden are considered as \"large pets\" for the purposes of this ability and will follow their respective  champions between realms.\nIf Mordekaiser dies inside of the Death Realm while his  Darkness Rise is hitting any of these pets, Darkness Rise will keep affecting the pets until they die or Darkness Rise deactivates normally.(bug)[51]\nSwitching realms detaches all  attached champions on either of the two champions entering the realm.\nThe allied health, resource, and ultimate indicators (champion portraits located on the screen) will not update between realms as the players have no  vision of them.\nPings used in the Death Realm will appear in the chat and mini-map, but will not appear in the map.(unexpected)\nAny spawned terrain while in the Death Realm will remain inside until expired. They will not be destroyed.\nExcept for some cases, spells that require a target to be cast (e.g  Akali's  Shuriken Flip,  Twitch's  Contaminate) will not affect enemies in other realms nor will be castable if there's no targets in the same realm as the caster.\n Amumu's  Bandage Toss,  Blitzcrank's  Rocket Grab,  Leona's  Zenith Blade,  Nautilus'  Dredge Line,  Pyke's  Bone Skewer and  Thresh's  Death Sentence will still hit targets if their caster switches realms before they hit.\n Camille's  The Hextech Ultimatum,  Dr. Mundo's  Goes Where He Pleases,  Nunu & Willump's  Biggest Snowball Ever! and  Absolute Zero,  Pyke's  Death from Below,  Ryze's  Realm Warp,  Shen's  Spirit's Refuge,  Taliyah's  Worked Ground and  Zed's  Shadows will follow their caster between realms.\n Braum's  Glacial Fissure[52],  Pantheon's  Grand Starfall*[53],  Singed's  Mega Adhesive[54],  Varus'  Hail of Arrows[55],  Yasuo's  Wind Wall[56],  Ziggs'  Satchel Charge*[57] and  Zilean's  Time Bomb*[58] will follow their caster between realms but will only be visible in the realm they were cast.(bug)\n Ahri's  Orb of Deception will stay in the realm it was cast.\nThe orb will still go back towards  Ahri's position.\n Akshan's  Avengerang will stay in the realm it was cast.\nThe boomerang will only go back towards  Akshan's position if it was already doing so during the realm switch.\n Akshan's  Comeuppance bullets will get destroyed if he switches realms, even if its target is Mordekaiser.\n Anivia's  Glacial Storm will not be dispelled if Anivia switches realms, but it will only be present in the realm it was cast.\n Bel'Veth's  Void Corals will only be present in the realm they spawned in.\nIf  Bel'Veth switches realms while she is consuming a Void Coral, the Void Coral will dissappear and she will not get her True Form nor deal damage to nearby enemies.\n Camille will still be able to use  Hookshot's dash if she switches realms before the spell hits.\n Ekko's  Parallel Convergence will only be visible in the realm it was cast, but he will still be able to trigger the spell's effect from another realm and it will only affect enemies in said realm.(bug)[59]\n Fizz's  Chum the Waters will follow its target between realms.\n Galio's  Winds of War will follow him if the spell was already on the ground before the realm switch, but it will only be visible in the realm it was cast.(bug)[60]\n Gnar's  Boulder Toss boulder will only be visible in the realm it was cast, but he can still pick it up if he goes to its location.(bug)[61]\n Illaoi's  Test of Spirit tether will be destroyed if her target switches realms.\n Test of Spirit's target will not be made into a Vessel.\n Irelia's  Flawless Duet will be recast automatically when switching realms, and will only affect enemies in the realm it was cast.\n Ivern's  Rootcaller can still be recast if the target is in a different realm than him.\n Ivern's  Brushmaker brushes might be visible for a few seconds after switching realms.(bug)[62]\nPassing by the position of a brush created by  Brushmaker in another realm will make units transparent for a few seconds, but they will still be visible to the enemy team.\n Kai'Sa's  Killer Instinct can only be cast towards enemies in the same realm she is at.\n Kalista's  Fate's Call cannot be cast if her  oathsworn is in another realm, but if the spell was cast before entering the Death Realm, it will function as normal and will only affect targets in the oathsworn's realm.\n Karthus'  Requiem will damage enemies in all realms.\n Kayn's  Umbral Trespass will be interrupted and will not deal damage if its target switches realms.\n Kog'Maw's  Void Ooze will follow him between realms.(bug)[63]\nA part of the VFX will be left in the realm it was cast.\n Lillia's  Lilting Lullaby will only affect enemies in the same realm as her.\n Lissandra's  Glacial Path can still be recast if the spell was initially cast in another realm.\n Lulu's  Pix will follow her between realms.\nHowever, if Pix is on another  champion, it will visually stay in Lulu's realm but will keep affecting enemies in the Death Realm.(bug)[64]\nPix will still be able to return to Lulu as normal, even if her ally's still in the Death Realm.\n Lux's  Final Spark will follow her between realms.\nThe beam's VFX will only be visible in the realm it was cast.(bug)[65]\n Malzahar's  Void Shift is special cased to not resist the slow but instead resist the realm switch after the cast completes.\n Malzahar's  Call of the Void will follow him if used moments before the realm switch. Also, a part of the VFX will be left in the realm it was cast.(bug)[66]\n Mel's  Golden Eclipse will only deal damage to enemies in the same realm she is at the end of the cast.\n Miss Fortune's  Make It Rain will follow her between realms.(bug)[67]\nThe spell's area VFX will not follow.(bug)\n Naafiri's  Hounds' Pursuit dash will still go through if she switches realms during the cast.\n Nasus'  Spirit Fire will stay in the realm it was cast.\nHowever, the spell will keep affecting enemies in another realm if they were already affected by it before switching realms and they have not left the spell's area.(bug)[68]\n Nautilus'  Depth Charge will not follow its target between realms.\n Neeko cannot be targeted by Realm of Death if she is disguised as a non- champion unit.\n Nilah's  Apotheosis will only deal damage to enemies in the realm it was cast.(unexpected)\nIt will still heal/shield targets in  Nilah's realm at the end of the cast.\n Nocturne's  Paranoia only applies  nearsight to enemy champions in the same realm as him.\n Orianna's  Ball will go back to her after switching realms.\n Orianna's  Command: Shockwave will follow her between realms if her  ball is not on the ground.\nHowever, if her  ball is on the ground,  Command: Shockwave will still follow her between realms but its shockwave will be invisible.(bug)[69]\nAdditionally, if  Command: Shockwave is buffered while  her ball is still flying and she switches realms,  Command: Shockwave's will appear on top of  Orianna, but the actual shockwave will occur at the location  her ball was supposed to land.(bug)[70]\n Poppy's  Keeper's Verdict can send Mordekaiser outside of the Death Realm arena if she uses it during Realm of Death's cast.(bug)[71]\n Pyke's  Phantom Undertow will not follow him if he switches realms while the Phantom is coming back.\n Rakan's  Grand Entrance will follow him between realms, but its initial VFX will not.(bug)[72]\n Rek'Sai's  Tunnels will not follow her between realms.\nIf  Rek'Sai is already on a tunnel when switching realms, her  dash will not be interrupted.\n Sion's  Decimating Smash VFX will follow him between realms, but the spell will only affect enemies in the realm it was cast.(bug)[73]\n Soraka's  Wish will heal targets in all realms.\n Swain's  Nevermove can still be recast if the target is in another realm, but nothing will happen.(unexpected)\n Sylas'  Abduct will not hit enemies if he switches realms during the spell's animation.\n Syndra's  Force of Will will cancel on realm switch.\n Syndra's  Unleashed Power will only affect enemies in the realm it was cast, even if its target is Mordekaiser.\n Tahm Kench's  Devour target will get spit on realm switch. The target will still be dealt damage by the spit if applicable.\n Taliyah's  Weaver's Wall will get interrupted on realm switch.\n Taric's  Bastion link will be temporarily disabled while in the Death Realm. The link will not break.\n Thresh's  Dark Passage will go back to him on realm switch.\n Thresh's  The Box pillars will be visible in all realms, but it will only affect enemies in the realm it was cast.(bug)[74]\n Udyr's  Wingborne Storm will stay in the realm it was cast.\nIf the storm's target is sent to a different realm than  Udyr, the storm will start following him instead.\nThe storm's tracking VFX will stay in its target until the end of the spell.(bug)\n Urgot's  Fear Beyond Death cannot be recast if the target is not in the same realm as him.\nIf the target is being reeled in however, the execution at the end of the  channel will take place regardless of the realm either he or the target is in.\n Viego's  Harrowed Path will follow him between realms.(bug)\nThe ground mist will be visible in all realms.(bug)\n Viktor's  Arcane Storm can be redirected with its recast even if Viktor is in a different realm from the singularity.\n Xayah's  Bladecaller cannot call  Feathers between realms.\n Yasuo's  Last Breath will be interrupted if its target switches realms, unless the target is Mordekaiser.\n Yone's  Soul Unbound cannot be recast inside of the Death Realm.\n Yorick's  Maiden will not die with him if he dies inside of the Death Realm.(bug)[75]\n Eulogy of the Isles will still go on cooldown.\n Zaahen's  Dreaded Return will only  pull affected enemies in the same realm it was cast.\n Cryptbloom's nova will spawn at the user's realm and will only affect targets in said realm.\n Elixir of Iron trail will follow between realms, but they will be invisible.(bug)[76]\n Iceborn Gauntlet's frost field will follow between realms, but it will be invisible.(bug)[77]\n Redemption's beam will only affect targets in the realm it was cast, but its SFX will be heard in all realms.(bug)[78]\n Dark Harvest's souls VFX will not follow between realms, but they will still be reaped succesfully.(bug)[79]\n Glacial Augment's glacial rays will follow between realms, but they will be invisible.(bug)[80]\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Mordekaiser's Realm of Death. Champions outside of the death realm are seen as spirits. Blue spirits (above Mordekaiser) are allied champions while red spirits (below Mordekaiser) are enemy champions.\nAlly spirit\nEnemy spirit\nThe Death Realm is a battlefield that exists outside of the normal realm in an alternate \"dimension\". It exists only for Mordekaiser and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and  brushes.\nThe boundaries of the arena are impassable but not considered terrain themselves ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\nDuring the cast time of Realm of Death, it is possible to pathfind outside the boundaries of the arena by issuing a movement command toward an area that becomes inaccessible due to terrain inside the Death Realm.(bug)[41]\nRealm of Death retains Mordekaiser's previous current health percentage when granting him a portion of the target's maximum health.\nRealm of Death's  healing is affected by healing modifiers.\nRealm of Death does not trigger in-combat effects.\nRealm of Death will cancel and go on cooldown after its cast time if:\nThe target is  displacement immune,  crowd control immune or protected by a  spell shield.\nNote that all of the above are ineffective if they are applied after the target has been banished.\nThe target is a  clone or  Sion when his  Glory in Death is active.\nIf the target becomes  untargetable,  dies, is too far away or Mordekaiser loses  sight of them due to  nearsight during the cast time, this ability will cancel but does not go on  cooldown.\nIf either Mordekaiser or the target  dies at the same time of the transition into the Death Realm, the Death Realm will not end prematurely and will continue until its full duration has ended.(bug)[42]\nIf the target dies this way, Mordekaiser will not keep their stats after leaving the Death Realm.\n Tahm Kench's  Devour will always trigger this bug if used during the cast of Realm of Death and the spit would kill Mordekaiser.[43]\nIf Mordekaiser or the target cast another Realm of Death, the affected champions will remain stuck for the duration of the new circle.\nThe previous circle will be overridden by the new one; it will be dispelled to enter the new circle.\n Spell shield will not block the initial  slow.\nThe  reveal effect lasts for 1.25 seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.\nUpon entering or leaving the Death Realm, targets revealed by effects such as  Ignite or  Ashe's  Hawkshot will keep the  reveal VFX but will stop being revealed.(bug)[44]\nIf the target's  health is lower than the amount that should be stolen, they will be brought down to 1 health. Mordekaiser will still get the intended amount of maximum health.\nIf the target's  health is higher than their  health after the reduction, they will lose the excess HP on top of taking 10% of their maximum health as damage. This happens because Realm of Death first reduces 10% of the target's maximum health, and then deals an additional 10% of their maximum health as damage.\nRealm of Death's maximum health reduction ignores  invulnerability effects.\nEntering or leaving the Death Realm will cause all targeted  projectiles to be  destroyed.\nThe transition in and out of the Death Realm doesn't interrupt  channels.\n Grand Starfall will always be interrupted by the transition into the realm.\nRealm of Death will not be dispelled if either of the two affected champions enter  resurrection after taking lethal damage. It is dispelled if the target enters a  zombie state.\nAny active  tether effects (both friendly and hostile ones) existing on either of the two champions entering the realm will be broken (unless the tether is between those two).\nUpon entering the realm, Mordekaiser and the target are  cleansed from all  forced action effects.\nThe cleanse will occur even if the source of the crowd control enters the realm.(unexpected)\nUnlike the other stats, Mordekaiser does not steal enemy total size; instead he gains 10% of his own size and reduces the enemy's size by 10% of theirs (all size modifiers stack additively).\nMordekaiser grows in size over 0.25 seconds after successfully stealing his targets' stats, and shrinks over 0.25 seconds after the buff runs out again. The target shrinks over 0.25 seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.\nWhile Mordekaiser has hold of his enemy's stats, that champion's circular portrait will appear as a pip next to his health bar, visible to all players.\nThe champion's portrait will ocasionally stay even after Mordekaiser has lost hold of the enemy's stats.(bug)\nRealm of Death's interactions with other elements/abilities (This list might be incomplete, last updated on patch V26.09):\nMultiple Death Realms (possible through a  hijacked Realm of Death or if multiple Mordekaisers are in the same match) spawned will exist in the same realm, allowing champions to see and interact with champions bound to other circles. Champions are only affected by their boundaries and are not able to see the others.\nIf another Realm of Death is cast while one is already active, upon leaving, the spirits from the second Realm of Death will be invisible from the perspective of the players affected by the first Realm of Death.(bug)[45]\n Tahm Kench's  Devour can carry a target outside of their circle, but they will be displaced back inside once  Regurgitated.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until her circle ends. She can knock back and damage secondary targets multiple times.\nChampions inside the Death Realm continue gaining  gold and  experience from any source, which includes nearby and global bounties as well as neutral buffs.\nStructures exist in all realms at the same time.  Turrets will behave normally as if all units were in the same realm.\n Turret's Crystalline Overgrowth can still be triggered while inside the Death Realm.\nThe Overgrowth's VFX of the Outer Turrets (Tier 1) will be invisible inside the Death Realm.(bug)[46]\nThe faelights and jungle plants ( Blast Cone,  Honeyfruit,  Scryer's Bloom) will not be present in the Death Realm.\nThe faelights indicator will still be visible if the player's cursor is placed in their location.(bug)[47]\nThe  Blast Cone's landing indicator will still be visible while in the Death Realm and within its range.(bug)[48]\nEpic  monsters, with the exception of  Voidgrub's, will be visible for a brief moment after entering the Death Realm, but they will be untargetable.(bug)[49]\n Hex-gates on  Hextech Rift will not be present between realms.\n Eye of the Herald and  Teleport are disabled while in the Death Realm.\nUsing  Unsealed Spellbook to swap Teleport for another summoner spell while in the Death Realm will disable the new summoner spell until the user leaves the realm.(bug)[50]\nControllable pets and  clones can still be commanded between realms.\nMordekaiser will be given gold, if applicable, for  pets killed at the end of Realm of Death.\n Illaoi's  Tentacles will not be killed at the end of Realm of Death.(unexpected)\n Annie's  Tibbers,  Heimerdinger's  H-28Q Apex Turret,  Ivern's  Daisy and  Yorick's  Maiden are considered as \"large pets\" for the purposes of this ability and will follow their respective  champions between realms.\nIf Mordekaiser dies inside of the Death Realm while his  Darkness Rise is hitting any of these pets, Darkness Rise will keep affecting the pets until they die or Darkness Rise deactivates normally.(bug)[51]\nSwitching realms detaches all  attached champions on either of the two champions entering the realm.\nThe allied health, resource, and ultimate indicators (champion portraits located on the screen) will not update between realms as the players have no  vision of them.\nPings used in the Death Realm will appear in the chat and mini-map, but will not appear in the map.(unexpected)\nAny spawned terrain while in the Death Realm will remain inside until expired. They will not be destroyed.\nExcept for some cases, spells that require a target to be cast (e.g  Akali's  Shuriken Flip,  Twitch's  Contaminate) will not affect enemies in other realms nor will be castable if there's no targets in the same realm as the caster.\n Amumu's  Bandage Toss,  Blitzcrank's  Rocket Grab,  Leona's  Zenith Blade,  Nautilus'  Dredge Line,  Pyke's  Bone Skewer and  Thresh's  Death Sentence will still hit targets if their caster switches realms before they hit.\n Camille's  The Hextech Ultimatum,  Dr. Mundo's  Goes Where He Pleases,  Nunu & Willump's  Biggest Snowball Ever! and  Absolute Zero,  Pyke's  Death from Below,  Ryze's  Realm Warp,  Shen's  Spirit's Refuge,  Taliyah's  Worked Ground and  Zed's  Shadows will follow their caster between realms.\n Braum's  Glacial Fissure[52],  Pantheon's  Grand Starfall*[53],  Singed's  Mega Adhesive[54],  Varus'  Hail of Arrows[55],  Yasuo's  Wind Wall[56],  Ziggs'  Satchel Charge*[57] and  Zilean's  Time Bomb*[58] will follow their caster between realms but will only be visible in the realm they were cast.(bug)\n Ahri's  Orb of Deception will stay in the realm it was cast.\nThe orb will still go back towards  Ahri's position.\n Akshan's  Avengerang will stay in the realm it was cast.\nThe boomerang will only go back towards  Akshan's position if it was already doing so during the realm switch.\n Akshan's  Comeuppance bullets will get destroyed if he switches realms, even if its target is Mordekaiser.\n Anivia's  Glacial Storm will not be dispelled if Anivia switches realms, but it will only be present in the realm it was cast.\n Bel'Veth's  Void Corals will only be present in the realm they spawned in.\nIf  Bel'Veth switches realms while she is consuming a Void Coral, the Void Coral will dissappear and she will not get her True Form nor deal damage to nearby enemies.\n Camille will still be able to use  Hookshot's dash if she switches realms before the spell hits.\n Ekko's  Parallel Convergence will only be visible in the realm it was cast, but he will still be able to trigger the spell's effect from another realm and it will only affect enemies in said realm.(bug)[59]\n Fizz's  Chum the Waters will follow its target between realms.\n Galio's  Winds of War will follow him if the spell was already on the ground before the realm switch, but it will only be visible in the realm it was cast.(bug)[60]\n Gnar's  Boulder Toss boulder will only be visible in the realm it was cast, but he can still pick it up if he goes to its location.(bug)[61]\n Illaoi's  Test of Spirit tether will be destroyed if her target switches realms.\n Test of Spirit's target will not be made into a Vessel.\n Irelia's  Flawless Duet will be recast automatically when switching realms, and will only affect enemies in the realm it was cast.\n Ivern's  Rootcaller can still be recast if the target is in a different realm than him.\n Ivern's  Brushmaker brushes might be visible for a few seconds after switching realms.(bug)[62]\nPassing by the position of a brush created by  Brushmaker in another realm will make units transparent for a few seconds, but they will still be visible to the enemy team.\n Kai'Sa's  Killer Instinct can only be cast towards enemies in the same realm she is at.\n Kalista's  Fate's Call cannot be cast if her  oathsworn is in another realm, but if the spell was cast before entering the Death Realm, it will function as normal and will only affect targets in the oathsworn's realm.\n Karthus'  Requiem will damage enemies in all realms.\n Kayn's  Umbral Trespass will be interrupted and will not deal damage if its target switches realms.\n Kog'Maw's  Void Ooze will follow him between realms.(bug)[63]\nA part of the VFX will be left in the realm it was cast.\n Lillia's  Lilting Lullaby will only affect enemies in the same realm as her.\n Lissandra's  Glacial Path can still be recast if the spell was initially cast in another realm.\n Lulu's  Pix will follow her between realms.\nHowever, if Pix is on another  champion, it will visually stay in Lulu's realm but will keep affecting enemies in the Death Realm.(bug)[64]\nPix will still be able to return to Lulu as normal, even if her ally's still in the Death Realm.\n Lux's  Final Spark will follow her between realms.\nThe beam's VFX will only be visible in the realm it was cast.(bug)[65]\n Malzahar's  Void Shift is special cased to not resist the slow but instead resist the realm switch after the cast completes.\n Malzahar's  Call of the Void will follow him if used moments before the realm switch. Also, a part of the VFX will be left in the realm it was cast.(bug)[66]\n Mel's  Golden Eclipse will only deal damage to enemies in the same realm she is at the end of the cast.\n Miss Fortune's  Make It Rain will follow her between realms.(bug)[67]\nThe spell's area VFX will not follow.(bug)\n Naafiri's  Hounds' Pursuit dash will still go through if she switches realms during the cast.\n Nasus'  Spirit Fire will stay in the realm it was cast.\nHowever, the spell will keep affecting enemies in another realm if they were already affected by it before switching realms and they have not left the spell's area.(bug)[68]\n Nautilus'  Depth Charge will not follow its target between realms.\n Neeko cannot be targeted by Realm of Death if she is disguised as a non- champion unit.\n Nilah's  Apotheosis will only deal damage to enemies in the realm it was cast.(unexpected)\nIt will still heal/shield targets in  Nilah's realm at the end of the cast.\n Nocturne's  Paranoia only applies  nearsight to enemy champions in the same realm as him.\n Orianna's  Ball will go back to her after switching realms.\n Orianna's  Command: Shockwave will follow her between realms if her  ball is not on the ground.\nHowever, if her  ball is on the ground,  Command: Shockwave will still follow her between realms but its shockwave will be invisible.(bug)[69]\nAdditionally, if  Command: Shockwave is buffered while  her ball is still flying and she switches realms,  Command: Shockwave's will appear on top of  Orianna, but the actual shockwave will occur at the location  her ball was supposed to land.(bug)[70]\n Poppy's  Keeper's Verdict can send Mordekaiser outside of the Death Realm arena if she uses it during Realm of Death's cast.(bug)[71]\n Pyke's  Phantom Undertow will not follow him if he switches realms while the Phantom is coming back.\n Rakan's  Grand Entrance will follow him between realms, but its initial VFX will not.(bug)[72]\n Rek'Sai's  Tunnels will not follow her between realms.\nIf  Rek'Sai is already on a tunnel when switching realms, her  dash will not be interrupted.\n Sion's  Decimating Smash VFX will follow him between realms, but the spell will only affect enemies in the realm it was cast.(bug)[73]\n Soraka's  Wish will heal targets in all realms.\n Swain's  Nevermove can still be recast if the target is in another realm, but nothing will happen.(unexpected)\n Sylas'  Abduct will not hit enemies if he switches realms during the spell's animation.\n Syndra's  Force of Will will cancel on realm switch.\n Syndra's  Unleashed Power will only affect enemies in the realm it was cast, even if its target is Mordekaiser.\n Tahm Kench's  Devour target will get spit on realm switch. The target will still be dealt damage by the spit if applicable.\n Taliyah's  Weaver's Wall will get interrupted on realm switch.\n Taric's  Bastion link will be temporarily disabled while in the Death Realm. The link will not break.\n Thresh's  Dark Passage will go back to him on realm switch.\n Thresh's  The Box pillars will be visible in all realms, but it will only affect enemies in the realm it was cast.(bug)[74]\n Udyr's  Wingborne Storm will stay in the realm it was cast.\nIf the storm's target is sent to a different realm than  Udyr, the storm will start following him instead.\nThe storm's tracking VFX will stay in its target until the end of the spell.(bug)\n Urgot's  Fear Beyond Death cannot be recast if the target is not in the same realm as him.\nIf the target is being reeled in however, the execution at the end of the  channel will take place regardless of the realm either he or the target is in.\n Viego's  Harrowed Path will follow him between realms.(bug)\nThe ground mist will be visible in all realms.(bug)\n Viktor's  Arcane Storm can be redirected with its recast even if Viktor is in a different realm from the singularity.\n Xayah's  Bladecaller cannot call  Feathers between realms.\n Yasuo's  Last Breath will be interrupted if its target switches realms, unless the target is Mordekaiser.\n Yone's  Soul Unbound cannot be recast inside of the Death Realm.\n Yorick's  Maiden will not die with him if he dies inside of the Death Realm.(bug)[75]\n Eulogy of the Isles will still go on cooldown.\n Zaahen's  Dreaded Return will only  pull affected enemies in the same realm it was cast.\n Cryptbloom's nova will spawn at the user's realm and will only affect targets in said realm.\n Elixir of Iron's trail will follow between realms, but it will be invisible.(bug)[76]\n Iceborn Gauntlet's frost field will follow between realms, but it will be invisible.(bug)[77]\n Redemption's beam will only affect targets in the realm it was cast, but its SFX will be heard in all realms.(bug)[78]\n Dark Harvest's souls VFX will not follow between realms, but they will still be reaped succesfully.(bug)[79]\n Glacial Augment's glacial rays will follow between realms, but they will be invisible.(bug)[80]\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -232111,207 +231908,6 @@
           "Eric Xie",
           "West Studio"
         ]
-      },
-      {
-        "name": "PROJECT",
-        "id": 133024,
-        "isBase": false,
-        "availability": "Upcoming",
-        "formatName": "PROJECT: Quinn",
-        "lootEligible": true,
-        "cost": 1350,
-        "sale": 0,
-        "distribution": null,
-        "rarity": "Epic",
-        "chromas": [
-          {
-            "name": "Catseye",
-            "id": 133026,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133026.png",
-            "colors": [
-              "#FFEE59",
-              "#FFEE59"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Obsidian",
-            "id": 133031,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133031.png",
-            "colors": [
-              "#27211C",
-              "#27211C"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Pearl",
-            "id": 133032,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133032.png",
-            "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
-            "id": 133030,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133030.png",
-            "colors": [
-              "#E58BA5",
-              "#E58BA5"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
-            "id": 133025,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133025.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive in 2026.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Sapphire",
-            "id": 133029,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133029.png",
-            "colors": [
-              "#2756CE",
-              "#2756CE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Tanzanite",
-            "id": 133027,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133027.png",
-            "colors": [
-              "#54209B",
-              "#54209B"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Turquoise",
-            "id": 133028,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/133/133028.png",
-            "colors": [
-              "#73BFBE",
-              "#73BFBE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          }
-        ],
-        "lore": "Once test subjects of PROJECT's mind-augmenting technology, Quinn managed to break free with her cybernetic companion, Valor, and join the rebellion. Their consciousness newly linked by the experiments, the pair take to the skies, using elite recon capabilities to comb PROJECT's code and stop their corrupt research for good.",
-        "release": "0000-00-00",
-        "set": [
-          "PROJECT"
-        ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_centered_24.skins_quinn_skin24.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_uncentered_24.skins_quinn_skin24.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_tile_24.skins_quinn_skin24.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/quinnloadscreen_24.skins_quinn_skin24.jpg",
-        "loadScreenVintagePath": null,
-        "newEffects": true,
-        "newAnimations": true,
-        "newRecall": true,
-        "newVoice": false,
-        "newQuotes": false,
-        "voiceActor": [
-          "Lauren Mayhew"
-        ],
-        "splashArtist": []
       }
     ]
   },
@@ -266112,7 +265708,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "If the explosion hits at least one minion, the boxes will fear all enemies regardless of their unit type for 2.2 seconds, causing enemy champions to be feared for the non-champion fear duration.(bug)\nThe root and fear are applied at the same time. The target cannot be forced to move by the fear during the root.\nThe target is however allowed to move despite being rooted for the first 0.15 seconds of the root. They can be forced to move by the fear during this time.\nShaco and the Hallucination will face each other the moment of their appearance.\nThe explosion and the boxes apply  area damage, while the clone deals  pet damage.\nHallucinate will cast from wherever Shaco is at the end of the cast time.\nWhen Shaco dies, the clone will automatically target the closest visible enemy champion within 1500 units.\nThe clone will always spawn in the opposite direction of the cursor.\nIf Deceive and Hallucinate are used in quick succession, the clone will spawn in the direction of the cursor instead.",
+          "notes": "If the explosion hits at least one minion, the boxes will fear all enemies regardless of their unit type for 2.2 seconds, causing enemy champions to be feared for the non-champion fear duration.(bug)\nThe root and fear are applied at the same time. The target cannot be forced to move by the fear during the root.\nThe target is however allowed to move despite being rooted for the first 0.15 seconds of the root. They can be forced to move by the fear during this time.\nShaco and the Hallucination will face each other the moment of their appearance.\nThe explosion and the boxes apply  area damage, while the clone deals  basic damage.\nHallucinate will cast from wherever Shaco is at the end of the cast time.\nWhen Shaco dies, the clone will automatically target the closest visible enemy champion within 1500 units.\nThe clone will always spawn in the opposite direction of the cursor.\nIf Deceive and Hallucinate are used in quick succession, the clone will spawn in the direction of the cursor instead.",
           "blurb": "Active:  Shaco briefly  vanishes and  blinks in the target direction, creating a  clone of himself for some time.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -267846,7 +267442,7 @@
         "name": "Prestige Pandemonium",
         "id": 35071,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Pandemonium",
         "lootEligible": true,
         "cost": "Battle Pass",
@@ -267877,7 +267473,7 @@
           }
         ],
         "lore": "Shaco's bizarre emotions are an acquired taste. His delight is perverse, his despair obsessive—a warped kaleidoscope of chaos and comedy. His exaggerated expressions and theatrical gestures make a mockery of real emotion.",
-        "release": "0000-00-00",
+        "release": "2026-04-29",
         "set": [
           "Pandemonium"
         ],
@@ -294895,7 +294491,7 @@
               "leveling": []
             },
             {
-              "description": "If Tahm Kench is performing Abyssal Dive, Regurgitate will not automatically cast until after he finishes.",
+              "description": "If Tahm Kench is performing Abyssal Dive, Regurgitate will not automatically cast until after he finishes Abyssal Dive's effects.",
               "leveling": []
             }
           ],
@@ -294941,7 +294537,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Devour's initial pull is a non- airborne displacement that displaces the target toward Tahm Kench over the ability's cast time.\nThis is also the same displacement that is used for when Devour is cast with  Tongue Lash, though with a greater pull distance as well as faster pull speed to account for Devour's short cast time.\nThe target will  blink to Tahm Kench's location at the end of this displacement, including if it is interrupted.\nAgainst enemies, Devour's pull from abducting the target depends on the application of the  suppression; if the suppression is not applied, neither is the pull. Similarly, if the suppression is removed, the displacement from the pull is stopped.\nThe attachment also depends upon the occurrence of the pull; if the target is not pulled, they are not attached to Tahm Kench and the swallow fails, cancelling the ability entirely.\nIf the target resists the suppression by being  immune to crowd control,  displacement immune, or having a  spell shield, Tahm Kench will not pull the target towards him.\nIf the target removes the suppression by any means, including with an applicable  cleanse effect or  dispel, one of two of the following interactions will occur based on the timing of the removal:\nIf the suppression was removed during Devour's cast time, the target will stop the displacement from the pull instantly and prevent themselves from being attached to Tahm Kench after the cast time.\nIf the suppression was removed while the target is attached to Tahm Kench (in other words, inside of his belly), the target will detach themselves from him instantly without Tahm Kench performing  Regurgitate.\nThe  untargetability and  displacement immunity is granted to the target during Devour's cast time as well. Enemies are granted these effects while they are suppressed; they are removed when the suppression is.\nDevour's suppression against enemies is removed if Tahm Kench dies, enters  resurrection, or transitions in or out of the  Death Realm.\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest trigger after Devour's suppression ends or after  Regurgitate's displacement, if Regurgitate is cast.\nEnemies will be dealt  Regurgitate's damage regardless of Tahm Kench casting the ability if Devour's suppression ends by any means other than  dismounting(bug) (including during Devour's cast time).\nIf the target transitions into the  Death Realm or enters  resurrection, Tahm Kench will  Regurgitate them automatically.\nThis only occurs for the former if Tahm Kench is in a different dimension from the target.\nDevour cannot be used on allies that are  channeling or using an ability that preloads UnstoppableForceMarker.\nThe  self-slow is affected by  slow resist.\nTahm Kench cannot use  gates during Devour.\nAllies can see if this spell is ready next to Tahm Kench's health bar.\nThe swallowed target is not considered to be  vanished. They are instead hidden below the visible map plane, to maintain ongoing effects such as  Senna's  Curse of the Black Mist.\nDuring Devour's attachment and  Regurgitate's displacement, the swallowed target's camera is locked and centered on their champion.\nThis does not affect Tahm Kench.\nThe following table refers for interactions while the target is unable to act:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nIf an ally, forces Tahm Kench to use  Regurgitate unless movement commands are otherwise restricted. If an enemy, movement commands are disabled.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath\n\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Devour's initial pull is a non- airborne displacement that displaces the target toward Tahm Kench over the ability's cast time.\nThis is also the same displacement that is used for when Devour is cast with  Tongue Lash, though with a greater pull distance as well as faster pull speed to account for Devour's short cast time.\nThe target will  blink to Tahm Kench's location at the end of this displacement, including if it is interrupted.\nAgainst enemies, Devour's pull from abducting the target depends on the application of the  suppression; if the suppression is not applied, neither is the pull. Similarly, if the suppression is removed, the displacement from the pull is stopped.\nThe attachment also depends upon the occurrence of the pull; if the target is not pulled, they are not attached to Tahm Kench and the swallow fails, cancelling the ability entirely.\nIf the target resists the suppression by being  immune to crowd control,  displacement immune, or having a  spell shield, Tahm Kench will not pull the target towards him.\nIf the target removes the suppression by any means, including with an applicable  cleanse effect or  dispel, one of two of the following interactions will occur based on the timing of the removal:\nIf the suppression was removed during Devour's cast time, the target will stop the displacement from the pull instantly and prevent themselves from being attached to Tahm Kench after the cast time.\nIf the suppression was removed while the target is attached to Tahm Kench (in other words, inside of his belly), the target will detach themselves from him instantly without Tahm Kench performing  Regurgitate.\nThe  untargetability and  displacement immunity is granted to the target during Devour's cast time as well. Enemies are granted these effects while they are suppressed; they are removed when the suppression is.\nDevour's suppression against enemies is removed if Tahm Kench dies, enters  resurrection, or transitions in or out of the  Death Realm.\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest trigger after Devour's suppression ends or after  Regurgitate's displacement, if Regurgitate is cast.\nEnemies will be dealt  Regurgitate's damage regardless of Tahm Kench casting the ability if Devour's suppression ends by any means other than  dismounting(bug) (including during Devour's cast time).\nIf the target transitions into the  Death Realm or enters  resurrection, Tahm Kench will  Regurgitate them automatically.\nThis only occurs for the former if Tahm Kench is in a different dimension from the target.\nDevour cannot be used on allies that are  channeling or using an ability that preloads UnstoppableForceMarker.\nThe  self-slow is affected by  slow resist.\nTahm Kench cannot use  gates during Devour.\nAllies can see if this spell is ready next to Tahm Kench's health bar.\nThe swallowed target is not considered to be  vanished. They are instead hidden below the visible map plane, to maintain ongoing effects such as  Senna's  Curse of the Black Mist.\nDuring Devour's attachment and  Regurgitate's displacement, the swallowed target's camera is locked and centered on their champion.\nThis does not affect Tahm Kench.\nDevour's self  ground can be cleansed by  Milio's  Breath of Life.(bug)\nThe following table refers for interactions while the target is unable to act:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nIf an ally, forces Tahm Kench to use  Regurgitate unless movement commands are otherwise restricted. If an enemy, movement commands are disabled.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath\n\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -294995,7 +294591,7 @@
               ]
             },
             {
-              "description": "If Regurgitate was cast automatically, Tahm Kench spits the target out in his facing direction.",
+              "description": "Tahm Kench is unable to act for 0.4 seconds after casting Regurgitate. If Regurgitate was cast automatically, Tahm Kench spits the target out in his facing direction.",
               "leveling": []
             }
           ],
@@ -295010,7 +294606,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The displacement from spitting the target out also uniquely counts as the enemy's  dash.\nThe target will face in the direction of Regurgitate's cast for the duration of the displacement.\nThe target will  blink to Tahm Kench's location at the start of Regurgitate's cast time.\nRegurgitate will also automatically cast if the target is affected by  Fate's Call or enters  resurrection.\nTahm Kench becomes  unable to act for 0.25 seconds upon casting Regurgitate.",
+          "notes": "The displacement from spitting the target out also uniquely counts as the enemy's  dash.\nThe target will face in the direction of Regurgitate's cast for the duration of the displacement.\nThe target will  blink to Tahm Kench's location at the start of Regurgitate's cast time.\nRegurgitate will also automatically cast if the target is affected by  Fate's Call or enters  resurrection.",
           "blurb": "Active: Tahm Kench  spits the swallowed champion in the target direction. If they are an enemy, he deals magic damage based on the target's maximum health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -295021,7 +294617,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "0.25",
+          "castTime": null,
           "effectRadius": null,
           "targetRange": null
         }
@@ -302290,11 +301886,11 @@
                     },
                     {
                       "values": [
-                        7.5,
-                        7.5,
-                        7.5,
-                        7.5,
-                        7.5
+                        5,
+                        5,
+                        5,
+                        5,
+                        5
                       ],
                       "units": [
                         "% bonus AD",
@@ -302343,11 +301939,11 @@
                     },
                     {
                       "values": [
-                        30,
-                        30,
-                        30,
-                        30,
-                        30
+                        20,
+                        20,
+                        20,
+                        20,
+                        20
                       ],
                       "units": [
                         "% bonus AD",
@@ -302454,11 +302050,11 @@
                     },
                     {
                       "values": [
-                        12,
-                        12,
-                        12,
-                        12,
-                        12
+                        8,
+                        8,
+                        8,
+                        8,
+                        8
                       ],
                       "units": [
                         "% bonus AD",
@@ -302507,11 +302103,11 @@
                     },
                     {
                       "values": [
-                        48,
-                        48,
-                        48,
-                        48,
-                        48
+                        32,
+                        32,
+                        32,
+                        32,
+                        32
                       ],
                       "units": [
                         "% bonus AD",
@@ -302553,7 +302149,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toxic Shot deals  proc  damage over time, and does not trigger  spell effects.\nDespite this, it is special cased to trigger  Dark Harvest, but not  Cheap Shot,  Conqueror,  Scorchclaw's Slash,  Summon Aery and  Ocean Dragon Soul.\nThe initial hit from Toxic Shot will consume  Manaflow Band if it is available.\nThe attacks do not affect  structures nor  wards.",
+          "notes": "Toxic Shot deals  proc  damage over time, and does not trigger  spell effects.\nDespite this, it is special cased to trigger  Dark Harvest, but not  Cheap Shot,  Conqueror,  Scorchclaw's Slash,  Summon Aery and  Ocean Dragon Soul.\nThe damage per tick is not updated dynamically based on Teemo's current ability power.\nThe initial hit from Toxic Shot will consume  Manaflow Band if it is available.\nThe attacks do not affect  structures nor  wards.",
           "blurb": "Passive:  Teemo's  basic attacks deal bonus magic damage  on-hit and inflict  poison.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -327061,7 +326657,7 @@
         "name": "Demoncursed",
         "id": 67067,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Demoncursed",
         "lootEligible": true,
         "cost": 1820,
@@ -327197,7 +326793,7 @@
           }
         ],
         "lore": "Vayne spent years hunting the demon that killed her parents, only to become the unwitting host to a demon of her own. Possessed with preternatural sight and dark power, she's driven by overwhelming paranoia and bloodlust. Wild, unrestrained, and unaware of the demon within, Vayne has become the very thing she hunts.",
-        "release": "0000-00-00",
+        "release": "2026-04-29",
         "set": [
           "Pandemonium"
         ],
@@ -345928,7 +345524,7 @@
           "spellshieldable": "True",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "pet",
+          "spellEffects": "special",
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
