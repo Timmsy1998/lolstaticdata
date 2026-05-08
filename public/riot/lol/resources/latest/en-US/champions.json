@@ -150279,7 +150279,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Kled throws a bear trap in the target direction that deals physical damage to enemies hit, increased to 150% against minions, small pets, and small monsters. The bear trap collides with the first enemy champion, large pet, or large monster hit, revealing them for 2.5 seconds, and forming a tether between Kled and the target for 1.75 seconds.",
+              "description": "Active: Kled throws a bear trap in the target direction that deals physical damage to enemies hit, increased to 150% against minions, small pets, and small and medium monsters. The bear trap collides with the first enemy champion, large pet, or large monster hit, revealing them for 2.5 seconds, and forming a tether between Kled and the target for 1.75 seconds.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -150883,7 +150883,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Skaarl dashes in the target direction, though not through terrain, dealing physical damage to enemies she passes through and pulling minions, pets and small monsters hit towards her.",
+              "description": "Active: Skaarl dashes in the target direction, though not through terrain, dealing physical damage to enemies she passes through and pulling minions, pets, and small and medium monsters hit towards her.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -185691,7 +185691,7 @@
               ]
             },
             {
-              "description": "An enemy champion affected by Overwhelm is required to cast this ability. The target does not have to be visible to be hit by this ability.",
+              "description": "An enemy champion affected by Overwhelm is required to cast this ability.",
               "leveling": []
             }
           ],
@@ -185737,7 +185737,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Golden Eclipse can be cast even if all affected targets are  untargetable.(unexpected)\nGolden Eclipse does not deal damage to enemies that are  untargetable by the time the cast time completes.\nGolden Eclipse cannot be cast if none of the affected targets are in Mel's realm ( Death Realm).\nGolden Eclipse will only deal damage to targets in Mel's realm at the end of the cast.\nWhenever Golden Eclipse's damage would put a target below  Overwhelm's threshold, it will use a  different icon.\nGolden Eclipse will display the number of total stacks affecting all enemy champions in the HUD.\nGolden Eclipse sets the duration of  Overwhelm stacks to 0.75 seconds if they would run out during the cast time.",
+          "notes": "Golden Eclipse can be cast even if all affected targets are  untargetable.(unexpected)\nGolden Eclipse does not deal damage against enemies that are  untargetable.\nWhenever Golden Eclipse's damage would put a target below  Overwhelm's threshold, it will use a  different icon.\nGolden Eclipse will display the number of total stacks affecting all enemy champions in the HUD.\nGolden Eclipse sets the duration of  Overwhelm stacks to 0.75 seconds if they would run out during the cast time.",
           "blurb": "Passive:  Overwhelm stores more damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -274381,7 +274381,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "A buff icon in the HUD will show the current shield strength, so that the player can better calculate the timing of the second cast.\nThe initial shown value does not interact with  shield strength modifiers. Whenever the shield takes damage, it updates to the proper current shield amount, however.\nThe initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDetonating the ability manually does not.\nGaining or losing AP or health, or ranking up the skill while the shield is active will not change its shield value but it will change the damage of the shield's detonation.\nThe cooldown of Soul Furnace begins once the shield is removed.\nGaining or losing  ability haste between the first cast and breaking of the shield will affect the resuming cooldown accordingly.\nSoul Furnace also automatically detonates if Sion is killed without the shield being destroyed, e.g. by dying to the  Nexus Obelisk, even if Sion could not have detonated it manually yet.\nSoul Furnace's bonus health can be obtained by any of Sion's damage sources (basic attacks, abilities, summoner spells, item actives).\nThis does not include last hits transferred to Sion artificially.\nIf the gold efficiency of a  Ruby Crystal is considered 100%, each last hit or  takedown after Soul Furnace has been learned can be considered worth an extra  10.6 or  40g, respectively.\nSion must learn Soul Furnace before he can stack up its passive.\nSion does not gain bonus health from units that enter  resurrection on-death.\nKilling the following unit types grants Sion 15 bonus health:\n Champions (kills and assists)\n Large minions and  large monsters (including both summoned and pit  Rift Herald)\n Large pets - Explicitly  Tibbers,  Daisy and  The Maiden\nKilling the following unit types grants Sion 4 bonus health:\n Minions and  small monsters, with the exceptions of those listed in the below category\n Wards and other champion summoned units (e.g.  Noxious Trap,  Powder Keg,  Dark Procession)\nAll  pets, with the exceptions of those listed in the above and below categories\n Clones\nKilling the following unit types grants Sion no bonus health:\n Turrets (including  Sun Disk) and other structures\nJungle plants (destroying which does not grant kill credit).\n Voidmites (including both summoned and pit  Voidmites)\nUnits destroyed by 'trampling' such as  Zyra's  seeds,  Zac's  goo or  Rek'Sai's  tunnels.",
+          "notes": "A buff icon in the HUD will show the current shield strength, so that the player can better calculate the timing of the second cast.\nThe initial shown value does not interact with  shield strength modifiers. Whenever the shield takes damage, it updates to the proper current shield amount, however.\nThe initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDetonating the ability manually does not.\nGaining or losing AP or health, or ranking up the skill while the shield is active will not change its shield value but it will change the damage of the shield's detonation.\nThe cooldown of Soul Furnace begins once the shield is removed.\nGaining or losing  ability haste between the first cast and breaking of the shield will affect the resuming cooldown accordingly.\nSoul Furnace also automatically detonates if Sion is killed without the shield being destroyed, e.g. by dying to the  Nexus Obelisk, even if Sion could not have detonated it manually yet.\nSoul Furnace's bonus health can be obtained by any of Sion's damage sources (basic attacks, abilities, summoner spells, item actives).\nThis does not include last hits transferred to Sion artificially.\nIf the gold efficiency of a  Ruby Crystal is considered 100%, each last hit or  takedown after Soul Furnace has been learned can be considered worth an extra  10.6 or  40g, respectively.\nSion must learn Soul Furnace before he can stack up its passive.\nSion does not gain bonus health from units that enter  resurrection on-death.\nKilling the following unit types grants Sion 15 bonus health:\n Champions (kills and assists)\n Large minions and  large monsters (including both summoned and pit  Rift Herald)\n Large pets - Explicitly  Tibbers,  Daisy and  The Maiden\nKilling the following unit types grants Sion 4 bonus health:\n Minions, small and medium  monsters, with the exceptions of those listed in the below category\n Wards and other champion summoned units (e.g.  Noxious Trap,  Powder Keg,  Dark Procession)\nAll  pets, with the exceptions of those listed in the above and below categories\n Clones\nKilling the following unit types grants Sion no bonus health:\n Turrets (including  Sun Disk) and other structures\nJungle plants (destroying which does not grant kill credit).\n Voidmites (including both summoned and pit  Voidmites)\nUnits destroyed by 'trampling' such as  Zyra's  seeds,  Zac's  goo or  Rek'Sai's  tunnels.",
           "blurb": "Passive:  Sion gains  bonus health whenever he kills an enemy, increased against large enemies and  champion  takedowns.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -298173,7 +298173,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Talon will track the target if they change locations with the ranged version of Noxian Diplomacy, landing at an offset of 100 units before reaching them.\nHe will dash to the target's previous location while still dealing damage if the target is too far away or moves beyond 800 units.\nWhen cast in close range, Noxian Diplomacy deals its damage at the completion of the cast time, rather than at the dash's completion.\nThe damage will be dealt even if Talon's dash is interrupted, so long as the cast time is completed.\nTalon will be ordered to basic attack the target at the end of the dash.\nWhile  grounded or  rooted, Noxian Diplomacy can only be cast within close range.\nTalon will still dash to the target in both cases.\nNoxian Diplomacy will also grant the heal if the target dies upon Talon's completion of the dash.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nThis only applies to the close dash attack.",
-          "blurb": "Active:  Talon  leaps to the target enemy, dealing physical damage. If the target is within melee range, Talon instead  critically strikes the target.",
+          "blurb": "Active:  Talon  leaps to the target enemy, dealing physical damage. If the target is within melee range, Talon will  critically strike the target.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
