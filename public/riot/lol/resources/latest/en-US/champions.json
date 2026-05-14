@@ -12464,10 +12464,10 @@
                     },
                     {
                       "values": [
-                        1,
-                        1.5,
                         2,
+                        2.25,
                         2.5,
+                        2.75,
                         3
                       ],
                       "units": [
@@ -12517,10 +12517,10 @@
                     },
                     {
                       "values": [
-                        2,
-                        3,
                         4,
+                        4.5,
                         5,
+                        5.5,
                         6
                       ],
                       "units": [
@@ -12540,7 +12540,7 @@
               "leveling": []
             },
             {
-              "description": "Against monsters, Cunning Sweep deals 125 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
+              "description": "Against monsters, Cunning Sweep deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
               "leveling": []
             }
           ],
@@ -12653,10 +12653,10 @@
                     },
                     {
                       "values": [
-                        1,
-                        1.5,
                         2,
+                        2.25,
                         2.5,
+                        2.75,
                         3
                       ],
                       "units": [
@@ -12706,10 +12706,10 @@
                     },
                     {
                       "values": [
-                        2,
-                        3,
                         4,
+                        4.5,
                         5,
+                        5.5,
                         6
                       ],
                       "units": [
@@ -12725,7 +12725,7 @@
               ]
             },
             {
-              "description": "Against monsters, Sundering Slam deals 150 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
+              "description": "Against monsters, Sundering Slam deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
               "leveling": []
             }
           ],
@@ -13092,7 +13092,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Ambessa/ability-icon/r",
           "effects": [
             {
-              "description": "Passive: Ambessa gains armor penetration and heals herself for a percentage of the post-mitigation damage she deals to enemies with her active abilities. The healing effectiveness is reduced to 25% against minions and 40% against monsters.",
+              "description": "Passive: Ambessa gains armor penetration and heals herself for a percentage of the post-mitigation damage she deals to enemies with her active abilities. The healing effectiveness is reduced to 25% against minions and monsters.",
               "leveling": [
                 {
                   "attribute": "Armor Penetration",
@@ -13116,9 +13116,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        10,
-                        12.5,
-                        15
+                        15,
+                        17.5,
+                        20
                       ],
                       "units": [
                         "%",
@@ -13141,13 +13141,13 @@
                   ]
                 },
                 {
-                  "attribute": "Minion Healing Percentage",
+                  "attribute": "Reduced Healing Percentage",
                   "modifiers": [
                     {
                       "values": [
-                        2.5,
-                        3.125,
-                        3.75
+                        3.75,
+                        4.375,
+                        5
                       ],
                       "units": [
                         "%",
@@ -13160,35 +13160,6 @@
                         12.5,
                         12.5,
                         12.5
-                      ],
-                      "units": [
-                        "% life steal",
-                        "% life steal",
-                        "% life steal"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "attribute": "Monster Healing Percentage",
-                  "modifiers": [
-                    {
-                      "values": [
-                        4,
-                        5,
-                        6
-                      ],
-                      "units": [
-                        "%",
-                        "%",
-                        "%"
-                      ]
-                    },
-                    {
-                      "values": [
-                        20,
-                        20,
-                        20
                       ],
                       "units": [
                         "% life steal",
@@ -13285,7 +13256,7 @@
     },
     "releaseDate": "2024-11-06",
     "releasePatch": "14.22",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -15818,9 +15789,9 @@
         "percentPerLevel": 0.0
       },
       "armor": {
-        "flat": 21,
+        "flat": 19,
         "percent": 0.0,
-        "perLevel": 4.5,
+        "perLevel": 4.1,
         "percentPerLevel": 0.0
       },
       "magicResistance": {
@@ -16794,7 +16765,7 @@
     },
     "releaseDate": "2009-07-10",
     "releasePatch": "July 10, 2009 Patch",
-    "patchLastChanged": "25.20",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -23119,10 +23090,10 @@
                     {
                       "values": [
                         22,
-                        23.5,
+                        23,
+                        24,
                         25,
-                        26.5,
-                        28
+                        26
                       ],
                       "units": [
                         "% AD",
@@ -23140,10 +23111,10 @@
                     {
                       "values": [
                         110,
-                        117.5,
+                        115,
+                        120,
                         125,
-                        132.5,
-                        140
+                        130
                       ],
                       "units": [
                         "% AD",
@@ -23192,7 +23163,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The flurries deal 1 instance of  basic damage followed by 4 instances of a non-reactive type of damage (either  default or  proc).\nThe flurries are classified as a basic attack on a script level, but are considered an ability for other effects (e.g.  Maokai's  Sap Magic).(bug)\nThe first flurry of a Ranger's Focus cast fires[ one additional arrow, dealing 20% increased total damage. ][ six arrows, dealing a total of 132 / 141 / 150 / 159 / 168% attack damage. ]\nRanger's Focus works against  structures.\nFlat damage reductions (e.g.  Amumu's  Tantrum,  Fizz's  Nimble Fighter, or  Leona's  Eclipse) apply per arrow, resulting in extremely increased effectiveness against Ranger's Focus.\nThe sole exception is  Warden's Mail's Rock Solid, as that applies per cast instance rather than per damage instance.\nA flurry can apply 5 stacks of  Black Cleaver's Carve to a single target as it deals 5 instances of physical damage.\nRanger's Focus also empowers  Runaan's Hurricane's Wind's Fury bolts to become a flurry of 5 bolts each as well.\nThe empowered bolts use Ashe's attack projectile, including her missile speed (2500 compared to their default 2000).\nThe bolts are evenly distributed among the targets, but a single target cannot be hit by more than 5 bolts.\nThese flurries also apply  on-hit effects only once to each target hit.\nBecause Focus stacks are generated  on-attack,  Runaan's Hurricane's Wind's Fury's bolts will not generate any.",
+          "notes": "The flurries deal 1 instance of  basic damage followed by 4 instances of a non-reactive type of damage (either  default or  proc).\nThe flurries are classified as a basic attack on a script level, but are considered an ability for other effects (e.g.  Maokai's  Sap Magic).(bug)\nThe first flurry of a Ranger's Focus cast fires[ one additional arrow, dealing 20% increased total damage. ][ six arrows, dealing a total of 132 / 138 / 144 / 150 / 156% attack damage. ]\nRanger's Focus works against  structures.\nFlat damage reductions (e.g.  Amumu's  Tantrum,  Fizz's  Nimble Fighter, or  Leona's  Eclipse) apply per arrow, resulting in extremely increased effectiveness against Ranger's Focus.\nThe sole exception is  Warden's Mail's Rock Solid, as that applies per cast instance rather than per damage instance.\nA flurry can apply 5 stacks of  Black Cleaver's Carve to a single target as it deals 5 instances of physical damage.\nRanger's Focus also empowers  Runaan's Hurricane's Wind's Fury bolts to become a flurry of 5 bolts each as well.\nThe empowered bolts use Ashe's attack projectile, including her missile speed (2500 compared to their default 2000).\nThe bolts are evenly distributed among the targets, but a single target cannot be hit by more than 5 bolts.\nThese flurries also apply  on-hit effects only once to each target hit.\nBecause Focus stacks are generated  on-attack,  Runaan's Hurricane's Wind's Fury's bolts will not generate any.",
           "blurb": "Passive:  Ashe's basic attacks generate  stacks of Focus, up to a cap. Once the stacks reach the cap, she can cast Ranger's Focus.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -23538,7 +23509,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -31595,7 +31566,7 @@
     },
     "releaseDate": "2015-03-12",
     "releasePatch": "5.5",
-    "patchLastChanged": "25.21",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -52890,7 +52861,7 @@
     },
     "releaseDate": "2009-09-19",
     "releasePatch": "0.9.25.21",
-    "patchLastChanged": "26.01",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -82275,11 +82246,11 @@
             "modifiers": [
               {
                 "values": [
+                  60,
+                  65,
                   70,
                   75,
-                  80,
-                  85,
-                  90
+                  80
                 ],
                 "units": [
                   "",
@@ -82682,11 +82653,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        90,
-                        130,
+                        100,
+                        135,
                         170,
-                        210,
-                        250
+                        205,
+                        240
                       ],
                       "units": [
                         "",
@@ -82698,11 +82669,11 @@
                     },
                     {
                       "values": [
-                        90,
-                        90,
-                        90,
-                        90,
-                        90
+                        100,
+                        100,
+                        100,
+                        100,
+                        100
                       ],
                       "units": [
                         "% AP",
@@ -82719,11 +82690,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        72,
-                        104,
+                        80,
+                        108,
                         136,
-                        168,
-                        200
+                        164,
+                        192
                       ],
                       "units": [
                         "",
@@ -82735,11 +82706,11 @@
                     },
                     {
                       "values": [
-                        72,
-                        72,
-                        72,
-                        72,
-                        72
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
                       ],
                       "units": [
                         "% AP",
@@ -82858,6 +82829,18 @@
                         "% AP",
                         "% AP"
                       ]
+                    },
+                    {
+                      "values": [
+                        100,
+                        100,
+                        100
+                      ],
+                      "units": [
+                        "% bonus magic resistance",
+                        "% bonus magic resistance",
+                        "% bonus magic resistance"
+                      ]
                     }
                   ]
                 }
@@ -82925,7 +82908,7 @@
     },
     "releaseDate": "2010-08-10",
     "releasePatch": "1.0.0.98",
-    "patchLastChanged": "25.18",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -109648,7 +109631,7 @@
         "name": "Rain Shepherd",
         "id": 427031,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Rain Shepherd",
         "lootEligible": true,
         "cost": 1350,
@@ -113265,7 +113248,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nIf the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.\n Spell shield will block the damage but not the terrain generation.\nIf Jarvan IV's  leap is interrupted by another by another forced movement (eg. old  Skarner's  Impale[2]), the terrain will be generated at Jarvan IV's location when the forced movement ends.\nCataclysm will not deal damage, generate terrain, nor refund its cooldown if Jarvan IV is killed while leaping.\nThe perimeter is made up of 24 units with 95  pathing radius, 65  gameplay radius and 1350  sight radius each. Only every other unit is rendered visible.\n Searing Charge will not destroy the whole ring but only the part that  Ornn collides with.",
+          "notes": "The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nIf the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.\n Spell shield will block the damage but not the terrain generation.\nIf Jarvan IV's  leap is interrupted by another by another forced movement (eg. old  Skarner's  Impale[2]), the terrain will be generated at Jarvan IV's location when the forced movement ends.\nCataclysm will not deal damage, generate terrain, nor refund its cooldown if Jarvan IV is killed while leaping.\nThe perimeter is made up of 24 units with 95  pathing radius, 65  gameplay radius and 1350  sight radius each. Only every other unit is rendered visible.\n Ornn's  Searing Charge will not destroy the whole ring but only the part that  Ornn collides with.",
           "blurb": "Active:  Jarvan IV  leaps  Unstoppably to the target enemy champion's location, dealing physical damage to nearby enemies upon impact.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -131250,7 +131233,7 @@
     },
     "releaseDate": "2011-02-01",
     "releasePatch": "1.0.0.110",
-    "patchLastChanged": "26.08",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -152951,7 +152934,7 @@
     },
     "releaseDate": "2010-06-24",
     "releasePatch": "1.0.0.94",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -157602,18 +157585,18 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/LeeSin/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Lee Sin dashes to the target allied unit's location. If the ally is a champion upon arrival, both they and Lee Sin gain a shield for 2 seconds and Safeguard's cooldown is halved.\nLee Sin can self-cast Safeguard to shield himself.",
+              "description": "Active: Lee Sin dashes to the target allied unit's location. If the ally is a champion upon arrival, both they and Lee Sin gain a shield for 2 seconds.If the target is a minion or ward, Lee Sin also shields himself.Lee Sin can self-cast Safeguard to shield himself.",
               "leveling": [
                 {
                   "attribute": "Shield Strength",
                   "modifiers": [
                     {
                       "values": [
-                        70,
-                        115,
-                        160,
-                        205,
-                        250
+                        60,
+                        105,
+                        150,
+                        195,
+                        240
                       ],
                       "units": [
                         "",
@@ -157676,11 +157659,11 @@
             "modifiers": [
               {
                 "values": [
-                  12,
-                  12,
-                  12,
-                  12,
-                  12
+                  7,
+                  7,
+                  7,
+                  7,
+                  7
                 ],
                 "units": [
                   "",
@@ -157823,11 +157806,11 @@
                     },
                     {
                       "values": [
-                        100,
-                        100,
-                        100,
-                        100,
-                        100
+                        90,
+                        90,
+                        90,
+                        90,
+                        90
                       ],
                       "units": [
                         "% AD",
@@ -158076,6 +158059,10 @@
                   ]
                 }
               ]
+            },
+            {
+              "description": "If Dragon's Rage's kills the primary target, it will still knock them back, causing the target's corpse to be displaced and collide with enemies it passes through.",
+              "leveling": []
             }
           ],
           "cost": null,
@@ -158105,7 +158092,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The spell indicator for this ability also displays the direction for the knock back relative to Lee Sin's position.\nIf the target of Dragon Rage  dies initially on the first hit there will be no displacement of any kind.\nThe  displacement's direction is decided at the moment of impact and not by Lee Sin and his target's relative locations at the start of the cast (the only way for Lee Sin to control where his target is displaced is by using  Flash before the cast time of Dragon's Rage ends).\nIf the  airborne debuff is removed from the target, its ability to collide with enemies is removed aswell, even if the target has not come to a stop yet.(unexpected)\nThe airborne debuff and with it collision of the target remains for the normal duration even if its trajectory is  displaced by another source (i.e -  Headbutt).\nThe target may still collide with other enemies for the remaining airborne duration after they reach their destination, as the airborne debuff lasts longer than the displacement.\nThe knockback distance is intended to be 800, but due to a bug, this is reduced by up-to the sum of Lee Sin's and his target's  gameplay radius, depending on how far they are away from one another at the end of the cast time.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+          "notes": "The spell indicator for this ability also displays the direction for the knock back relative to Lee Sin's position.\nThe  displacement's direction is decided at the moment of impact and not by Lee Sin and his target's relative locations at the start of the cast (the only way for Lee Sin to control where his target is displaced is by using  Flash before the cast time of Dragon's Rage ends).\nIf the  airborne debuff is removed from the target, its ability to collide with enemies is removed aswell, even if the target has not come to a stop yet.(unexpected)\nThe airborne debuff and with it collision of the target remains for the normal duration even if its trajectory is  displaced by another source (i.e -  Headbutt).\nThe target may still collide with other enemies for the remaining airborne duration after they reach their destination, as the airborne debuff lasts longer than the displacement.\nThe knock back distance is intended to be 800, but due to a bug, this is reduced by up-to the sum of Lee Sin's and his target's  gameplay radius, depending on how far they are away from one another at the end of the cast time.(bug)\nDragon's Rage will not knock back killed champions that enter a  zombie state upon dying, or a  Yone with his  Spirit Form active.\nDragon's Rage will knock back killed champions even if they were immune to the  displacement at the time of being hit (e.g. with  displacement immunity or  crowd control immunity).\nWhile a champion's corpse is being displaced from dying to Dragon's Rage, they will be unable to respawn until after the displacement finishes.\nThe killed champion's death animation will be played after Dragon's Rage's displacement finishes.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
           "blurb": "Active:  Lee Sin  roots the target enemy  champion and roundhouse kicks them, dealing physical damage and  knocking them back.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -158124,7 +158111,7 @@
     },
     "releaseDate": "2011-04-01",
     "releasePatch": "1.0.0.114",
-    "patchLastChanged": "26.05",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -165629,7 +165616,7 @@
     },
     "releaseDate": "2013-04-30",
     "releasePatch": "3.6",
-    "patchLastChanged": "26.06",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -195862,10 +195849,10 @@
                     {
                       "values": [
                         30,
-                        45,
-                        60,
-                        75,
-                        90
+                        42.5,
+                        55,
+                        67.5,
+                        80
                       ],
                       "units": [
                         "",
@@ -195899,10 +195886,10 @@
                     {
                       "values": [
                         60,
-                        90,
-                        120,
-                        150,
-                        180
+                        85,
+                        110,
+                        135,
+                        160
                       ],
                       "units": [
                         "",
@@ -195936,10 +195923,10 @@
                     {
                       "values": [
                         100,
-                        145,
-                        190,
-                        235,
-                        280
+                        142.5,
+                        185,
+                        227.5,
+                        270
                       ],
                       "units": [
                         "",
@@ -195973,10 +195960,10 @@
                     {
                       "values": [
                         130,
-                        190,
-                        250,
-                        310,
-                        370
+                        185,
+                        240,
+                        295,
+                        350
                       ],
                       "units": [
                         "",
@@ -196434,8 +196421,8 @@
                     {
                       "values": [
                         150,
-                        250,
-                        350
+                        225,
+                        300
                       ],
                       "units": [
                         "",
@@ -196463,8 +196450,8 @@
                     {
                       "values": [
                         15,
-                        25,
-                        35
+                        22.5,
+                        30
                       ],
                       "units": [
                         "",
@@ -196569,7 +196556,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Hounds' Pursuit's theoretical total physical damage from  Packmates only, assuming Naafiri has the maximum number of them active and Hounds' Pursuit is always ranked at the earliest  levels permitted (ranks 1 / 2 / 3 at levels 6 / 11 / 16):\nLevels 6:8: 30 (+ 24% bonus AD) /  60 (+ 48% bonus AD).\nLevels 9:10: 45 (+ 36% bonus AD) /  75 (+ 60% bonus AD).\nLevel 11: 75 (+ 36% bonus AD) /  125 (+ 60% bonus AD).\nLevels 12:14: 100 (+ 48% bonus AD) /  150 (+ 72% bonus AD).\nLevel 15: 125 (+ 60% bonus AD) /  175 (+ 84% bonus AD).\nLevels 16:18: 175 (+ 60% bonus AD) /  245 (+ 84% bonus AD).\nNaafiri marks the enemy champion targeted by Hounds' Pursuit in order to gain assist credit on them, lasting for the standard credit timer.\nHound's Pursuit's cast and dash do not  break stealth.(unexpected)\n Spell shield will block Naafiri's collision damage but cannot prevent collision damage from Packmates.\nNaafiri will track the target if they change locations, up to a maximum distance.\nShe will dash to the target's previous location if they move too far away during the dash.\nNaafiri will be ordered to basic attack the target at the end of the dash.\nNaafiri will windup a basic attack while dashing.(unexpected)\nPackmates hitting the same target as Naafiri will count as dealing \"additional\" damage.\nThe target is  revealed for another 1.5 seconds after the channel completes.\nThe following table refers for interactions while Naafiri is  channeling:\nIf Naafiri's channel is interrupted, the Packmates'  channels will be canceled as well.\nThe channel is cancelled if the target dies or moves too far away, but not if they become  untargetable.\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects",
+          "notes": "Hounds' Pursuit's theoretical total physical damage from  Packmates only, assuming Naafiri has the maximum number of them active and Hounds' Pursuit is always ranked at the earliest  levels permitted (ranks 1 / 2 / 3 at levels 6 / 11 / 16):\nLevels 6:8: 30 (+ 24% bonus AD) /  60 (+ 48% bonus AD).\nLevels 9:10: 45 (+ 36% bonus AD) /  75 (+ 60% bonus AD).\nLevel 11: 67.5 (+ 36% bonus AD) /  112.5 (+ 60% bonus AD).\nLevels 12:14: 90 (+ 48% bonus AD) /  135 (+ 72% bonus AD).\nLevel 15: 112.5 (+ 60% bonus AD) /  157.5 (+ 84% bonus AD).\nLevels 16:18: 150 (+ 60% bonus AD) /  210 (+ 84% bonus AD).\nNaafiri marks the enemy champion targeted by Hounds' Pursuit in order to gain assist credit on them, lasting for the standard credit timer.\nHound's Pursuit's cast and dash do not  break stealth.(unexpected)\n Spell shield will block Naafiri's collision damage but cannot prevent collision damage from Packmates.\nNaafiri will track the target if they change locations, up to a maximum distance.\nShe will dash to the target's previous location if they move too far away during the dash.\nNaafiri will be ordered to basic attack the target at the end of the dash.\nNaafiri will windup a basic attack while dashing.(unexpected)\nPackmates hitting the same target as Naafiri will count as dealing \"additional\" damage.\nThe target is  revealed for another 1.5 seconds after the channel completes.\nThe following table refers for interactions while Naafiri is  channeling:\nIf Naafiri's channel is interrupted, the Packmates'  channels will be canceled as well.\nThe channel is cancelled if the target dies or moves too far away, but not if they become  untargetable.\n\n\nType\n\nChannel\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Grounding effects Immobilizing effects Cast-inhibiting effects",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -196588,7 +196575,7 @@
     },
     "releaseDate": "2023-07-19",
     "releasePatch": "13.14",
-    "patchLastChanged": "26.04",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -226174,7 +226161,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: MayhemWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: MayhemWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -231103,6 +231090,10 @@
               "leveling": []
             },
             {
+              "description": "Harrier deals 50 bonus physical damage against monsters.",
+              "leveling": []
+            },
+            {
               "description": "While Behind Enemy Lines is active, Harrier is disabled and all Vulnerable marks are removed.",
               "leveling": []
             }
@@ -231156,7 +231147,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Quinn sends Valor in the target direction who stops upon hitting an enemy, marking them as Vulnerable and dealing physical damage to all nearby enemies.",
+              "description": "Active: Quinn sends Valor in the target direction who stops upon hitting an enemy, marking them as Vulnerable and dealing physical damage to all nearby enemies, increased to 150% against monsters.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -231676,7 +231667,7 @@
     },
     "releaseDate": "2013-03-01",
     "releasePatch": "3.03",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -232284,7 +232275,7 @@
         "name": "PROJECT",
         "id": 133024,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "PROJECT: Quinn",
         "lootEligible": true,
         "cost": 1350,
@@ -270391,7 +270382,7 @@
       "health": {
         "flat": 625,
         "percent": 0.0,
-        "perLevel": 100,
+        "perLevel": 95,
         "percentPerLevel": 0.0
       },
       "healthRegen": {
@@ -270401,7 +270392,7 @@
         "percentPerLevel": 0.0
       },
       "mana": {
-        "flat": 100,
+        "flat": 95,
         "percent": 0.0,
         "perLevel": 0,
         "percentPerLevel": 0.0
@@ -270838,11 +270829,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        95,
-                        115,
-                        135,
-                        155
+                        60,
+                        80,
+                        100,
+                        120,
+                        140
                       ],
                       "units": [
                         "",
@@ -270875,11 +270866,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        22.5,
-                        28.5,
-                        34.5,
-                        40.5,
-                        46.5
+                        18,
+                        24,
+                        30,
+                        36,
+                        42
                       ],
                       "units": [
                         "",
@@ -270966,10 +270957,10 @@
               {
                 "values": [
                   13,
-                  12,
-                  11,
-                  10,
-                  9
+                  12.25,
+                  11.5,
+                  10.75,
+                  10
                 ],
                 "units": [
                   "",
@@ -271413,7 +271404,7 @@
     },
     "releaseDate": "2011-11-01",
     "releasePatch": "1.0.0.128",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -290378,7 +290369,7 @@
     },
     "releaseDate": "2019-01-25",
     "releasePatch": "9.2",
-    "patchLastChanged": "25.24",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -297333,7 +297324,7 @@
     },
     "releaseDate": "2016-05-18",
     "releasePatch": "6.10",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -302991,7 +302982,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -305089,7 +305080,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The dashing ally will track Thresh if he changes locations.\nThey will dash to Thresh's previous location if he is too far away or moves beyond 2200 units.\nThe lantern is considered a unit and can be targeted by an allied  Teleport,  Leap Strike,  Shunpo, and  Safeguard.\nIt is  untargetable to enemies.\nThe lantern's duration and maximum leash range are each displayed as a circle on the ground.\nThresh will gain Dark Passage's shield from moving out of leash range of the lantern.\nDark Passage is special cased to trigger  Guardian.",
+          "notes": "The dashing ally will track Thresh if he changes locations.\nThey will dash to Thresh's previous location if he is too far away or moves beyond 2200 units.\nThe lantern is considered a unit and can be targeted by an allied  Teleport,  Leap Strike,  Shunpo, and  Safeguard.\nIt is  untargetable to enemies.\nThe lantern blocks pathing of units like minions and champions.\nThe lantern's duration and maximum leash range are each displayed as a circle on the ground.\nThresh will gain Dark Passage's shield from moving out of leash range of the lantern.\nWhen the lantern returns to Thresh, the first ally champion to come in contact with Thresh while he has Dark Passage's shield will also gain a shield as long as no other ally has the shield.\nDark Passage is special cased to trigger  Guardian.",
           "blurb": "Active:  Thresh throws his lantern to the target location that remains for a few seconds while he remains nearby. He and the first allied champion to come near the lantern are granted a  shield for a few seconds, with the amount based on  Souls.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -314584,7 +314575,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.07",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 585,
@@ -334017,7 +334008,7 @@
     },
     "releaseDate": "2012-12-19",
     "releasePatch": "1.0.0.153",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -336064,7 +336055,7 @@
     },
     "releaseDate": "2021-01-21",
     "releasePatch": "11.2",
-    "patchLastChanged": "26.02",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -337223,13 +337214,13 @@
         "percentPerLevel": 0.0
       },
       "aramDamageTaken": {
-        "flat": 1.05,
+        "flat": 1,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
       },
       "aramDamageDealt": {
-        "flat": 0.95,
+        "flat": 1,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -346091,7 +346082,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/MonkeyKing/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Wukong enters invisibility for 1 second and dashes in the target direction, leaving behind a clone of himself at his casting position for 3.25 seconds.",
+              "description": "Active: Wukong enters invisibility for 1 second and dashes in the target direction, leaving behind a clone of himself at his casting position for 4 seconds.",
               "leveling": []
             },
             {
@@ -346106,11 +346097,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        30,
-                        35,
                         40,
                         45,
-                        50
+                        50,
+                        55,
+                        60
                       ],
                       "units": [
                         "%",
@@ -346250,11 +346241,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        35,
                         40,
                         45,
                         50,
-                        55
+                        55,
+                        60
                       ],
                       "units": [
                         "%",
@@ -346515,7 +346506,7 @@
     },
     "releaseDate": "2011-07-26",
     "releasePatch": "1.0.0.122",
-    "patchLastChanged": "25.20",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -357998,7 +357989,7 @@
     },
     "releaseDate": "2020-08-06",
     "releasePatch": "10.16",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -367578,7 +367569,7 @@
     },
     "releaseDate": "2025-11-19",
     "releasePatch": "25.23",
-    "patchLastChanged": "26.06",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -369963,7 +369954,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Zed/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Zed's basic attacks on-hit against targets below 50% maximum health are empowered to deal 6% / 8% / 10% (based on level) of the target's maximum health as bonus magic damage.",
+              "description": "Innate: Zed's basic attacks on-hit against targets below 50% maximum health are empowered to deal 5% / 7.5% / 10% (based on level) of the target's maximum health as bonus magic damage.",
               "leveling": []
             },
             {
@@ -370277,10 +370268,10 @@
                     {
                       "values": [
                         70,
-                        95,
-                        120,
-                        145,
-                        170
+                        92.5,
+                        115,
+                        137.5,
+                        160
                       ],
                       "units": [
                         "",
@@ -370292,11 +370283,11 @@
                     },
                     {
                       "values": [
-                        80,
-                        80,
-                        80,
-                        80,
-                        80
+                        70,
+                        70,
+                        70,
+                        70,
+                        70
                       ],
                       "units": [
                         "% bonus AD",
@@ -370530,7 +370521,7 @@
     },
     "releaseDate": "2012-11-13",
     "releasePatch": "1.0.0.151",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -372541,11 +372532,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        21,
-                        24,
-                        27,
+                        22,
+                        26,
                         30,
-                        33
+                        34,
+                        38
                       ],
                       "units": [
                         "",
@@ -372578,11 +372569,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        42,
-                        48,
-                        54,
+                        44,
+                        52,
                         60,
-                        66
+                        68,
+                        76
                       ],
                       "units": [
                         "",
@@ -372615,11 +372606,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        48.3,
-                        55.2,
-                        62.1,
+                        50.6,
+                        59.8,
                         69,
-                        75.9
+                        78.2,
+                        87.4
                       ],
                       "units": [
                         "",
@@ -372652,11 +372643,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        3,
-                        3.43,
-                        3.86,
+                        3.14,
+                        3.71,
                         4.29,
-                        4.71
+                        4.86,
+                        5.43
                       ],
                       "units": [
                         "",
@@ -372689,11 +372680,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        6,
-                        6.86,
-                        7.71,
+                        6.29,
+                        7.43,
                         8.57,
-                        9.43
+                        9.71,
+                        10.86
                       ],
                       "units": [
                         "",
@@ -372726,11 +372717,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        6.9,
-                        7.89,
-                        8.87,
+                        7.23,
+                        8.54,
                         9.86,
-                        10.84
+                        11.17,
+                        12.49
                       ],
                       "units": [
                         "",
@@ -372761,7 +372752,7 @@
               ]
             },
             {
-              "description": "Burst Fire's projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; and applies on-hit and on-attack effects to the first enemy hit. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 50% of attack speed in excess of the cap is converted into bonus attack damage.",
+              "description": "Burst Fire's projectile is treated as a basic attack: it hits any enemy unit a typical basic attack can; deals basic damage; can critically strike for (200% + 30%) damage; and applies on-hit and on-attack effects to the first enemy hit. Burst Fire's cooldown and cast time are reduced with attack speed, with the maximum of 1.5 attacks per second. 60% of attack speed in excess of the cap is converted into bonus attack damage.",
               "leveling": []
             },
             {
@@ -373245,7 +373236,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Zeri/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Zeri discharges an electric nova that deals magic damage to nearby enemies. If this hits at least one enemy champion, she enters Overcharged for 5 seconds. Hitting an enemy champion with an ability or charged attack will extend the duration by 1.5 seconds, up to its original duration.",
+              "description": "Active: Zeri discharges an electric nova that deals magic damage to nearby enemies. If this hits at least one enemy champion, she enters Overcharged for 5 seconds. Hitting an enemy champion with an ability or charged attack will extend the duration by 2.5 seconds, up to its original duration.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -373368,7 +373359,7 @@
     },
     "releaseDate": "2022-01-20",
     "releasePatch": "12.2",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -380271,7 +380262,7 @@
         ],
         "splashArtist": [
           "Francis Tneh",
-          "West Studios"
+          "West Studio"
         ]
       }
     ]
