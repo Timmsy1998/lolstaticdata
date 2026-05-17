@@ -60762,6 +60762,7 @@
           "Armen Taylor"
         ],
         "splashArtist": [
+          "Francis Tneh",
           "West Studio"
         ]
       },
@@ -106165,7 +106166,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Irelia/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Irelia dashes 100 units through the target enemy's location, and upon collision or dash completion, she deals physical damage, applies on-hit effects, and heals herself. Bladesurge deals 50 : 237 (based on level) bonus physical damage to minions.",
+              "description": "Active: Irelia dashes 100 units through the target enemy's location, and upon collision or dash completion, she deals physical damage, applies on-hit effects, and heals herself. Bladesurge deals 50 : 259 (based on level) bonus physical damage to minions.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -162137,6 +162138,7 @@
           "Wendee Lee"
         ],
         "splashArtist": [
+          "Francis Tneh",
           "West Studio"
         ]
       },
@@ -162171,6 +162173,7 @@
           "Wendee Lee"
         ],
         "splashArtist": [
+          "Francis Tneh",
           "West Studio"
         ]
       },
@@ -170207,7 +170210,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Pix's bolts do not fire alongside abilities that apply  on-hit effects (e.g.  Runaan's Hurricane).\nPix does not fire if the target dies.\nPix fires from his own location and not from the unit he is following.\nWhen on an ally champion, Pix's damage respects  enchantment redirection.\nThe empowered attack does not trigger against  structures nor  wards.\nNeither of them will intercept Pix's bolts.",
-          "blurb": "Innate:  Lulu is assisted by Pix, whom follows her around. Whenever Lulu basic attacks, Pix fires 3 bolts that deal magic damage to the first enemy hit.",
+          "blurb": "Innate:  Lulu is assisted by Pix, who follows her around. Whenever Lulu basic attacks, Pix fires 3 bolts that deal magic damage to the first enemy hit.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -309847,6 +309850,7 @@
           "Elspeth Eastman"
         ],
         "splashArtist": [
+          "Francis Tneh",
           "West Studio"
         ]
       },
@@ -342618,7 +342622,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Thundering Smash's bonus damage cannot  critically strike; the base damage of the attack can, however.\nDespite this,  Randuin's Omen's Resilience reduces Thundering Smash's total damage.(bug)\nThundering Smash deals  basic damage, but also triggers spell effects by also being tagged as  spell damage.\nThundering Smash will still apply its effects to the target even if the  dash is  interrupted, but not if he goes into  resurrection.\nThundering Smash's dash cannot pass through natural terrain, but not through player-generated terrain.(unexpected)\nThundering Smash's attack triggers against  structures and  wards, consuming the effect but dealing its bonus damage, if applicable.\nThe windup for the attack completes even if the target becomes  untargetable but the  stun and damage do not apply.\nThe player's screen will flash red briefly and cue a sound effect when Volibear becomes  immobilized while Thundering Smash is active.\nThundering Smash's attack does not put Volibear's basic attack on cooldown.\nThis results in the same functionality as  Leona's  Shield of Daybreak and  Shyvana's  Emberstrike, effectively being a double attack reset.\nIf Thundering Smash's buff appears as the first on the buff bar, the empowered attack will fail against  structures.(bug)",
+          "notes": "Thundering Smash's bonus damage cannot  critically strike; the base damage of the attack can, however.\nDespite this,  Randuin's Omen's Resilience reduces Thundering Smash's total damage.(bug)\nThundering Smash deals  basic damage, but also triggers spell effects by also being tagged as  spell damage.\nThundering Smash will still apply its effects to the target even if the  dash is  interrupted, but not if he goes into  resurrection.\nThundering Smash's attack triggers against  structures and  wards, consuming the effect but dealing its bonus damage, if applicable.\nThe windup for the attack completes even if the target becomes  untargetable but the  stun and damage do not apply.\nThe player's screen will flash red briefly and cue a sound effect when Volibear becomes  immobilized while Thundering Smash is active.\nThundering Smash's attack does not put Volibear's basic attack on cooldown.\nThis results in the same functionality as  Leona's  Shield of Daybreak and  Shyvana's  Emberstrike, effectively being a double attack reset.\nIf Thundering Smash's buff appears as the first on the buff bar, the empowered attack will fail against  structures.(bug)",
           "blurb": "Active:  Volibear becomes  ghosted and gains  bonus movement speed for a few seconds, increased while facing an enemy champion.",
           "missileSpeed": null,
           "rechargeRate": null,
