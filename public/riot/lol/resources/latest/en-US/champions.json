@@ -20994,7 +20994,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "All Chakram stacks are lost if the Crescendum projectile is destroyed (i.e  Wind Wall,  Unbreakable).\nDue to the return time, at high attack speeds Crescendum will increase Aphelios' effective time to cast attacks, even when right next to his target.",
+          "notes": "All Chakram stacks are lost if the Crescendum projectile is destroyed (i.e  Wind Wall,  Unbreakable).\nDue to the return time, at high attack speeds Crescendum will increase Aphelios' effective time to cast attacks, even when right next to his target.\nPENDING FOR TEST: Crescendum attack cannot exceed attack speed limit",
           "blurb": "Aphelios throws a chakram as his basic attack and he cannot attack again until it returns to him. Other abilities will create mirror chakrams that he gathers, and his basic attacks deal bonus physical damage based on how many mirror chakrams he holds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -104443,7 +104443,7 @@
               "leveling": []
             },
             {
-              "description": "The attack deals additional physical damage, with a minimum threshold, and capped at 300 against non-champions, and on-hit commands all Tentacles in range to attack the target. The minimum additional damage can also be applied against turrets.",
+              "description": "The attack deals additional physical damage, with a minimum threshold, and capped at 300 against non-champions, and commands all Tentacles in range to attack the target. The minimum additional damage can also be applied against turrets.",
               "leveling": [
                 {
                   "attribute": "Additional Physical Damage",
@@ -104564,7 +104564,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Harsh Lesson cannot be cast while  pulling a Spirit.\nThe additional damage doesn't apply  life steal but it does apply  spell vamp and  Omnivamp.\n Spell shield prevents Tentacle commands but does not prevent the additional damage. [19] [20]\nHarsh Lesson is made of two different abilities which are decided by Illaoi's range to the target, being either  melee or within  dash range, causing interactions to act differently.\n Interrupt:\nThe melee attack has an  uncancellable windup.\nStarting the attack before triggering  Guardian Angel's passive and hitting while she's in it will not cause the Tentacles to slam. [21]\nThe dash attack does not have an uncancellable windup, meaning effects that can interrupt the dash will cancel the attack.\nUnlike other empowered basic attacks, an interrupt on the dash attack will still cause the buff to be consumed and the ability to be put on cooldown. [22]\nThat includes self effects, such as  Flash. [23] (unexpected)\n Ground or  root:\nThe melee attack can be used. If Illaoi attack commands and then casts Harsh Lesson while rooted, she is able to use the close range version within its dash range. (unexpected)\nThe dash ability can be cast but cannot be used while  grounded or  rooted because Illaoi loses the  bonus attack range.\n Block,  dodge and  blind:\nTentacles will slam if the melee attack is blocked [24], but will not if it's dodged [25] or if it misses [26]. (unexpected)\nIn all cases the empowered attack additional damage is prevented. (unexpected)\nTentacles will slam if the dash attack is blocked, dodged or if it misses.\nThe empowered attack additional damage is dealt when the attack is blocked or dodged, but is not if it misses.\nThe melee attack will still hit if the target becomes  untargetable [27], while the dash attack will not. [28] (unexpected)\nThe melee attack will not hit if the target has  died, while the dash attack will hit. [29]\nIn a frame perfect situation, the melee attack will also hit, however it will not make the Tentacles slam. [30] (unexpected)\nThe melee attack triggers  Hail of Blades, while the dash attack does not. [31] (unexpected)\nIf the empowered attack duration ends during the melee animation, the attack won't be empowered (unexpected), but if it ends during the dash - then the buff will linger until the attack has finished. [32]\nIllaoi can quickly cast other abilities after melee hitting the target, but after dash hitting there is a short delay. [33] (unexpected)\nAbilities cannot be buffered during the melee windup but they can be buffered during the dash windup. (unexpected)\nAttack speed will desync the animation from the dash. [34] (unexpected)\nThe Tentacle attacking because of Harsh Lesson is considered to be of the same cast instance, and thus will not grant additional stacks of  Conqueror,  Electrocute and Tribute.\nBecause of the damage being additional, Harsh Lesson triggers  Bone Plating and one of its plates with the same attack.\nIt also triggers  Arcane Comet and reduces its cooldown twice. [35] (unexpected)\nWhile the ability is active, Tentacles are commanded to attack  on-hit, interacting with  Guinsoo's Rageblade without consuming the empowered attack. [36]",
+          "notes": "Harsh Lesson cannot be cast while  pulling a Spirit.\nThe additional damage doesn't apply  life steal but it does apply  spell vamp and  Omnivamp.\nHarsh Lesson is made of two different abilities which are decided by Illaoi's range to the target, being either  melee or within  dash range, causing interactions to act differently.\n Interrupt:\nThe melee attack has an  uncancellable windup.\nStarting the attack before triggering  Guardian Angel's passive and hitting while she's in it will not cause the Tentacles to slam. [18]\nThe dash attack does not have an uncancellable windup, meaning effects that can interrupt the dash will cancel the attack.\nUnlike other empowered basic attacks, an interrupt on the dash attack will still cause the buff to be consumed and the ability to be put on cooldown. [19]\nThat includes self effects, such as  Flash. [20] (unexpected)\n Ground or  root:\nThe melee attack can be used. If Illaoi attack commands and then casts Harsh Lesson while rooted, she is able to use the close range version within its dash range. (unexpected)\nThe dash ability can be cast but cannot be used while  grounded or  rooted because Illaoi loses the  bonus attack range.\n Spell shield:\nThe melee attack does not pop the spell shield. (unexpected)\nThe dash attack pops the spell shield, preventing Tentacle commands but not preventing the additional damage. [21]\n Block,  dodge and  blind:\nTentacles will slam if the melee attack is blocked [22], but will not if it's dodged [23] or if it misses [24]. (unexpected)\nIn all cases the empowered attack additional damage is prevented. (unexpected)\nTentacles will slam if the dash attack is blocked, dodged or if it misses.\nThe empowered attack additional damage is dealt when the attack is blocked or dodged, but is not if it misses.\nThe melee attack will still hit if the target becomes  untargetable [25], while the dash attack will not. [26] (unexpected)\nThe melee attack will not hit if the target has  died, while the dash attack will hit. [27]\nIn a frame perfect situation, the melee attack will also hit, however it will not make the Tentacles slam. [28] (unexpected)\nThe melee attack triggers Tentacle slams when hitting a  structure, while the dash attack does not. [29] (unexpected)\nThe melee attack triggers  Hail of Blades, while the dash attack does not. [30] (unexpected)\nIf the empowered attack duration ends during the melee animation, the attack won't be empowered (unexpected), but if it ends during the dash - then the buff will linger until the attack has finished. [31]\nIllaoi can quickly cast other abilities after melee hitting the target, but after dash hitting there is a short delay. [32] (unexpected)\nAbilities cannot be buffered during the melee windup but they can be buffered during the dash windup. (unexpected)\nAttack speed will desync the animation from the dash. [33] (unexpected)\nThe Tentacle attacking because of Harsh Lesson is considered to be of the same cast instance, and thus will not grant additional stacks of  Conqueror,  Electrocute and Tribute.\nBecause of the damage being additional, Harsh Lesson triggers  Bone Plating and one of its plates with the same attack.\nIt also triggers  Arcane Comet and reduces its cooldown twice. [34] (unexpected)",
           "blurb": "Active:  Illaoi's next basic attack gains  bonus attack range and causes her to  leap to her target, dealing additional physical damage and commanding nearby Tentacles to attack the target.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -177756,7 +177756,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Void Shift will not resist allied  crowd control nor will it be deactivated by them.\nVoid Shift will not mitigate  true damage but the buff will still be consumed.\nIt does not deactivate against the  Nexus Obelisk.\n Shields will take priority over Void Shift, but the buff is always consumed, even if the shield fully mitigates the damage. (bug)\nHowever, if Malzahar has a  spell shield and is hit by an effect that isn't negated by the spell shield, then if the  shield fully mitigates the damage, Void Shift will not be consumed.\n Spell shields take priority over Void Shift for abilities that contain a  crowd control effect.\nIf the hostile ability does not contain a  crowd control effect, then both Void Shift and the spell shield break simultaneously. (bug)\nVoid Shift will specifically not deactivate if Malzahar eats  Honeyfruit or is within a hostile  Frozen Heart passive aura.\nVoid Shift does not prevent  Zoe's  Sleepy Trouble Bubble's trap  drowsy. [2] (unexpected)\nVoid Shift will prevent  Chum the Waters from attaching to him.",
+          "notes": "Void Shift will not resist allied  crowd control nor will it be deactivated by them.\nVoid Shift will not mitigate  true damage but the buff will still be consumed.\nIt does not deactivate against the  Nexus Obelisk.\n Shields will take priority over Void Shift, but the buff is always consumed, even if the shield fully mitigates the damage. (bug)\nHowever, if Malzahar has a  spell shield and is hit by an effect that isn't negated by the spell shield, then if the  shield fully mitigates the damage, Void Shift will not be consumed.\n Spell shields take priority over Void Shift for abilities that contain a  crowd control effect.\nIf the hostile ability does not contain a  crowd control effect, then both Void Shift and the spell shield break simultaneously. (bug)\nVoid Shift will specifically not deactivate if Malzahar eats  Honeyfruit or is within a hostile  Frozen Heart passive aura.\nVoid Shift does not prevent  Zoe's  Sleepy Trouble Bubble's trap  drowsy. [2] (unexpected)\nVoid Shift is special cased to prevent  Fizz's  Chum the Waters, and  Thresh's  Death Sentence from attaching to Malzahar.",
           "blurb": "Innate: Periodically,  Malzahar gains Void Shift until he takes non- minion damage or negates a  crowd control effect, to which it then lingers for a brief time before expiring.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -271522,7 +271522,7 @@
               ]
             },
             {
-              "description": "Dragon Form Bonus: If the explosion hits an enemy champion, Shyvana heals herself for 60 : 100 (based on level) (+ 4% : 8% (based on level) missing health).",
+              "description": "Dragon Form Bonus: If the explosion hits an enemy champion, Shyvana heals herself for 60 : 104.71 (based on level) (+ 4% : 8.47% (based on level) missing health).",
               "leveling": []
             }
           ],
@@ -281458,7 +281458,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Smolder/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Smolder generates a stack of Dragon Practice each time he hits an enemy champion with an ability, or whenever Super Scorcher Breath kills a minion or monster. His basic abilities deal bonus magic damage based on stacks.\n Super Scorcher Breath: Deals bonus magic damage equal to 40% : 70% (+ 0% : 9%) (based on critical strike chance) of Dragon Practice stacks.\n Achooo!: Explosions deal bonus magic damage equal to 55% of Dragon Practice stacks.\n Flap, Flap, Flap: Attacks each deal bonus magic damage equal to 12% of Dragon Practice stacks.",
+              "description": "Innate: Smolder generates a stack of Dragon Practice each time he hits an enemy champion with an ability, or whenever Super Scorcher Breath kills a minion or monster. His basic abilities deal bonus magic damage based on stacks.\n Super Scorcher Breath: Deals bonus magic damage equal to 40% : 60% (+ 0% : 9%) (based on critical strike chance) of Dragon Practice stacks.\n Achooo!: Explosions deal bonus magic damage equal to 55% of Dragon Practice stacks.\n Flap, Flap, Flap: Attacks each deal bonus magic damage equal to 12% of Dragon Practice stacks.",
               "leveling": []
             }
           ],
@@ -282231,7 +282231,7 @@
     },
     "releaseDate": "2024-01-31",
     "releasePatch": "14.2",
-    "patchLastChanged": "26.02",
+    "patchLastChanged": "26.10",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -288581,7 +288581,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Swain/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Swain frees the demon within himself, gaining Demonic Ascension and generating 50 Demonic Energy. Demonic Ascension is maintained with Demonic Energy, which decays by 5 every 0.5 seconds, increased to 7.5 after 5 seconds have elapsed, and is lost once all Demonic Energy is depleted to 0. Swain generates 10 Demonic Energy every 0.5 seconds while draining from at least one enemy champion, and fully restores it to the maximum of 50 upon scoring a champion takedown.",
+              "description": "Active: Swain frees the demon within himself, gaining Demonic Ascension and generating 50 Demonic Energy. Demonic Ascension is maintained with Demonic Energy, which decays by 5 every 0.5 seconds, increased to 7.5 after 5 seconds have elapsed. Demonic Ascension is lost once all Demonic Energy is depleted to 0. Swain generates 10 Demonic Energy every 0.5 seconds while draining from at least one enemy champion, and fully restores it to the maximum of 50 upon scoring a champion takedown.",
               "leveling": []
             },
             {
@@ -295614,7 +295614,7 @@
               ]
             },
             {
-              "description": "Enemies can see the indicator for Tahm Kench's destination after he has channeled for 0.75 seconds. Tahm Kench remains unable to act for 0.65 seconds after the blink.",
+              "description": "Enemies can see the indicator for Tahm Kench's destination after he has channeled for 0.75 seconds, if they have sight of the area. Tahm Kench remains unable to act for 0.65 seconds after the blink.",
               "leveling": []
             }
           ],
