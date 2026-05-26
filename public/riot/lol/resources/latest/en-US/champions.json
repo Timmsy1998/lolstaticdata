@@ -3755,11 +3755,7 @@
           "Laura Post"
         ],
         "splashArtist": [
-          "Alex 'alexplank' Flores",
-          "Jean 'Curing' Go",
-          "Esben Lash Rasmussen",
-          "Alvin Lee",
-          "Pan Chengwei"
+          "Jean 'Curing' Go"
         ]
       },
       {
@@ -32927,7 +32923,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Bel'Veth's attack speed cap is increased to 9999.0, however this value is already way beyond the technical limit for attack speed.\nDeath in Lavender's  takedown effect will not trigger against monsters if they were slain by an enemy.\nDeath in Lavender stacks are indicated under Bel'Veth's health bar.\nBel'Veth's on-hit damage modifier will reduce the damage dealt by on-hit effects even if they aren't meant to be affected by on-hit modifiers (eg.  Statikk Shiv).(bug)",
+          "notes": "Bel'Veth's attack speed cap is increased to 9999.0, however this value is already way beyond the technical limit for attack speed.\nDeath in Lavender's  takedown effect will not trigger against monsters if they were slain by an enemy.\nDeath in Lavender stacks are indicated under Bel'Veth's health bar.\nBel'Veth's on-hit damage modifier will reduce the damage dealt by on-hit effects even if they aren't meant to be affected by on-hit modifiers (e.g.  Grasp of the Undying).(bug)\nThis includes damage dealt by on-hit effects triggered by other effects such as  Guinsoo's Rageblade's Seething Strike.",
           "blurb": "Innate:  Bel'Veth's attack speed cap is greatly increased, but her  attack speed does not grow by  leveling up. The damage dealt by her  basic attacks (including  on-hit effects) is reduced.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -72669,11 +72665,7 @@
           "Daniel Amerman"
         ],
         "splashArtist": [
-          "Pan Chengwei",
-          "Alex 'alexplank' Flores",
-          "Esben Lash Rasmussen",
-          "Alvin Lee",
-          "Jean 'Curing' Go"
+          "Pan Chengwei"
         ]
       },
       {
@@ -149405,7 +149397,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Lamb's Respite will affect all  champions,  minions, and  monsters, but not  wards,  turrets, or jungle plants.\nLamb's Respite will affect  untargetable units but does not grant them the  heal at the end of the blessing.\nIt will specifically not affect champions that are  resurrecting from  Guardian Angel.\n Health costs will ignore Lamb's Respite's threshold.\nThe cost will not be paid if the caster is below the threshold.\nLamb's Respite has no effect on  zombie state or  clone units.\nThe effects are applied before the cast time.\nPENDING FOR TEST: Lamb's Respite will have no effect if cast while Kindred is  untargetable.",
+          "notes": "Lamb's Respite will affect all  champions,  minions, and  monsters, but not  wards,  turrets, or jungle plants.\nLamb's Respite will affect  untargetable units but does not grant them the  heal at the end of the blessing.\nIt will specifically not affect champions that are  resurrecting from  Guardian Angel.\n Health costs will ignore Lamb's Respite's threshold.\nThe cost will not be paid if the caster is below the threshold.\nLamb's Respite has no effect on  zombie state or  clone units.\nThe effects are applied before the cast time.\nLamb's Respite can be interrupted during casting.\nPENDING FOR TEST: Lamb's Respite will have no effect if cast while Kindred is  untargetable.",
           "blurb": "Active:  Lamb blesses the ground under herself for a few seconds. Any unit inside the area will become  invulnerable upon reaching  low health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -189714,10 +189706,7 @@
         "voiceActor": [],
         "splashArtist": [
           "Alvin Lee",
-          "Alex 'alexplank' Flores",
-          "Esben Lash Rasmussen",
-          "Pan Chengwei",
-          "Jean 'Curing' Go"
+          "Alex 'alexplank' Flores"
         ]
       },
       {
@@ -286563,11 +286552,7 @@
           "Lisa Lindsley"
         ],
         "splashArtist": [
-          "Esben Lash Rasmussen",
-          "Alex 'alexplank' Flores",
-          "Alvin Lee",
-          "Pan Chengwei",
-          "Jean 'Curing' Go"
+          "Esben Lash Rasmussen"
         ]
       },
       {
@@ -293743,11 +293728,7 @@
         "newQuotes": false,
         "voiceActor": [],
         "splashArtist": [
-          "Jean 'Curing' Go",
-          "Esben Lash Rasmussen",
-          "Alex 'alexplank' Flores",
-          "Alvin Lee",
-          "Pan Chengwei"
+          "Alvin Lee"
         ]
       },
       {
@@ -369189,7 +369170,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Zac/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Zac explodes to deal magic damage to nearby enemies, the damage based on the target's max health ratio is capped at 200 against minions and monsters.",
+              "description": "Active: Zac explodes to deal magic damage to nearby enemies. The damage based on the target's max health ratio is capped at 200 against minions and monsters.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
