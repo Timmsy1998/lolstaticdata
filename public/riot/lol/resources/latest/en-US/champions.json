@@ -20750,7 +20750,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Crescendum's outgoing basic attack can bypass  Yasuo's  Wind Wall and  Braum's  Unbreakable but cannot while returning.\nTriggered Marks apply on-hit effects, stack Energized and trigger  Runaan's Hurricane, but no other on-attack effects.\nThe mark will not be triggered by  Onslaught attacks.\nThe increased basic attack range is drawn for Aphelios to differentiate it from his normal attack range.\nThe empowered range for the mark will also be drawn as an indicator for Aphelios.\n Runaan's Hurricane bolts will use Calibrum's projectiles for Aphelios's attacks with Calibrum.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the empowered attack's cast time, it will still fire despite the target being invalid.(bug)\nPENDING FOR TEST: Calibrum sets Aphelios's range to 650 and does not benefit from flat range increases.\nPENDING FOR TEST: the marks will not be consumed if the triggering attack kills the main target.\nA blue circle outlining the range in which he may perform basic attacks.\nThis glowing indicator will align directly behind each marked target.",
+          "notes": "Crescendum's outgoing basic attack can bypass  Yasuo's  Wind Wall and  Braum's  Unbreakable but cannot while returning.\nTriggered Marks apply on-hit effects, stack Energized and trigger  Runaan's Hurricane, but no other on-attack effects.\nThe mark will not be triggered by  Onslaught attacks.\nThe increased basic attack range is drawn for Aphelios to differentiate it from his normal attack range.\nThe empowered range for the mark will also be drawn as an indicator for Aphelios.\n Runaan's Hurricane bolts will use Calibrum's projectiles for Aphelios's attacks with Calibrum.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the empowered attack's cast time, it will still fire despite the target being invalid.(bug)\nA blue circle outlining the range in which he may perform basic attacks.\nThis glowing indicator will align directly behind each marked target.",
           "blurb": "Aphelios has  bonus range while Calibrum is his main weapon. Abilities will mark targets, and he may attack them from far away with the current off-hand weapon, consuming all marks and dealing bonus physical damage for each mark consumed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -39103,6 +39103,36 @@
           "Roanna Peroz",
           "Kudos Productions"
         ]
+      },
+      {
+        "name": "Sinful Shores",
+        "id": 63053,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Sinful Shores",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [],
+        "lore": "An explosive beach bro, Brand brings his signature blaze to the seashore, ruining every pastime with primordial flames. Volleyball? Flaming. Picnic? Burning. Swimming? Somehow on fire. Since this demon can't cool off no matter how hard he tries, Brand makes sure no one—not even his friend Hwei—can escape the summer heat.",
+        "release": "0000-00-00",
+        "set": [
+          "Sinful Shores"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_centered_53.skins_brand_skin53.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_uncentered_53.skins_brand_skin53.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_tile_53.skins_brand_skin53.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53.skins_brand_skin53.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53_le.skins_brand_skin53.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [],
+        "splashArtist": []
       }
     ]
   },
@@ -42634,7 +42664,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Briar will track the target with the  dash if they change locations.\nShe will not stop tracking the target until she reaches them, as there is no maximum tracking distance.\nBriar lands 100 units in front of her target at the end of the dash.\nBriar will not initiate the second cast if she is being  suppressed, is under  resurrection, or is in the  Realm of Death when her target is hit by the missile in the normal realm.\nSince Certain Death cleanses herself from all crowd control when the first cast hits, she will be able to start the second cast due to removing the suppression effect.\nBriar will still dash to the target even if they die before she reaches them.\nBriar will transition from having  total crowd control immunity during the cast time of the dash, to having  displacement immunity during the dash.\nBriar will place herself onto the ground and interrupt  displacements affecting her upon starting the second cast time.\nHematomania's targeting priorities differ slightly from that of  Blood Frenzy's:\nShe will prioritize the marked target regardless of range and over all other units as long as it can be attacked.\nIf the marked target is not available, then she shifts her priority to the nearest other champion, then large monster or minion, and then any other unit.\nIf neither the marked target is valid or any other valid targets are close nearby, then she will prioritize targeting the nearest other champion, then large monster or minion, and then any other unit within a global radius.\nStarting the second cast interrupts any spells that Briar is  channeling.\nThe mark will expire if Hematomania's buff is dispelled.\nCasting  Blood Frenzy during Hematomania will not grant any additional bonuses nor will it override Hematomania's effects.\nGaining Hematomania while Blood Frenzy is active will override the previous buff.\nThe  disrupt is 'wrapped' into a status effect that causes the affected champion to display the \" Silenced\" UI on their health bar for 0.25 seconds, without actually applying the disabling effects of the  silence crowd control type (functions as an indicator of the target becoming disrupted). This however ensures that the disrupt is also prevented by effects that would negate  silences (such as  crowd control immunity).\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest will activate at the end of Certain Death's initial cast time. If the missile hits a target, the buff's duration is refreshed at the end of the dash.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe following table refers for interactions while Briar is in either the first or second cast time:\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection\n\nThe following table refers for interactions while Briar is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath\n\nThe following table refers for interactions while Briar is in Hematomania:\n\n\nAttacking\n\nUncontrollable\n\n\nAbilities\n\n Head Rush can only be cast on targets within its radius.  Chilling Scream interrupts the frenzy.  Certain Death is disabled.\n\n\nMovement\n\nUncontrollable\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "PENDING FOR TEST: The dash is considered an ability activation for the purposes of  Sheen and  Kassadin's  Force Pulse.\nBriar will track the target with the  dash if they change locations.\nShe will not stop tracking the target until she reaches them, as there is no maximum tracking distance.\nBriar lands 100 units in front of her target at the end of the dash.\nBriar will not initiate the second cast if she is being  suppressed, is under  resurrection, or is in the  Realm of Death when her target is hit by the missile in the normal realm.\nSince Certain Death cleanses herself from all crowd control when the first cast hits, she will be able to start the second cast due to removing the suppression effect.\nBriar will still dash to the target even if they die before she reaches them.\nBriar will transition from having  total crowd control immunity during the cast time of the dash, to having  displacement immunity during the dash.\nBriar will place herself onto the ground and interrupt  displacements affecting her upon starting the second cast time.\nHematomania's targeting priorities differ slightly from that of  Blood Frenzy's:\nShe will prioritize the marked target regardless of range and over all other units as long as it can be attacked.\nIf the marked target is not available, then she shifts her priority to the nearest other champion, then large monster or minion, and then any other unit.\nIf neither the marked target is valid or any other valid targets are close nearby, then she will prioritize targeting the nearest other champion, then large monster or minion, and then any other unit within a global radius.\nStarting the second cast interrupts any spells that Briar is  channeling.\nThe mark will expire if Hematomania's buff is dispelled.\nCasting  Blood Frenzy during Hematomania will not grant any additional bonuses nor will it override Hematomania's effects.\nGaining Hematomania while Blood Frenzy is active will override the previous buff.\nThe  disrupt is 'wrapped' into a status effect that causes the affected champion to display the \" Silenced\" UI on their health bar for 0.25 seconds, without actually applying the disabling effects of the  silence crowd control type (functions as an indicator of the target becoming disrupted). This however ensures that the disrupt is also prevented by effects that would negate  silences (such as  crowd control immunity).\n Experimental Hexplate's Overdrive,  Fiendhunter Bolts' Opening Barrage, and  Zeke's Convergence's Frostfire Tempest will activate at the end of Certain Death's initial cast time. If the missile hits a target, the buff's duration is refreshed at the end of the dash.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe following table refers for interactions while Briar is in either the first or second cast time:\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection\n\nThe following table refers for interactions while Briar is dashing:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath\n\nThe following table refers for interactions while Briar is in Hematomania:\n\n\nAttacking\n\nUncontrollable\n\n\nAbilities\n\n Head Rush can only be cast on targets within its radius.  Chilling Scream interrupts the frenzy.  Certain Death is disabled.\n\n\nMovement\n\nUncontrollable\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -59405,7 +59435,7 @@
         "name": "Eternal Aspect",
         "id": 131076,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Eternal Aspect",
         "lootEligible": true,
         "cost": 1820,
@@ -59521,7 +59551,7 @@
           }
         ],
         "lore": "The Silver Moon is the architect—a visionary who cleaves truth from shadow. Alongside the Golden Sun, she revealed to worthy mortals an eternity beyond the abyssal threat that looms over all creation. An oracle who moves in silence and secrecy, the Moon strikes against oblivion with wisdom as cold and sharp as her celestial blade.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "The Eternal Aspects"
         ],
@@ -59544,7 +59574,7 @@
         "name": "Eclipse Eternal Aspect",
         "id": 131077,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Eclipse Eternal Aspect",
         "lootEligible": true,
         "cost": "Special",
@@ -59553,7 +59583,7 @@
         "rarity": "Mythic",
         "chromas": [],
         "lore": "The eclipsed Moon is the calamity—the scornful deliverer of holy annihilation. No longer does alliance with the Golden Sun serve her ends, nor does secrecy suit her means. Her wisdom has culminated into unshakeable resolve: she alone shall bring righteous destruction and end the abyssal threat to existence—even if rage devours all who stand in her path.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "The Eternal Aspects"
         ],
@@ -73560,6 +73590,27 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Beacon",
+            "id": 81076,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81076.png",
+            "colors": [
+              "#C8B557",
+              "#306781"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -88820,7 +88871,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The Rage generated upon dealing or receiving damage occurs over 2 seconds with 4 ticks every 0.5 seconds. It also does not stack but instead refreshes with subsequent applications (of dealing or receiving damage).\nThe bonus rage generation on basic attacks counts as an  on-hit effect, and is triggered by  Runaan's Hurricane and  Guinsoo's Rageblade.\nIn-game, the value on the Rage bar always displays rounded down to the nearest integer.\n Mega Gnar's gained health is not affected by  healing modifiers such as  Grievous Wounds and those from items and runes.\nWhen returning to  Mini Gnar, Gnar will only retain his current health percentage, not current health total.\nGnar's abilities share  cooldowns across forms.\nThe Rage bar is white when under 60 range, yellow when equal to or above 60 rage, and red at 100 rage.\nIf Gnar transforms into  Mega Gnar while on enemy's sight and later goes back to  Mini while on the fog of war, enemies will see  Mega Gnar's icon both in the scoreboard and minimap, even if they regain vision of Gnar. This will stay this way until Gnar's  Mega form ends while on enemy's sight.(bug)",
+          "notes": "The Rage generated upon dealing or receiving damage occurs over 2 seconds with 4 ticks every 0.5 seconds. It also does not stack but instead refreshes with subsequent applications (of dealing or receiving damage).\nThe bonus rage generation on basic attacks counts as an  on-hit effect, and is triggered by  Runaan's Hurricane and  Guinsoo's Rageblade.\nIn-game, the value on the Rage bar always displays rounded down to the nearest integer.\n Mega Gnar's gained health is not affected by  healing modifiers such as  Grievous Wounds and those from items and runes.\nWhen returning to  Mini Gnar, Gnar will only retain his current health percentage, not current health total.\nGnar's abilities share cooldowns across forms.\nThe Rage bar is white when under 60 range, yellow when equal to or above 60 rage, and red at 100 rage.\nIf Gnar transforms into  Mega Gnar while on enemy's sight and later goes back to  Mini while on the fog of war, enemies will see  Mega Gnar's icon both in the scoreboard and minimap, even if they regain vision of Gnar. This will stay this way until Gnar's  Mega form ends while on enemy's sight.(bug)",
           "blurb": "Innate - Rage Gene:  Mini Gnar generates Rage while fighting. At maximum Rage, his next  ability will be  Mega Gnar's as he transforms, losing Mini Gnar's passive effects in exchange for increased stats and new abilities.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -100827,7 +100878,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Toggled abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nConsuming the buff for an empowered basic ability does.\nNo compensations for  mana are made if UPGRADE!!! is toggled off; Heimerdinger will lose 100 mana each time he toggles the ability on and off.",
-          "blurb": "Active:  Heimerdinger can empower his next ability to apply an additional effect. These empowered abilities have the same  cooldowns as their basic forms, deal modified damage, and do not cost mana.",
+          "blurb": "Active:  Heimerdinger can empower his next ability to apply an additional effect. These empowered abilities have the same cooldowns as their basic forms, deal modified damage, and do not cost mana.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -103999,6 +104050,38 @@
         "splashArtist": [
           "Pandart Studio"
         ]
+      },
+      {
+        "name": "Sinful Shores",
+        "id": 910021,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Sinful Shores",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [],
+        "lore": "Though usually found deep in the underworld, Hwei was “persuaded” to try brooding on the beach instead. Seeing mortals flee in broad daylight has indeed inspired new ideas for blissful torment. When beachgoers think they're safe in the sun, Hwei blots it out with dark clouds and wrathful waves to dampen their spirits for good.",
+        "release": "0000-00-00",
+        "set": [
+          "Sinful Shores"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_centered_21.skins_hwei_skin21.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_uncentered_21.skins_hwei_skin21.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_tile_21.skins_hwei_skin21.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21.skins_hwei_skin21.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21_le.skins_hwei_skin21.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Stephen Fu"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -105683,7 +105766,7 @@
         "name": "Pasta Maker",
         "id": 420037,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Pasta Maker",
         "lootEligible": true,
         "cost": 1350,
@@ -105861,7 +105944,7 @@
           }
         ],
         "lore": "Authenticity is sacred in Illaoi's Italian cuisine, which is why she strictly follows her Nonna Naga's recipes. Her signature dish, pasta al nero di seppia, is made with premium durum semolina flour and the finest squid ink available, giving the dish a bold umami flavor. Those who cannot handle it… are not meant to.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "Day Job"
         ],
@@ -108290,7 +108373,7 @@
         "name": "Breadsticks",
         "id": 39063,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Breadsticks",
         "lootEligible": true,
         "cost": 1350,
@@ -108468,7 +108551,7 @@
           }
         ],
         "lore": "It's not easy being the head server at Trattoria Pomodoro, though you'd never know it by the way Irelia carries herself. The moment guests sit down, she delivers a full basket of breadsticks—warm and fresh from the oven. You could ask what the bread is made of—or what it's capable of—but most guests decide they're better off not knowing.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "Day Job"
         ],
@@ -128390,6 +128473,27 @@
               {
                 "rarity": 1,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Beacon",
+            "id": 145082,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/145/145082.png",
+            "colors": [
+              "#F2A22F",
+              "#15A9CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           },
@@ -157504,6 +157608,60 @@
         "splashArtist": [
           "Bo 'chenbowow' Chen"
         ]
+      },
+      {
+        "name": "Prestige Sinful Shores",
+        "id": 7059,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Prestige Sinful Shores",
+        "lootEligible": true,
+        "cost": "Battle Pass",
+        "sale": 0,
+        "distribution": "2026, S2 Act 2 Premium Battle Pass reward",
+        "rarity": "Legendary",
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 7060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/7/7060.png",
+            "colors": [
+              "#B58CD2",
+              "#782834"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Mythic Shop.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "LeBlanc revels in her role as an archdemon, but even a mastermind of suffering needs a vacation now and then. On the coast, she is adamant about her rest, pausing only to lather curses onto unsuspecting bathers like sunscreen. And when she craves a taste of agony, her doting butler-cloak, Beelzebubbles, serves it sweet.",
+        "release": "0000-00-00",
+        "set": [
+          "Sinful Shores"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_centered_59.skins_leblanc_skin59.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_uncentered_59.skins_leblanc_skin59.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_tile_59.skins_leblanc_skin59.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59.skins_leblanc_skin59.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59_le.skins_leblanc_skin59.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Naomi McDonald"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -159641,6 +159799,27 @@
         "distribution": null,
         "rarity": "Legendary",
         "chromas": [
+          {
+            "name": "Beacon",
+            "id": 64081,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/64/64081.png",
+            "colors": [
+              "#FF7D31",
+              "#4E3426"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
           {
             "name": "Emberclaw",
             "id": 64038,
@@ -162952,7 +163131,7 @@
         "name": "Eternal Aspect",
         "id": 89064,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Eternal Aspect",
         "lootEligible": true,
         "cost": 1820,
@@ -163088,7 +163267,7 @@
           }
         ],
         "lore": "The Golden Sun is the aegis—a radiant beacon that endures when all else fails. Alongside the Silver Moon, she gave worthy mortals the strength to stand against the abyssal threat that looms over all creation. A final bulwark against oblivion, the Sun burns with unyielding purpose, each flame a testament that life and light yet prevail.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "The Eternal Aspects"
         ],
@@ -266109,7 +266288,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "If the attack would have already  critically struck based on Shaco's  critical strike chance, the base  Backstab critical damage modifier will be overridden by the default critical damage modifier.\n Sundered Sky's Lightshield Strike will not interact with this(unexpected), but will be triggered as usual.\nDeceive's bonus damage adds directly to the damage instance of the basic attack.\nUsing a basic attack breaks the stealth at the start of the attack windup.",
+          "notes": "If the attack would have already  critically struck based on Shaco's  critical strike chance, the base  Backstab critical damage modifier will be overridden by the default critical damage modifier.\n Sundered Sky's Lightshield Strike will not interact with this(unexpected), but will be triggered as usual.\nDeceive's bonus damage adds directly to the damage instance of the basic attack.\nUsing a basic attack breaks the stealth at the end of the attack windup.",
           "blurb": "Active:  Shaco becomes  invisible for a short time and  blinks to the target location.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -276636,7 +276815,7 @@
         "name": "Pizza Chef",
         "id": 14050,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Pizza Chef",
         "lootEligible": true,
         "cost": 1350,
@@ -276814,7 +276993,7 @@
           }
         ],
         "lore": "Woodfired oven pizza made to order! Sion begins with a sweet and savory sauce made from the blood of the richest, ripest tomatoes. Next he layers it with flesh—we mean FRESH—mozzarella cheese, before burying it under a generous heap of all your favorite toppings. Trust us, it's to die for!",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "Day Job"
         ],
@@ -279751,7 +279930,9 @@
         "voiceActor": [
           "Alexa Kahn"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Rudy Siswanto"
+        ]
       }
     ]
   },
@@ -332133,7 +332314,7 @@
         "name": "Spaghetti alla Vel'Koz",
         "id": 161029,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Spaghetti alla Vel'Koz",
         "lootEligible": true,
         "cost": 1820,
@@ -332269,7 +332450,7 @@
           }
         ],
         "lore": "When an overworked chef combined expired meatballs, undercooked noodles, and overspiced tomato sauce, mediocrity became perfection. Yet when Vel'Koz was set upon his would-be eater's plate beneath mountains of parmesan, their unrefined tastes disgusted him. Rolling away and into the unknown, Vel'Koz searches for a palate worthy of his deliciousness.",
-        "release": "0000-00-00",
+        "release": "2026-05-28",
         "set": [
           "Food Fight"
         ],
@@ -347340,7 +347521,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Cyclone is special cased to grant stacks of  Conqueror for each tick of damage.\nCasting a basic ability will always interrupt Wukong's Cyclone. A clone can be interrupted by casting  Crushing Blow, but only if the clone was made during the current Cyclone cast and only for that cast. This means if both Wukong and his clone are spinning, the clone cannot be interrupted.\nCyclone's remaining duration always stays the same even after the clone replicated the ability.\nDuring Cyclone, Wukong and his clone's  attack ranges are reduced[ to 50 ][ by 125 ].\n Spell shield will block one instance of damage.\nBlocking the  knock up will still grant immunity to it from either of Cyclone's casts.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nOther abilities are disabled for the first 0.3 seconds, casting them afterwards interrupts.\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport  Hexflash\n\n\nDisabled\n\n Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Cyclone is special cased to grant stacks of  Conqueror for each tick of damage.\nCasting a basic ability will always interrupt Wukong's Cyclone. A clone can be interrupted by casting  Crushing Blow, but only if the clone was made during the current Cyclone cast and only for that cast. This means if both Wukong and his clone are spinning, the clone cannot be interrupted.\nCyclone's remaining duration always stays the same even after the clone replicated the ability.\nDuring Cyclone, Wukong and his clone's attack ranges are reduced[ to 50 ][ by 125 ].\n Spell shield will block one instance of damage.\nBlocking the  knock up will still grant immunity to it from either of Cyclone's casts.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nOther abilities are disabled for the first 0.3 seconds, casting them afterwards interrupts.\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash  Teleport  Hexflash\n\n\nDisabled\n\n Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Wukong spins his staff around for a short time, becoming  ghosted and gaining  bonus movement speed. The staff continually deals physical damage to enemies hit based on their maximum health, and can briefly  knock them up once.",
           "missileSpeed": null,
           "rechargeRate": null,
