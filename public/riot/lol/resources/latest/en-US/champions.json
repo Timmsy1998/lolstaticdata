@@ -157619,7 +157619,7 @@
         "cost": "Battle Pass",
         "sale": 0,
         "distribution": "2026, S2 Act 2 Premium Battle Pass reward",
-        "rarity": "Legendary",
+        "rarity": "Mythic",
         "chromas": [
           {
             "name": "Vivid",
@@ -271135,7 +271135,7 @@
         "percentPerLevel": 0.0
       },
       "mana": {
-        "flat": 95,
+        "flat": 100,
         "percent": 0.0,
         "perLevel": 0,
         "percentPerLevel": 0.0
