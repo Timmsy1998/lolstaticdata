@@ -41423,7 +41423,7 @@
           }
         ],
         "lore": "Victorious Braum was earned by players who accumulated enough split points in Ranked. Braum's tenacity proved him a hero worthy of divine blessings. Wielding the phoenix's frost, the ram's armor, and the bear's claws, Braum became the Freljord's eternal protector. Behind his steadfast shield, all the land now knows the power of peace and a warm smile.",
-        "release": "0000-00-00",
+        "release": "2026-04-30",
         "set": [
           "Victorious"
         ],
@@ -149433,7 +149433,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kindred/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Lamb blesses the ground underneath herself and enters a 0.264 seconds cast time, creating a sacred zone at her location at the time of cast that lasts for 4 seconds. All units inside the zone gain a minimum health threshold equal to 10% of their maximum health, and will also become invulnerable while remaining in the area when they reach or are at the threshold, during which they also cannot be healed, but can still regenerate health.",
+              "description": "Active: Lamb blesses the ground underneath herself, creating a sacred zone at the location that lasts for 4 seconds. All units inside the zone gain a minimum health threshold equal to 10% of their maximum health, and will also become invulnerable while remaining in the area when they reach or are at the threshold, during which they also cannot be healed, but can still regenerate health.",
               "leveling": []
             },
             {
@@ -149501,7 +149501,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Lamb's Respite will affect all  champions,  minions, and  monsters, but not  wards,  turrets, or jungle plants.\nLamb's Respite will affect  untargetable units but does not grant them the  heal at the end of the blessing.\nIt will specifically not affect champions that are  resurrecting from  Guardian Angel.\n Health costs will ignore Lamb's Respite's threshold.\nThe cost will not be paid if the caster is below the threshold.\nLamb's Respite has no effect on  zombie state or  clone units.\nThe effects are applied before the cast time.\nPENDING FOR TEST: Lamb's Respite will have no effect if cast while Kindred is  untargetable.",
+          "notes": "Lamb's Respite's effects are applied before the cast time.\nLamb's Respite will affect all  champions,  minions, and  monsters, but not  wards,  turrets, or jungle plants.\nLamb's Respite will affect  untargetable units but does not grant them the  heal at the end of the blessing.\nIt will specifically not affect champions that are  resurrecting from  Guardian Angel.\n Health costs will ignore Lamb's Respite's threshold.\nThe cost will not be paid if the caster is below the threshold.\nLamb's Respite has no effect on  zombie state or  clone units.\nPENDING FOR TEST: Lamb's Respite will have no effect if cast while Kindred is  untargetable.",
           "blurb": "Active:  Lamb blesses the ground under herself for a few seconds. Any unit inside the area will become  invulnerable upon reaching  low health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -149512,7 +149512,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "None",
+          "castTime": "0.25",
           "effectRadius": "535",
           "targetRange": null
         }
@@ -247373,7 +247373,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Riven is briefly unable to basic attack after the cast time.\n Broken Wings may be cast while  basic attacking briefly after casting Ki Burst.(bug)\nKi Burst's effects occur before the cast time.",
+          "notes": "Ki Burst's effects are applied before the cast time.\nRiven is briefly unable to basic attack after the cast time.\n Broken Wings may be cast while  basic attacking briefly after casting Ki Burst.(bug)",
           "blurb": "Active:  Riven emits a flash of runic energy, dealing physical damage and briefly  stunning nearby enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
