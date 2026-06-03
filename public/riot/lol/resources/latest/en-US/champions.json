@@ -29752,7 +29752,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Soldiers' attacks deal  area damage; against the main target, the damage is additionally tagged as  basic damage.\nIf a soldier's attack hits multiple champions, it will deal damage to them in order of their appearance in the pre-game Loading Screen, the order of which may matter for some effects that trigger just once for the first target hit.\nAzir must rank Arise! as his first ability, and will do so automatically if he reaches level 2 before ranking an ability.\nAzir can only command his soldiers to attack if he is able to declare basic attack commands himself, meaning  crowd control effects that disable attacking, such as  disarm, do not allow him to order his soldiers to attack in his stead.\n Nearsighting effects will only allow Azir to perform attacks from soldiers within his own sight radius.\nCommanding a soldier to attack will trigger  on-attack effects, but will not apply any of these effects to the target hit.\nThe attacks do not apply  life steal.\n Energized will stack but not be consumed.\n Sundered Sky does not apply.\nHowever it does apply with  Runaan's Hurricane for secondary targets if the main target is a champion.\nThe Soldier's attacks do not apply stacks of  Press the Attack as of V26.09.(bug)\nSince V26.06, Soldier attacks will only generate 1 stack of  Conqueror if the primary target is not the first target hit.(bug)\nDamage to enemy champions from Sand Soldier stabs will draw minion aggro even if the enemy champion was not the primary target.(unexpected)\nSand Soldiers can attack  Powder Kegs,  Tentacles, and  Sentinels, but can only damage them if they are the main target of the attack.\nSand Soldiers will attack the closest enemy to Azir when using attack move (or A + RMB / Shift + RMB) or  auto-attack.\nAn exclamation mark (!) will appear above the Sand Soldier's head when within the range of an enemy  turret.",
+          "notes": "Soldiers' attacks deal  area damage; against the main target, the damage is additionally tagged as  basic damage.\nIf a soldier's attack hits multiple champions, it will deal damage to them in order of their appearance in the pre-game Loading Screen, the order of which may matter for some effects that trigger just once for the first target hit.\nAzir must rank Arise! as his first ability, and will do so automatically if he reaches level 2 before ranking an ability.\nAzir can only command his soldiers to attack if he is able to declare basic attack commands himself, meaning  crowd control effects that disable attacking, such as  disarm, do not allow him to order his soldiers to attack in his stead.\n Nearsighting effects will only allow Azir to perform attacks from soldiers within his own sight radius.\nCommanding a soldier to attack will trigger  on-attack effects, but will not apply any of these effects to the target hit.\nThe attacks do not apply  life steal.\n Energized will stack but not be consumed.\n Sundered Sky does not apply.\nHowever it does apply with  Runaan's Hurricane for secondary targets if the main target is a champion.\nThe Soldier's attacks do not apply stacks of  Press the Attack as of V26.09.(bug)\nSince V26.06, Soldier attacks will only generate 1 stack of  Conqueror if the primary target is not the first target hit.(bug)\nDamage to enemy champions from Sand Soldier stabs will draw minion aggro even if the enemy champion was not the primary target.(unexpected)\nSand Soldiers can attack  Powder Kegs,  Tentacles, and  Sentinels, but can only damage them if they are the main target of the attack.\nSand Soldiers will attack the closest enemy to Azir when using attack move (or A + RMB / Shift + RMB) or  auto-attack.\nIf an enemy has  vision of a Sand Soldier, they will also gain vision of Azir even if he is out of sight.\nAn exclamation mark (!) will appear above the Sand Soldier's head when within the range of an enemy  turret.",
           "blurb": "Active:  Azir summons a Sand Soldier to attack nearby targets for him, replacing his  basic attacks against enemies within their range. Their attacks deal magic damage to enemies in a line.",
           "missileSpeed": null,
           "rechargeRate": [
@@ -231825,11 +231825,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Quinn's Blinding Assault against the primary target, Vault, and Skystrike mark enemies hit with Vulnerable for 4 seconds, during which they are revealed. Valor will periodically mark a nearby visible enemy if no Vulnerable targets exist for 1 second.",
+              "description": "Innate: Quinn's Blinding Assault against the primary target, Vault, and Skystrike mark enemies hit with Harrier for 4 seconds, during which they are revealed. Valor will periodically mark a nearby visible enemy if no Harrier targets exist for 1 second.",
               "leveling": []
             },
             {
-              "description": "Quinn's basic attacks on-hit against Vulnerable targets are empowered to consume the mark to deal 15 : 132.35 (based on level) (+ 40% bonus AD) bonus physical damage.",
+              "description": "Quinn's basic attacks on-hit against Harrier targets are empowered to consume the mark to deal 15 : 132.35 (based on level) (+ 40% bonus AD) bonus physical damage.",
               "leveling": []
             },
             {
@@ -231837,7 +231837,7 @@
               "leveling": []
             },
             {
-              "description": "While Behind Enemy Lines is active, Harrier is disabled and all Vulnerable marks are removed.",
+              "description": "While Behind Enemy Lines is active, Harrier is disabled and all Harrier marks are removed.",
               "leveling": []
             }
           ],
@@ -231869,7 +231869,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "If a mark applied by an ability is overwritten, consumed, or timed out, Harrier goes on a 1-second cooldown if it's not already on cooldown.\nHarrier's targeting priority:\nLast unit hit (if it was a small minion it appears to select a different target).\nLowest-health enemy champion.\nLowest-health enemy minion.\nHarrier is consumed even if it is parried, the attack is negated in any case.\nHarrier will not mark enemy  minions while Quinn is not  visible, but will mark enemy  champions.",
-          "blurb": "Innate:  Quinn's damaging abilities mark enemies with Vulnerable and  reveal them for a few seconds. Periodically,  Valor marks a nearby enemy with Vulnerable.",
+          "blurb": "Innate:  Quinn's damaging abilities mark enemies with Harrier and  reveal them for a few seconds. Periodically,  Valor marks a nearby enemy with Harrier.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -231890,7 +231890,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Quinn sends Valor in the target direction who stops upon hitting an enemy, marking them as Vulnerable and dealing physical damage to all nearby enemies, increased to 200% against monsters.",
+              "description": "Active: Quinn sends Valor in the target direction who stops upon hitting an enemy, marking them with Harrier and dealing physical damage to all nearby enemies, increased to 200% against monsters.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -232024,7 +232024,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/w",
           "effects": [
             {
-              "description": "Passive: Whenever Quinn uses a basic attack on-attack against a Vulnerable target or consumes their mark, she gains bonus attack speed and bonus movement speed for 2 seconds.",
+              "description": "Passive: Whenever Quinn uses a basic attack on-attack against a target marked by Harrier or consumes their mark, she gains bonus attack speed and bonus movement speed for 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Bonus Attack Speed",
@@ -232128,7 +232128,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Quinn dashes to the target enemy, marking them as Vulnerable, dealing physical damage, knocking them back a very short distance over 0.5 seconds, and slowing them by 50% decaying over 1.5 seconds. She then leaps back 525 units away from them.",
+              "description": "Active: Quinn dashes to the target enemy, marking them with Harrier, dealing physical damage, knocking them back a very short distance over 0.5 seconds, and slowing them by 50% decaying over 1.5 seconds. She then leaps back 525 units away from them.",
               "leveling": [
                 {
                   "attribute": "Physical damage",
@@ -232224,8 +232224,8 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Quinn will track the target if they change locations.\nShe will dash to the target's previous location without applying Vault's effects if the target is too far away or moves beyond 1200 units.\nVault  resets Quinn's remaining attack cooldown a short delay after the first dash ends (even if interrupted).\nThis delay is a fuzzy 0.25 to 0.5 seconds and this matches up with the moment the target of Vault is marked as  Vulnerable.\nQuinn will automatically attempt to attack the target once she completes Vault.\nThe target will turn to face the opposite direction after being  knocked back.\nUnlike its constant cast range Vault's bounce's can vary to allow Quinn to close or to make a gap between herself and the target (depending on casting position) or even to jump through a wall (if there is enough landing room on the other side).\nVault's  knock back also interrupts the windup of basic attacks with  uncancellable windups.(unexpected)",
-          "blurb": "Active:  Quinn  dashes to the target enemy, dealing physical damage,  knocking them back, marking them as  Vulnerable, and briefly  slowing them. She then  leaps backward.",
+          "notes": "Quinn will track the target if they change locations.\nShe will dash to the target's previous location without applying Vault's effects if the target is too far away or moves beyond 1200 units.\nVault  resets Quinn's remaining attack cooldown a short delay after the first dash ends (even if interrupted).\nThis delay is a fuzzy 0.25 to 0.5 seconds and this matches up with the moment the target of Vault is marked with  Harrier.\nQuinn will automatically attempt to attack the target once she completes Vault.\nThe target will turn to face the opposite direction after being  knocked back.\nUnlike its constant cast range Vault's bounce's can vary to allow Quinn to close or to make a gap between herself and the target (depending on casting position) or even to jump through a wall (if there is enough landing room on the other side).\nVault's  knock back also interrupts the windup of basic attacks with  uncancellable windups.(unexpected)",
+          "blurb": "Active:  Quinn  dashes to the target enemy, dealing physical damage,  knocking them back, marking them with  Harrier, and briefly  slowing them. She then  leaps backward.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -232342,7 +232342,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Quinn/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Quinn detaches from Valor, ending Behind Enemy Lines' effects and raining arrows down around her, dealing physical damage to nearby enemies and marking them as Vulnerable.",
+              "description": "Active: Quinn detaches from Valor, ending Behind Enemy Lines' effects and raining arrows down around her, dealing physical damage to nearby enemies and marking them with Harrier.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -282186,7 +282186,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Smolder's  attack range is reduced to 0 for the duration of Flap, Flap, Flap.\nBased on game engine ticks Smolder may not be able to declare  basic attacks for up to 0.264 seconds after the end of the effect.(unexpected)\nThe number of additional bolts based on  Dragon Practice stacks is rounded down.\nSmolder reveals himself while attacking enemies, even inside terrain.\n Spell shield will block only one bolt.\nSelf  immobilizations such as  Zhonya's Hourglass also count for ending Flap, Flap, Flap.\n Recall is disabled while Smolder is inside terrain.\nFlap, Flap, Flap can interact with player-generated terrain.\nIf Smolder is inside terrain when the effect ends, he will be placed correspondingly to the nearest valid space.\nThe following table refers for interactions while Smolder is flying:\n\n\nAttacking\n\nCauses Smolder to move towards the attack target.\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\n\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\nAll summoner spells are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Immobilizing effects",
+          "notes": "The number of additional bolts based on  Dragon Practice stacks is rounded down.\nSmolder reveals himself while attacking enemies, even inside terrain.\n Spell shield will block only one bolt.\nSelf  immobilizations such as  Zhonya's Hourglass also count for ending Flap, Flap, Flap.\n Recall is disabled while Smolder is inside terrain.\nFlap, Flap, Flap can interact with player-generated terrain.\nIf Smolder is inside terrain when the effect ends, he will be placed correspondingly to the nearest valid space.\nThe following table refers for interactions while Smolder is flying:\n\n\nAttacking\n\nCauses Smolder to move towards the attack target.\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nAllowed\n\n\nItems\n\nUsable\n\n\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\n Zhonya's Hourglass\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\nAll summoner spells are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath Immobilizing effects",
           "blurb": "Active:  Smolder takes flight for a short time, becoming  ghosted and gaining  bonus movement speed and the ability to ignore terrain collision. While in flight, he automatically fires bolts at a nearby enemy, dealing physical damage with each hit. The number of attacks increases based on  critical strike chance.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -293309,7 +293309,7 @@
               ]
             },
             {
-              "description": "Active: Syndra enters a 0.264 seconds cast time, creating 3 Dark Spheres and grabbing up to 4 nearby Dark Spheres that were last spawned. Afterwards, the collected Dark Spheres are barraged at the target enemy champion, each dealing magic damage upon hit.",
+              "description": "Active: Syndra conjures 3 Dark Spheres and additionally grabs up to 4 nearby live ones. Afterwards, she barrages the target enemy champion with all collected Dark Spheres, each dealing magic damage upon hit.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Sphere",
@@ -293401,7 +293401,7 @@
               ]
             },
             {
-              "description": "The Dark Spheres will then remain on the ground for 6 seconds.",
+              "description": "The Dark Spheres will then remain on the ground next to the target's current location for 6 seconds.",
               "leveling": []
             },
             {
@@ -293451,7 +293451,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Unleashed Power makes Syndra enter a brief cast time, but the initial cast is completed instantly. If she dies during this cast time, Unleashed Power will still complete the remaining effect.\nCasting Unleashed Power on a target that becomes  untargetable while the spheres are in flight will not destroy them but cause them to deal no damage instead.\nSpheres already in flight will still travel if Syndra's target dies, but any remaining spheres will not. However, their duration will still get reset.\nA Dark Sphere summoned very shortly before Unleashed Power will be used as one of the spheres that get thrown.\nDepending on how many spheres are on the map and how far away the enemy is upon casting Unleashed Power it is possible that Syndra would conjure the sphere behind her as if she was going to throw it, but she won't.\nUnleashed Power will not add a Sphere that Syndra is holding with  Force of Will.\nSpheres that are being pushed by  Scatter the Weak (normally ones that were made late during the push) will not get picked up for Unleashed Power.\n Spell shield will only block the damage of a single sphere.",
+          "notes": "Unleashed Power's effect takes place at the start of the cast time.\nAdditionally, Unleashed Power cannot be interrupted by any means, including death or  resurrection. Unleashed Power will complete its effect so long as Syndra has initiated its cast.\nCasting Unleashed Power on a target that becomes  untargetable while the spheres are in flight will not destroy them but will invalidate their effects.\nSpheres already in flight will still travel if Syndra's target dies, but any remaining spheres will not. However, their duration will still get reset.\nA sphere summoned very shortly before Unleashed Power will be used as one of the spheres that get thrown.\nDepending on how many spheres are on the map and how far away the enemy is upon casting Unleashed Power it is possible that Syndra would conjure the sphere behind her as if she was going to throw it, but she won't.\nUnleashed Power will not add a Sphere that Syndra is holding with  Force of Will.\nSpheres that are being pushed by  Scatter the Weak (normally ones that were made late during the push) will not get picked up for Unleashed Power.\n Spell shield will only block the damage of a single sphere.",
           "blurb": "Passive:  Dark Sphere gains  ability haste.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -293462,7 +293462,7 @@
           "speed": null,
           "width": null,
           "angle": null,
-          "castTime": "none",
+          "castTime": "0.25",
           "effectRadius": "3000",
           "targetRange": "675"
         }
@@ -306302,7 +306302,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the start of the cast time.\nThe Box does not fail to cast if Thresh  dies during its cast time.(unexpected)\nThe Box always faces the same direction Thresh is facing on cast, placing a corner directly in front of him.\nThe cast indicator displays the opposite of the true behavior.(bug)\nIf The Box hits multiple champions with different walls on cast, only one of the walls will deal damage and apply the extended slow duration. This wall is chosen by starting at the wall in front of and to the right of Thresh's facing direction on cast, and progressing clockwise.\nThe corners of The Box are placed 400 units around Thresh.\nEach wall is 470.228 units long.\nEach wall passes 323.607 units from the center of The Box at the closest approach (ignoring its width).\nAs a regular pentagon, The Box has an angle of 72° between each corner.\nThresh can see if the walls of The Box are broken even if they are not within  sight.",
+          "notes": "This ability will cast from wherever the caster is at the start of the cast time.\nAdditionally, The Box cannot be interrupted by any means, including death or  resurrection. The Box will complete its effect so long as Thresh has initiated its cast.\nThe Box always faces the same direction Thresh is facing on cast, placing a corner directly in front of him.\nThe cast indicator displays the opposite of the true behavior.(bug)\nIf The Box hits multiple champions with different walls on cast, only one of the walls will deal damage and apply the extended slow duration. This wall is chosen by starting at the wall in front of and to the right of Thresh's facing direction on cast, and progressing clockwise.\nThe corners of The Box are placed 400 units around Thresh.\nEach wall is 470.228 units long.\nEach wall passes 323.607 units from the center of The Box at the closest approach (ignoring its width).\nAs a regular pentagon, The Box has an angle of 72° between each corner.\nThresh can see if the walls of The Box are broken even if they are not within  sight.",
           "blurb": "Active:  Thresh erects a pentagon of spectral walls around him that each last a few seconds. A wall will break upon enemy champion contact, dealing magic damage and  slowing them for a short time. Subsequent wall breaks will not deal damage but still  slow enemies briefly.",
           "missileSpeed": null,
           "rechargeRate": null,
