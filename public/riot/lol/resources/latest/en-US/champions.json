@@ -10220,7 +10220,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 166023,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166023.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 166024,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166024.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 166029,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166029.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 166026,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166026.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 166028,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166028.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 166022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166022.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 166027,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166027.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 166025,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/166/166025.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Behind the altar, the road to Hell yawns open. The grinnin' man says “what's dead should stay dead.” Maybe so, but Akshan didn't come here to ask permission. He came for passage, and nothin' will stop him: not the law, not death, and not some preachin' bounty hunter who claims to own the road. Akshan levels his gun at the grin and thumbs back the hammer.",
         "release": "2026-06-24",
         "set": [
@@ -29029,174 +29198,14 @@
         "distribution": null,
         "rarity": "Epic",
         "chromas": [
-          {
-            "name": "Catseye",
-            "id": 893013,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893013.png",
-            "colors": [
-              "#FFEE59",
-              "#FFEE59"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Emerald",
-            "id": 893014,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893014.png",
-            "colors": [
-              "#2DA130",
-              "#2DA130"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Obsidian",
-            "id": 893019,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893019.png",
-            "colors": [
-              "#27211C",
-              "#27211C"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Pearl",
-            "id": 893018,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893018.png",
-            "colors": [
-              "#ECF9F8",
-              "#ECF9F8"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Rose Quartz",
-            "id": 893016,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893016.png",
-            "colors": [
-              "#E58BA5",
-              "#E58BA5"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "TENCENT"
-              }
-            ]
-          },
-          {
-            "name": "Ruby",
-            "id": 893012,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893012.png",
-            "colors": [
-              "#D33528",
-              "#D33528"
-            ],
-            "descriptions": [
-              {
-                "description": "This chroma was released as a bundle exclusive in 2025.",
-                "region": "riot"
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": 1,
-                "region": "riot"
-              }
-            ]
-          },
-          {
-            "name": "Sapphire",
-            "id": 893015,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893015.png",
-            "colors": [
-              "#2756CE",
-              "#2756CE"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          },
-          {
-            "name": "Tanzanite",
-            "id": 893017,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893017.png",
-            "colors": [
-              "#54209B",
-              "#54209B"
-            ],
-            "descriptions": [
-              {
-                "description": null,
-                "region": null
-              }
-            ],
-            "rarities": [
-              {
-                "rarity": null,
-                "region": null
-              }
-            ]
-          }
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
         ],
         "lore": "Those below know Aurora as an eccentric academic at the Grand Library, wandering off to study the mysterious workings of the fabled Pattern. Those above know Aurora as the Witch Betwixt, one of the few Higher Arcana able to find portals hidden within the magic of all things, and travel the cities across their mirroring axis. As above, so below.",
         "release": "2025-09-24",
@@ -29232,7 +29241,156 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 893023,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893023.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 893024,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893024.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          null,
+          {
+            "name": "Pearl",
+            "id": 893026,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893026.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 893028,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893028.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 893022,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893022.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 893027,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893027.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 893025,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/893/893025.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Aurora is the Order's masterful High Seamstress. With her caring nature, she is not one for violence, and instead finds greater enjoyment from mending clothes. Through her skillful hand, it was she who discovered the power their holy cloth could gain when woven with Aspira. Thanks to Aurora, the Order now returns to the world worthy of its purpose.",
         "release": "2026-06-24",
         "set": [
@@ -34918,7 +35076,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Rocket Grab's range is composed of a missile with 1080 range, and a smaller center-range area check at the end (colloqially known as a 'lollipop').\nThe area check is currently half as long as it is supposed to be, reducing the intended 1150 range of the ability to 1115 range.\nHitting an enemy with this area check only also fails to play the ability's hit SFX. This makes it possible to easily distinguish whether the target was picked up by the missile collision or 'lollipop'.\nTargets  larger than 95 units in radius can be hit by a different edge-range circle check at the end of the missile.\nThe  airborne debuff lasts for up-to 1 second but will end prematurely when the target's movement stops, while the stun will persist (if duration permits).\n Displacement immunity will not resist the application of the  stun.\nThe target's destination lies 75 units in front of Blitzcrank at the start of cast time.\nIf the target is closer than this, the effect will still move them to this location.\nIf this location would be inside static terrain, the target's destination will end up on Blitzcrank's side, even if that means pulling them right on top of Blitzcrank.\nThis can occasionally fail.(bug)\nIf Blitzcrank is being moved (e.g.  Airborne,  Kinematics or  Fate's Call) during the grab, the target will be pulled towards Blitzcranks old location.\nBlitzcrank will be ordered to  basic attack the target once the target arrives.\nIf the target dies to Rocket Grab's damage, they will not be pulled.\nThis ability will cast from wherever the caster is at the end of the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Rocket Grab's range is composed of a missile with 1080 range, and a smaller center-range area check at the end (colloquially known as a 'lollipop').\nThe area check is currently half as long as it is supposed to be, reducing the intended 1150 range of the ability to 1115 range.\nHitting an enemy with this area check only also fails to play the ability's hit SFX. This makes it possible to easily distinguish whether the target was picked up by the missile collision or 'lollipop'.\nTargets  larger than 95 units in radius can be hit by a different edge-range circle check at the end of the missile.\nThe  airborne debuff lasts for up-to 1 second but will end prematurely when the target's movement stops, while the stun will persist (if duration permits).\n Displacement immunity will not resist the application of the  stun.\nThe target's destination lies 75 units in front of Blitzcrank at the start of cast time.\nIf the target is closer than this, the effect will still move them to this location.\nIf this location would be inside static terrain, the target's destination will end up on Blitzcrank's side, even if that means pulling them right on top of Blitzcrank.\nThis can occasionally fail.(bug)\nIf Blitzcrank is being moved (e.g.  Airborne,  Kinematics or  Fate's Call) during the grab, the target will be pulled towards Blitzcranks old location.\nBlitzcrank will be ordered to  basic attack the target once the target arrives.\nIf the target dies to Rocket Grab's damage, they will not be pulled.\nThis ability will cast from wherever the caster is at the end of the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -39172,7 +39330,7 @@
         "name": "Sinful Shores",
         "id": 63053,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Sinful Shores",
         "lootEligible": true,
         "cost": 1350,
@@ -39181,7 +39339,7 @@
         "rarity": "Epic",
         "chromas": [],
         "lore": "An explosive beach bro, Brand brings his signature blaze to the seashore, ruining every pastime with primordial flames. Volleyball? Flaming. Picnic? Burning. Swimming? Somehow on fire. Since this demon can't cool off no matter how hard he tries, Brand makes sure no one—not even his friend Hwei—can escape the summer heat.",
-        "release": "0000-00-00",
+        "release": "2026-06-10",
         "set": [
           "Sinful Shores"
         ],
@@ -41504,7 +41662,10 @@
         "voiceActor": [
           "JB Blanc"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -104119,7 +104280,7 @@
         "name": "Sinful Shores",
         "id": 910021,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Sinful Shores",
         "lootEligible": true,
         "cost": 1350,
@@ -104128,7 +104289,7 @@
         "rarity": "Epic",
         "chromas": [],
         "lore": "Though usually found deep in the underworld, Hwei was “persuaded” to try brooding on the beach instead. Seeing mortals flee in broad daylight has indeed inspired new ideas for blissful torment. When beachgoers think they're safe in the sun, Hwei blots it out with dark clouds and wrathful waves to dampen their spirits for good.",
-        "release": "0000-00-00",
+        "release": "2026-06-10",
         "set": [
           "Sinful Shores"
         ],
@@ -122232,7 +122393,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 202067,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202067.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 202069,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202069.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 202072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202072.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 202070,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202070.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 202065,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202065.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 202066,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202066.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 202071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202071.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 202068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/202/202068.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Even among the most devout Umbrafil members, Jhin's zealotry is egregious. To him, the world's beauty has been desecrated, and through works of violence and terrible beauty, he carries out his holy mandate. If the corrupted inhabitants of this world want to continue living in it, they must offer themselves as vessels for Jhin's masterpiece.",
         "release": "2026-06-24",
         "set": [
@@ -157709,7 +158039,7 @@
         "name": "Prestige Sinful Shores",
         "id": 7059,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Sinful Shores",
         "lootEligible": true,
         "cost": "Battle Pass",
@@ -157740,7 +158070,7 @@
           }
         ],
         "lore": "LeBlanc revels in her role as an archdemon, but even a mastermind of suffering needs a vacation now and then. On the coast, she is adamant about her rest, pausing only to lather curses onto unsuspecting bathers like sunscreen. And when she craves a taste of agony, her doting butler-cloak, Beelzebubbles, serves it sweet.",
-        "release": "0000-00-00",
+        "release": "2026-06-10",
         "set": [
           "Sinful Shores"
         ],
@@ -187282,7 +187612,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Milio/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Milio's ability hits on himself and allied champions grant an enchantment for 4 seconds, which causes the next basic attack or ability hit against enemies to deal 7% / 11% / 15% (based on level) of enchanted target's AD bonus magic damage and apply a burn that deals[ 10 : 54.71 (based on level) (+ 20% of Milio's AP) magic damage ][ 1.67 : 9.12 (based on level) (+ 3.33% of Milio's AP) magic damage every 0.25 seconds ]over 1.5 seconds",
+              "description": "Innate: Milio's ability hits on himself and allied champions grant an enchantment for 4 seconds, which causes the next basic attack or ability hit against enemies to deal 7% / 11% / 15% (based on level) of enchanted target's AD bonus magic damage and apply a burn that deals[ 10 : 54.71 (based on level) (+ 20% of Milio's AP) magic damage ][ 1.67 : 9.12 (based on level) (+ 3.33% of Milio's AP) magic damage every 0.25 seconds ]over 1.5 seconds.",
               "leveling": []
             }
           ],
@@ -216560,7 +216890,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Olaf/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Olaf gains bonus attack speed and life steal based on his missing health, up to 50% : 107.84% (based on level) bonus attack speed and 8% : 27.67% (based on level) life steal at 70% missing health.",
+              "description": "Innate: Olaf gains 0% : 100% (based on missing health) of 50% : 107.84% (based on level) bonus attack speed and 8% : 27.67% (based on level) life steal.",
               "leveling": []
             }
           ],
@@ -222896,7 +223226,7 @@
               "leveling": []
             },
             {
-              "description": "Empowered Shield Vault resets Pantheon's basic attack timer. Pantheon will attempt to basic attack the target at the end of the leap.",
+              "description": "Empowered Shield Vault resets Pantheon's basic attack timer.",
               "leveling": []
             }
           ],
@@ -222950,7 +223280,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Applies  spell damage on the initial vault. Deals  basic damage on all the attacks from the empowered ability.\nThe empowered attack rolls a  critical strike once for all strikes; either all will critically strike, or none will. If  Sundered Sky's Lightshield Strike is ready, all three strikes will critically strike.\nDespite the multi-hit attack only having a hidden cast time, Pantheon will remain  unable to act until the last strike has been dealt.\nThe empowered attack's total time is affected by Pantheon's  attack speed.\nPENDING FOR TEST: The attack's total time is the cast time plus Pantheon's attack windup time.\nThe 3 strikes that occur after Empowered Shield Vault each count as a separate cast instance for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nThe 3 strikes that occur after Empowered Shield Vault each apply a stack of  Mortal Will, even if the attacks are  dodged,  blocked, or missed while Pantheon is  blinded.\nThe empowered attack will not trigger against  structures.\nThe empowered attack does not cause Pantheon to attack thrice. Effects that trigger  on-attack or interact with the attack windup will only trigger once and thus do not interact with Shield Vault. (e.g.  Lethal Tempo,  Hail of Blades).",
+          "notes": "Applies  spell damage on the initial vault. Deals  basic damage on all the attacks from the empowered ability.\nPantheon will be ordered to basic attack the target at the end of the leap.\nThe empowered attack rolls a  critical strike once for all strikes; either all will critically strike, or none will. If  Sundered Sky's Lightshield Strike is ready, all three strikes will critically strike.\nDespite the multi-hit attack only having a hidden cast time, Pantheon will remain  unable to act until the last strike has been dealt.\nThe empowered attack's total time is affected by Pantheon's  attack speed.\nPENDING FOR TEST: The attack's total time is the cast time plus Pantheon's attack windup time.\nThe 3 strikes that occur after Empowered Shield Vault each count as a separate cast instance for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nThe 3 strikes that occur after Empowered Shield Vault each apply a stack of  Mortal Will, even if the attacks are  dodged,  blocked, or missed while Pantheon is  blinded.\nThe empowered attack will not trigger against  structures.\nThe empowered attack does not cause Pantheon to attack thrice. Effects that trigger  on-attack or interact with the attack windup will only trigger once and thus do not interact with Shield Vault. (e.g.  Lethal Tempo,  Hail of Blades).",
           "blurb": "Active:  Pantheon  leaps to the target enemy, dealing physical damage and briefly  stunning them.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -268897,7 +269227,10 @@
         "voiceActor": [
           "Adam Harrington"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -271218,7 +271551,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 98056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98056.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 98062,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98062.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 98061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98061.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 98059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98059.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 98055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98055.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 98057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98057.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 98060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98060.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 98058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/98/98058.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "For years, the Order of Umbrafil was believed lost to the endless war. In truth, Shen had led its surviving numbers underground to rebuild. Now the world has reached a new equilibrium, and Shen views it as his sacred duty to unbalance it. With the Order's renewed strength, he risks inciting greater chaos to save what may be forever lost.",
         "release": "2026-06-24",
         "set": [
