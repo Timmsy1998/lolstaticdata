@@ -155925,7 +155925,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The  clone has a leash range.\nUsing a basic attack breaks the stealth at the end of the attack windup.",
+          "notes": "The  clone has a leash range.\nIf Mirror Image triggers while LeBlanc is tethering to a target with  Ethereal Chains (or its  Mimicked version), her clone will not produce a fake tether, giving away which is the real one. (unexpected)\nUsing a basic attack breaks the stealth at the end of the attack windup.",
           "blurb": "Innate: When  LeBlanc reaches low health, she creates a  clone of herself and together they enter brief  invisibility.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -168145,6 +168145,1314 @@
       }
     ]
   },
+  "Locke": {
+    "id": 805,
+    "key": "Locke",
+    "name": "Locke",
+    "title": "The Ashen Exorcist",
+    "fullName": "Corvin Locke",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Locke.png",
+    "resource": "MANA",
+    "attackType": "MELEE",
+    "adaptiveType": "MAGIC_DAMAGE",
+    "stats": {
+      "health": {
+        "flat": 655,
+        "percent": 0.0,
+        "perLevel": 109,
+        "percentPerLevel": 0.0
+      },
+      "healthRegen": {
+        "flat": 9,
+        "percent": 0.0,
+        "perLevel": 0.9,
+        "percentPerLevel": 0.0
+      },
+      "mana": {
+        "flat": 280,
+        "percent": 0.0,
+        "perLevel": 70,
+        "percentPerLevel": 0.0
+      },
+      "manaRegen": {
+        "flat": 7,
+        "percent": 0.0,
+        "perLevel": 0.8,
+        "percentPerLevel": 0.0
+      },
+      "armor": {
+        "flat": 32,
+        "percent": 0.0,
+        "perLevel": 4.2,
+        "percentPerLevel": 0.0
+      },
+      "magicResistance": {
+        "flat": 32,
+        "percent": 0.0,
+        "perLevel": 2.05,
+        "percentPerLevel": 0.0
+      },
+      "attackDamage": {
+        "flat": 58,
+        "percent": 0.0,
+        "perLevel": 3,
+        "percentPerLevel": 0.0
+      },
+      "movespeed": {
+        "flat": 340,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "acquisitionRadius": {
+        "flat": 600,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "selectionRadius": {
+        "flat": 120,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "pathingRadius": {
+        "flat": 35,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "gameplayRadius": {
+        "flat": 65,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "criticalStrikeDamage": {
+        "flat": 175,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "criticalStrikeDamageModifier": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "attackSpeed": {
+        "flat": 0.688,
+        "percent": 0.0,
+        "perLevel": 3.3,
+        "percentPerLevel": 0.0
+      },
+      "attackSpeedRatio": {
+        "flat": 0.625,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "attackCastTime": {
+        "flat": 0.3,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "attackTotalTime": {
+        "flat": 1.6,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "attackDelayOffset": {
+        "flat": 0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "attackRange": {
+        "flat": 125,
+        "percent": 0.0,
+        "perLevel": 0,
+        "percentPerLevel": 0.0
+      },
+      "aramDamageTaken": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramDamageDealt": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramHealing": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramShielding": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramTenacity": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramAbilityHaste": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramAttackSpeed": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "aramEnergyRegen": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "urfDamageTaken": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "urfDamageDealt": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "urfHealing": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      },
+      "urfShielding": {
+        "flat": 1.0,
+        "percent": 0.0,
+        "perLevel": 0.0,
+        "percentPerLevel": 0.0
+      }
+    },
+    "positions": [
+      "MIDDLE"
+    ],
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ],
+    "attributeRatings": {
+      "damage": 3,
+      "toughness": 2,
+      "control": 1,
+      "mobility": 3,
+      "utility": 1,
+      "abilityReliance": 75,
+      "difficulty": 2
+    },
+    "abilities": {
+      "P": [
+        {
+          "name": "Silver Stake",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/p",
+          "effects": [
+            {
+              "description": "Innate: Locke's basic attacks deal 5 : 44.12 (based on level) (+ 10% AP) bonus magic damage on-hit, increased by 0% : 100% (based on target's missing health), up to 10 : 88.24 (based on level) (+ 20% AP).",
+              "leveling": []
+            }
+          ],
+          "cost": null,
+          "cooldown": null,
+          "targeting": "Passive",
+          "affects": "Enemies",
+          "spellshieldable": null,
+          "resource": null,
+          "damageType": "MAGIC_DAMAGE",
+          "spellEffects": "proc",
+          "projectile": null,
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": null,
+          "blurb": "Innate:  Locke's  basic attacks deal bonus magic damage based on the target's missing health.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": null,
+          "angle": null,
+          "castTime": null,
+          "effectRadius": null,
+          "targetRange": null
+        }
+      ],
+      "Q": [
+        {
+          "name": "Ritual Nails",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/q",
+          "effects": [
+            {
+              "description": "Active: Locke hurls a nail in the target direction that deals magic damage to enemies hit, slows them by 25% for 1 second, and applies a stack of Soul Nails for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. Against targets with at least 2 stacks, the slow is increased to 60% and lasts for 2 seconds.Ritual Nails can be recast twice more within 5 seconds of the activation at no additional cost, with a 0.5-second static cooldown between casts.",
+              "leveling": [
+                {
+                  "attribute": "Magic Damage per Nail",
+                  "modifiers": [
+                    {
+                      "values": [
+                        50,
+                        60,
+                        70,
+                        80,
+                        90
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        20,
+                        20,
+                        20,
+                        20,
+                        20
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Maximum Nail Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        150,
+                        180,
+                        210,
+                        240,
+                        270
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        60,
+                        60,
+                        60,
+                        60,
+                        60
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Recast: Locke mimics the first cast's effects. For each recast not used when Ritual Nails ends, 20% : 35% (based on level) of the ability's cooldown and mana cost is refunded, up to a 40% : 70% (based on level) refund for two remaining recasts.",
+              "leveling": []
+            },
+            {
+              "description": "Locke's next damaging basic attack or Ashen Pursuit against an enemy with Soul Nails stacks consumes them all to deal bonus magic damage based on the amount of stacks.",
+              "leveling": [
+                {
+                  "attribute": "One Stack Bonus Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        20,
+                        30,
+                        40,
+                        50,
+                        60
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        25,
+                        27.5,
+                        30,
+                        32.5,
+                        35
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Two Stacks Bonus Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        48,
+                        72,
+                        96,
+                        120,
+                        144
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        60,
+                        66,
+                        72,
+                        78,
+                        84
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Three Stacks Bonus Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        84,
+                        126,
+                        168,
+                        210,
+                        252
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        105,
+                        115.5,
+                        126,
+                        136.5,
+                        147
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Maximum Total Magic Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        234,
+                        306,
+                        378,
+                        450,
+                        522
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        165,
+                        175.5,
+                        186,
+                        196.5,
+                        207
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "cost": {
+            "modifiers": [
+              {
+                "values": [
+                  70,
+                  70,
+                  70,
+                  70,
+                  70
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          },
+          "cooldown": {
+            "modifiers": [
+              {
+                "values": [
+                  10,
+                  9,
+                  8,
+                  7,
+                  6
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "affectedByCdr": true
+          },
+          "targeting": "Direction",
+          "affects": "Enemies",
+          "spellshieldable": "special",
+          "resource": "MANA",
+          "damageType": "MAGIC_DAMAGE",
+          "spellEffects": "special",
+          "projectile": "TRUE",
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": "Applies  area damage for the nail missile and deals  spell damage for the stack consumption.\n Spell shield will block the nail missile but not the stack consumption.\nThe stacks will not be consumed if the triggering basic attack is  dodged,  blocked, or missed while Locke is  blinded.\nThis ability will cast from wherever the caster is at the start of the cast time.",
+          "blurb": "Active:  Locke hurls a nail that deals magic damage to enemies hit,  slows them for a moment, and applies a  stack of Soul Nails for a few seconds, stacking up to 3 times.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": "100",
+          "angle": null,
+          "castTime": "0.25",
+          "effectRadius": null,
+          "targetRange": "950"
+        }
+      ],
+      "W": [
+        {
+          "name": "Soul Ignition",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/w",
+          "effects": [
+            {
+              "description": "Active: Locke ignites his soul for 6 seconds, gaining 40% : 73.53% (based on level) bonus attack speed and bonus movement speed, with the latter decaying to 20% over 1 second after 1.5 seconds have elapsed. He also stores an amount of grey health on his health bar equal to 100% of the post-mitigation damage he takes from enemy champions, up to a cap, plus the total amount of health lost from Soul Ignition's health cost. This is increased by up to 40 : 218.82 (based on level) (+ 20% AP) based on his missing health and Soul Ignition's elapsed duration. The missing health portion of this additional heal maxes out when at 150 : 485.29 (based on level) (+ 60% AP) health remaining or below.",
+              "leveling": [
+                {
+                  "attribute": "Movement speed",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        45,
+                        50,
+                        55,
+                        60
+                      ],
+                      "units": [
+                        "%",
+                        "%",
+                        "%",
+                        "%",
+                        "%"
+                      ]
+                    },
+                    {
+                      "values": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                      ],
+                      "units": [
+                        "% per 100 AP",
+                        "% per 100 AP",
+                        "% per 100 AP",
+                        "% per 100 AP",
+                        "% per 100 AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Damage taken grey health cap",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        80,
+                        120,
+                        160,
+                        200
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        120,
+                        120,
+                        120,
+                        120,
+                        120
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "After 0.5 seconds, Soul Ignition can be recast within the duration, and does so automatically afterwards.",
+              "leveling": []
+            },
+            {
+              "description": "Recast: Locke ends Soul Ignition and consumes his grey health to heal for the same amount.",
+              "leveling": []
+            },
+            {
+              "description": "Soul Ignition's recast can be used while affected by cast-inhibiting crowd control.",
+              "leveling": []
+            }
+          ],
+          "cost": {
+            "modifiers": [
+              {
+                "values": [
+                  50,
+                  55,
+                  60,
+                  65,
+                  70
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          },
+          "cooldown": {
+            "modifiers": [
+              {
+                "values": [
+                  18,
+                  17,
+                  16,
+                  15,
+                  14
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "affectedByCdr": true
+          },
+          "targeting": "Auto",
+          "affects": "Self",
+          "spellshieldable": null,
+          "resource": "OTHER",
+          "damageType": null,
+          "spellEffects": null,
+          "projectile": null,
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": "The health cost updates dynamically with Locke's current health, costing less the lower his remaining health is. It is not based on his current health at the time of cast.",
+          "blurb": "Active:  Locke ignites his soul for a few seconds, gaining  bonus attack speed and  bonus move speed. He also stores grey health equal to the damage taken from champions, and an additional amount based on his missing health and Soul Ignition's elapsed duration.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": null,
+          "angle": null,
+          "castTime": "none",
+          "effectRadius": null,
+          "targetRange": null
+        }
+      ],
+      "E": [
+        {
+          "name": "Ashen Pursuit",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/e",
+          "effects": [
+            {
+              "description": "Active: Locke blinks to the target location, dealing magic damage to nearby enemies upon arrival.",
+              "leveling": [
+                {
+                  "attribute": "Blink Magic Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        50,
+                        60,
+                        70,
+                        80
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        40,
+                        40,
+                        40,
+                        40,
+                        40
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "After a 0.1-second delay, he then empowers his next attack command within 4 seconds to gain 275 bonus range and cause him to dash in the target's direction, dealing magic damage to nearby enemies along the way, and applying on-hit effects to the primary target hit.",
+              "leveling": [
+                {
+                  "attribute": "Dash Magic Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        40,
+                        60,
+                        80,
+                        100,
+                        120
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        40,
+                        40,
+                        40,
+                        40,
+                        40
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Total Magic Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        80,
+                        110,
+                        140,
+                        170,
+                        200
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Scoring a takedown against an enemy champion resets the cooldown.",
+              "leveling": []
+            },
+            {
+              "description": "Locke cannot perform the dash while immobilized or grounded.",
+              "leveling": []
+            }
+          ],
+          "cost": {
+            "modifiers": [
+              {
+                "values": [
+                  30,
+                  30,
+                  30,
+                  30,
+                  30
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          },
+          "cooldown": {
+            "modifiers": [
+              {
+                "values": [
+                  10,
+                  10,
+                  10,
+                  10,
+                  10
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "affectedByCdr": true
+          },
+          "targeting": "Location",
+          "affects": "Self, Enemies",
+          "spellshieldable": "special",
+          "resource": "MANA",
+          "damageType": "MAGIC_DAMAGE",
+          "spellEffects": "special",
+          "projectile": "FALSE",
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": "For the dash, applies  spell damage to the primary target and  area damage to secondary targets. The initial blink deals  area damage.\nAshen's Pursuit's dash:\nDoes not count as a basic attack and will not trigger any basic attack-specific interactions (e.g.  on-attack effects, basic attack timer, etc) unless it is special cased to do so.\nIt is special cased to not deal damage to the primary target if Locke is  blinded or if the target was under the effect of a spell that granted them  dodging or  blocking effects.\nTravels a fixed distance towards the target except in cases where Locke would dash through the target and beyond his attack range. If such cases would occur, it will instead dash him to 125 units beyond their location (within attack range of the target).\nIs disabled if Locke is affected by any  immobilizing crowd control or if he is  grounded.\nHe loses the bonus attack range and is also completely unable to perform the empowered attack. If he can attack a target under this circumstance, he will basic attack them normally without consuming the empowered attack.\nFor the former case, the only exceptions are  berserk and  taunt. These crowd control types will  force Locke to perform the dash ability against the source of the disable.\nCan dash through terrain, provided the primary target is on the other side.\nIt will however fail to cast if the target is at the very edge of Locke's attack range and is over terrain (no terrain grace).(unexpected)\nOrders Locke to attack the primary target at its end.\nAllows  Soul Ignition to be cast during it.\nAll other abilities are buffered.\nCannot be performed while Locke is  disarmed, though he retains the bonus attack range.\nIf a champion  takedown is scored while Ashen Pursuit is active, the ability's cooldown will be reset in addition to allowing Locke to cast Ashen Pursuit even while it is already active.\nIf cast while the effect is already active, Ashen Pursuit's duration for the dash attack is refreshed after the blink.\n Spell shield can block either the blink damage or the dash damage, but not both.",
+          "blurb": "Active:  Locke  blinks to the target location, dealing magic damage to nearby enemies upon arrival.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": null,
+          "angle": null,
+          "castTime": "0.5",
+          "effectRadius": null,
+          "targetRange": "375"
+        }
+      ],
+      "R": [
+        {
+          "name": "Purgatory",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/r",
+          "effects": [
+            {
+              "description": "Active: Locke throws a totem artifact that travels to the target location over 0.5 seconds. After landing for 0.25 seconds, the totem fires latching nails at nearby enemies: dealing magic damage, slowing them by 99% decaying over 2 seconds, revealing them for 1 second, and marking enemy champions hit for 5 seconds. Marked enemies are executed below a portion of their health. Successful executions refresh the mark duration on all affected targets.",
+              "leveling": [
+                {
+                  "attribute": "Magic Damage",
+                  "modifiers": [
+                    {
+                      "values": [
+                        150,
+                        225,
+                        300
+                      ],
+                      "units": [
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        60,
+                        60,
+                        60
+                      ],
+                      "units": [
+                        "% AP",
+                        "% AP",
+                        "% AP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "Execute Threshold",
+                  "modifiers": [
+                    {
+                      "values": [
+                        10,
+                        11,
+                        12
+                      ],
+                      "units": [
+                        "%  of the target's maximum health",
+                        "%  of the target's maximum health",
+                        "%  of the target's maximum health"
+                      ]
+                    },
+                    {
+                      "values": [
+                        0.5,
+                        0.5,
+                        0.5
+                      ],
+                      "units": [
+                        "% per Sealed Champion stack",
+                        "% per Sealed Champion stack",
+                        "% per Sealed Champion stack"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": "Once all marks expire, and if at least one champion was executed, the totem seals the souls of all executed champions and drops to the ground both over 2.25 seconds. It then lingers for a duration equal to Purgatory's remaining cooldown, but for no less than 10 seconds. Locke can move near the totem to collect it, and for each soul sealed it will both reduce Purgatory's current cooldown by 20% and grant him a permanent Sealed Champion stack.",
+              "leveling": []
+            }
+          ],
+          "cost": {
+            "modifiers": [
+              {
+                "values": [
+                  100,
+                  100,
+                  100
+                ],
+                "units": [
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          },
+          "cooldown": {
+            "modifiers": [
+              {
+                "values": [
+                  120,
+                  100,
+                  80
+                ],
+                "units": [
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "affectedByCdr": true
+          },
+          "targeting": "Location",
+          "affects": "Enemies, Self",
+          "spellshieldable": "special",
+          "resource": "MANA",
+          "damageType": "OTHER_DAMAGE",
+          "spellEffects": "special",
+          "projectile": "SPECIAL",
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": "The totem grants  sight of the area for 1.25 seconds after the landing delay.\nIf an enemy champion was marked, it grants sight in the area for 3 seconds instead.\nApplies  area damage with the nail and deals  raw damage to executed targets.\n Spell shield will block the nail from the totem but not the execute.\nThe totem missile can be destroyed by  projectile-interception effects. The homing nails that the totem fires upon targets cannot be however.\nChampions that take  fatal damage from another source (such as by Purgatory's initial damage) and not by the execute will still count for having their soul sealed away.\n Clones can be marked and executed, but cannot have their soul be sealed away.\nChampions in a  zombie state can be marked, but cannot be executed.\nChampions protected by  invulnerability cannot be executed but will count as the execution being successfully triggered against them if they were below the threshold, sealing their soul away.(unexpected)\nChampions with a  minimum health threshold will not be executed by any means, even if they are below the execution threshold. The execution may still trigger if the mark lingers after the minimum health threshold effect expires.\n Resurrection effect interactions:\n Guardian Angel's Rebirth and  Zilean's  Chronoshift will always prevent the resurrected champion from having their soul sealed away.\n Zaahen's  Cultivation of War will allow the totem to free his soul away when the resurrection is triggered.\nIf the resurrection effects of  Anivia's  Rebirth and  Zac's  Cell Division trigger from taking lethal damage by Purgatory's initial damage, they will still count for having their soul sealed away.(unexpected)\nIf the execution triggered their resurrection, however, their souls will not be sealed away.\nThe totem will remain on the ground no matter how distant Locke is from it and/or if he  dies.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "blurb": "Active:  Locke throws a totem to the target location that fires latching nails at nearby enemies: dealing magic damage,  slowing for a moment, and marking enemy  champions hit for a few seconds. Marked enemies are  executed below a portion of their health based on the amount of Sealed Champion stacks.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": null,
+          "angle": null,
+          "castTime": "0.5",
+          "effectRadius": "400",
+          "targetRange": "950"
+        }
+      ]
+    },
+    "releaseDate": "2026-06-24",
+    "releasePatch": "26.13",
+    "patchLastChanged": "26.13",
+    "price": {
+      "blueEssence": 2400,
+      "rp": 880,
+      "saleRp": 0
+    },
+    "lore": "A nail-slinging exorcist versed in forbidden rites, Corvin Locke is the progeny of Demacian occultists. Born into lies and hypocrisy, he learned young that demons aren't the cause of humanity's darkness, but the consequence. Now, Locke tears through every soul, exposing its darkness, intent on making the world a more honest place… one exorcism at a time.",
+    "faction": "demacia",
+    "skins": [
+      {
+        "name": "Original",
+        "id": 805000,
+        "isBase": true,
+        "availability": "Upcoming",
+        "formatName": "Original",
+        "lootEligible": true,
+        "cost": 975,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "A nail-slinging exorcist versed in forbidden rites, Corvin Locke is the progeny of Demacian occultists. Born into lies and hypocrisy, he learned young that demons aren’t the cause of humanity’s darkness, but the consequence. Now, Locke tears through every soul, exposing its darkness, intent on making the world a more honest place… one exorcism at a time.",
+        "release": "2026-06-24",
+        "set": [],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_centered_0.locke.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_uncentered_0.locke.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_tile_0.locke.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/lockeloadscreen_0.locke.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": false,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Kieran Regan"
+        ],
+        "splashArtist": []
+      },
+      {
+        "name": "High Noon",
+        "id": 805001,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "High Noon",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 805004,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805004.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 805007,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805007.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 805006,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805006.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 805009,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805009.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 805008,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805008.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 805005,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805005.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 805002,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805002.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 805003,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/805/805003.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "A fool strode into a burnt-out chapel looking for the only bounty hunter known to cross Hell's border. Drawing his \"soul-savin' six-shooter,\" he demanded passage to claim a soul Hell had no right to keep. Reclining by the altar, Locke spun a molten nail between hell-blackened fingers and grinned. \"No disrespect, friend, but what's dead, should stay dead.",
+        "release": "2026-06-24",
+        "set": [
+          "High Noon"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_centered_1.locke.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_uncentered_1.locke.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_tile_1.locke.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1.locke.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1_le.locke.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Kieran Regan"
+        ],
+        "splashArtist": [
+          "Alsie Lau"
+        ]
+      }
+    ]
+  },
   "Lucian": {
     "id": 236,
     "key": "Lucian",
@@ -178469,7 +179777,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Void Shift will not resist allied  crowd control nor will it be deactivated by them.\nVoid Shift will not mitigate  true damage but the buff will still be consumed.\nIt does not deactivate against the  Nexus Obelisk.\n Shields will take priority over Void Shift, but the buff is always consumed, even if the shield fully mitigates the damage. (bug)\nHowever, if Malzahar has a  spell shield and is hit by an effect that isn't negated by the spell shield, then if the  shield fully mitigates the damage, Void Shift will not be consumed.\n Spell shields take priority over Void Shift for abilities that contain a  crowd control effect.\nIf the hostile ability does not contain a  crowd control effect, then both Void Shift and the spell shield break simultaneously. (bug)\nVoid Shift will specifically not deactivate if Malzahar eats  Honeyfruit or is within a hostile  Frozen Heart passive aura.\nVoid Shift does not prevent  Zoe's  Sleepy Trouble Bubble's trap  drowsy. [2] (unexpected)\nVoid Shift is special cased to prevent  Fizz's  Chum the Waters, and  Thresh's  Death Sentence from attaching to Malzahar.",
+          "notes": "Void Shift will not resist allied  crowd control nor will it be deactivated by them.\nVoid Shift will not mitigate  true damage but the buff will still be consumed.\nIt does not deactivate against the  Nexus Obelisk.\n Shields will take priority over Void Shift, but the buff is always consumed, even if the shield fully mitigates the damage. (bug)\nHowever, if Malzahar has a  spell shield and is hit by an effect that isn't negated by the spell shield, then if the  shield fully mitigates the damage, Void Shift will not be consumed.\n Spell shields take priority over Void Shift for abilities that contain a  crowd control effect.\nVoid Shift will specifically not deactivate if Malzahar eats  Honeyfruit or is within a hostile  Frozen Heart passive aura.\nVoid Shift does not prevent  Zoe's  Sleepy Trouble Bubble's trap  drowsy. [2] (unexpected)\nVoid Shift is special cased to prevent  Fizz's  Chum the Waters, and  Thresh's  Death Sentence from attaching to Malzahar.",
           "blurb": "Innate: Periodically,  Malzahar gains Void Shift until he takes non- minion damage or negates a  crowd control effect, to which it then lingers for a brief time before expiring.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -247523,7 +248831,7 @@
             ],
             "descriptions": [
               {
-                "description": "\\nThis Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
