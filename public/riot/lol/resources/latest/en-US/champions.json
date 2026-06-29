@@ -10213,7 +10213,7 @@
         "name": "High Noon",
         "id": 166021,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "High Noon",
         "lootEligible": true,
         "cost": 1350,
@@ -13668,6 +13668,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 799013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799013.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 799009,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799009.png",
@@ -13685,6 +13706,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 799010,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799010.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 799012,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799012.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 799011,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799011.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 799014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/799/799014.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -29291,7 +29396,7 @@
         "name": "Broken Covenant",
         "id": 893020,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Broken Covenant",
         "lootEligible": true,
         "cost": 1350,
@@ -33774,7 +33879,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Applies  spell damage and procs  basic damage required effects.\nRoyal Maelstrom does not prioritize champions over other units.\nBel'Veth cannot attack  structures,  wards, nor jungle plants with Royal Maelstrom.\nIf Bel'Veth is  berserked or  taunted, she will slash at the unit she is forced to attack.\nBel'Veth will perform the slashes even if she is affected by  flee.(bug)\nEach slash's damage triggers a stack of  Conqueror.\nWhile Royal Maelstrom is active, the on-attack modifier also applies to various other damaing effects triggered by the same damage instance, including  Scorch,  Blackfire Torch,  Eclipse,  Hextech Alternator,  Liandry's Torment,  Luden's Echo,  Scout's Slingshot.(bug)\nIt does not, however, apply to other  spell effects.\nDespite this ability's cooldown starts on cast, it cannot be reduced by  Navori Flickerblade's Transcendence during the effect of this ability.(bug) Cooldowns of the other basic abilities can be normally reduced during this ability, though.\nRoyal Maelstrom is special cased to end early if she is hit by  Kassadin's  Null Sphere.\nRoyal Maelstrom will not deal any damage if Bel'Veth has impossibily high attack speed values (such as her cap). This is intended to prevent server crashes and long lags.\nThe following table refers for interactions while Bel'Veth is performing Royal Maelstrom:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nAll items interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Hexflash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath",
+          "notes": "Applies  spell damage and procs  basic damage required effects.\nRoyal Maelstrom does not prioritize champions over other units.\nBel'Veth cannot attack  structures,  wards, nor jungle plants with Royal Maelstrom.\nIf Bel'Veth is  berserked or  taunted, she will slash at the unit she is forced to attack.\nBel'Veth will perform the slashes even if she is affected by  flee.(bug)\nEach slash's damage triggers a stack of  Conqueror.\nWhile Royal Maelstrom is active, the on-attack modifier also applies to various other damaging effects triggered by the same damage instance, including  Scorch,  Blackfire Torch,  Eclipse,  Hextech Alternator,  Liandry's Torment,  Luden's Echo,  Scout's Slingshot.(bug)\nIt does not, however, apply to other  spell effects.\nDespite this ability's cooldown starts on cast, it cannot be reduced by  Navori Flickerblade's Transcendence during the effect of this ability.(bug) Cooldowns of the other basic abilities can be normally reduced during this ability, though.\nRoyal Maelstrom is special cased to end early if she is hit by  Kassadin's  Null Sphere.\nRoyal Maelstrom will not deal any damage if Bel'Veth has impossibily high attack speed values (such as her cap). This is intended to prevent server crashes and long lags.\nThe following table refers for interactions while Bel'Veth is performing Royal Maelstrom:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nAll items interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Hexflash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\n Flash\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Bel'Veth enters a brief defensive stance, gaining  life steal and damage reduction.\nDuring this time, Bel'Veth rapidly slashes at the most wounded enemy, with the max number of slashes increased based on her bonus attack speed. Each slash deals physical damage, and applies  life steal,  on-hit and  spell effects based on the target's missing health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -46960,7 +47065,7 @@
               "leveling": []
             },
             {
-              "description": "Upon landing on the target, she becomes targetable again and creates a hexagonal zone around her current location for a duration, knocking away all other nearby enemies on impact, though not through terrain.",
+              "description": "Upon landing on the target, she becomes targetable again and creates a hexagonal zone around her current location for a duration, knocking away all other nearby enemies on impact to the edge of the zone, though not through terrain.",
               "leveling": [
                 {
                   "attribute": "Zone Duration",
@@ -47050,7 +47155,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Camille will attempt to basic attack the target upon landing.\nCamille will track the target if they change locations.\nShe will always land and create the zone after 0.5 seconds.\nIf the target becomes  untargetable,  dies, or moves 2000 or more units away during the dash, it will be interrupted and the ability's  cooldown and  mana cost will not be refunded.\n Knockaway speed is 1000.\nIf the target manages to be outside of the boundaries, they will immediately be pulled back towards the center of the hexagon.\nThe boundaries are not considered terrain ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements, and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\n Ekko's  Chronobreak will still deal damage at the hologram's location.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until The Hextech Ultimatum ends. She can knockback and damage secondary targets multiple times.\nIf the target  attaches to a unit, they will only be displaced back inside once they detach. The Hextech Ultimatum does not end nor break the bind to the victim.\n Kayn's  Umbral Trespass allows him to cast it even if his target is outside the area, dashing through the borders and attaching despite being unable to escape.\n Yuumi's  You and Me! allows her to bypass the borders if the unit she attaches to leaves the area.\n Tristana's  Rocket Jump does not allow her to escape, but she applies the magic damage and  slow.\n Sett's  The Show Stopper does not allow him to pass through the borders and the dash will end prematurely when he encounters them.\nIf the target of  The Show Stopper is also the target of The Hextech Ultimatum, they can go through the borders while attached to him.\nIf Camille enters  resurrection during the initial cast, the  dash is stopped and the zone is formed immediately.\nThe Hextech Ultimatum ends if the target enters resurrection, but not if Camille does.\nThe Hextech Ultimatum ends immediately if the target is dragged by  Fear Beyond Death.\nThe  disrupt is 'wrapped' into a status effect that causes the affected champion to display the \" Silenced\" UI on their health bar for 0.25 seconds, without actually applying the disabling effects of the  silence crowd control type (functions as an indicator of the target becoming disrupted). This however ensures that the disrupt is also prevented by effects that would negate  silences (such as  crowd control immunity).\nThe following table refers for interactions while Camille is dashing.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Camille will attempt to basic attack the target upon landing.\nCamille will track the target if they change locations.\nShe will always land and create the zone after 0.5 seconds.\nIf the target becomes  untargetable,  dies, or moves 2000 or more units away during the dash, it will be interrupted, causing the The Hextech Ultimatum to be cancelled.\nThe zone fails to create in this case.\n Knockaway speed is 1000.\nIf the target manages to be outside of the boundaries, they will immediately be pulled back towards the center of the hexagon.\nThe boundaries are not considered terrain ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements, and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\n Ekko's  Chronobreak will still deal damage at the hologram's location.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until The Hextech Ultimatum ends. She can knockback and damage secondary targets multiple times.\nIf the target  attaches to a unit, they will only be displaced back inside once they detach. The Hextech Ultimatum does not end nor break the bind to the victim.\n Kayn's  Umbral Trespass allows him to cast it even if his target is outside the area, dashing through the borders and attaching despite being unable to escape.\n Yuumi's  You and Me! allows her to bypass the borders if the unit she attaches to leaves the area.\n Tristana's  Rocket Jump does not allow her to escape, but she applies the magic damage and  slow.\n Sett's  The Show Stopper does not allow him to pass through the borders and the dash will end prematurely when he encounters them.\nIf the target of  The Show Stopper is also the target of The Hextech Ultimatum, they can go through the borders while attached to him.\nIf Camille enters  resurrection during the initial cast, the  dash is stopped and the zone is formed immediately.\nThe Hextech Ultimatum ends if the target enters resurrection, but not if Camille does.\nThe Hextech Ultimatum ends immediately if the target is dragged by  Fear Beyond Death.\nThe  disrupt is 'wrapped' into a status effect that causes the affected champion to display the \" Silenced\" UI on their health bar for 0.25 seconds, without actually applying the disabling effects of the  silence crowd control type (functions as an indicator of the target becoming disrupted). This however ensures that the disrupt is also prevented by effects that would negate  silences (such as  crowd control immunity).\nThe following table refers for interactions while Camille is dashing.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll summoner spells are disabled\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Camille  dives onto an enemy champion, creating a zone around the target and  knocking away all other enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -84549,6 +84654,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 3052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3052.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 3048,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3048.png",
@@ -84566,6 +84692,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 3049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3049.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 3051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3051.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 3050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3050.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 3053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/3/3053.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -122500,7 +122710,7 @@
         "name": "Broken Covenant",
         "id": 202064,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Broken Covenant",
         "lootEligible": true,
         "cost": 1350,
@@ -169222,7 +169432,7 @@
         "name": "Original",
         "id": 805000,
         "isBase": true,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Original",
         "lootEligible": true,
         "cost": 975,
@@ -169252,7 +169462,7 @@
         "name": "High Noon",
         "id": 805001,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "High Noon",
         "lootEligible": true,
         "cost": 1350,
@@ -192995,6 +193205,27 @@
         "rarity": "Mythic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 21074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21074.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 21070,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21070.png",
@@ -193012,6 +193243,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 21071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21071.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 21073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21073.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 21072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21072.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 21075,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/21/21075.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -265486,6 +265801,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 147074,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147074.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 147070,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147070.png",
@@ -265503,6 +265839,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 147071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147071.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 147073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147073.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 147072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147072.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 147075,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147075.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -273302,7 +273722,7 @@
         "name": "Broken Covenant",
         "id": 98054,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Broken Covenant",
         "lootEligible": true,
         "cost": 1350,
@@ -357391,6 +357811,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 5058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5058.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 5054,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5054.png",
@@ -357408,6 +357849,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 5055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5055.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 5057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5057.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 5056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5056.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 5059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5059.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
@@ -367031,6 +367556,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Catseye",
+            "id": 804015,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804015.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Elite",
             "id": 804011,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804011.png",
@@ -367048,6 +367594,90 @@
               {
                 "rarity": 2,
                 "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 804012,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804012.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 804014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804014.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 804013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804013.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 804016,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/804/804016.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
               }
             ]
           }
