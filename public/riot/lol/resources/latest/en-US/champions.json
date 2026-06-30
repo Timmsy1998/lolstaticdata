@@ -228,7 +228,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aatrox/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Aatrox empowers his next basic attack to gain 50 bonus range and deal bonus magic damage equal to 4% : 10.71% (based on level) of the target's maximum health, capped at 100 : 345.88 (based on level) against monsters. Deathbringer Stance's damage applies life steal.Aatrox heals for the post-mitigation bonus damage dealt, reduced to 25% against minions.",
+              "description": "Innate: Periodically, Aatrox empowers his next basic attack to gain 50 bonus range and deal bonus magic damage equal to 4% : 10% (based on level) of the target's maximum health, capped at 100 : 320 (based on level) against monsters. Deathbringer Stance's damage applies life steal.Aatrox heals for the post-mitigation bonus damage dealt, reduced to 25% against minions.",
               "leveling": []
             },
             {
@@ -242,23 +242,23 @@
               {
                 "values": [
                   22.0,
-                  21.211176470588235,
-                  20.42235294117647,
-                  19.633529411764705,
-                  18.84470588235294,
-                  18.055882352941175,
-                  17.26705882352941,
-                  16.478235294117646,
-                  15.689411764705882,
-                  14.900588235294117,
-                  14.111764705882353,
-                  13.322941176470588,
-                  12.534117647058824,
-                  11.74529411764706,
-                  10.956470588235295,
-                  10.16764705882353,
-                  9.378823529411765,
-                  8.59
+                  21.294117647058822,
+                  20.58823529411765,
+                  19.88235294117647,
+                  19.176470588235293,
+                  18.470588235294116,
+                  17.764705882352942,
+                  17.058823529411764,
+                  16.352941176470587,
+                  15.647058823529411,
+                  14.941176470588236,
+                  14.235294117647058,
+                  13.529411764705882,
+                  12.823529411764705,
+                  12.117647058823529,
+                  11.411764705882351,
+                  10.705882352941176,
+                  10.0
                 ],
                 "units": [
                   "",
@@ -2363,11 +2363,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Ahri/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Ahri generates a stack of Essence Fragment whenever she kills a minion or monster. At 9 stacks, she consumes them to heal herself for 35 : 102.06 (based on level) (+ 20% AP).",
+              "description": "Innate: Ahri generates a stack of Essence Fragment whenever she kills a minion or monster. At 9 stacks, she consumes them to heal herself for 35 : 95 (based on level) (+ 20% AP).",
               "leveling": []
             },
             {
-              "description": "Additionally, whenever Ahri scores a champion takedown within 3 seconds of damaging them, she consumes their essence to heal herself for 75 : 175.59 (based on level) (+ 30% AP).",
+              "description": "Additionally, whenever Ahri scores a champion takedown within 3 seconds of damaging them, she consumes their essence to heal herself for 75 : 165 (based on level) (+ 30% AP).",
               "leveling": []
             }
           ],
@@ -5617,7 +5617,7 @@
               "leveling": []
             },
             {
-              "description": "Swinging Kama: Akali's next basic attack is empowered to have an uncancellable windup, gain doubled range and deal 35 : 212 (based on level) (+ 60% bonus AD) (+ 55% AP) bonus magic damage.",
+              "description": "Swinging Kama: Akali's next basic attack is empowered to have an uncancellable windup, gain doubled range and deal 35 : 182 (based on level) (+ 60% bonus AD) (+ 55% AP) bonus magic damage.",
               "leveling": []
             }
           ],
@@ -8970,7 +8970,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Akshan/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Akshan uses a basic attack, he fires an additional shot after a delay that deals 50% AD physical damage, increased to 100% AD against minions. Issuing an attack order on a different target before the additional shot has been launched causes Akshan to fire it at the new target. If the second shot is cancelled instead, he gains 20 : 81.47 (based on level) × (1 + 100% bonus attack speed) bonus movement speed decaying over 1 second.",
+              "description": "Innate: Whenever Akshan uses a basic attack, he fires an additional shot after a delay that deals 50% AD physical damage, increased to 100% AD against minions. Issuing an attack order on a different target before the additional shot has been launched causes Akshan to fire it at the new target. If the second shot is cancelled instead, he gains 20 : 75 (based on level) × (1 + 100% bonus attack speed) bonus movement speed decaying over 1 second.",
               "leveling": []
             },
             {
@@ -8978,7 +8978,7 @@
               "leveling": []
             },
             {
-              "description": "Innate: Akshan's basic attacks on-hit and ability hits apply a stack of Dirty Fighting to enemies for 5 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal them 15 / 40 / 80 / 150 (based on level) (+ 60% AP) bonus magic damage; if the target is a champion, Akshan will also gain a 40 : 317.62 (based on level) (+ 35% bonus AD) shield for 2 seconds. The shield may be gained only once every few seconds.",
+              "description": "Innate: Akshan's basic attacks on-hit and ability hits apply a stack of Dirty Fighting to enemies for 5 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal them 15 / 40 / 80 / 150 (based on level) (+ 60% AP) bonus magic damage; if the target is a champion, Akshan will also gain a 40 : 280 (based on level) (+ 35% bonus AD) shield for 2 seconds. The shield may be gained only once every few seconds.",
               "leveling": []
             }
           ],
@@ -11008,7 +11008,7 @@
               ]
             },
             {
-              "description": "At 5 stacks, Alistar's next basic attack on-hit against a champion within 6 seconds ends Trample's effects to deal 20 : 305 (based on level) bonus magic damage and stun the target for 1 second.",
+              "description": "At 5 stacks, Alistar's next basic attack on-hit against a champion within 6 seconds ends Trample's effects to deal 20 : 275 (based on level) bonus magic damage and stun the target for 1 second.",
               "leveling": []
             }
           ],
@@ -12585,7 +12585,7 @@
               "leveling": []
             },
             {
-              "description": "Medarda Maxim: Ambessa's next basic attack on-attack is empowered to have an uncancellable windup, gain 75 bonus range and 50% bonus attack speed, deal 5 : 32.94 (based on level) (+ 25% bonus AD) bonus physical damage, and restore 40 / 55 / 70 (based on level) energy.",
+              "description": "Medarda Maxim: Ambessa's next basic attack on-attack is empowered to have an uncancellable windup, gain 75 bonus range and 50% bonus attack speed, deal 5 : 30 (based on level) (+ 25% bonus AD) bonus physical damage, and restore 40 / 55 / 70 (based on level) energy.",
               "leveling": []
             }
           ],
@@ -12737,7 +12737,7 @@
               "leveling": []
             },
             {
-              "description": "Against monsters, Cunning Sweep deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
+              "description": "Against monsters, Cunning Sweep deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 300 (based on level).",
               "leveling": []
             }
           ],
@@ -12922,7 +12922,7 @@
               ]
             },
             {
-              "description": "Against monsters, Sundering Slam deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 323.53 (based on level).",
+              "description": "Against monsters, Sundering Slam deals 75 bonus physical damage and the damage based on their health ratio is capped at 100 : 300 (based on level).",
               "leveling": []
             }
           ],
@@ -13020,7 +13020,7 @@
               ]
             },
             {
-              "description": "Additionally, Ambessa shields herself at the time of cast for 50 : 351.76 (based on level) (+ 150% bonus AD) for 1.5 seconds. If the shield mitigates any amount of damage taken from champions, large monsters, or turrets before Ambessa smashes the ground, Repudiation's damage is increased by 50%.",
+              "description": "Additionally, Ambessa shields herself at the time of cast for 50 : 320 (based on level) (+ 150% bonus AD) for 1.5 seconds. If the shield mitigates any amount of damage taken from champions, large monsters, or turrets before Ambessa smashes the ground, Repudiation's damage is increased by 50%.",
               "leveling": [
                 {
                   "attribute": "Increased Physical Damage",
@@ -18944,7 +18944,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Annie/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Annie grants herself or the target allied champion and Tibbers a shield for 3 seconds and 20% : 53.53% (based on level) bonus movement speed that decays over 1.5 seconds.",
+              "description": "Active: Annie grants herself or the target allied champion and Tibbers a shield for 3 seconds and 20% : 50% (based on level) bonus movement speed that decays over 1.5 seconds.",
               "leveling": [
                 {
                   "attribute": "Shield Strength",
@@ -23375,11 +23375,11 @@
               "leveling": []
             },
             {
-              "description": "Innate - Frost Shot: Ashe's basic attacks and ability hits apply Frost to enemies for 2 seconds, which slows them by 20% : 31.18% (based on level) for the duration.",
+              "description": "Innate - Frost Shot: Ashe's basic attacks and ability hits apply Frost to enemies for 2 seconds, which slows them by 20% : 30% (based on level) for the duration.",
               "leveling": []
             },
             {
-              "description": "Innate - Critical Slow: Ashe's critical strikes double Frost's slow strength to 40% : 62.35% (based on level), decaying over the first second of the duration to its normal strength.",
+              "description": "Innate - Critical Slow: Ashe's critical strikes double Frost's slow strength to 40% : 60% (based on level), decaying over the first second of the duration to its normal strength.",
               "leveling": []
             }
           ],
@@ -27021,7 +27021,7 @@
           "angle": null,
           "castTime": "0.2",
           "effectRadius": "√(275² + 16.93²  ×  Stardust)",
-          "targetRange": "750 : 940 (based on level)"
+          "targetRange": "750 : 920 (based on level)"
         }
       ],
       "R": [
@@ -28366,11 +28366,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aurora/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Aurora's damaging basic attacks and abilities apply a stack of Spirit Abjuration to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal bonus magic damage equal to 1% (+ 2.7% per 100 AP) of the target's maximum health, capped at 100 : 290 (based on level) against monsters.",
+              "description": "Innate: Aurora's damaging basic attacks and abilities apply a stack of Spirit Abjuration to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to deal bonus magic damage equal to 1% (+ 2.7% per 100 AP) of the target's maximum health, capped at 100 : 270 (based on level) against monsters.",
               "leveling": []
             },
             {
-              "description": "Upon consuming the stacks from a champion, Aurora additionally exorcises them, freeing a Spirit from the target that follows her for the same duration. For each active Spirit, Aurora is healed for 3 : 22 (based on level) (+ 2% AP) every second. Subsequent exorcisms free further Spirits and refresh all active Spirits. Aurora may have up to 4 Spirits at a time, for a maximum heal per tick of 12 : 88 (based on level) (+ 8% AP).",
+              "description": "Upon consuming the stacks from a champion, Aurora additionally exorcises them, freeing a Spirit from the target that follows her for the same duration. For each active Spirit, Aurora is healed for 3 : 20 (based on level) (+ 2% AP) every second. Subsequent exorcisms free further Spirits and refresh all active Spirits. Aurora may have up to 4 Spirits at a time, for a maximum heal per tick of 12 : 80 (based on level) (+ 8% AP).",
               "leveling": []
             }
           ],
@@ -30002,23 +30002,23 @@
                     {
                       "values": [
                         0.0,
-                        5.176470588235294,
-                        10.352941176470589,
-                        15.529411764705884,
-                        20.705882352941178,
-                        25.88235294117647,
-                        31.058823529411768,
-                        36.23529411764706,
-                        41.411764705882355,
-                        46.58823529411765,
-                        51.76470588235294,
-                        56.94117647058824,
-                        62.117647058823536,
-                        67.29411764705883,
-                        72.47058823529412,
-                        77.64705882352942,
-                        82.82352941176471,
-                        88.0
+                        4.235294117647059,
+                        8.470588235294118,
+                        12.705882352941178,
+                        16.941176470588236,
+                        21.176470588235293,
+                        25.411764705882355,
+                        29.647058823529413,
+                        33.88235294117647,
+                        38.11764705882353,
+                        42.35294117647059,
+                        46.588235294117645,
+                        50.82352941176471,
+                        55.05882352941177,
+                        59.294117647058826,
+                        63.529411764705884,
+                        67.76470588235294,
+                        72.0
                       ],
                       "units": [
                         "",
@@ -33288,11 +33288,11 @@
               "leveling": []
             },
             {
-              "description": "Innate: Bel'Veth's ability casts each generate 2 stacks of Death in Lavender, lasting for 5 seconds, refreshing on basic attacks and subsequent casts, and stacking up to 6 times. While Bel'Veth has stacks, she becomes ghosted and gains 20% : 43.14% (based on level) bonus attack speed. Her basic attacks each consume 1 stack.",
+              "description": "Innate: Bel'Veth's ability casts each generate 2 stacks of Death in Lavender, lasting for 5 seconds, refreshing on basic attacks and subsequent casts, and stacking up to 6 times. While Bel'Veth has stacks, she becomes ghosted and gains 20% : 40% (based on level) bonus attack speed. Her basic attacks each consume 1 stack.",
               "leveling": []
             },
             {
-              "description": "Innate: Whenever Bel'Veth scores a takedown against a champion, monster, or large minion within 3 seconds of damaging them, she generates a permanent stack of Lavender. Large minions and monsters generate 1 stack, champions and epic monsters generate 2 stacks.\nLavender: For each stack, Bel'Veth gains 0.28% : 1.2% (based on level) bonus attack speed.",
+              "description": "Innate: Whenever Bel'Veth scores a takedown against a champion, monster, or large minion within 3 seconds of damaging them, she generates a permanent stack of Lavender. Large minions and monsters generate 1 stack, champions and epic monsters generate 2 stacks.\nLavender: For each stack, Bel'Veth gains 0.28% : 1.1% (based on level) bonus attack speed.",
               "leveling": []
             }
           ],
@@ -37631,7 +37631,7 @@
               "leveling": []
             },
             {
-              "description": "Upon applying 3 stacks of Ablaze to a large monster or enemy champion, the fire becomes unstable, causing it form a fiery ring around the target that grants sight within its radius and, after 2 seconds, consumes their stacks to explode. All enemies within the detonation are applied a stack of Ablaze and dealt magic damage equal to 6% : 12.71% (based on level) (+ 2% per 100 AP) of their maximum health, capped at 270 / 355 / 440 / 525 (based on level) against monsters.",
+              "description": "Upon applying 3 stacks of Ablaze to a large monster or enemy champion, the fire becomes unstable, causing it form a fiery ring around the target that grants sight within its radius and, after 2 seconds, consumes their stacks to explode. All enemies within the detonation are applied a stack of Ablaze and dealt magic damage equal to 6% : 12% (based on level) (+ 2% per 100 AP) of their maximum health, capped at 270 / 355 / 440 / 525 (based on level) against monsters.",
               "leveling": []
             },
             {
@@ -39752,11 +39752,11 @@
               "leveling": []
             },
             {
-              "description": "The fourth stack against a target consumes them all to deal 26 : 216 (based on his level) magic damage and stun them for 1.25 : 1.75 (based on his level) seconds.",
+              "description": "The fourth stack against a target consumes them all to deal 26 : 196 (based on his level) magic damage and stun them for 1.25 : 1.75 (based on his level) seconds.",
               "leveling": []
             },
             {
-              "description": "This effect cannot apply to the same target more than once every few seconds. During this immunity period, affected targets take[ bonus magic damage equal to 40% of the trigger damage ][ 10.4 : 86.4 (based on level) bonus magic damage ]from Braum's basic attacks.",
+              "description": "This effect cannot apply to the same target more than once every few seconds. During this immunity period, affected targets take[ bonus magic damage equal to 40% of the trigger damage ][ 10.4 : 78.4 (based on level) bonus magic damage ]from Braum's basic attacks.",
               "leveling": []
             }
           ],
@@ -42059,7 +42059,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Briar/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Briar's basic attacks on-hit and abilities inflict a bleed against enemies for 5 seconds, refreshing on subsequent applications, stacking up to 5 times and dealing 25% damage for stacks beyond the first. The bleed deals[ 10 : 54.71 (based on level) (+ 50% bonus AD) total physical damage and heals Briar for 2.5 : 13.68 (based on level) (+ 12.5% bonus AD) over the duration, increased by 2.5 : 13.68 (based on level) (+ 12.5% bonus AD) and 0.63 : 3.42 (based on level) (+ 3.125% bonus AD) for each subsequent stack respectively and up to a maximum of 20 : 109.41 (based on level) (+ 100% bonus AD) total physical damage and 5 : 27.35 (based on level) (+ 25% bonus AD) over the duration. ][ 1 : 5.47 (based on level) (+ 5% bonus AD) physical damage and heals Briar for 0.25 : 1.37 (based on level) (+ 1.25% bonus AD) every 0.5 seconds, increased by 0.25 : 1.37 (based on level) (+ 1.25% bonus AD) and 0.06 : 0.34 (based on level) (+ 0.3125% bonus AD) for each subsequent stack respectively and up to a maximum of 2 : 10.94 (based on level) (+ 10% bonus AD) physical damage and 0.5 : 2.74 (based on level) (+ 2.5% bonus AD) per tick. ]If a target dies while bleeding, she will heal herself equal to 125% of the remaining bleed damage.",
+              "description": "Innate: Briar's basic attacks on-hit and abilities inflict a bleed against enemies for 5 seconds, refreshing on subsequent applications, stacking up to 5 times and dealing 25% damage for stacks beyond the first. The bleed deals[ 10 : 50 (based on level) (+ 50% bonus AD) total physical damage and heals Briar for 2.5 : 12.5 (based on level) (+ 12.5% bonus AD) over the duration, increased by 2.5 : 12.5 (based on level) (+ 12.5% bonus AD) and 0.63 : 3.13 (based on level) (+ 3.125% bonus AD) for each subsequent stack respectively and up to a maximum of 20 : 100 (based on level) (+ 100% bonus AD) total physical damage and 5 : 25 (based on level) (+ 25% bonus AD) over the duration. ][ 1 : 5 (based on level) (+ 5% bonus AD) physical damage and heals Briar for 0.25 : 1.25 (based on level) (+ 1.25% bonus AD) every 0.5 seconds, increased by 0.25 : 1.25 (based on level) (+ 1.25% bonus AD) and 0.06 : 0.31 (based on level) (+ 0.3125% bonus AD) for each subsequent stack respectively and up to a maximum of 2 : 10 (based on level) (+ 10% bonus AD) physical damage and 0.5 : 2.5 (based on level) (+ 2.5% bonus AD) per tick. ]If a target dies while bleeding, she will heal herself equal to 125% of the remaining bleed damage.",
               "leveling": []
             },
             {
@@ -46439,11 +46439,9 @@
                 "values": [
                   18,
                   14,
-                  10,
-                  6
+                  10
                 ],
                 "units": [
-                  " (based on level)",
                   " (based on level)",
                   " (based on level)",
                   " (based on level)"
@@ -48650,7 +48648,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Cassiopeia/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Cassiopeia increases the effectiveness of all movement speed bonuses by 6% : 44% (based on level).",
+              "description": "Innate: Cassiopeia increases the effectiveness of all movement speed bonuses by 6% : 40% (based on level).",
               "leveling": []
             }
           ],
@@ -49040,7 +49038,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Cassiopeia/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Cassiopeia launches her fangs at the target enemy that deal 52 : 128 (based on level) (+ 10% AP) magic damage. If this kills the target, Twin Fang's mana cost is refunded.",
+              "description": "Active: Cassiopeia launches her fangs at the target enemy that deal 52 : 120 (based on level) (+ 10% AP) magic damage. If this kills the target, Twin Fang's mana cost is refunded.",
               "leveling": []
             },
             {
@@ -49257,7 +49255,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Upon reaching the target, Twin Fang will wait for an ongoing  Noxious Blast to explode before dealing its damage.\nTwin Fang's damage against poisoned targets:\nWhen maxed first: 72 : 228 (based on level) (+ 65% AP).\nWhen maxed second: 72 : 228 (based on level) (+ 65% AP).\nWhen maxed last: 72 : 228 (based on level) (+ 65% AP).\nTwin Fang's cast indicator is incorrectly adding her own radius to the range like an  edge range ability, and is therefore slightly larger than the actual cast range Twin Fang can cast at.\nUsing Twin Fang on an out-of-range target after completing a movement order causes Cassiopeia to move back to her original location after casting, if no other order is issued during the entire process.(unexpected)\nThis may be a consequence of Twing Fang being a \"Walk in range of the target\" ability that does not interrupt movement commands.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+          "notes": "Upon reaching the target, Twin Fang will wait for an ongoing  Noxious Blast to explode before dealing its damage.\nTwin Fang's damage against poisoned targets:\nWhen maxed first: 72 : 220 (based on level) (+ 65% AP).\nWhen maxed second: 72 : 220 (based on level) (+ 65% AP).\nWhen maxed last: 72 : 220 (based on level) (+ 65% AP).\nTwin Fang's cast indicator is incorrectly adding her own radius to the range like an  edge range ability, and is therefore slightly larger than the actual cast range Twin Fang can cast at.\nUsing Twin Fang on an out-of-range target after completing a movement order causes Cassiopeia to move back to her original location after casting, if no other order is issued during the entire process.(unexpected)\nThis may be a consequence of Twing Fang being a \"Walk in range of the target\" ability that does not interrupt movement commands.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
           "blurb": "Active:  Cassiopeia launches an attack at the target enemy that deals magic damage. If this attack kills the target, the  mana cost is refunded.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -50539,7 +50537,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Chogath/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Cho'Gath kills an enemy, it heals for 18 : 56 (based on level) and restores 4.72 : 10.04 (based on level) mana.",
+              "description": "Innate: Whenever Cho'Gath kills an enemy, it heals for 18 : 52 (based on level) and restores 4.72 : 9.48 (based on level) mana.",
               "leveling": []
             }
           ],
@@ -54610,7 +54608,7 @@
               "leveling": []
             },
             {
-              "description": "Hemorrhage: For each stack, the target is dealt[ 13 : 32 (based on level) (+ 30% bonus AD) total physical damage over the duration, ][ 3.25 : 8 (based on level) (+ 7.5% bonus AD) physical damage every 1.25 seconds over the duration, ]up to a maximum of[ 65 : 160 (based on level) (+ 150% bonus AD) total physical damage over the duration. ][ 16.25 : 40 (based on level) (+ 37.5% bonus AD) physical damage with each tick. ]Hemorrhage deals 250% damage against monsters.",
+              "description": "Hemorrhage: For each stack, the target is dealt[ 13 : 30 (based on level) (+ 30% bonus AD) total physical damage over the duration, ][ 3.25 : 7.5 (based on level) (+ 7.5% bonus AD) physical damage every 1.25 seconds over the duration, ]up to a maximum of[ 65 : 150 (based on level) (+ 150% bonus AD) total physical damage over the duration. ][ 16.25 : 37.5 (based on level) (+ 37.5% bonus AD) physical damage with each tick. ]Hemorrhage deals 250% damage against monsters.",
               "leveling": []
             },
             {
@@ -54618,7 +54616,7 @@
               "leveling": []
             },
             {
-              "description": "Noxian Might: Darius gains 30 : 280 (based on level) bonus attack damage and instantly applies 5 Hemorrhage stacks through his usual means.",
+              "description": "Noxian Might: Darius gains 30 : 230 (based on level) bonus attack damage and instantly applies 5 Hemorrhage stacks through his usual means.",
               "leveling": []
             }
           ],
@@ -57209,11 +57207,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Diana/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Diana gains 15% : 37.35% (based on level) bonus attack speed. After casting an ability, this bonus is tripled to 45% : 112.06% (based on level) for 5 seconds.",
+              "description": "Innate: Diana gains 15% : 35% (based on level) bonus attack speed. After casting an ability, this bonus is tripled to 45% : 105% (based on level) for 5 seconds.",
               "leveling": []
             },
             {
-              "description": "Innate - Moonsilver Blade: Diana's basic attacks on-hit generate a stack of Moonsilver Blade for 5 seconds, refreshing on subsequent attacks and stacking up to 2 times. At 2 stacks, Diana empowers her next basic attack to consume the stacks on-hit to additionally cleave nearby enemies, dealing them 20 : 270 (based on level) (+ 50% AP) magic damage. Moonsilver Blade deals 270% damage against monsters.",
+              "description": "Innate - Moonsilver Blade: Diana's basic attacks on-hit generate a stack of Moonsilver Blade for 5 seconds, refreshing on subsequent attacks and stacking up to 2 times. At 2 stacks, Diana empowers her next basic attack to consume the stacks on-hit to additionally cleave nearby enemies, dealing them 20 : 220 (based on level) (+ 50% AP) magic damage. Moonsilver Blade deals 270% damage against monsters.",
               "leveling": []
             }
           ],
@@ -60220,7 +60218,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/DrMundo/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Dr. Mundo regenerates an additional[ 0.4% : 2.7% (based on level) of his maximum health every 5 seconds. ][ 0.04% : 0.23% (based on level) of his maximum health every 0.5 seconds. ]",
+              "description": "Innate: Dr. Mundo regenerates an additional[ 0.4% : 2.3% (based on level) of his maximum health every 5 seconds. ][ 0.04% : 0.23% (based on level) of his maximum health every 0.5 seconds. ]",
               "leveling": []
             },
             {
@@ -60464,7 +60462,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/DrMundo/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Dr. Mundo charges up a defibrillator for up to 3 seconds, dealing magic damage every 0.25 seconds to nearby enemies and storing 80% : 96.76% (based on level) of post-mitigation damage he takes as grey health on his health bar, reduced to 25% after the first 0.75 seconds.",
+              "description": "Active: Dr. Mundo charges up a defibrillator for up to 3 seconds, dealing magic damage every 0.25 seconds to nearby enemies and storing 80% : 95% (based on level) of post-mitigation damage he takes as grey health on his health bar, reduced to 25% after the first 0.75 seconds.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Tick",
@@ -229126,7 +229124,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: MayhemWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
