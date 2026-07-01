@@ -69121,7 +69121,7 @@
               "leveling": []
             },
             {
-              "description": "Demon Shade: While below 250 : 630 (based on level) (+ 250% AP) health, Evelynn heals herself for 15 : 165.88 (based on level) every second. From level 6 onward, Demon Shade also grants camouflage.",
+              "description": "Demon Shade: While below 250 : 590 (based on level) (+ 250% AP) health, Evelynn heals herself for 15 : 150 (based on level) every second. From level 6 onward, Demon Shade also grants camouflage.",
               "leveling": []
             }
           ],
@@ -77275,7 +77275,7 @@
               "leveling": []
             },
             {
-              "description": "Dealing damage in the direction of a Vital will trigger it to deal bonus true damage equal to 3% (+ 4% per 100 bonus AD) of target's maximum health, heal Fiora for 35 : 107.65 (based on level), and grant her 20% / 30% / 40% / 50% (based on Grand Challenge's Rank) bonus movement speed that decays over 1.85 seconds.",
+              "description": "Dealing damage in the direction of a Vital will trigger it to deal bonus true damage equal to 3% (+ 4% per 100 bonus AD) of target's maximum health, heal Fiora for 35 : 100 (based on level), and grant her 20% / 30% / 40% / 50% (based on Grand Challenge's Rank) bonus movement speed that decays over 1.85 seconds.",
               "leveling": []
             }
           ],
@@ -82671,7 +82671,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Galio/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Galio's next basic attack is empowered to have an uncancellable windup, gain 40% bonus attack speed and deal 15 : 126.76 (based on level) (+ 100% AD) (+ 40% AP) (+ 60% bonus magic resistance) modified magic damage to the target and all enemies near them.",
+              "description": "Innate: Periodically, Galio's next basic attack is empowered to have an uncancellable windup, gain 40% bonus attack speed and deal 15 : 115 (based on level) (+ 100% AD) (+ 40% AP) (+ 60% bonus magic resistance) modified magic damage to the target and all enemies near them.",
               "leveling": []
             },
             {
@@ -85030,11 +85030,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Gangplank/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Gangplank empowers his next basic attack to set the target on fire, dealing them[ 50 : 273.53 (based on level) (+ 100% bonus AD) bonus true damage over 2.5 seconds. ][ 5 : 27.35 (based on level) (+ 10% bonus AD) bonus true damage every 0.25 seconds over 2.5 seconds. ] Turrets are dealt 50% damage.",
+              "description": "Innate: Periodically, Gangplank empowers his next basic attack to set the target on fire, dealing them[ 50 : 250 (based on level) (+ 100% bonus AD) bonus true damage over 2.5 seconds. ][ 5 : 25 (based on level) (+ 10% bonus AD) bonus true damage every 0.25 seconds over 2.5 seconds. ] Turrets are dealt 50% damage.",
               "leveling": []
             },
             {
-              "description": "If Gangplank successfully hits a target with Trial by Fire, he gains 15% : 31.76% (based on level) bonus movement speed for 2 seconds. Every time a Powder Keg explodes, the cooldown for Trial by Fire resets and Gangplank gains its bonus movement speed.",
+              "description": "If Gangplank successfully hits a target with Trial by Fire, he gains 15% : 30% (based on level) bonus movement speed for 2 seconds. Every time a Powder Keg explodes, the cooldown for Trial by Fire resets and Gangplank gains its bonus movement speed.",
               "leveling": []
             },
             {
@@ -87121,7 +87121,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Garen/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Garen regenerates an additional[ 1.5% : 10.9% (based on level) of his maximum health every 5 seconds. ][ 0.15% : 1.09% (based on level) of his maximum health every 0.5 seconds. ]",
+              "description": "Innate: Garen regenerates an additional[ 1.5% : 10.1% (based on level) of his maximum health every 5 seconds. ][ 0.15% : 1.01% (based on level) of his maximum health every 0.5 seconds. ]",
               "leveling": []
             },
             {
@@ -93786,11 +93786,11 @@
               "leveling": []
             },
             {
-              "description": "Innate - 12-Gauge: Graves' basic attack sprays 4 pellets in a cone, each colliding with the first enemy unit in their path, dealing 70% : 105.04% (based on level) AD physical damage plus[ 23.31% : 34.98% (based on level) AD additional physical damage ][ about one-third of the damage ]for each subsequent pellet hitting the same target, up to 139.93% : 209.99% (based on level) AD total physical damage against a single target. Pellets deal 25% reduced damage against structures.",
+              "description": "Innate - 12-Gauge: Graves' basic attack sprays 4 pellets in a cone, each colliding with the first enemy unit in their path, dealing 70% : 100.01% (based on level) AD physical damage plus[ 23.31% : 33.3% (based on level) AD additional physical damage ][ about one-third of the damage ]for each subsequent pellet hitting the same target, up to 139.93% : 199.92% (based on level) AD total physical damage against a single target. Pellets deal 25% reduced damage against structures.",
               "leveling": []
             },
             {
-              "description": "Critical strikes spray 6 pellets over a 25% wider cone, with each pellet dealing[ (50% + 15%) increased damage, ][ increased damage equal to 50% bonus critical damage, ]resulting in[ 199.976% (+ 19.998%) total damage ][ 279.84% : 419.93% (based on level) (+ 27.98% : 41.99% (based on level)) AD total physical damage ]if all pellets hit a single target.",
+              "description": "Critical strikes spray 6 pellets over a 25% wider cone, with each pellet dealing[ (50% + 15%) increased damage, ][ increased damage equal to 50% bonus critical damage, ]resulting in[ 199.976% (+ 19.998%) total damage ][ 279.84% : 399.79% (based on level) (+ 27.98% : 39.98% (based on level)) AD total physical damage ]if all pellets hit a single target.",
               "leveling": []
             },
             {
@@ -93813,7 +93813,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Graves takes 2.08 seconds to reload 2 shells (when the clip is empty) and 1.3 seconds to reload 1 shell. He must idle with 1 shell for 2.08 seconds before he starts reloading. These values can be improved with bonus attack speed.\nValues of bonus attack speed between 150% and 200% have a negative effect on Graves'  reload speed.\nAttack speed growth will always have a positive effect on Graves'  reload speed and is not counted toward the 150% and 200% attack speed thresholds. For example, Graves gains 58.995% bonus attack speed from attack speed growth at level 20; meaning the thresholds at level 20 are at 208.995% and 258.995% respectively.\nMaximum reload speed is 0.651 : 0.919 (based on level), which equates to a reload timer of 1.54 : 1.09 (based on level) seconds, which is the shortest reload time at the 150% threshold.\nPrecise formula is unknown, but it is confirmed to be confusing. [2]\nThe in-game HUD for the champion's stat panel incorrectly displays Graves \"reload speed\" for reloading 2 shells as his attack speed, instead of displaying his actual attack speed which behaves normally like any other champion. This displayed value more accurately represents his reloads per second, and not attacks per second as the attack speed tooltip in the HUD would suggest.\nGraves can hit multiple individual enemies with a single shot from his basic attack. The first pellet hitting an enemy:\nDeals the highest damage out of all other pellets.\nApplies and triggers  on-hit effects.\n\"Single-use\" on-hit effects such as  Spellblade items will be applied to the very first enemy hit by a pellet (closest one in this case).\nApplies  basic damage, while all additional pellets deal  default damage.\nIs reduced by  Warden's Mail's Rock Solid.\nGraves' attack windup is based on such a low value that it will always take only 1 game tick, even at the lowest possible attack speed of 0.2.\nWhen Graves has his attack range increased by 35% to  573.75 via  Rapid Firecannon's Sharpshooter, it has special effects on the cone spread of his basic attack:\nThe reach of the individual missiles is also increased by 35% to  843.75 /  783.75.\nThe spread of the individual missiles is decreased by 35% (angle  ×  1/1.35) to 17.7° / 22.2°.\nPellets will not hit  wards nor jungle plants.\nWhen Graves performs a basic attack against these units, he will fire a standard ranged homing missile at the target to successfully hit it.\nThis same missile is also used for when his basic attack is empowered by an  Energized effect.\nPellets can be  dodged and  blocked, but not missed while Graves is  blinded.\nWhile Graves is  blinded, the pellets are special cased to fire in a random direction that is always away from the primary target of his basic attack.\nEnemies within range of the pellets in their randomly fired direction will be hit as the pellets cannot be missed.\n Basic attack resets other than  Quickdraw do not affect Graves' basic attack timer.\nStructures can be hit by multiple pellets, as with other valid targets.\nIf Graves'  basic attack  critically strikes against an enemy behind their structure, and this structure is hit by all pellets, the damage dealt to the structure is increased by 33.3%.\n On-attack effects such as  Help, Pix! and  Runaan's Hurricane's Wind's Fury will be triggered as usual from the completion of Graves'  basic attack windup. They will obey their standard target-acquisition rules in spite of Graves'  special basic attack behavior.\n Runaan's Hurricane's Wind's Fury can still fire its bolts at secondary targets even if they were already hit by the pellets of Graves'  basic attack.\n Black Cleaver's Carve will be applied for the physical damage dealt by each pellet, meaning that each of Graves'  basic attacks can apply up to 4 stacks of the effect, increased to the maximum of 5 with a  critical strike.\n Sundered Sky's Lightshield Strike will function normally with Graves'  basic attacks, causing the pellets to critically strike if the primary target was also a target of the item's effect.\nIf none of the pellets hit the target of Lightshield Strike's effect, however, the item's effect will not be consumed on the target thus not triggering the heal nor applying the on-target-cooldown, but still causing Graves'  basic attack to critically strike as if the effect was successfully consumed.\nHis basic attacks against the marked target will be guaranteed to critically strike until the item's effect has been consumed by at least one pellet hitting them.\nPellets will not consume the item's effect on secondary targets that are also targets of the item's effect; they will not consume the mark of enemies near the primary target that are marked by Lightshield Strike.\n Randuin's Omen's Resilience will reduce the critical damage dealt by every pellet, resulting in each pellet dealing less damage than if they were to not critically strike.\n Kraken Slayer's Bring It Down VFX for its missile appears to fire at the primary target, but will always collide with the target hit by the first pellet.",
+          "notes": "Graves takes 2.08 seconds to reload 2 shells (when the clip is empty) and 1.3 seconds to reload 1 shell. He must idle with 1 shell for 2.08 seconds before he starts reloading. These values can be improved with bonus attack speed.\nValues of bonus attack speed between 150% and 200% have a negative effect on Graves'  reload speed.\nAttack speed growth will always have a positive effect on Graves'  reload speed and is not counted toward the 150% and 200% attack speed thresholds. For example, Graves gains 58.995% bonus attack speed from attack speed growth at level 20; meaning the thresholds at level 20 are at 208.995% and 258.995% respectively.\nMaximum reload speed is 0.651 : 0.891 (based on level), which equates to a reload timer of 1.54 : 1.12 (based on level) seconds, which is the shortest reload time at the 150% threshold.\nPrecise formula is unknown, but it is confirmed to be confusing. [2]\nThe in-game HUD for the champion's stat panel incorrectly displays Graves \"reload speed\" for reloading 2 shells as his attack speed, instead of displaying his actual attack speed which behaves normally like any other champion. This displayed value more accurately represents his reloads per second, and not attacks per second as the attack speed tooltip in the HUD would suggest.\nGraves can hit multiple individual enemies with a single shot from his basic attack. The first pellet hitting an enemy:\nDeals the highest damage out of all other pellets.\nApplies and triggers  on-hit effects.\n\"Single-use\" on-hit effects such as  Spellblade items will be applied to the very first enemy hit by a pellet (closest one in this case).\nApplies  basic damage, while all additional pellets deal  default damage.\nIs reduced by  Warden's Mail's Rock Solid.\nGraves' attack windup is based on such a low value that it will always take only 1 game tick, even at the lowest possible attack speed of 0.2.\nWhen Graves has his attack range increased by 35% to  573.75 via  Rapid Firecannon's Sharpshooter, it has special effects on the cone spread of his basic attack:\nThe reach of the individual missiles is also increased by 35% to  843.75 /  783.75.\nThe spread of the individual missiles is decreased by 35% (angle  ×  1/1.35) to 17.7° / 22.2°.\nPellets will not hit  wards nor jungle plants.\nWhen Graves performs a basic attack against these units, he will fire a standard ranged homing missile at the target to successfully hit it.\nThis same missile is also used for when his basic attack is empowered by an  Energized effect.\nPellets can be  dodged and  blocked, but not missed while Graves is  blinded.\nWhile Graves is  blinded, the pellets are special cased to fire in a random direction that is always away from the primary target of his basic attack.\nEnemies within range of the pellets in their randomly fired direction will be hit as the pellets cannot be missed.\n Basic attack resets other than  Quickdraw do not affect Graves' basic attack timer.\nStructures can be hit by multiple pellets, as with other valid targets.\nIf Graves'  basic attack  critically strikes against an enemy behind their structure, and this structure is hit by all pellets, the damage dealt to the structure is increased by 33.3%.\n On-attack effects such as  Help, Pix! and  Runaan's Hurricane's Wind's Fury will be triggered as usual from the completion of Graves'  basic attack windup. They will obey their standard target-acquisition rules in spite of Graves'  special basic attack behavior.\n Runaan's Hurricane's Wind's Fury can still fire its bolts at secondary targets even if they were already hit by the pellets of Graves'  basic attack.\n Black Cleaver's Carve will be applied for the physical damage dealt by each pellet, meaning that each of Graves'  basic attacks can apply up to 4 stacks of the effect, increased to the maximum of 5 with a  critical strike.\n Sundered Sky's Lightshield Strike will function normally with Graves'  basic attacks, causing the pellets to critically strike if the primary target was also a target of the item's effect.\nIf none of the pellets hit the target of Lightshield Strike's effect, however, the item's effect will not be consumed on the target thus not triggering the heal nor applying the on-target-cooldown, but still causing Graves'  basic attack to critically strike as if the effect was successfully consumed.\nHis basic attacks against the marked target will be guaranteed to critically strike until the item's effect has been consumed by at least one pellet hitting them.\nPellets will not consume the item's effect on secondary targets that are also targets of the item's effect; they will not consume the mark of enemies near the primary target that are marked by Lightshield Strike.\n Randuin's Omen's Resilience will reduce the critical damage dealt by every pellet, resulting in each pellet dealing less damage than if they were to not critically strike.\n Kraken Slayer's Bring It Down VFX for its missile appears to fire at the primary target, but will always collide with the target hit by the first pellet.",
           "blurb": "Innate:  Graves'  basic attacks consume up to 2 shells before needing to reload. The reload speed is reduced based on his  bonus attack speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -96037,7 +96037,7 @@
               "leveling": []
             },
             {
-              "description": "A Thousand Cuts is modified based on the target:\n Heals Gwen for 50% of post-mitigation damage dealt against champions, capped at 10 : 26.76 (based on level) (+ 6.5% AP) per instance.\nDeals an additional 8 : 32.59 (based on level) bonus magic damage against minions that are below 40% health.\nDeals a maximum of 3 (+ 5% AP) magic damage against monsters.",
+              "description": "A Thousand Cuts is modified based on the target:\n Heals Gwen for 50% of post-mitigation damage dealt against champions, capped at 10 : 25 (based on level) (+ 6.5% AP) per instance.\nDeals an additional 8 : 30 (based on level) bonus magic damage against minions that are below 40% health.\nDeals a maximum of 3 (+ 5% AP) magic damage against monsters.",
               "leveling": []
             }
           ],
@@ -102376,7 +102376,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Hwei/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Hwei's damaging abilities mark enemies hit for 4 seconds. Subsequent damaging abilities against marked targets consume the mark to create an explosion beneath them, dealing 40 : 313.82 (based on level) (+ 35% AP) bonus magic damage to enemies in the area after a 0.85-second delay.",
+              "description": "Innate: Hwei's damaging abilities mark enemies hit for 4 seconds. Subsequent damaging abilities against marked targets consume the mark to create an explosion beneath them, dealing 40 : 285 (based on level) (+ 35% AP) bonus magic damage to enemies in the area after a 0.85-second delay.",
               "leveling": []
             }
           ],
@@ -104864,7 +104864,7 @@
               "leveling": []
             },
             {
-              "description": "Tentacles are commanded to attack by Illaoi's abilities, dealing 9 : 200.12 (based on level) (+ 110% AD) (+ 40% AP) physical damage to all enemies struck, increased by 0% : 30% (based on Tentacle Smash's rank).Each enemy individually reduces the slam damage by 50% for every slam they were hit by in the last 0.66 seconds, capped at 75% less damage.",
+              "description": "Tentacles are commanded to attack by Illaoi's abilities, dealing 9 : 180 (based on level) (+ 110% AD) (+ 40% AP) physical damage to all enemies struck, increased by 0% : 30% (based on Tentacle Smash's rank).Each enemy individually reduces the slam damage by 50% for every slam they were hit by in the last 0.66 seconds, capped at 75% less damage.",
               "leveling": []
             },
             {
@@ -104882,23 +104882,23 @@
               {
                 "values": [
                   18.0,
-                  17.277058823529412,
-                  16.554117647058824,
-                  15.831176470588236,
-                  15.108235294117648,
-                  14.38529411764706,
-                  13.66235294117647,
-                  12.939411764705882,
-                  12.216470588235294,
-                  11.493529411764706,
-                  10.770588235294118,
-                  10.047647058823529,
-                  9.32470588235294,
-                  8.601764705882353,
-                  7.878823529411765,
-                  7.155882352941177,
-                  6.432941176470589,
-                  5.710000000000001
+                  17.352941176470587,
+                  16.705882352941178,
+                  16.058823529411764,
+                  15.411764705882353,
+                  14.764705882352942,
+                  14.117647058823529,
+                  13.470588235294118,
+                  12.823529411764707,
+                  12.176470588235293,
+                  11.529411764705882,
+                  10.882352941176471,
+                  10.235294117647058,
+                  9.588235294117647,
+                  8.941176470588236,
+                  8.294117647058822,
+                  7.647058823529411,
+                  7.0
                 ],
                 "units": [
                   "",
@@ -106747,7 +106747,7 @@
               "leveling": []
             },
             {
-              "description": "Ionian Fervor: For each stack, Irelia gains 10% : 26.76% (based on level) bonus attack speed, up to a maximum of 40% : 107.06% (based on level). At maximum stacks, Irelia's basic attacks are empowered to deal 10 : 67 (based on level) (+ 20% bonus AD) bonus magic damage on-hit, reduced to[ 50% ][ 5 : 33.5 (based on level) (+ 10% bonus AD) ]against structures.",
+              "description": "Ionian Fervor: For each stack, Irelia gains 10% : 25% (based on level) bonus attack speed, up to a maximum of 40% : 100% (based on level). At maximum stacks, Irelia's basic attacks are empowered to deal 10 : 61 (based on level) (+ 20% bonus AD) bonus magic damage on-hit, reduced to[ 50% ][ 5 : 30.5 (based on level) (+ 10% bonus AD) ]against structures.",
               "leveling": []
             },
             {
@@ -106788,7 +106788,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Irelia/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Irelia dashes 100 units through the target enemy's location, and upon collision or dash completion, she deals physical damage, applies on-hit effects, and heals herself. Bladesurge deals 50 : 259 (based on level) bonus physical damage to minions.",
+              "description": "Active: Irelia dashes 100 units through the target enemy's location, and upon collision or dash completion, she deals physical damage, applies on-hit effects, and heals herself. Bladesurge deals 50 : 237 (based on level) bonus physical damage to minions.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -109349,7 +109349,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Ivern/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Ivern cannot attack nor damage non-epic monsters. Instead, targeting a jungle camp initiates a 2.5 second channel that will plant a grove upon the camp. Placing a grove costs 94.5 : -45.3 (based on level) health and 90 : -37.9 (based on level) mana. The channel cannot be cancelled in the first 0.15 seconds and in the last 0.5 seconds.",
+              "description": "Innate: Ivern cannot attack nor damage non-epic monsters. Instead, targeting a jungle camp initiates a 2.5 second channel that will plant a grove upon the camp. Placing a grove costs 94.5 : 0.14 (based on level) health and 90 : 0.37 (based on level) mana. The channel cannot be cancelled in the first 0.15 seconds and in the last 0.5 seconds.",
               "leveling": []
             },
             {
@@ -115954,7 +115954,7 @@
               "leveling": []
             },
             {
-              "description": "Relentless Assault: For each stack, Jax gains 5% : 14% (based on level) bonus attack speed, up to a maximum of 40% : 112% (based on level).",
+              "description": "Relentless Assault: For each stack, Jax gains 5% : 12.5% (based on level) bonus attack speed, up to a maximum of 40% : 100% (based on level).",
               "leveling": []
             },
             {
@@ -125670,7 +125670,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/KSante/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: K'Sante's abilities mark enemies hit for 4 seconds. His basic attacks against marked enemies are empowered to consume the mark, dealing 12 (+ 1% : 2.12% (based on level) of target's maximum health) bonus physical damage. The damage based on the target's health ratio deals a minimum of 15 : 110 (based on level) against minions and is capped at 20 : 115 (based on level) against monsters.",
+              "description": "Innate: K'Sante's abilities mark enemies hit for 4 seconds. His basic attacks against marked enemies are empowered to consume the mark, dealing 12 (+ 1% : 2% (based on level) of target's maximum health) bonus physical damage. The damage based on the target's health ratio deals a minimum of 15 : 100 (based on level) against minions and is capped at 20 : 105 (based on level) against monsters.",
               "leveling": []
             },
             {
@@ -127101,7 +127101,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Caustic Wounds: Plasma stacks applied by Kai'Sa's basic attacks or Void Seeker deal 4 : 26.35 (based on level) (+ 12% AP) additional magic damage plus 1 : 6.59 (based on level) (+ 3% AP) additional magic damage per Plasma stack before application, up to a total of 8 : 52.71 (based on level) (+ 24% AP) additional magic damage at 4 Plasma stacks before application. The fifth stack against a target consumes them all to deal additional magic damage equal to 15% (+ 6% per 100 AP) of the target's missing health, capped at 400 against monsters.",
+              "description": "Innate - Caustic Wounds: Plasma stacks applied by Kai'Sa's basic attacks or Void Seeker deal 4 : 24 (based on level) (+ 12% AP) additional magic damage plus 1 : 6 (based on level) (+ 3% AP) additional magic damage per Plasma stack before application, up to a total of 8 : 48 (based on level) (+ 24% AP) additional magic damage at 4 Plasma stacks before application. The fifth stack against a target consumes them all to deal additional magic damage equal to 15% (+ 6% per 100 AP) of the target's missing health, capped at 400 against monsters.",
               "leveling": []
             }
           ],
@@ -127307,7 +127307,7 @@
               ]
             },
             {
-              "description": "Evolution: Requires[ 100 : 49 (based on level) attack damage from items ][ 100 attack damage from items and stat growth ]to upgrade : Icathian Rain instead fires 12 missiles.",
+              "description": "Evolution: Requires[ 100 : 56 (based on level) attack damage from items ][ 100 attack damage from items and stat growth ]to upgrade : Icathian Rain instead fires 12 missiles.",
               "leveling": [
                 {
                   "attribute": "Total Evolved Single-Target Damage",
@@ -127652,7 +127652,7 @@
               "leveling": []
             },
             {
-              "description": "Evolution: Requires[ 100% : 65% (based on level) attack speed from items ][ 100% attack speed from items and stat growth ]to upgrade : Supercharge grants invisibility at the start of the cast time for 0.5 seconds.",
+              "description": "Evolution: Requires[ 100% : 70% (based on level) attack speed from items ][ 100% attack speed from items and stat growth ]to upgrade : Supercharge grants invisibility at the start of the cast time for 0.5 seconds.",
               "leveling": []
             }
           ],
@@ -138247,7 +138247,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Sinister Steel: Whenever Katarina retrieves a Dagger, she slashes around herself to deal 68 : 275 (based on level) (+ 60% bonus AD) (+ 70% / 80% / 90% / 100% (based on level) AP) magic damage to nearby enemies, apply on-hit effects to enemy champions hit, and reduce Shunpo's current cooldown by 78% / 84% / 90% / 96% (based on level) of its total cooldown.",
+              "description": "Innate - Sinister Steel: Whenever Katarina retrieves a Dagger, she slashes around herself to deal 68 : 240 (based on level) (+ 60% bonus AD) (+ 70% / 80% / 90% / 100% (based on level) AP) magic damage to nearby enemies, apply on-hit effects to enemy champions hit, and reduce Shunpo's current cooldown by 78% / 84% / 90% / 96% (based on level) of its total cooldown.",
               "leveling": []
             },
             {
@@ -140927,7 +140927,7 @@
               "leveling": []
             },
             {
-              "description": "Level 11 - Aflame: Kayle gains 10% bonus size. While Kayle is Exalted, her basic attacks on-attack also launch a wave of fire forward that deals 20 : 47 (based on level) (+ 10% bonus AD) (+ 25% AP) magic damage to all enemies it passes through. The wave is affected by critical strike modifiers.",
+              "description": "Level 11 - Aflame: Kayle gains 10% bonus size. While Kayle is Exalted, her basic attacks on-attack also launch a wave of fire forward that deals 20 : 41 (based on level) (+ 10% bonus AD) (+ 25% AP) magic damage to all enemies it passes through. The wave is affected by critical strike modifiers.",
               "leveling": []
             },
             {
@@ -143905,7 +143905,7 @@
               "leveling": []
             },
             {
-              "description": "Shadow Assassin Bonus: Upon entering combat with enemy champions, Kayn becomes empowered for 3 seconds to deal 20% : 42.35% (based on level) of post-mitigation physical and magic damage dealt against enemy champions as bonus magic damage. This effect cannot trigger again until Kayn has been out of combat with champions for over 8 seconds, with the timer being reset if he recasts Umbral Trespass.",
+              "description": "Shadow Assassin Bonus: Upon entering combat with enemy champions, Kayn becomes empowered for 3 seconds to deal 20% : 40% (based on level) of post-mitigation physical and magic damage dealt against enemy champions as bonus magic damage. This effect cannot trigger again until Kayn has been out of combat with champions for over 8 seconds, with the timer being reset if he recasts Umbral Trespass.",
               "leveling": []
             },
             {
@@ -147359,7 +147359,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Khazix/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Kha'Zix gains Unseen Threat whenever the enemy loses sight of him or he activates Void Assault. Unseen Threat: Kha'Zix empowers his next basic attack against an enemy champion to deal 17 : 150 (based on level) (+ 50% bonus AD) bonus magic damage and slow them by 25% for 2 seconds.",
+              "description": "Innate: Kha'Zix gains Unseen Threat whenever the enemy loses sight of him or he activates Void Assault. Unseen Threat: Kha'Zix empowers his next basic attack against an enemy champion to deal 17 : 136 (based on level) (+ 50% bonus AD) bonus magic damage and slow them by 25% for 2 seconds.",
               "leveling": []
             }
           ],
@@ -149816,7 +149816,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kindred/ability-icon/w",
           "effects": [
             {
-              "description": "Passive: Lamb generates 1 stack of Hunter's Vigor for every 27 units she travels by any means and 5 stacks on-attack, up to a maximum of 100 stacks. At maximum stacks, her next basic attack heals her for 0% : 100% (based on Kindred's missing health) of 47 : 85 (based on level). The heal is not triggered if Kindred is at full health.",
+              "description": "Passive: Lamb generates 1 stack of Hunter's Vigor for every 27 units she travels by any means and 5 stacks on-attack, up to a maximum of 100 stacks. At maximum stacks, her next basic attack heals her for 0% : 100% (based on Kindred's missing health) of 47 : 81 (based on level). The heal is not triggered if Kindred is at full health.",
               "leveling": []
             },
             {
@@ -151580,7 +151580,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Kled rides his semi-trusty mount, Skaarl. While Mounted, all damage dealt to the duo is suffered by Skaarl, who has 400 : 1556.76 (based on level) base health; additional sources of health are applied to Skaarl's maximum health. Effects based on percentage health consider Kled and Skaarl's combined maximum health.",
+              "description": "Innate: Kled rides his semi-trusty mount, Skaarl. While Mounted, all damage dealt to the duo is suffered by Skaarl, who has 400 : 1400 (based on level) base health; additional sources of health are applied to Skaarl's maximum health. Effects based on percentage health consider Kled and Skaarl's combined maximum health.",
               "leveling": []
             },
             {
@@ -151631,11 +151631,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Kled/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Kled is only vulnerable to death while Dismounted. Kled has 410 : 2061.86 (based on level) base health, which is not improved by sources of bonus health, his movement speed is reduced[ by 40 ][ to 305 ], and he gains 125 total attack range. Effects based on percentage health consider Kled and Skaarl's combined maximum health, meaning that a Dismounted Kled is never considered to be at full health.",
+              "description": "Innate: Kled is only vulnerable to death while Dismounted. Kled has 410 : 1838 (based on level) base health, which is not improved by sources of bonus health, his movement speed is reduced[ by 40 ][ to 305 ], and he gains 125 total attack range. Effects based on percentage health consider Kled and Skaarl's combined maximum health, meaning that a Dismounted Kled is never considered to be at full health.",
               "leveling": []
             },
             {
-              "description": "Kled gains 70 : 165 (based on level) bonus movement speed while facing and after attacking nearby visible enemy champions, but his basic attacks against them are reduced to 85% / 90% / 95% / 100% (based on level) AD physical damage. He also gains bonus armor and bonus magic resistance equal to 4 (+ 1% of bonus health), increased by 30% for each nearby visible enemy champion, up to a maximum of 10 (+ 2.5% bonus health) resistances. Additionally, he gains the ability to restore Skaarl's Courage to mount again.",
+              "description": "Kled gains 70 : 155 (based on level) bonus movement speed while facing and after attacking nearby visible enemy champions, but his basic attacks against them are reduced to 85% / 90% / 95% / 100% (based on level) AD physical damage. He also gains bonus armor and bonus magic resistance equal to 4 (+ 1% of bonus health), increased by 30% for each nearby visible enemy champion, up to a maximum of 10 (+ 2.5% bonus health) resistances. Additionally, he gains the ability to restore Skaarl's Courage to mount again.",
               "leveling": []
             },
             {
@@ -152175,23 +152175,23 @@
                     {
                       "values": [
                         62.0,
-                        64.02411764705883,
-                        66.04823529411765,
-                        68.07235294117648,
-                        70.09647058823529,
-                        72.12058823529412,
-                        74.14470588235294,
-                        76.16882352941177,
-                        78.19294117647058,
-                        80.21705882352941,
-                        82.24117647058823,
-                        84.26529411764706,
-                        86.28941176470587,
-                        88.3135294117647,
-                        90.33764705882353,
-                        92.36176470588235,
-                        94.38588235294117,
-                        96.41
+                        63.75,
+                        65.5,
+                        67.25,
+                        69.0,
+                        70.75,
+                        72.5,
+                        74.25,
+                        76.0,
+                        77.75,
+                        79.5,
+                        81.25,
+                        83.0,
+                        84.75,
+                        86.5,
+                        88.25,
+                        90.0,
+                        91.75
                       ],
                       "units": [
                         "",
@@ -153591,7 +153591,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/KogMaw/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Upon taking fatal damage, Kog'Maw enters a zombie state for 4 seconds, becoming ghosted and gaining 10% bonus movement speed that increases up to 50% over the duration. At the end of the duration, he explodes to deal 140 : 710 (based on level) true damage to nearby enemies.",
+              "description": "Innate: Upon taking fatal damage, Kog'Maw enters a zombie state for 4 seconds, becoming ghosted and gaining 10% bonus movement speed that increases up to 50% over the duration. At the end of the duration, he explodes to deal 140 : 650 (based on level) true damage to nearby enemies.",
               "leveling": []
             },
             {
@@ -161694,7 +161694,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Leona/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Leona's abilities mark enemies hit for 2.5 seconds, refreshing on subsequent hits. Allied champions' damaging attacks and abilities against a marked target will consume the mark to deal 32 : 165 (based on level) bonus magic damage.",
+              "description": "Innate: Leona's abilities mark enemies hit for 2.5 seconds, refreshing on subsequent hits. Allied champions' damaging attacks and abilities against a marked target will consume the mark to deal 32 : 151 (based on level) bonus magic damage.",
               "leveling": []
             }
           ],
@@ -164266,11 +164266,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Lillia/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Lillia's abilities apply Dream Dust to enemies hit, which deals[ 5% (+ 1.25% per 100 AP) of the target's maximum health total magic damage over 3 seconds, capped at 70 : 192.94 (based on level) against monsters. ][ 0.83% (+ 0.2083% per 100 AP) of the target's maximum health magic damage every 0.5 seconds over 3 seconds, capped at 11.67 : 32.16 (based on level) per tick against monsters. ]",
+              "description": "Innate: Lillia's abilities apply Dream Dust to enemies hit, which deals[ 5% (+ 1.25% per 100 AP) of the target's maximum health total magic damage over 3 seconds, capped at 70 : 180 (based on level) against monsters. ][ 0.83% (+ 0.2083% per 100 AP) of the target's maximum health magic damage every 0.5 seconds over 3 seconds, capped at 11.67 : 30 (based on level) per tick against monsters. ]",
               "leveling": []
             },
             {
-              "description": "Lillia heals herself for[ 39 (+ 15% AP) against large monsters and 6 : 103.17 (based on level) (+ 30% AP) against champions ][ 6.5 (+ 2.5% AP) against large monsters and 1 : 17.19 (based on level) (+ 5% AP) against champions every 0.5 seconds ]over the duration of Dream Dust, reduced to 15% effectiveness for each target afflicted beyond the first. She may only heal against 1 monster at a time.",
+              "description": "Lillia heals herself for[ 39 (+ 15% AP) against large monsters and 6 : 90 (based on level) (+ 30% AP) against champions ][ 6.5 (+ 2.5% AP) against large monsters and 1 : 15 (based on level) (+ 5% AP) against champions every 0.5 seconds ]over the duration of Dream Dust, reduced to 15% effectiveness for each target afflicted beyond the first. She may only heal against 1 monster at a time.",
               "leveling": []
             }
           ],
@@ -166442,7 +166442,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Lissandra/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever a nearby enemy champion dies, Lissandra spawns a Frozen Thrall from their corpse.Frozen Thralls are ice spirits that have 33.48 : 325 (based on seconds alive) movement speed and slow nearby enemies by 25%. They will chase nearby visible enemies for 4 seconds, prioritizing champions, after which they shatter to deal 120 : 580 (based on level) (+ 50% AP) magic damage to nearby enemies.",
+              "description": "Innate: Whenever a nearby enemy champion dies, Lissandra spawns a Frozen Thrall from their corpse.Frozen Thralls are ice spirits that have 33.48 : 325 (based on seconds alive) movement speed and slow nearby enemies by 25%. They will chase nearby visible enemies for 4 seconds, prioritizing champions, after which they shatter to deal 120 : 520 (based on level) (+ 50% AP) magic damage to nearby enemies.",
               "leveling": []
             }
           ],
@@ -168580,7 +168580,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Locke's basic attacks deal 5 : 44.12 (based on level) (+ 10% AP) bonus magic damage on-hit, increased by 0% : 100% (based on target's missing health), up to 10 : 88.24 (based on level) (+ 20% AP).",
+              "description": "Innate: Locke's basic attacks deal 5 : 40 (based on level) (+ 10% AP) bonus magic damage on-hit, increased by 0% : 100% (based on target's missing health), up to 10 : 80 (based on level) (+ 20% AP).",
               "leveling": []
             }
           ],
@@ -168925,7 +168925,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Locke ignites his soul for 6 seconds, gaining 40% : 73.53% (based on level) bonus attack speed and bonus movement speed, with the latter decaying to 20% over 1 second after 1.5 seconds have elapsed. He also stores an amount of grey health on his health bar equal to 100% of the post-mitigation damage he takes from enemy champions, up to a cap, plus the total amount of health lost from Soul Ignition's health cost. This is increased by up to 40 : 218.82 (based on level) (+ 20% AP) based on his missing health and Soul Ignition's elapsed duration. The missing health portion of this additional heal maxes out when at 150 : 485.29 (based on level) (+ 60% AP) health remaining or below.",
+              "description": "Active: Locke ignites his soul for 6 seconds, gaining 40% : 70% (based on level) bonus attack speed and bonus movement speed, with the latter decaying to 20% over 1 second after 1.5 seconds have elapsed. He also stores an amount of grey health on his health bar equal to 100% of the post-mitigation damage he takes from enemy champions, up to a cap, plus the total amount of health lost from Soul Ignition's health cost. This is increased by up to 40 : 200 (based on level) (+ 20% AP) based on his missing health and Soul Ignition's elapsed duration. The missing health portion of this additional heal maxes out when at 150 : 450 (based on level) (+ 60% AP) health remaining or below.",
               "leveling": [
                 {
                   "attribute": "Movement speed",
@@ -169222,10 +169222,10 @@
               {
                 "values": [
                   30,
-                  30,
-                  30,
-                  30,
-                  30
+                  40,
+                  50,
+                  60,
+                  70
                 ],
                 "units": [
                   "",
@@ -172415,7 +172415,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Lulu/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Lulu is assisted by Pix, an untargetable faerie, who follows her around and fires a barrage of 3 bolts towards her target whenever she uses a basic attack on-attack. Each bolt deals 5 : 43 (based on level) (+ 5% AP) magic damage to the first enemy it collides with, for a total of 15 : 129 (based on level) (+ 15% AP) on hitting a single target with all three bolts.",
+              "description": "Innate: Lulu is assisted by Pix, an untargetable faerie, who follows her around and fires a barrage of 3 bolts towards her target whenever she uses a basic attack on-attack. Each bolt deals 5 : 39 (based on level) (+ 5% AP) magic damage to the first enemy it collides with, for a total of 15 : 117 (based on level) (+ 15% AP) on hitting a single target with all three bolts.",
               "leveling": []
             },
             {
@@ -174816,7 +174816,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Lux/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Lux's abilities apply a mark to enemies hit for 6 seconds, refreshing on subsequent hits. Lux's basic attacks on-hit and Final Spark consume the mark to deal 30 : 220 (based on level) (+ 35% AP) bonus magic damage.",
+              "description": "Innate: Lux's abilities apply a mark to enemies hit for 6 seconds, refreshing on subsequent hits. Lux's basic attacks on-hit and Final Spark consume the mark to deal 30 : 200 (based on level) (+ 35% AP) bonus magic damage.",
               "leveling": []
             }
           ],
@@ -182434,7 +182434,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Maokai/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Maokai empowers his next basic attack to have an uncancellable windup and heal him for 4% : 14.1% (based on level) maximum health after a 0.25-second delay.",
+              "description": "Innate: Periodically, Maokai empowers his next basic attack to have an uncancellable windup and heal him for 4% : 12.8% (based on level) maximum health after a 0.25-second delay.",
               "leveling": []
             },
             {
@@ -182452,23 +182452,23 @@
               {
                 "values": [
                   30.0,
-                  29.342352941176472,
-                  28.68470588235294,
-                  28.027058823529412,
-                  27.369411764705884,
-                  26.711764705882352,
-                  26.054117647058824,
-                  25.396470588235296,
-                  24.738823529411764,
-                  24.081176470588236,
-                  23.423529411764704,
-                  22.765882352941176,
-                  22.108235294117648,
-                  21.45058823529412,
-                  20.79294117647059,
-                  20.13529411764706,
-                  19.47764705882353,
-                  18.82
+                  29.41176470588235,
+                  28.823529411764707,
+                  28.235294117647058,
+                  27.647058823529413,
+                  27.058823529411764,
+                  26.470588235294116,
+                  25.88235294117647,
+                  25.294117647058822,
+                  24.705882352941178,
+                  24.11764705882353,
+                  23.529411764705884,
+                  22.941176470588236,
+                  22.352941176470587,
+                  21.764705882352942,
+                  21.176470588235293,
+                  20.588235294117645,
+                  20.0
                 ],
                 "units": [
                   "",
@@ -187809,7 +187809,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Searing Brilliance: Mel's ability casts each generate 3 stacks of Searing Brilliance for 5 seconds, refreshing on subsequent casts and stacking up to 9 times. Her next basic attack consumes all stacks of Searing Brilliance to additionally fire an equal number of blazing projectiles at the target. Each projectile deals 8 : 32.59 (based on level) (+ 4% AP) magic damage, for a total possible damage of 72 : 293.29 (based on level) (+ 36% AP) at maximum stacks.",
+              "description": "Innate - Searing Brilliance: Mel's ability casts each generate 3 stacks of Searing Brilliance for 5 seconds, refreshing on subsequent casts and stacking up to 9 times. Her next basic attack consumes all stacks of Searing Brilliance to additionally fire an equal number of blazing projectiles at the target. Each projectile deals 8 : 30 (based on level) (+ 4% AP) magic damage, for a total possible damage of 72 : 270 (based on level) (+ 36% AP) at maximum stacks.",
               "leveling": []
             }
           ],
@@ -189242,7 +189242,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Milio/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Milio's ability hits on himself and allied champions grant an enchantment for 4 seconds, which causes the next basic attack or ability hit against enemies to deal 7% / 11% / 15% (based on level) of enchanted target's AD bonus magic damage and apply a burn that deals[ 10 : 54.71 (based on level) (+ 20% of Milio's AP) magic damage ][ 1.67 : 9.12 (based on level) (+ 3.33% of Milio's AP) magic damage every 0.25 seconds ]over 1.5 seconds.",
+              "description": "Innate: Milio's ability hits on himself and allied champions grant an enchantment for 4 seconds, which causes the next basic attack or ability hit against enemies to deal 7% / 11% / 15% (based on level) of enchanted target's AD bonus magic damage and apply a burn that deals[ 10 : 50 (based on level) (+ 20% of Milio's AP) magic damage ][ 1.67 : 8.33 (based on level) (+ 3.33% of Milio's AP) magic damage every 0.25 seconds ]over 1.5 seconds.",
               "leveling": []
             }
           ],
@@ -193590,7 +193590,7 @@
               "leveling": []
             },
             {
-              "description": "Darkness Rise: Mordekaiser gains 3% / 6% / 9% / 12% (based on level) bonus movement speed and deals[ 5 (+ 30% AP) (+ 1% : 5.47% (based on level) of target's maximum health) magic damage every second ][ 0.625 (+ 3.75% AP) (+ 0.13% : 0.68% (based on level) of target's maximum health) magic damage every 0.125 seconds ]to nearby enemies. Against monsters, the damage is capped at[ 40 : 218.82 (based on level) per second. ][ 5 : 25 (based on level) per 0.125 seconds. ]",
+              "description": "Darkness Rise: Mordekaiser gains 3% / 6% / 9% (based on level) bonus movement speed and deals[ 5 (+ 30% AP) (+ 1% : 5% (based on level) of target's maximum health) magic damage every second ][ 0.625 (+ 3.75% AP) (+ 0.13% : 0.63% (based on level) of target's maximum health) magic damage every 0.125 seconds ]to nearby enemies. Against monsters, the damage is capped at[ 40 : 200 (based on level) per second. ][ 5 : 25 (based on level) per 0.125 seconds. ]",
               "leveling": []
             }
           ],
@@ -194013,7 +194013,7 @@
               "leveling": []
             },
             {
-              "description": "Units between realms see each other as spirits, considering each other dead and negating any interactions between each other. Only Mordekaiser and the target will enter the realm; other champions cannot follow them. Everything that occurs inside the Death Realm is hidden to units outside of it, and vice versa. Most pets still inside the realm are killed at its end.",
+              "description": "Units between realms see each other as spirits. Only Mordekaiser and the target will enter the realm; other champions cannot follow them. Everything that occurs inside the Death Realm is hidden to units outside of it, and vice versa. Most pets still inside the realm are killed at its end.",
               "leveling": []
             },
             {
