@@ -59953,7 +59953,10 @@
         "voiceActor": [
           "Nicole Oliver"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ]
       },
       {
         "name": "Eclipse Eternal Aspect",
@@ -59985,7 +59988,10 @@
         "voiceActor": [
           "Nicole Oliver"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Jiunn Kuo",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -110894,7 +110900,10 @@
         "voiceActor": [
           "David Lodge"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Lejia Chan",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -366997,7 +367006,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Arc of Ruin grants  sight of its surroundings during the cast time and for 0.3 seconds afterwards.\nThis ability will cast from wherever the caster is at the end of the cast time.\nArc of Ruin does not trigger ultimate cast effects, such as  Experimental Hexplate's Overdrive,  Zeke's Convergence's Frostfire Tempest and  Cloud Dragon Soul's increased movement speed.\nDeveloper's Note: This is intended.",
+          "notes": "Arc of Ruin grants  sight of its surroundings during the cast time and for 0.3 seconds afterwards.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe cooldown of Arc of Ruin can be reduced by any item or rune that reduces ultimate cooldown.\nThe damage of Arc of Ruin is considered ultimate damage for the purposes of  Malignance's Hatefog and  Axiom Arcanist.\nArc of Ruin does not trigger ultimate cast effects, such as  Experimental Hexplate's Overdrive,  Zeke's Convergence's Frostfire Tempest and  Cloud Dragon Soul's increased movement speed.\nDeveloper's Note: This is intended.",
           "blurb": "Active:  Yunara fires a beam of spirit magic in the target direction that deals magic damage to enemies and  slows them for a short duration.",
           "missileSpeed": null,
           "rechargeRate": null,
