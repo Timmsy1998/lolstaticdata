@@ -185109,27 +185109,11 @@
                   40
                 ],
                 "units": [
-                  " mana",
-                  " mana",
-                  " mana",
-                  " mana",
-                  " mana"
-                ]
-              },
-              {
-                "values": [
-                  6,
-                  6,
-                  6,
-                  6,
-                  6
-                ],
-                "units": [
-                  "% maximum",
-                  "% maximum",
-                  "% maximum",
-                  "% maximum",
-                  "% maximum"
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
                 ]
               }
             ]
@@ -185158,7 +185142,7 @@
           "targeting": "Auto",
           "affects": "Self",
           "spellshieldable": null,
-          "resource": "MANA_PER_SECOND",
+          "resource": "OTHER",
           "damageType": null,
           "spellEffects": null,
           "projectile": null,
