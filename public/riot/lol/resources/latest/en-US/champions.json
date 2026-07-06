@@ -343601,7 +343601,7 @@
               "leveling": []
             },
             {
-              "description": "After the duration, the infection bursts to deal magic damage to all affected targets and, after a 0.4-second delay, heal Vladimir for each infected champion, reduced by 40% for champions beyond the first.",
+              "description": "After the duration, the infection bursts to deal magic damage to all affected targets and, after a 0.4-second delay, heal Vladimir for each infected champion, reduced to 40% for champions beyond the first.",
               "leveling": [
                 {
                   "attribute": "Magic damage",
