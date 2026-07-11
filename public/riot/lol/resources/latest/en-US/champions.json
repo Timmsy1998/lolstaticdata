@@ -39516,7 +39516,10 @@
         "newVoice": false,
         "newQuotes": false,
         "voiceActor": [],
-        "splashArtist": []
+        "splashArtist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -104634,7 +104637,10 @@
         "voiceActor": [
           "Stephen Fu"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Herbie Wang",
+          "Kudos Productions"
+        ]
       }
     ]
   },
@@ -158418,7 +158424,10 @@
         "voiceActor": [
           "Naomi McDonald"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Yuyu Wong",
+          "Kudos Productions"
+        ]
       }
     ]
   },
