@@ -5,7 +5,7 @@
     "name": "Aatrox",
     "title": "The Darkin Blade",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Aatrox.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Aatrox.png",
     "resource": "BLOOD_WELL",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -2141,7 +2141,7 @@
     "name": "Ahri",
     "title": "The Nine-Tailed Fox",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ahri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ahri.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -5388,7 +5388,7 @@
     "name": "Akali",
     "title": "The Rogue Assassin",
     "fullName": "Akali Jhomen Tethi",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Akali.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Akali.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -8749,7 +8749,7 @@
     "name": "Akshan",
     "title": "The Rogue Sentinel",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Akshan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Akshan.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -10418,7 +10418,7 @@
     "name": "Alistar",
     "title": "The Minotaur",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Alistar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Alistar.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -12353,7 +12353,7 @@
     "name": "Ambessa",
     "title": "Matriarch of War",
     "fullName": "Ambessa Medarda",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ambessa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ambessa.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -13825,7 +13825,7 @@
     "name": "Amumu",
     "title": "The Sad Mummy",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Amumu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Amumu.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -16118,7 +16118,7 @@
     "name": "Anivia",
     "title": "The Cryophoenix",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Anivia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Anivia.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -18445,7 +18445,7 @@
     "name": "Annie",
     "title": "The Dark Child",
     "fullName": "Annie Hastur",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Annie.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Annie.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -20736,7 +20736,7 @@
     "name": "Aphelios",
     "title": "The Weapon of the Faithful",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Aphelios.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Aphelios.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -23149,7 +23149,7 @@
     "name": "Ashe",
     "title": "The Frost Archer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ashe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ashe.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -26100,11 +26100,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_centered_84.skins_ashe_skin84.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_uncentered_84.skins_ashe_skin84.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_tile_84.skins_ashe_skin84.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84.skins_ashe_skin84.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84_le.skins_ashe_skin84.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_centered_84.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_uncentered_84.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/images/ashe_splash_tile_84.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin84/asheloadscreen_84_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -26126,7 +26126,7 @@
     "name": "Aurelion Sol",
     "title": "The Star Forger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/AurelionSol.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/AurelionSol.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -28143,7 +28143,7 @@
     "name": "Aurora",
     "title": "The Witch Between Worlds",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Aurora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Aurora.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -29581,7 +29581,7 @@
     "name": "Azir",
     "title": "The Emperor of the Sands",
     "fullName": "Omah Azir",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Azir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Azir.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -30459,7 +30459,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The soldier units are spawned only 175 units behind Azir, but do not control the  knock back directly. Each comes with a missile that travels the same path and conveys the damage and knockback effect.\nThe furthest area (from 325 to 175 units behind Azir) is covered by a separate set of missiles with the same effects.\nAll of the soldiers and their missiles will end the charge prematurely when one encounters  Wind Wall /  Unbreakable /  Blade Whirl /  Rebuttal or upon colliding with terrain that they cannot charge through.\nThe charge starts at 0.25 seconds into the cast time.\nThis ability will cast from wherever the caster is at the start of the cast time.\nWhen the dash of the soldiers comes to a halt, all not-yet-affected enemies on top of the soldiers' landing locations (125 radius) are also knocked back.\nEmperor's Divide will not be canceled if Azir dies during the cast time.\nWhile the soldiers are charging forward, the wall is not impassable terrain.\nThis means enemies that are immune to  airborne effects can pass through the wall while its moving.\nThe wall will count as terrain for the purposes of 'into terrain' effects (e.g.  Condemn,  Dredge Line,  Heroic Charge). This will only affect enemies, allies will pass through the wall in all circumstances, even if knocked into it by an enemy.",
+          "notes": "Monsters are also  knocked back.\nThe soldier units are spawned only 175 units behind Azir, but do not control the  knock back directly. Each comes with a missile that travels the same path and conveys the damage and knockback effect.\nThe furthest area (from 325 to 175 units behind Azir) is covered by a separate set of missiles with the same effects.\nAll of the soldiers and their missiles will end the charge prematurely when one encounters  Wind Wall /  Unbreakable /  Blade Whirl /  Rebuttal or upon colliding with terrain that they cannot charge through.\nThe charge starts at 0.25 seconds into the cast time.\nThis ability will cast from wherever the caster is at the start of the cast time.\nWhen the dash of the soldiers comes to a halt, all not-yet-affected enemies on top of the soldiers' landing locations (125 radius) are also knocked back.\nEmperor's Divide will not be canceled if Azir dies during the cast time.\nWhile the soldiers are charging forward, the wall is not impassable terrain.\nThis means enemies that are immune to  airborne effects can pass through the wall while its moving.\nThe wall will count as terrain for the purposes of 'into terrain' effects (e.g.  Condemn,  Dredge Line,  Heroic Charge). This will only affect enemies, allies will pass through the wall in all circumstances, even if knocked into it by an enemy.",
           "blurb": "Active:  Azir summons a wall of soldiers that charges forward, dealing magic damage and  knocking back enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -30478,7 +30478,7 @@
     },
     "releaseDate": "2014-09-16",
     "releasePatch": "4.16",
-    "patchLastChanged": "26.06",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -31189,7 +31189,7 @@
     "name": "Bard",
     "title": "The Wandering Caretaker",
     "fullName": "Bard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Bard.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Bard.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -33063,7 +33063,7 @@
     "name": "Bel'Veth",
     "title": "The Empress of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Belveth.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Belveth.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -34867,7 +34867,7 @@
     "name": "Blitzcrank",
     "title": "The Great Steam Golem",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Blitzcrank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Blitzcrank.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -37399,7 +37399,7 @@
     "name": "Brand",
     "title": "The Burning Vengeance",
     "fullName": "Kegan Rodhe",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Brand.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Brand.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -39529,7 +39529,7 @@
     "name": "Braum",
     "title": "The Heart of the Freljord",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Braum.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Braum.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -41629,7 +41629,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41650,7 +41650,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41671,7 +41671,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41692,7 +41692,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41713,7 +41713,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41734,7 +41734,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41755,7 +41755,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41776,7 +41776,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41797,7 +41797,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2026 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2026 - Season 1",
                 "region": "riot"
               }
             ],
@@ -41840,7 +41840,7 @@
     "name": "Briar",
     "title": "The Restrained Hunger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Briar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Briar.png",
     "resource": "FRENZY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -43754,7 +43754,7 @@
     "name": "Caitlyn",
     "title": "The Sheriff of Piltover",
     "fullName": "Caitlyn Kiramman",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Caitlyn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Caitlyn.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -44567,7 +44567,7 @@
     },
     "releaseDate": "2011-01-04",
     "releasePatch": "1.0.0.108",
-    "patchLastChanged": "26.01",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -46208,7 +46208,7 @@
     "name": "Camille",
     "title": "The Steel Shadow",
     "fullName": "Camille Ferros",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Camille.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Camille.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -48430,7 +48430,7 @@
     "name": "Cassiopeia",
     "title": "The Serpent's Embrace",
     "fullName": "Cassiopeia Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Cassiopeia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Cassiopeia.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -50318,7 +50318,7 @@
     "name": "Cho'Gath",
     "title": "The Terror of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Chogath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Chogath.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -52357,7 +52357,7 @@
     "name": "Corki",
     "title": "The Daring Bombardier",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Corki.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Corki.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -52401,7 +52401,7 @@
       "attackDamage": {
         "flat": 52,
         "percent": 0.0,
-        "perLevel": 2,
+        "perLevel": 2.5,
         "percentPerLevel": 0.0
       },
       "movespeed": {
@@ -53134,7 +53134,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Corki/ability-icon/r",
           "effects": [
             {
-              "description": "Passive: Basic attacks on-hit against champions reduce Missile Barrage's remaining recharge time by 2 : 4 (based on critical strike chance) seconds.",
+              "description": "Passive: Basic attacks on-hit against champions reduce Missile Barrage's remaining recharge time by 2 : 6 (based on critical strike chance) seconds.",
               "leveling": []
             },
             {
@@ -53275,7 +53275,7 @@
     },
     "releaseDate": "2009-09-19",
     "releasePatch": "0.9.25.21",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -54385,7 +54385,7 @@
     "name": "Darius",
     "title": "The Hand of Noxus",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Darius.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Darius.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -56987,7 +56987,7 @@
     "name": "Diana",
     "title": "Scorn of the Moon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Diana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Diana.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -60004,7 +60004,7 @@
     "name": "Dr. Mundo",
     "title": "The Madman of Zaun",
     "fullName": "'Doctor' Mundo",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/DrMundo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/DrMundo.png",
     "resource": "HEALTH",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -61921,7 +61921,7 @@
     "name": "Draven",
     "title": "The Glorious Executioner",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Draven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Draven.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -64412,7 +64412,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Bronze rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64433,7 +64433,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Challenger rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64454,7 +64454,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Diamond rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64475,7 +64475,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Emerald rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64496,7 +64496,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Gold rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64517,7 +64517,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Grandmaster rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64538,7 +64538,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Master rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64559,7 +64559,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Platinum rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64580,7 +64580,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank is any Summoner's Rift ranked queue in 2025 - Season 3",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Silver rank is any Summoner's Rift ranked queue in 2025 - Season 3",
                 "region": "riot"
               }
             ],
@@ -64622,7 +64622,7 @@
     "name": "Ekko",
     "title": "The Boy Who Shattered Time",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ekko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ekko.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -66951,7 +66951,7 @@
     "name": "Elise",
     "title": "The Spider Queen",
     "fullName": "Elise Kythera Zaavan",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Elise.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Elise.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -68905,7 +68905,7 @@
     "name": "Evelynn",
     "title": "Agony's Embrace",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Evelynn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Evelynn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -71648,7 +71648,7 @@
     "name": "Ezreal",
     "title": "The Prodigal Explorer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ezreal.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ezreal.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -74479,7 +74479,7 @@
     "name": "Fiddlesticks",
     "title": "The Ancient Fear",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Fiddlesticks.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Fiddlesticks.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -77058,7 +77058,7 @@
     "name": "Fiora",
     "title": "The Grand Duelist",
     "fullName": "Fiora Laurent",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Fiora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Fiora.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -80115,7 +80115,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80136,7 +80136,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80157,7 +80157,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80178,7 +80178,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80199,7 +80199,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80220,7 +80220,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80241,7 +80241,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80262,7 +80262,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80283,7 +80283,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2025 - Season 2",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2025 - Season 2",
                 "region": "riot"
               }
             ],
@@ -80326,7 +80326,7 @@
     "name": "Fizz",
     "title": "The Tidal Trickster",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Fizz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Fizz.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -82457,7 +82457,7 @@
     "name": "Galio",
     "title": "The Colossus",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Galio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Galio.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -84818,7 +84818,7 @@
     "name": "Gangplank",
     "title": "The Saltwater Scourge",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Gangplank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Gangplank.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -86908,7 +86908,7 @@
     "name": "Garen",
     "title": "The Might of Demacia",
     "fullName": "Garen Crownguard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Garen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Garen.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -87724,9 +87724,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        150,
-                        250,
-                        350
+                        125,
+                        200,
+                        275
                       ],
                       "units": [
                         "",
@@ -87778,7 +87778,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The target will die if they're at least under 20 / 21.57 / 23.08 / 24.53 / 25.93% maximum health + 120 / 156.86 / 192.31 / 226.42 / 259.26 flat health on top of that. This does not count effects that mitigate  true damage, such as  shields.\nIf Garen dies during Demacian Justice's cast time, it will visually appear as on cooldown and he won't be able to cast it until the cooldown has elapsed.(bug)\nThis is fixed by clicking Demacian Justice's icon on the UI at the bottom of the screen.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
+          "notes": "The target will die if they're at least under 20 / 21.57 / 23.08 / 24.53 / 25.93% maximum health + 100 / 127.45 / 153.85 / 179.25 / 203.7 flat health on top of that. This does not count effects that mitigate  true damage, such as  shields.\nIf Garen dies during Demacian Justice's cast time, it will visually appear as on cooldown and he won't be able to cast it until the cooldown has elapsed.(bug)\nThis is fixed by clicking Demacian Justice's icon on the UI at the bottom of the screen.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).",
           "blurb": "Active:  Garen strikes a lethal blow to an enemy champion that deals true damage based on the target's missing health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -87797,7 +87797,7 @@
     },
     "releaseDate": "2010-04-27",
     "releasePatch": "1.0.0.83",
-    "patchLastChanged": "26.07",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -89178,7 +89178,7 @@
     "name": "Gnar",
     "title": "The Missing Link",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Gnar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Gnar.png",
     "resource": "RAGE",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -91425,7 +91425,7 @@
     "name": "Gragas",
     "title": "The Rabble Rouser",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Gragas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Gragas.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -93570,7 +93570,7 @@
     "name": "Graves",
     "title": "The Outlaw",
     "fullName": "Malcolm Graves",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Graves.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Graves.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -95819,7 +95819,7 @@
     "name": "Gwen",
     "title": "The Hallowed Seamstress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Gwen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Gwen.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -98197,7 +98197,7 @@
     "name": "Hecarim",
     "title": "The Shadow of War",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Hecarim.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Hecarim.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -100322,7 +100322,7 @@
     "name": "Heimerdinger",
     "title": "The Revered Inventor",
     "fullName": "Cecil B. Heimerdinger",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Heimerdinger.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Heimerdinger.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -102162,7 +102162,7 @@
     "name": "Hwei",
     "title": "The Visionary",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Hwei.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Hwei.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -104650,7 +104650,7 @@
     "name": "Illaoi",
     "title": "The Kraken Priestess",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Illaoi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Illaoi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -106532,7 +106532,7 @@
     "name": "Irelia",
     "title": "The Blade Dancer",
     "fullName": "Xan Irelia",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Irelia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Irelia.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -109139,7 +109139,7 @@
     "name": "Ivern",
     "title": "The Green Father",
     "fullName": "Ivern Bramblefoot",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ivern.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ivern.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -110919,7 +110919,7 @@
     "name": "Janna",
     "title": "The Storm's Fury",
     "fullName": "Janna Windforce",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Janna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Janna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -113557,7 +113557,7 @@
     "name": "Jarvan IV",
     "title": "The Exemplar of Demacia",
     "fullName": "Jarvan Lightshield IV",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/JarvanIV.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/JarvanIV.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -113941,7 +113941,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The armor reduction is applied after the damage. The damage dealt does not benefit from it in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDragon Strike will still pull Jarvan IV to  Demacian Standard even if he is  immobilized or  grounded.\n Flash will interrupt the  dash to a  Demacian Standard but Jarvan IV will still  knock up at the new location.\nCasting Flash right before the dash begins will cause Jarvan IV to be pulled to the flag from the new position.\nEnemies already hit by Dragon Strike cannot be affected more than once.\nThe  knockup also slightly moves the target, landing 50:100 units in a random direction.\nIf Dragon Strike finds multiple Demacian Standards in the range, it will pull Jarvan IV to the one furthest from his position.",
+          "notes": "The armor reduction is applied after the damage. The damage dealt does not benefit from it in this case.\nThis ability will cast from wherever the caster is at the end of the cast time.\nDragon Strike will still pull Jarvan IV to  Demacian Standard even if he is  immobilized or  grounded.\n Flash will interrupt the  dash to a  Demacian Standard but Jarvan IV will still  knock up at the new location.\nCasting Flash right before the dash begins will cause Jarvan IV to be pulled to the flag from the new position.\nEnemies already hit by Dragon Strike cannot be affected more than once.\nThe  knockup also slightly moves the target, landing 50:100 units in a random direction.\nIf Dragon Strike hits multiple  Demacian Standards in the range, it will pull Jarvan IV to the one furthest from his position.",
           "blurb": "Active:  Jarvan IV extends his lance in the target direction, dealing physical damage to enemies hit and  reducing their armor for a short time.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -115742,7 +115742,7 @@
     "name": "Jax",
     "title": "Grandmaster at Arms",
     "fullName": "Saijax Cail-Rynx Kohari Icath’un",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Jax.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Jax.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -117817,7 +117817,7 @@
     "name": "Jayce",
     "title": "The Defender of Tomorrow",
     "fullName": "Jayce Talis",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Jayce.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Jayce.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -118040,7 +118040,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Jayce/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Jayce switches between either Hammer Stance or Cannon Stance, he gains ghosting and 40 bonus movement speed for 0.75 seconds.",
+              "description": "Innate: Whenever Jayce switches between either Hammer Stance or Cannon Stance, he gains ghosting and 30 bonus movement speed for 0.75 seconds.",
               "leveling": []
             }
           ],
@@ -118075,7 +118075,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Jayce/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Jayce switches between either Hammer Stance or Cannon Stance, he gains ghosting and 40 bonus movement speed for 0.75 seconds.",
+              "description": "Innate: Whenever Jayce switches between either Hammer Stance or Cannon Stance, he gains ghosting and 30 bonus movement speed for 0.75 seconds.",
               "leveling": []
             }
           ],
@@ -119067,7 +119067,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Jayce/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Jayce transforms into Hammer Stance, receiving access to its abilities, becoming melee with 125 attack range, gaining 5 / 15 / 25 / 35 (based on level) (+ 7.5% bonus AD) bonus armor and bonus magic resistance, and empowering his next basic attack to deal 25 / 60 / 95 / 130 (based on level) (+ 30% bonus AD) bonus magic damage.",
+              "description": "Active: Jayce transforms into Hammer Stance, receiving access to its abilities, becoming melee with 125 attack range, gaining 5 / 12 / 19 / 26 (based on level) (+ 7.5% bonus AD) bonus armor and bonus magic resistance, and empowering his next basic attack to deal 25 / 60 / 95 / 130 (based on level) (+ 30% bonus AD) bonus magic damage.",
               "leveling": []
             },
             {
@@ -119127,7 +119127,7 @@
     },
     "releaseDate": "2012-07-07",
     "releasePatch": "1.0.0.142",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -120308,7 +120308,7 @@
     "name": "Jhin",
     "title": "The Virtuoso",
     "fullName": "Khada Jhin",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Jhin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Jhin.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -122928,7 +122928,7 @@
     "name": "Jinx",
     "title": "The Loose Cannon",
     "fullName": "Powder",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Jinx.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Jinx.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -125462,7 +125462,7 @@
     "name": "K'Sante",
     "title": "The Pride of Nazumah",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/KSante.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/KSante.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -126887,7 +126887,7 @@
     "name": "Kai'Sa",
     "title": "Daughter of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kaisa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kaisa.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -129751,7 +129751,7 @@
     "name": "Kalista",
     "title": "The Spear of Vengeance",
     "fullName": "Kalista vol Kalah Heigaari",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kalista.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kalista.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -131412,7 +131412,7 @@
     "name": "Karma",
     "title": "The Enlightened One",
     "fullName": "Darha",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Karma.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Karma.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -134373,7 +134373,7 @@
     "name": "Karthus",
     "title": "The Deathsinger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Karthus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Karthus.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -136269,7 +136269,7 @@
     "name": "Kassadin",
     "title": "The Void Walker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kassadin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kassadin.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -138037,7 +138037,7 @@
     "name": "Katarina",
     "title": "The Sinister Blade",
     "fullName": "Katarina Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Katarina.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Katarina.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -140708,7 +140708,7 @@
     "name": "Kayle",
     "title": "The Righteous",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kayle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kayle.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -143690,7 +143690,7 @@
     "name": "Kayn",
     "title": "The Shadow Reaper",
     "fullName": "Shieda Kayn",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kayn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kayn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -145405,7 +145405,7 @@
     "name": "Kennen",
     "title": "The Heart of the Tempest",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kennen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kennen.png",
     "resource": "ENERGY",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -147154,7 +147154,7 @@
     "name": "Kha'Zix",
     "title": "The Voidreaver",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Khazix.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Khazix.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -149422,7 +149422,7 @@
     "name": "Kindred",
     "title": "The Eternal Hunters",
     "fullName": "Lamb and Wolf",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kindred.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kindred.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -151373,7 +151373,7 @@
     "name": "Kled",
     "title": "The Cantankerous Cavalier",
     "fullName": "Kled and Skaarl",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Kled.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Kled.png",
     "resource": "COURAGE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -153385,7 +153385,7 @@
     "name": "Kog'Maw",
     "title": "The Mouth of the Abyss",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/KogMaw.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/KogMaw.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -155887,7 +155887,7 @@
     "name": "LeBlanc",
     "title": "The Deceiver",
     "fullName": "Emilia (Evaine) LeBlanc",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Leblanc.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Leblanc.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -158437,7 +158437,7 @@
     "name": "Lee Sin",
     "title": "The Blind Monk",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/LeeSin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/LeeSin.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -161490,7 +161490,7 @@
     "name": "Leona",
     "title": "The Radiant Dawn",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Leona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Leona.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -164062,7 +164062,7 @@
     "name": "Lillia",
     "title": "The Bashful Bloom",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Lillia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Lillia.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -166239,7 +166239,7 @@
     "name": "Lissandra",
     "title": "The Ice Witch",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Lissandra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Lissandra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -168377,7 +168377,7 @@
     "name": "Locke",
     "title": "The Ashen Exorcist",
     "fullName": "Corvin Locke",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Locke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Locke.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -168635,7 +168635,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Locke hurls a nail in the target direction that deals magic damage to enemies hit, slows them by 25% for 1 second, and applies a stack of Soul Nails for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. Against targets with at least 2 stacks, the slow is increased to 60% and lasts for 2 seconds.Ritual Nails can be recast twice more within 5 seconds of the activation at no additional cost, with a 0.5-second static cooldown between casts.",
+              "description": "Active: Locke hurls a nail in the target direction that deals magic damage to enemies hit, slows them by 25% for 1 second, and applies a stack of Soul Nails for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. Against targets with at least 2 stacks, the slow is increased to 60% and lasts for 2 seconds.Ritual Nails can be recast twice more within 4 seconds of the activation at no additional cost, with a 0.5-second static cooldown between casts.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Nail",
@@ -168643,10 +168643,10 @@
                     {
                       "values": [
                         50,
-                        60,
-                        70,
-                        80,
-                        90
+                        58,
+                        66,
+                        74,
+                        82
                       ],
                       "units": [
                         "",
@@ -168680,10 +168680,10 @@
                     {
                       "values": [
                         150,
-                        180,
-                        210,
-                        240,
-                        270
+                        174,
+                        198,
+                        222,
+                        246
                       ],
                       "units": [
                         "",
@@ -168725,11 +168725,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        20,
-                        30,
-                        40,
-                        50,
-                        60
+                        18,
+                        26,
+                        34,
+                        42,
+                        50
                       ],
                       "units": [
                         "",
@@ -168762,11 +168762,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        48,
-                        72,
-                        96,
-                        120,
-                        144
+                        43.2,
+                        62.4,
+                        81.6,
+                        100.8,
+                        120
                       ],
                       "units": [
                         "",
@@ -168799,11 +168799,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        84,
-                        126,
-                        168,
-                        210,
-                        252
+                        75.6,
+                        109.2,
+                        142.8,
+                        176.4,
+                        210
                       ],
                       "units": [
                         "",
@@ -168836,11 +168836,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        234,
-                        306,
-                        378,
-                        450,
-                        522
+                        225.6,
+                        283.2,
+                        340.8,
+                        398.4,
+                        456
                       ],
                       "units": [
                         "",
@@ -168988,10 +168988,10 @@
                     {
                       "values": [
                         40,
-                        80,
-                        120,
-                        160,
-                        200
+                        70,
+                        100,
+                        130,
+                        160
                       ],
                       "units": [
                         "",
@@ -169084,7 +169084,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The health cost updates dynamically with Locke's current health, costing less the lower his remaining health is. It is not based on his current health at the time of cast.",
+          "notes": "Health cost totals approximately 11.3346% of health when cast at full health over the full duration.\nThe health cost updates dynamically with Locke's current health, costing less the lower his remaining health is. It is not based on his current health at the time of cast.",
           "blurb": "Active:  Locke ignites his soul for a few seconds, gaining  bonus attack speed and  bonus move speed. He also stores grey health equal to the damage taken from champions, and an additional amount based on his missing health and Soul Ignition's elapsed duration.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -169435,7 +169435,7 @@
     },
     "releaseDate": "2026-06-24",
     "releasePatch": "26.13",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -169685,7 +169685,7 @@
     "name": "Lucian",
     "title": "The Purifier",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Lucian.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Lucian.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -172211,7 +172211,7 @@
     "name": "Lulu",
     "title": "The Fae Sorceress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Lulu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Lulu.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -174610,7 +174610,7 @@
     "name": "Lux",
     "title": "The Lady of Luminosity",
     "fullName": "Luxanna Crownguard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Lux.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Lux.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -177421,7 +177421,7 @@
     "name": "Malphite",
     "title": "Shard of the Monolith",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Malphite.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Malphite.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -179744,7 +179744,7 @@
     "name": "Malzahar",
     "title": "The Prophet of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Malzahar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Malzahar.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -182229,7 +182229,7 @@
     "name": "Maokai",
     "title": "The Twisted Treant",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Maokai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Maokai.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -184292,7 +184292,7 @@
     "name": "Master Yi",
     "title": "The Wuju Bladesman",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/MasterYi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/MasterYi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -187580,7 +187580,7 @@
     "name": "Mel",
     "title": "The Soul's Reflection",
     "fullName": "Mel Medarda",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Mel.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Mel.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -189022,7 +189022,7 @@
     "name": "Milio",
     "title": "The Gentle Flame",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Milio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Milio.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -190555,7 +190555,7 @@
     "name": "Miss Fortune",
     "title": "The Bounty Hunter",
     "fullName": "Sarah Fortune",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/MissFortune.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/MissFortune.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -193362,7 +193362,7 @@
     "name": "Mordekaiser",
     "title": "The Iron Revenant",
     "fullName": "Sahn-Uzal",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Mordekaiser.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Mordekaiser.png",
     "resource": "SHIELD",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -193924,10 +193924,10 @@
                     {
                       "values": [
                         60,
-                        75,
-                        90,
-                        105,
-                        120
+                        80,
+                        100,
+                        120,
+                        140
                       ],
                       "units": [
                         "",
@@ -193939,11 +193939,11 @@
                     },
                     {
                       "values": [
-                        40,
-                        40,
-                        40,
-                        40,
-                        40
+                        45,
+                        45,
+                        45,
+                        45,
+                        45
                       ],
                       "units": [
                         "% AP",
@@ -194011,7 +194011,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Mordekaiser/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Mordekaiser aims his mace towards the target enemy champion, slowing them by 75% and revealing them over the cast time, and then banishing them with him to the Death Realm for 7 seconds. Mordekaiser also consumes the target's soul for 7 seconds, healing himself for 10% of their maximum health and reducing their current ability power, total attack speed, maximum health, armor, magic resistance, and size by 10% for the duration. Additionally, the target's base attack damage is reduced by 10% of their current total AD for the same duration. Mordekaiser gains the reduced stats of the target for himself for the same duration, and if the target dies while inside the Death Realm, he keeps their partial stats until they respawn.",
+              "description": "Active: Mordekaiser aims his mace towards the target enemy champion, slowing them by 75% and revealing them over the cast time, and then banishing them with him to the Death Realm for 7 seconds. Mordekaiser also consumes the target's soul for 7 seconds, healing himself for 13% of their maximum health and reducing their current ability power, total attack speed, maximum health, armor, magic resistance, and size by 13% for the duration. Additionally, the target's base attack damage is reduced by 13% of their current total AD for the same duration. Mordekaiser gains the reduced stats of the target for himself for the same duration, and if the target dies while inside the Death Realm, he keeps their partial stats until they respawn.",
               "leveling": []
             },
             {
@@ -194050,7 +194050,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Mordekaiser's Realm of Death. Champions outside of the death realm are seen as spirits. Blue spirits (above Mordekaiser) are allied champions while red spirits (below Mordekaiser) are enemy champions.\nAlly spirit\nEnemy spirit\nThe Death Realm is a battlefield that exists outside of the normal realm in an alternate \"dimension\". It exists only for Mordekaiser and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and  brushes.\n Structures exist in all realms at the same time.  Turrets will behave normally as if all units were in the same realm.\nThe boundaries of the arena are impassable but not considered terrain themselves ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\nDuring the cast time of Realm of Death, it is possible to pathfind outside the boundaries of the arena by issuing a movement command toward an area that becomes inaccessible due to terrain inside the Death Realm.(bug)[41]\nRealm of Death retains Mordekaiser's previous current health percentage when granting him a portion of the target's maximum health.\nRealm of Death's  healing is affected by healing modifiers.\nRealm of Death's target will be marked by Mordekaiser for assist credit when entering the Death Realm.\nRealm of Death does not trigger in-combat effects.\nRealm of Death will cancel and go on cooldown after its cast time if:\nThe target is  displacement immune,  crowd control immune or protected by a  spell shield.\nNote that all of the above are ineffective if they are applied after the target has been banished.\nThe target is a  clone or  Sion when his  Glory in Death is active.\nIf the target becomes  untargetable,  dies, is too far away or Mordekaiser loses  sight of them due to  nearsight during the cast time, this ability will cancel but does not go on  cooldown.\nIf either Mordekaiser or the target  dies at the same time of the transition into the Death Realm, the Death Realm will not end prematurely and will continue until its full duration has ended.(bug)[42]\nIf the target dies this way, Mordekaiser will not keep their stats after leaving the Death Realm.\n Tahm Kench's  Devour will always trigger this bug if used during the cast of Realm of Death and the spit would kill Mordekaiser.[43]\nIf Mordekaiser or the target cast another Realm of Death, the affected champions will remain stuck for the duration of the new circle.\nThe previous circle will be overridden by the new one; it will be dispelled to enter the new circle.\n Spell shield will not block the initial  slow.\nThe  reveal effect lasts for 1.25 seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.\nUpon entering or leaving the Death Realm, targets revealed by effects such as  Ignite or  Ashe's  Hawkshot will keep the  reveal VFX but will stop being revealed.(bug)[44]\n Camouflaged units will become visible if an enemy  champion is within their detection range, even if the champion is in a different realm.(bug)\nIf the target's  health is lower than the amount that should be stolen, they will be brought down to 1 health. Mordekaiser will still get the intended amount of maximum health.\nIf the target's  health is higher than their  health after the reduction, they will lose the excess HP on top of taking 10% of their maximum health as damage. This happens because Realm of Death first reduces 10% of the target's maximum health, and then deals an additional 10% of their maximum health as damage.\nRealm of Death's maximum health reduction ignores  invulnerability effects.\nEntering or leaving the Death Realm will cause all targeted  projectiles to be  destroyed.\nThe transition in and out of the Death Realm doesn't interrupt  channels.\n Grand Starfall will always be interrupted by the transition into the realm.\nRealm of Death will not be dispelled if either of the two affected champions enter  resurrection after taking lethal damage. It is dispelled if the target enters a  zombie state.\nAny active  tether effects (both friendly and hostile ones) existing on either of the two champions entering the realm will be broken (unless the tether is between those two).\nUpon entering the realm, Mordekaiser and the target are  cleansed from all  forced action effects.\nThe cleanse will occur even if the source of the crowd control enters the realm.(unexpected)\nUnlike the other stats, Mordekaiser does not steal enemy total size; instead he gains 10% of his own size and reduces the enemy's size by 10% of theirs (all size modifiers stack additively).\nMordekaiser grows in size over 0.25 seconds after successfully stealing his targets' stats, and shrinks over 0.25 seconds after the buff runs out again. The target shrinks over 0.25 seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.\nWhile Mordekaiser has hold of his enemy's stats, that champion's circular portrait will appear as a pip next to his health bar, visible to all players.\nThe champion's portrait will ocasionally stay even after Mordekaiser has lost hold of the enemy's stats.(bug)\nRealm of Death's interactions with other elements/abilities (This list might be incomplete, last updated on patch V26.09):\nMultiple Death Realms (possible through a  hijacked Realm of Death or if multiple Mordekaisers are in the same match) spawned will exist in the same realm, allowing champions to see and interact with champions bound to other circles. Champions are only affected by their boundaries and are not able to see the others.\nIf another Realm of Death is cast while one is already active, upon leaving, the spirits from the second Realm of Death will be invisible from the perspective of the players affected by the first Realm of Death.(bug)[45]\n Tahm Kench's  Devour can carry a target outside of their circle, but they will be displaced back inside once  Regurgitated.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until her circle ends. She can knock back and damage secondary targets multiple times.\nChampions inside the Death Realm continue gaining  gold and  experience from any source, which includes nearby and global bounties as well as neutral buffs.\n Turret's Crystalline Overgrowth can still be triggered while inside the Death Realm.\nThe Overgrowth's VFX of the Outer Turrets (Tier 1) will be invisible inside the Death Realm.(bug)[46]\nThe faelights and jungle plants ( Blast Cone,  Honeyfruit,  Scryer's Bloom) will not be present in the Death Realm.\nThe faelights indicator will still be visible if the player's cursor is placed in their location.(bug)[47]\nThe  Blast Cone's landing indicator will still be visible while in the Death Realm and within its range.(bug)[48]\nEpic  monsters, with the exception of  Voidgrub's, will be visible for a brief moment after entering the Death Realm, but they will be untargetable.(bug)[49]\n Hex-gates on  Hextech Rift will not be present between realms.\n Eye of the Herald and  Teleport are disabled while in the Death Realm.\nUsing  Unsealed Spellbook to swap Teleport for another summoner spell while in the Death Realm will disable the new summoner spell until the user leaves the realm.(bug)[50]\nControllable pets and  clones can still be commanded between realms.\nMordekaiser will be given gold, if applicable, for  pets killed at the end of Realm of Death.\n Illaoi's  Tentacles will not be killed at the end of Realm of Death.(unexpected)\n Annie's  Tibbers,  Heimerdinger's  H-28Q Apex Turret,  Ivern's  Daisy and  Yorick's  Maiden are considered as \"large pets\" for the purposes of this ability and will follow their respective  champions between realms.\nIf Mordekaiser dies inside of the Death Realm while his  Darkness Rise is hitting any of these pets, Darkness Rise will keep affecting the pets until they die or Darkness Rise deactivates normally.(bug)[51]\nSwitching realms detaches all  attached champions on either of the two champions entering the realm.\nThe allied health, resource, and ultimate indicators (champion portraits located on the screen) will not update between realms as the players have no  vision of them.\nPings used in the Death Realm will appear in the chat and mini-map, but will not appear in the map.(unexpected)\nAny spawned terrain while in the Death Realm will remain inside until expired. They will not be destroyed.\nExcept for some cases, spells that require a target to be cast (e.g  Akali's  Shuriken Flip,  Twitch's  Contaminate) will not affect enemies in other realms nor will be castable if there's no targets in the same realm as the caster.\n Amumu's  Bandage Toss,  Blitzcrank's  Rocket Grab,  Leona's  Zenith Blade,  Nautilus'  Dredge Line,  Pyke's  Bone Skewer and  Thresh's  Death Sentence will still hit targets if their caster switches realms before they hit.\n Camille's  The Hextech Ultimatum,  Dr. Mundo's  Goes Where He Pleases,  Nunu & Willump's  Biggest Snowball Ever! and  Absolute Zero,  Pyke's  Death from Below,  Ryze's  Realm Warp,  Shen's  Spirit's Refuge,  Taliyah's  Worked Ground and  Zed's  Shadows will follow their caster between realms.\n Braum's  Glacial Fissure[52],  Pantheon's  Grand Starfall*[53],  Singed's  Mega Adhesive[54],  Varus'  Hail of Arrows[55],  Yasuo's  Wind Wall[56],  Ziggs'  Satchel Charge*[57] and  Zilean's  Time Bomb*[58] will follow their caster between realms but will only be visible in the realm they were cast.(bug)\n Ahri's  Orb of Deception will stay in the realm it was cast.\nThe orb will still go back towards  Ahri's position.\n Akshan's  Avengerang will stay in the realm it was cast.\nThe boomerang will only go back towards  Akshan's position if it was already doing so during the realm switch.\n Akshan's  Comeuppance bullets will get destroyed if he switches realms, even if its target is Mordekaiser.\n Anivia's  Glacial Storm will not be dispelled if Anivia switches realms, but it will only be present in the realm it was cast.\n Bel'Veth's  Void Corals will only be present in the realm they spawned in.\nIf  Bel'Veth switches realms while she is consuming a Void Coral, the Void Coral will dissappear and she will not get her True Form nor deal damage to nearby enemies.\n Camille will still be able to use  Hookshot's dash if she switches realms before the spell hits.\n Ekko's  Parallel Convergence will only be visible in the realm it was cast, but he will still be able to trigger the spell's effect from another realm and it will only affect enemies in said realm.(bug)[59]\n Fizz's  Chum the Waters will follow its target between realms.\n Galio's  Winds of War will follow him if the spell was already on the ground before the realm switch, but it will only be visible in the realm it was cast.(bug)[60]\n Gnar's  Boulder Toss boulder will only be visible in the realm it was cast, but he can still pick it up if he goes to its location.(bug)[61]\n Illaoi's  Test of Spirit tether will be destroyed if her target switches realms.\n Test of Spirit's target will not be made into a Vessel.\n Irelia's  Flawless Duet will be recast automatically when switching realms, and will only affect enemies in the realm it was cast.\n Ivern's  Rootcaller can still be recast if the target is in a different realm than him.\n Ivern's  Brushmaker brushes might be visible for a few seconds after switching realms.(bug)[62]\nPassing by the position of a brush created by  Brushmaker in another realm will make units transparent for a few seconds, but they will still be visible to the enemy team.\n Kai'Sa's  Killer Instinct can only be cast towards enemies in the same realm she is at.\n Kalista's  Fate's Call cannot be cast if her  oathsworn is in another realm, but if the spell was cast before entering the Death Realm, it will function as normal and will only affect targets in the oathsworn's realm.\n Karthus'  Requiem will damage enemies in all realms.\n Kayn's  Umbral Trespass will be interrupted and will not deal damage if its target switches realms.\n Kog'Maw's  Void Ooze will follow him between realms.(bug)[63]\nA part of the VFX will be left in the realm it was cast.\n Lillia's  Lilting Lullaby will only affect enemies in the same realm as her.\n Lissandra's  Glacial Path can still be recast if the spell was initially cast in another realm.\n Lulu's  Pix will follow her between realms.\nHowever, if Pix is on another  champion, it will visually stay in Lulu's realm but will keep affecting enemies in the Death Realm.(bug)[64]\nPix will still be able to return to Lulu as normal, even if her ally's still in the Death Realm.\nIf  Locke's  Purgatory's totem is in the ground, it will follow Locke between realms.(bug)\nIf the totem closes in a different realm than Locke, the totem will be visible in Locke's realm but it will only be pickable in the realm it closed.(bug)\n Lux's  Final Spark will follow her between realms.\nThe beam's VFX will only be visible in the realm it was cast.(bug)[65]\n Malzahar's  Void Shift is special cased to not resist the slow but instead resist the realm switch after the cast completes.\nIf Mordekaiser uses Realm of Death on a Malzahar with both a  spell shield and  Void Shift active at the same time, both shields will be consumed, the realm switch will not happen,  Void Shift will stop working for the rest of the game and Malzahar will become immune to the realm switch of Realm of Death.(bug)\nOn  rare occassions, if Realm of Death is used on a Malzahar with only  Void Shift active, Malzahar will become immune to the realm switch of Realm of Death while  Void Shift will keep working as expected.(bug)\n Malzahar's  Call of the Void will follow him if used moments before the realm switch. Also, a part of the VFX will be left in the realm it was cast.(bug)[66]\n Mel's  Golden Eclipse will only deal damage to enemies in the same realm she is at the end of the cast.\n Miss Fortune's  Make It Rain will follow her between realms.(bug)[67]\nThe spell's area VFX will not follow.(bug)\n Naafiri's  Hounds' Pursuit dash will still go through if she switches realms during the cast.\n Nasus'  Spirit Fire will stay in the realm it was cast.\nHowever, the spell will keep affecting enemies in another realm if they were already affected by it before switching realms and they have not left the spell's area.(bug)[68]\n Nautilus'  Depth Charge will not follow its target between realms.\n Neeko cannot be targeted by Realm of Death if she is disguised as a non- champion unit.\n Nilah's  Apotheosis will only deal damage to enemies in the realm it was cast.(unexpected)\nIt will still heal/shield targets in  Nilah's realm at the end of the cast.\n Nocturne's  Paranoia only applies  nearsight to enemy champions in the same realm as him.\n Orianna's  Ball will go back to her after switching realms.\n Orianna's  Command: Shockwave will follow her between realms if her  ball is not on the ground.\nHowever, if her  ball is on the ground,  Command: Shockwave will still follow her between realms but its shockwave will be invisible.(bug)[69]\nAdditionally, if  Command: Shockwave is buffered while  her ball is still flying and she switches realms,  Command: Shockwave's will appear on top of  Orianna, but the actual shockwave will occur at the location  her ball was supposed to land.(bug)[70]\n Poppy's  Keeper's Verdict can send Mordekaiser outside of the Death Realm arena if she uses it during Realm of Death's cast.(bug)[71]\n Pyke's  Phantom Undertow will not follow him if he switches realms while the Phantom is coming back.\n Rakan's  Grand Entrance will follow him between realms, but its initial VFX will not.(bug)[72]\n Rek'Sai's  Tunnels will not follow her between realms.\nIf  Rek'Sai is already on a tunnel when switching realms, her  dash will not be interrupted.\n Sion's  Decimating Smash VFX will follow him between realms, but the spell will only affect enemies in the realm it was cast.(bug)[73]\n Soraka's  Wish will heal targets in all realms.\n Swain's  Nevermove can still be recast if the target is in another realm, but nothing will happen.(unexpected)\n Sylas'  Abduct will not hit enemies if he switches realms during the spell's animation.\n Syndra's  Force of Will will cancel on realm switch.\n Syndra's  Unleashed Power will only affect enemies in the realm it was cast, even if its target is Mordekaiser.\n Tahm Kench's  Devour target will get spit on realm switch. The target will still be dealt damage by the spit if applicable.\n Taliyah's  Weaver's Wall will get interrupted on realm switch.\n Taric's  Bastion link will be temporarily disabled while in the Death Realm. The link will not break.\n Thresh's  Dark Passage will go back to him on realm switch.\n Thresh's  The Box pillars will be visible in all realms, but it will only affect enemies in the realm it was cast.(bug)[74]\n Udyr's  Wingborne Storm will stay in the realm it was cast.\nIf the storm's target is sent to a different realm than  Udyr, the storm will start following him instead.\nThe storm's tracking VFX will stay in its target until the end of the spell.(bug)\n Urgot's  Fear Beyond Death cannot be recast if the target is not in the same realm as him.\nIf the target is being reeled in however, the execution at the end of the  channel will take place regardless of the realm either he or the target is in.\n Viego's  Harrowed Path will follow him between realms.(bug)\nThe ground mist will be visible in all realms.(bug)\n Viktor's  Arcane Storm can be redirected with its recast even if Viktor is in a different realm from the singularity.\n Xayah's  Bladecaller cannot call  Feathers between realms.\n Yasuo's  Last Breath will be interrupted if its target switches realms, unless the target is Mordekaiser.\n Yone's  Soul Unbound cannot be recast inside of the Death Realm.\n Yorick's  Maiden will not die with him if he dies inside of the Death Realm.(bug)[75]\n Eulogy of the Isles will still go on cooldown and Yorick will be able to summon another Maiden once the cooldown ends.\nIf Yorick has more than one  Maiden and one of them dies,  Eulogy of the Isles will go on cooldown, even though there is still a Maiden in the map.\n Zaahen's  Dreaded Return will only  pull affected enemies in the same realm it was cast.\n Cryptbloom's nova will spawn at the user's realm and will only affect targets in said realm.\n Elixir of Iron's trail will follow between realms, but it will be invisible.(bug)[76]\n Iceborn Gauntlet's frost field will follow between realms, but it will be invisible.(bug)[77]\n Redemption's beam will only affect targets in the realm it was cast, but its SFX will be heard in all realms.(bug)[78]\n Dark Harvest's souls VFX will not follow between realms, but they will still be reaped succesfully.(bug)[79]\n Glacial Augment's glacial rays will follow between realms, but they will be invisible.(bug)[80]\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Mordekaiser's Realm of Death. Champions outside of the death realm are seen as spirits. Blue spirits (above Mordekaiser) are allied champions while red spirits (below Mordekaiser) are enemy champions.\nAlly spirit\nEnemy spirit\nThe Death Realm is a battlefield that exists outside of the normal realm in an alternate \"dimension\". It exists only for Mordekaiser and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and  brushes.\n Structures exist in all realms at the same time.  Turrets will behave normally as if all units were in the same realm.\nThe boundaries of the arena are impassable but not considered terrain themselves ( Unstoppable Onslaught exception), and enemies that try to move out of the area will be displaced back inside.\n Dashes,  blinks,  displacements and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expired.\nDuring the cast time of Realm of Death, it is possible to pathfind outside the boundaries of the arena by issuing a movement command toward an area that becomes inaccessible due to terrain inside the Death Realm.(bug)[41]\nRealm of Death retains Mordekaiser's previous current health percentage when granting him a portion of the target's maximum health.\nRealm of Death's  healing is affected by healing modifiers.\nRealm of Death's target will be marked by Mordekaiser for assist credit when entering the Death Realm.\nRealm of Death does not trigger in-combat effects.\nRealm of Death will cancel and go on cooldown after its cast time if:\nThe target is  displacement immune,  crowd control immune or protected by a  spell shield.\nNote that all of the above are ineffective if they are applied after the target has been banished.\nThe target is a  clone or  Sion when his  Glory in Death is active.\nIf the target becomes  untargetable,  dies, is too far away or Mordekaiser loses  sight of them due to  nearsight during the cast time, this ability will cancel but does not go on  cooldown.\nIf either Mordekaiser or the target  dies at the same time of the transition into the Death Realm, the Death Realm will not end prematurely and will continue until its full duration has ended.(bug)[42]\nIf the target dies this way, Mordekaiser will not keep their stats after leaving the Death Realm.\n Tahm Kench's  Devour will always trigger this bug if used during the cast of Realm of Death and the spit would kill Mordekaiser.[43]\nIf Mordekaiser or the target cast another Realm of Death, the affected champions will remain stuck for the duration of the new circle.\nThe previous circle will be overridden by the new one; it will be dispelled to enter the new circle.\n Spell shield will not block the initial  slow.\nThe  reveal effect lasts for 1.25 seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.\nUpon entering or leaving the Death Realm, targets revealed by effects such as  Ignite or  Ashe's  Hawkshot will keep the  reveal VFX but will stop being revealed.(bug)[44]\n Camouflaged units will become visible if an enemy  champion is within their detection range, even if the champion is in a different realm.(bug)\nIf the target's  health is lower than the amount that should be stolen, they will be brought down to 1 health. Mordekaiser will still get the intended amount of maximum health.\nIf the target's  health is higher than their  health after the reduction, they will lose the excess HP on top of taking 13% of their maximum health as damage. This happens because Realm of Death first reduces 13% of the target's maximum health, and then deals an additional 13% of their maximum health as damage.\nRealm of Death's maximum health reduction ignores  invulnerability effects.\nEntering or leaving the Death Realm will cause all targeted  projectiles to be  destroyed.\nThe transition in and out of the Death Realm doesn't interrupt  channels.\n Grand Starfall will always be interrupted by the transition into the realm.\nRealm of Death will not be dispelled if either of the two affected champions enter  resurrection after taking lethal damage. It is dispelled if the target enters a  zombie state.\nAny active  tether effects (both friendly and hostile ones) existing on either of the two champions entering the realm will be broken (unless the tether is between those two).\nUpon entering the realm, Mordekaiser and the target are  cleansed from all  forced action effects.\nThe cleanse will occur even if the source of the crowd control enters the realm.(unexpected)\nUnlike the other stats, Mordekaiser does not steal enemy total size; instead he gains 13% of his own size and reduces the enemy's size by 13% of theirs (all size modifiers stack additively).\nMordekaiser grows in size over 0.25 seconds after successfully stealing his targets' stats, and shrinks over 0.25 seconds after the buff runs out again. The target shrinks over 0.25 seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.\nWhile Mordekaiser has hold of his enemy's stats, that champion's circular portrait will appear as a pip next to his health bar, visible to all players.\nThe champion's portrait will ocasionally stay even after Mordekaiser has lost hold of the enemy's stats.(bug)\nRealm of Death's interactions with other elements/abilities (This list might be incomplete, last updated on patch V26.09):\nMultiple Death Realms (possible through a  hijacked Realm of Death or if multiple Mordekaisers are in the same match) spawned will exist in the same realm, allowing champions to see and interact with champions bound to other circles. Champions are only affected by their boundaries and are not able to see the others.\nIf another Realm of Death is cast while one is already active, upon leaving, the spirits from the second Realm of Death will be invisible from the perspective of the players affected by the first Realm of Death.(bug)[45]\n Tahm Kench's  Devour can carry a target outside of their circle, but they will be displaced back inside once  Regurgitated.\nAn active  Cease and Desist on a target outside the perimeter will cause  Vi to continue her charge until her circle ends. She can knock back and damage secondary targets multiple times.\nChampions inside the Death Realm continue gaining  gold and  experience from any source, which includes nearby and global bounties as well as neutral buffs.\n Turret's Crystalline Overgrowth can still be triggered while inside the Death Realm.\nThe Overgrowth's VFX of the Outer Turrets (Tier 1) will be invisible inside the Death Realm.(bug)[46]\nThe faelights and jungle plants ( Blast Cone,  Honeyfruit,  Scryer's Bloom) will not be present in the Death Realm.\nThe faelights indicator will still be visible if the player's cursor is placed in their location.(bug)[47]\nThe  Blast Cone's landing indicator will still be visible while in the Death Realm and within its range.(bug)[48]\nEpic  monsters, with the exception of  Voidgrub's, will be visible for a brief moment after entering the Death Realm, but they will be untargetable.(bug)[49]\n Hex-gates on  Hextech Rift will not be present between realms.\n Eye of the Herald and  Teleport are disabled while in the Death Realm.\nUsing  Unsealed Spellbook to swap Teleport for another summoner spell while in the Death Realm will disable the new summoner spell until the user leaves the realm.(bug)[50]\nControllable pets and  clones can still be commanded between realms.\nMordekaiser will be given gold, if applicable, for  pets killed at the end of Realm of Death.\n Illaoi's  Tentacles will not be killed at the end of Realm of Death.(unexpected)\n Annie's  Tibbers,  Heimerdinger's  H-28Q Apex Turret,  Ivern's  Daisy and  Yorick's  Maiden are considered as \"large pets\" for the purposes of this ability and will follow their respective  champions between realms.\nIf Mordekaiser dies inside of the Death Realm while his  Darkness Rise is hitting any of these pets, Darkness Rise will keep affecting the pets until they die or Darkness Rise deactivates normally.(bug)[51]\nSwitching realms detaches all  attached champions on either of the two champions entering the realm.\nThe allied health, resource, and ultimate indicators (champion portraits located on the screen) will not update between realms as the players have no  vision of them.\nPings used in the Death Realm will appear in the chat and mini-map, but will not appear in the map.(unexpected)\nAny spawned terrain while in the Death Realm will remain inside until expired. They will not be destroyed.\nExcept for some cases, spells that require a target to be cast (e.g  Akali's  Shuriken Flip,  Twitch's  Contaminate) will not affect enemies in other realms nor will be castable if there's no targets in the same realm as the caster.\n Amumu's  Bandage Toss,  Blitzcrank's  Rocket Grab,  Leona's  Zenith Blade,  Nautilus'  Dredge Line,  Pyke's  Bone Skewer and  Thresh's  Death Sentence will still hit targets if their caster switches realms before they hit.\n Camille's  The Hextech Ultimatum,  Dr. Mundo's  Goes Where He Pleases,  Nunu & Willump's  Biggest Snowball Ever! and  Absolute Zero,  Pyke's  Death from Below,  Ryze's  Realm Warp,  Shen's  Spirit's Refuge,  Taliyah's  Worked Ground and  Zed's  Shadows will follow their caster between realms.\n Braum's  Glacial Fissure[52],  Pantheon's  Grand Starfall*[53],  Singed's  Mega Adhesive[54],  Varus'  Hail of Arrows[55],  Yasuo's  Wind Wall[56],  Ziggs'  Satchel Charge*[57] and  Zilean's  Time Bomb*[58] will follow their caster between realms but will only be visible in the realm they were cast.(bug)\n Ahri's  Orb of Deception will stay in the realm it was cast.\nThe orb will still go back towards  Ahri's position.\n Akshan's  Avengerang will stay in the realm it was cast.\nThe boomerang will only go back towards  Akshan's position if it was already doing so during the realm switch.\n Akshan's  Comeuppance bullets will get destroyed if he switches realms, even if its target is Mordekaiser.\n Anivia's  Glacial Storm will not be dispelled if Anivia switches realms, but it will only be present in the realm it was cast.\n Bel'Veth's  Void Corals will only be present in the realm they spawned in.\nIf  Bel'Veth switches realms while she is consuming a Void Coral, the Void Coral will dissappear and she will not get her True Form nor deal damage to nearby enemies.\n Camille will still be able to use  Hookshot's dash if she switches realms before the spell hits.\n Ekko's  Parallel Convergence will only be visible in the realm it was cast, but he will still be able to trigger the spell's effect from another realm and it will only affect enemies in said realm.(bug)[59]\n Fizz's  Chum the Waters will follow its target between realms.\n Galio's  Winds of War will follow him if the spell was already on the ground before the realm switch, but it will only be visible in the realm it was cast.(bug)[60]\n Gnar's  Boulder Toss boulder will only be visible in the realm it was cast, but he can still pick it up if he goes to its location.(bug)[61]\n Illaoi's  Test of Spirit tether will be destroyed if her target switches realms.\n Test of Spirit's target will not be made into a Vessel.\n Irelia's  Flawless Duet will be recast automatically when switching realms, and will only affect enemies in the realm it was cast.\n Ivern's  Rootcaller can still be recast if the target is in a different realm than him.\n Ivern's  Brushmaker brushes might be visible for a few seconds after switching realms.(bug)[62]\nPassing by the position of a brush created by  Brushmaker in another realm will make units transparent for a few seconds, but they will still be visible to the enemy team.\n Kai'Sa's  Killer Instinct can only be cast towards enemies in the same realm she is at.\n Kalista's  Fate's Call cannot be cast if her  oathsworn is in another realm, but if the spell was cast before entering the Death Realm, it will function as normal and will only affect targets in the oathsworn's realm.\n Karthus'  Requiem will damage enemies in all realms.\n Kayn's  Umbral Trespass will be interrupted and will not deal damage if its target switches realms.\n Kog'Maw's  Void Ooze will follow him between realms.(bug)[63]\nA part of the VFX will be left in the realm it was cast.\n Lillia's  Lilting Lullaby will only affect enemies in the same realm as her.\n Lissandra's  Glacial Path can still be recast if the spell was initially cast in another realm.\n Lulu's  Pix will follow her between realms.\nHowever, if Pix is on another  champion, it will visually stay in Lulu's realm but will keep affecting enemies in the Death Realm.(bug)[64]\nPix will still be able to return to Lulu as normal, even if her ally's still in the Death Realm.\nIf  Locke's  Purgatory's totem is in the ground, it will follow Locke between realms.(bug)\nIf the totem closes in a different realm than Locke, the totem will be visible in Locke's realm but it will only be pickable in the realm it closed.(bug)\n Lux's  Final Spark will follow her between realms.\nThe beam's VFX will only be visible in the realm it was cast.(bug)[65]\n Malzahar's  Void Shift is special cased to not resist the slow but instead resist the realm switch after the cast completes.\n Malzahar's  Call of the Void will follow him if used moments before the realm switch. Also, a part of the VFX will be left in the realm it was cast.(bug)[66]\n Mel's  Golden Eclipse will only deal damage to enemies in the same realm she is at the end of the cast.\n Miss Fortune's  Make It Rain will follow her between realms.(bug)[67]\nThe spell's area VFX will not follow.(bug)\n Naafiri's  Hounds' Pursuit dash will still go through if she switches realms during the cast.\n Nasus'  Spirit Fire will stay in the realm it was cast.\nHowever, the spell will keep affecting enemies in another realm if they were already affected by it before switching realms and they have not left the spell's area.(bug)[68]\n Nautilus'  Depth Charge will not follow its target between realms.\n Neeko cannot be targeted by Realm of Death if she is disguised as a non- champion unit.\n Nilah's  Apotheosis will only deal damage to enemies in the realm it was cast.(unexpected)\nIt will still heal/shield targets in  Nilah's realm at the end of the cast.\n Nocturne's  Paranoia only applies  nearsight to enemy champions in the same realm as him.\n Orianna's  Ball will go back to her after switching realms.\n Orianna's  Command: Shockwave will follow her between realms if her  ball is not on the ground.\nHowever, if her  ball is on the ground,  Command: Shockwave will still follow her between realms but its shockwave will be invisible.(bug)[69]\nAdditionally, if  Command: Shockwave is buffered while  her ball is still flying and she switches realms,  Command: Shockwave's will appear on top of  Orianna, but the actual shockwave will occur at the location  her ball was supposed to land.(bug)[70]\n Poppy's  Keeper's Verdict can send Mordekaiser outside of the Death Realm arena if she uses it during Realm of Death's cast.(bug)[71]\n Pyke's  Phantom Undertow will not follow him if he switches realms while the Phantom is coming back.\n Rakan's  Grand Entrance will follow him between realms, but its initial VFX will not.(bug)[72]\n Rek'Sai's  Tunnels will not follow her between realms.\nIf  Rek'Sai is already on a tunnel when switching realms, her  dash will not be interrupted.\n Sion's  Decimating Smash VFX will follow him between realms, but the spell will only affect enemies in the realm it was cast.(bug)[73]\n Soraka's  Wish will heal targets in all realms.\n Swain's  Nevermove can still be recast if the target is in another realm, but nothing will happen.(unexpected)\n Sylas'  Abduct will not hit enemies if he switches realms during the spell's animation.\n Syndra's  Force of Will will cancel on realm switch.\n Syndra's  Unleashed Power will only affect enemies in the realm it was cast, even if its target is Mordekaiser.\n Tahm Kench's  Devour target will get spit on realm switch. The target will still be dealt damage by the spit if applicable.\n Taliyah's  Weaver's Wall will get interrupted on realm switch.\n Taric's  Bastion link will be temporarily disabled while in the Death Realm. The link will not break.\n Thresh's  Dark Passage will go back to him on realm switch.\n Thresh's  The Box pillars will be visible in all realms, but it will only affect enemies in the realm it was cast.(bug)[74]\n Udyr's  Wingborne Storm will stay in the realm it was cast.\nIf the storm's target is sent to a different realm than  Udyr, the storm will start following him instead.\nThe storm's tracking VFX will stay in its target until the end of the spell.(bug)\n Urgot's  Fear Beyond Death cannot be recast if the target is not in the same realm as him.\nIf the target is being reeled in however, the execution at the end of the  channel will take place regardless of the realm either he or the target is in.\n Viego's  Harrowed Path will follow him between realms.(bug)\nThe ground mist will be visible in all realms.(bug)\n Viktor's  Arcane Storm can be redirected with its recast even if Viktor is in a different realm from the singularity.\n Xayah's  Bladecaller cannot call  Feathers between realms.\n Yasuo's  Last Breath will be interrupted if its target switches realms, unless the target is Mordekaiser.\n Yone's  Soul Unbound cannot be recast inside of the Death Realm.\n Yorick's  Maiden will not die with him if he dies inside of the Death Realm.(bug)[75]\n Eulogy of the Isles will still go on cooldown and Yorick will be able to summon another Maiden once the cooldown ends.\nIf Yorick has more than one  Maiden and one of them dies,  Eulogy of the Isles will go on cooldown, even though there is still a Maiden in the map.\n Zaahen's  Dreaded Return will only  pull affected enemies in the same realm it was cast.\n Cryptbloom's nova will spawn at the user's realm and will only affect targets in said realm.\n Elixir of Iron's trail will follow between realms, but it will be invisible.(bug)[76]\n Iceborn Gauntlet's frost field will follow between realms, but it will be invisible.(bug)[77]\n Redemption's beam will only affect targets in the realm it was cast, but its SFX will be heard in all realms.(bug)[78]\n Dark Harvest's souls VFX will not follow between realms, but they will still be reaped succesfully.(bug)[79]\n Glacial Augment's glacial rays will follow between realms, but they will be invisible.(bug)[80]\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -194069,7 +194069,7 @@
     },
     "releaseDate": "2010-02-24",
     "releasePatch": "1.0.0.75",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -195477,7 +195477,7 @@
     "name": "Morgana",
     "title": "The Fallen",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Morgana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Morgana.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -198371,7 +198371,7 @@
     "name": "Naafiri",
     "title": "The Hound of a Hundred Bites",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Naafiri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Naafiri.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -200424,7 +200424,7 @@
     "name": "Nami",
     "title": "The Tidecaller",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nami.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nami.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -201038,10 +201038,10 @@
                     {
                       "values": [
                         20,
-                        30,
-                        40,
+                        35,
                         50,
-                        60
+                        65,
+                        80
                       ],
                       "units": [
                         "",
@@ -201075,10 +201075,10 @@
                     {
                       "values": [
                         60,
-                        90,
-                        120,
+                        105,
                         150,
-                        180
+                        195,
+                        240
                       ],
                       "units": [
                         "",
@@ -201317,7 +201317,7 @@
     },
     "releaseDate": "2012-12-07",
     "releasePatch": "1.0.0.152",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -202967,7 +202967,7 @@
     "name": "Nasus",
     "title": "The Curator of the Sands",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nasus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nasus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -205434,7 +205434,7 @@
     "name": "Nautilus",
     "title": "The Titan of the Depths",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nautilus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nautilus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -207556,7 +207556,7 @@
     "name": "Neeko",
     "title": "The Curious Chameleon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Neeko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Neeko.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -209671,7 +209671,7 @@
     "name": "Nidalee",
     "title": "The Bestial Huntress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nidalee.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nidalee.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -212523,7 +212523,7 @@
     "name": "Nilah",
     "title": "The Joy Unbound",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nilah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nilah.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -214071,7 +214071,7 @@
     "name": "Nocturne",
     "title": "The Eternal Nightmare",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nocturne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nocturne.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -215838,7 +215838,7 @@
     "name": "Nunu & Willump",
     "title": "The Boy and His Yeti",
     "fullName": "Nunu & Willump",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Nunu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Nunu.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -218462,7 +218462,7 @@
     "name": "Olaf",
     "title": "The Berserker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Olaf.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Olaf.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -220646,7 +220646,7 @@
     "name": "Orianna",
     "title": "The Lady of Clockwork",
     "fullName": "Orianna Reveck",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Orianna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Orianna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -222510,7 +222510,7 @@
     "name": "Ornn",
     "title": "The Fire Below the Mountain",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ornn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ornn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -224308,7 +224308,7 @@
     "name": "Pantheon",
     "title": "The Unbreakable Spear",
     "fullName": "Atreus",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Pantheon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Pantheon.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -226578,7 +226578,7 @@
     "name": "Poppy",
     "title": "Keeper of the Hammer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Poppy.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Poppy.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -228877,7 +228877,7 @@
     "name": "Pyke",
     "title": "The Bloodharbor Ripper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Pyke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Pyke.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -229126,7 +229126,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2500 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -231534,7 +231534,7 @@
     "name": "Qiyana",
     "title": "Empress of the Elements",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Qiyana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Qiyana.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -233825,7 +233825,7 @@
     "name": "Quinn",
     "title": "Demacia's Wings",
     "fullName": "Quinn and Valor",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Quinn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Quinn.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -235445,7 +235445,7 @@
     "name": "Rakan",
     "title": "The Charmer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Rakan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Rakan.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -237659,7 +237659,7 @@
     "name": "Rammus",
     "title": "The Armordillo",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Rammus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Rammus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -239405,7 +239405,7 @@
     "name": "Rek'Sai",
     "title": "The Void Burrower",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/RekSai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/RekSai.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -241233,7 +241233,7 @@
     "name": "Rell",
     "title": "The Iron Maiden",
     "fullName": "Rell Canwell",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Rell.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Rell.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -242894,7 +242894,7 @@
     "name": "Renata Glasc",
     "title": "The Chem-Baroness",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Renata.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Renata.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -244527,7 +244527,7 @@
     "name": "Renekton",
     "title": "The Butcher of the Sands",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Renekton.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Renekton.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -247173,7 +247173,7 @@
     "name": "Rengar",
     "title": "The Pridestalker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Rengar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Rengar.png",
     "resource": "FEROCITY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -249125,7 +249125,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249146,7 +249146,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249167,7 +249167,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249188,7 +249188,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249209,7 +249209,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249230,7 +249230,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249251,7 +249251,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249272,7 +249272,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249293,7 +249293,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2026 - Season 2.",
                 "region": "riot"
               }
             ],
@@ -249333,7 +249333,7 @@
     "name": "Riven",
     "title": "The Exile",
     "fullName": "Konte Riven",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Riven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Riven.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -251883,7 +251883,7 @@
     "name": "Rumble",
     "title": "The Mechanized Menace",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Rumble.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Rumble.png",
     "resource": "HEAT",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -254629,7 +254629,7 @@
     "name": "Ryze",
     "title": "The Rune Mage",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ryze.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ryze.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -256445,7 +256445,7 @@
     "name": "Samira",
     "title": "The Desert Rose",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Samira.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Samira.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -258337,7 +258337,7 @@
     "name": "Sejuani",
     "title": "Fury of the North",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sejuani.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sejuani.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -260632,7 +260632,7 @@
     "name": "Senna",
     "title": "The Redeemer",
     "fullName": "Senna Abaru",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Senna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Senna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -260716,7 +260716,7 @@
         "percentPerLevel": 0.0
       },
       "criticalStrikeDamageModifier": {
-        "flat": 0.85,
+        "flat": 0.8,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -260904,7 +260904,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Senna/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Senna fires a beam in the direction of the target unit. The beam consists of a wider ray of light, and a narrower ray of shadow at the center.The shadow ray deals physical damage to enemies hit and slows them by 15% (+ 15% per 100 bonus AD) (+ 10% per 100 AP) for a duration. The damage dealt to enemy champions applies life steal at 100% effectiveness.",
+              "description": "Active: Senna fires a beam in the direction of the target unit. The beam consists of a wider ray of light, and a narrower ray of shadow at the center.The shadow ray deals physical damage to enemies hit and slows them by 15% (+ 15% per 100 bonus AD) (+ 7% per 100 AP) for a duration. The damage dealt to enemy champions applies life steal at 100% effectiveness.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -261006,11 +261006,11 @@
                     },
                     {
                       "values": [
-                        50,
-                        50,
-                        50,
-                        50,
-                        50
+                        35,
+                        35,
+                        35,
+                        35,
+                        35
                       ],
                       "units": [
                         "% AP",
@@ -261516,7 +261516,7 @@
     },
     "releaseDate": "2019-11-10",
     "releasePatch": "9.22",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -263381,7 +263381,7 @@
     "name": "Seraphine",
     "title": "The Starry-Eyed Songstress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Seraphine.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Seraphine.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -263673,11 +263673,11 @@
                     },
                     {
                       "values": [
-                        50,
-                        50,
-                        50,
-                        50,
-                        50
+                        40,
+                        40,
+                        40,
+                        40,
+                        40
                       ],
                       "units": [
                         "% AP",
@@ -263715,11 +263715,11 @@
                     },
                     {
                       "values": [
-                        87.5,
-                        87.5,
-                        87.5,
-                        87.5,
-                        87.5
+                        70,
+                        70,
+                        70,
+                        70,
+                        70
                       ],
                       "units": [
                         "% AP",
@@ -264246,7 +264246,7 @@
     },
     "releaseDate": "2020-10-29",
     "releasePatch": "10.22",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -265770,11 +265770,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_centered_59.skins_seraphine_skin59.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_uncentered_59.skins_seraphine_skin59.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_tile_59.skins_seraphine_skin59.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/seraphineloadscreen_59.skins_seraphine_skin59.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/seraphineloadscreen_59_le.skins_seraphine_skin59.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_centered_59.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_uncentered_59.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/images/seraphine_splash_tile_59.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/seraphineloadscreen_59.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin59/seraphineloadscreen_59_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -265958,7 +265958,7 @@
     "name": "Sett",
     "title": "The Boss",
     "fullName": "Settrigh",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sett.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sett.png",
     "resource": "GRIT",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -268506,7 +268506,7 @@
     "name": "Shaco",
     "title": "The Demon Jester",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Shaco.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Shaco.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -271418,7 +271418,7 @@
     "name": "Shen",
     "title": "The Eye of Twilight",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Shen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Shen.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -273927,7 +273927,7 @@
     "name": "Shyvana",
     "title": "The Half-Dragon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Shyvana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Shyvana.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -275642,7 +275642,7 @@
     "name": "Singed",
     "title": "The Mad Chemist",
     "fullName": "Corin Reveck",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Singed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Singed.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -277264,7 +277264,7 @@
     "name": "Sion",
     "title": "The Undead Juggernaut",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sion.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sion.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -279832,7 +279832,7 @@
     "name": "Sivir",
     "title": "The Battle Mistress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sivir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sivir.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -282752,7 +282752,7 @@
     "name": "Skarner",
     "title": "The Primordial Sovereign",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Skarner.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Skarner.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -284215,7 +284215,7 @@
     "name": "Smolder",
     "title": "The Fiery Fledgling",
     "fullName": "Ignacarious Gigantareno Rex Le Spes Offerentis",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Smolder.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Smolder.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -285695,7 +285695,7 @@
     "name": "Sona",
     "title": "Maven of the Strings",
     "fullName": "Sona Buvelle",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sona.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -288310,7 +288310,7 @@
     "name": "Soraka",
     "title": "The Starchild",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Soraka.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Soraka.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -290827,7 +290827,7 @@
     "name": "Swain",
     "title": "The Noxian Grand General",
     "fullName": "Jericho Swain",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Swain.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Swain.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -293073,7 +293073,7 @@
     "name": "Sylas",
     "title": "The Unshackled",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Sylas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Sylas.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -295380,7 +295380,7 @@
     "name": "Syndra",
     "title": "The Dark Sovereign",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Syndra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Syndra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -298054,7 +298054,7 @@
     "name": "Tahm Kench",
     "title": "The River King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/TahmKench.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/TahmKench.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -300094,7 +300094,7 @@
     "name": "Taliyah",
     "title": "The Stoneweaver",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Taliyah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Taliyah.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -301711,7 +301711,7 @@
     "name": "Talon",
     "title": "The Blade's Shadow",
     "fullName": "Talon Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Talon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Talon.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -304037,7 +304037,7 @@
     "name": "Taric",
     "title": "The Shield of Valoran",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Taric.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Taric.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -305613,7 +305613,7 @@
     "name": "Teemo",
     "title": "The Swift Scout",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Teemo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Teemo.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -308331,7 +308331,7 @@
     "name": "Thresh",
     "title": "The Chain Warden",
     "fullName": "Erlok Grael",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Thresh.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Thresh.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -310842,7 +310842,7 @@
     "name": "Tristana",
     "title": "The Yordle Gunner",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Tristana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Tristana.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -313756,7 +313756,7 @@
     "name": "Trundle",
     "title": "The Troll King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Trundle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Trundle.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -315411,7 +315411,7 @@
     "name": "Tryndamere",
     "title": "The Barbarian King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Tryndamere.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Tryndamere.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -317409,7 +317409,7 @@
     "name": "Twisted Fate",
     "title": "The Card Master",
     "fullName": "Tobias Felix",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/TwistedFate.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/TwistedFate.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -319485,7 +319485,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Bronze rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319506,7 +319506,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Challenger rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319527,7 +319527,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Diamond rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319548,7 +319548,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Emerald rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319569,7 +319569,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Gold rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319590,7 +319590,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Grandmaster rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319611,7 +319611,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Master rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319632,7 +319632,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Platinum rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319653,7 +319653,7 @@
             ],
             "descriptions": [
               {
-                "description": "This Chroma was awarded to players who win at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2025 - Season 1",
+                "description": "This Chroma was awarded to players who had won at least 15 ranked games and reached Silver rank in any Summoner's Rift ranked queue in 2025 - Season 1",
                 "region": "riot"
               }
             ],
@@ -319695,7 +319695,7 @@
     "name": "Twitch",
     "title": "The Plague Rat",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Twitch.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Twitch.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -322008,7 +322008,7 @@
     "name": "Udyr",
     "title": "The Spirit Walker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Udyr.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Udyr.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -323930,7 +323930,7 @@
     "name": "Urgot",
     "title": "The Dreadnought",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Urgot.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Urgot.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -325736,7 +325736,7 @@
     "name": "Varus",
     "title": "The Arrow of Retribution",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Varus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Varus.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -328524,7 +328524,7 @@
     "name": "Vayne",
     "title": "The Night Hunter",
     "fullName": "Shauna Vayne",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Vayne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Vayne.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -331181,7 +331181,7 @@
     "name": "Veigar",
     "title": "The Tiny Master of Evil",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Veigar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Veigar.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -333532,7 +333532,7 @@
     "name": "Vel'Koz",
     "title": "The Eye of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Velkoz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Velkoz.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -335324,7 +335324,7 @@
     "name": "Vex",
     "title": "The Gloomist",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Vex.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Vex.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -337068,7 +337068,7 @@
     "name": "Vi",
     "title": "The Piltover Enforcer",
     "fullName": "Violet",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Vi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Vi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -339187,7 +339187,7 @@
     "name": "Viego",
     "title": "The Ruined King",
     "fullName": "Viego Santiarul Molach vol Kalah Heigaari",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Viego.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Viego.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -340968,7 +340968,7 @@
     "name": "Viktor",
     "title": "The Herald of the Arcane",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Viktor.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Viktor.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -342788,7 +342788,7 @@
     "name": "Vladimir",
     "title": "The Crimson Reaper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Vladimir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Vladimir.png",
     "resource": "CRIMSON_RUSH",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -345215,7 +345215,7 @@
     "name": "Volibear",
     "title": "The Relentless Storm",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Volibear.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Volibear.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -347136,7 +347136,7 @@
     "name": "Warwick",
     "title": "The Uncaged Wrath of Zaun",
     "fullName": "Vander",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Warwick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Warwick.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -349534,7 +349534,7 @@
     "name": "Wukong",
     "title": "The Monkey King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/MonkeyKing.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/MonkeyKing.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -351290,7 +351290,7 @@
     "name": "Xayah",
     "title": "The Rebel",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Xayah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Xayah.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -353727,7 +353727,7 @@
     "name": "Xerath",
     "title": "The Magus Ascendant",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Xerath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Xerath.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -355504,7 +355504,7 @@
     "name": "Xin Zhao",
     "title": "The Seneschal of Demacia",
     "fullName": "Xin Zhao",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/XinZhao.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/XinZhao.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -357968,7 +357968,7 @@
     "name": "Yasuo",
     "title": "The Unforgiven",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Yasuo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Yasuo.png",
     "resource": "FLOW",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -361189,7 +361189,7 @@
     "name": "Yone",
     "title": "The Unforgotten",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Yone.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Yone.png",
     "resource": "FLOW",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -363813,7 +363813,7 @@
     "name": "Yorick",
     "title": "Shepherd of Souls",
     "fullName": "Yorick Mori",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Yorick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Yorick.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -366193,7 +366193,7 @@
     "name": "Yunara",
     "title": "The Unbroken Faith",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Yunara.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Yunara.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -366237,7 +366237,7 @@
       "attackDamage": {
         "flat": 55,
         "percent": 0.0,
-        "perLevel": 2.5,
+        "perLevel": 3,
         "percentPerLevel": 0.0
       },
       "movespeed": {
@@ -367299,7 +367299,7 @@
     },
     "releaseDate": "2025-07-16",
     "releasePatch": "25.14",
-    "patchLastChanged": "26.01",
+    "patchLastChanged": "26.14",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -367713,7 +367713,7 @@
     "name": "Yuumi",
     "title": "The Magical Cat",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Yuumi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Yuumi.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -370694,7 +370694,7 @@
     "name": "Zaahen",
     "title": "The Unsundered",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zaahen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zaahen.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -372025,7 +372025,7 @@
     "name": "Zac",
     "title": "The Secret Weapon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zac.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zac.png",
     "resource": "HEALTH",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -373937,7 +373937,7 @@
     "name": "Zed",
     "title": "The Master of Shadows",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zed.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -376449,7 +376449,7 @@
     "name": "Zeri",
     "title": "The Spark of Zaun",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zeri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zeri.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -378664,7 +378664,7 @@
     "name": "Ziggs",
     "title": "The Hexplosives Expert",
     "fullName": "Zigmund",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Ziggs.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Ziggs.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -380832,7 +380832,7 @@
     "name": "Zilean",
     "title": "The Chronokeeper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zilean.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zilean.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -382349,7 +382349,7 @@
     "name": "Zoe",
     "title": "The Aspect of Twilight",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zoe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zoe.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -384477,7 +384477,7 @@
     "name": "Zyra",
     "title": "Rise of the Thorns",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.13.1/img/champion/Zyra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.14.1/img/champion/Zyra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
