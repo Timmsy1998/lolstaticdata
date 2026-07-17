@@ -12344,6 +12344,38 @@
           "Lejia Chan",
           "Kudos Productions"
         ]
+      },
+      {
+        "name": "Black Modern",
+        "id": 12049,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Black Alistar Modern",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends.",
+        "release": "0000-00-00",
+        "set": [
+          "Collector's Edition"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/images/alistar_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/alistar/skins/skin01/alistarloadscreen_1.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Harlan Hogan"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -20727,6 +20759,40 @@
           "Huyy Nguyen",
           "West Studio"
         ]
+      },
+      {
+        "name": "Goth Modern",
+        "id": 1060,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Goth Annie Modern",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark.",
+        "release": "0000-00-00",
+        "set": [
+          "Goth"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/annieloadscreen_1.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Cristina Milizia"
+        ],
+        "splashArtist": [
+          "Julia Yurtsev"
+        ]
       }
     ]
   },
@@ -28118,11 +28184,11 @@
         "set": [
           "Porcelain"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_centered_38.skins_aurelionsol_skin38.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_uncentered_38.skins_aurelionsol_skin38.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_tile_38.skins_aurelionsol_skin38.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38.skins_aurelionsol_skin38.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38_le.skins_aurelionsol_skin38.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_centered_38.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_uncentered_38.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/images/aurelionsol_splash_tile_38.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin38/aurelionsolloadscreen_38_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -29994,7 +30060,7 @@
               "leveling": []
             },
             {
-              "description": "When Azir declares a basic attack against an enemy in a soldier's attack range, the Sand Soldier attacks in his stead, thrusting their spear in the target's direction to deal magic damage to enemies struck in a line. Against the primary target, the Sand Soldier's attack applies both on-hit and on-attack effects, the damage of which is reduced to 50% effectiveness. Targets hit beyond the closest take 20% : 100% (based on level) damage. Subsequent Sand Soldier attacks against the same target deal 25% damage without applying on-hit and on-attack effects.",
+              "description": "When Azir declares a basic attack against an enemy in a soldier's attack range, the Sand Soldier attacks in his stead, thrusting their spear in the target's direction to deal magic damage to enemies struck in a line. Against the primary target, the Sand Soldier's attack applies on-hit and on-attack effects, with on-hit damage reduced to 50% effectiveness. Targets hit beyond the closest take 20% : 100% (based on level) damage. Subsequent Sand Soldier attacks against the same target deal 25% damage without applying on-hit and on-attack effects.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -30136,7 +30202,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Soldiers' attacks deal  area damage; against the main target, the damage is additionally tagged as  basic damage.\nIf a soldier's attack hits multiple champions, it will deal damage to them in order of their appearance in the pre-game Loading Screen, the order of which may matter for some effects that trigger just once for the first target hit.\nAzir must rank Arise! as his first ability, and will do so automatically if he reaches level 2 before ranking an ability.\nAzir can only command his soldiers to attack if he is able to declare basic attack commands himself, meaning  crowd control effects that disable attacking, such as  disarm, do not allow him to order his soldiers to attack in his stead.\n Nearsighting effects will only allow Azir to perform attacks from soldiers within his own sight radius.\nCommanding a soldier to attack will trigger  on-attack effects, but will not apply any of these effects to the target hit.\nThe attacks do not apply  life steal.\n Energized will stack but not be consumed.\n Sundered Sky does not apply.\nHowever it does apply with  Runaan's Hurricane for secondary targets if the main target is a champion.\nThe Soldier's attacks do not apply stacks of  Press the Attack as of V26.09.(bug)\nSince V26.06, Soldier attacks will only generate 1 stack of  Conqueror if the primary target is not the first target hit.(bug)\nDamage to enemy champions from Sand Soldier stabs will draw minion aggro even if the enemy champion was not the primary target.(unexpected)\nSand Soldiers can damage  Powder Kegs,  Tentacles, and  Sentinels, but only if they are the main target of the attack.\nSand Soldiers will attack the closest enemy to Azir when using attack move (or A + RMB / Shift + RMB) or  auto-attack.\nIf an enemy has  vision of a Sand Soldier, they will also gain vision of Azir even if he is out of sight.\nThe on-attack modifier also applies to various other damaing effects triggered by the same damage instance, including  Scorch,  Blackfire Torch,  Eclipse,  Hextech Alternator,  Liandry's Torment,  Luden's Echo,  Scout's Slingshot.(bug)\nWhile  Navori Flickerblade is equipped, if Azir has 1 Arise! charge ready, the recharge timer will appear to restart when triggering Transcendence(bug); the recharge timer is incurred normally.\nAn exclamation mark (!) will appear above the Sand Soldier's head when within the range of an enemy  turret.",
+          "notes": "Soldiers' attacks deal  area damage; against the main target, the damage is additionally tagged as  basic damage.\nIf a soldier's attack hits multiple champions, it will deal damage to them in order of their appearance in the pre-game Loading Screen, the order of which may matter for some effects that trigger just once for the first target hit.\nAzir must rank Arise! as his first ability, and will do so automatically if he reaches level 2 before ranking an ability.\nAzir can only command his soldiers to attack if he is able to declare basic attack commands himself, meaning  crowd control effects that disable attacking, such as  disarm, do not allow him to order his soldiers to attack in his stead.\n Nearsighting effects will only allow Azir to perform attacks from soldiers within his own sight radius.\nCommanding a soldier to attack will trigger  on-attack effects, but will not apply any of these effects to the target hit.\nThe attacks do not apply  life steal.\n Energized will stack but not be consumed.\n Sundered Sky does not apply.\nHowever it does apply with  Runaan's Hurricane for secondary targets if the main target is a champion.\nDamage to enemy champions from Sand Soldier stabs will draw minion aggro even if the enemy champion was not the primary target.(unexpected)\nSand Soldiers can damage  Powder Kegs,  Tentacles, and  Sentinels, but only if they are the main target of the attack.\nSand Soldiers will attack the closest enemy to Azir when using attack move (or A + RMB / Shift + RMB) or  auto-attack.\nIf an enemy has  vision of a Sand Soldier, they will also gain vision of Azir even if he is out of sight.\nWhile  Navori Flickerblade is equipped, if Azir has 1 Arise! charge ready, the recharge timer will appear to restart when triggering Transcendence(bug); the recharge timer is incurred normally.\nAn exclamation mark (!) will appear above the Sand Soldier's head when within the range of an enemy  turret.",
           "blurb": "Active:  Azir summons a Sand Soldier to attack nearby targets for him, replacing his  basic attacks against enemies within their range. Their attacks deal magic damage to enemies in a line.",
           "missileSpeed": null,
           "rechargeRate": [
@@ -37390,6 +37456,70 @@
           "Yuyu Wong",
           "Kudos Productions"
         ]
+      },
+      {
+        "name": "Rustier",
+        "id": 53075,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Rustier",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": null,
+        "release": "0000-00-00",
+        "set": [
+          "Legacy"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/blitzcrankloadscreen_1.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Duncan Watt"
+        ],
+        "splashArtist": []
+      },
+      {
+        "name": "Rustiest",
+        "id": 53076,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Rustiest",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": null,
+        "release": "0000-00-00",
+        "set": [
+          "Legacy"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/blitzcrankloadscreen_1.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Duncan Watt"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -46182,11 +46312,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_centered_54.skins_caitlyn_skin54.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_uncentered_54.skins_caitlyn_skin54.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_tile_54.skins_caitlyn_skin54.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/caitlynloadscreen_54.skins_caitlyn_skin54.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/caitlynloadscreen_54_le.skins_caitlyn_skin54.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_centered_54.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_uncentered_54.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/images/caitlyn_splash_tile_54.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/caitlynloadscreen_54.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin54/caitlynloadscreen_54_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -48404,11 +48534,11 @@
         "set": [
           "Petals of Spring"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_centered_44.skins_camille_skin44.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_uncentered_44.skins_camille_skin44.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_tile_44.skins_camille_skin44.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/camilleloadscreen_44.skins_camille_skin44.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/camilleloadscreen_44_le.skins_camille_skin44.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_centered_44.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_uncentered_44.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/images/camille_splash_tile_44.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/camilleloadscreen_44.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin44/camilleloadscreen_44_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -117808,6 +117938,60 @@
           "Ina Wong",
           "West Studio"
         ]
+      },
+      {
+        "name": "Prestige Magma Chamber",
+        "id": 24042,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Prestige Magma Chamber",
+        "lootEligible": true,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "Classic Pass reward",
+        "rarity": "Mythic",
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 24043,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/24/24043.png",
+            "colors": [
+              "#73B9F7",
+              "#3F2989"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Mythic Shop.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Jax flexed at himself in his obsidian mirror. \"Rad,\" he said, then \"Sick. Totally gnarly.\" He'd been trapped in the Magma Chamber for some years now, so his vocabulary was perhaps a little dated. But it didn't matter. With the cavernous chamber's walls finally fractured, he was ready to step out into the world and show everyone what a real weapon can do.",
+        "release": "0000-00-00",
+        "set": [
+          "Magma Chamber"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_centered_42.skins_jax_skin42.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_uncentered_42.skins_jax_skin42.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/images/jax_splash_tile_42.skins_jax_skin42.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42.skins_jax_skin42.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jax/skins/skin42/jaxloadscreen_42_le.skins_jax_skin42.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Erik Braa"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -120282,11 +120466,11 @@
         "set": [
           "Petals of Spring"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_centered_38.skins_jayce_skin38.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_uncentered_38.skins_jayce_skin38.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_tile_38.skins_jayce_skin38.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/jayceloadscreen_38.skins_jayce_skin38.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/jayceloadscreen_38_le.skins_jayce_skin38.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_centered_38.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_uncentered_38.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/images/jayce_splash_tile_38.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/jayceloadscreen_38.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jayce/skins/skin38/jayceloadscreen_38_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -140685,11 +140869,11 @@
         "set": [
           "Petals of Spring"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_centered_70.skins_katarina_skin70.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_uncentered_70.skins_katarina_skin70.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_tile_70.skins_katarina_skin70.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/katarinaloadscreen_70.skins_katarina_skin70.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/katarinaloadscreen_70_le.skins_katarina_skin70.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_centered_70.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_uncentered_70.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/images/katarina_splash_tile_70.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/katarinaloadscreen_70.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/katarina/skins/skin70/katarinaloadscreen_70_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -143680,6 +143864,40 @@
         "splashArtist": [
           "Ina Wong",
           "West Studio"
+        ]
+      },
+      {
+        "name": "Founders Silver",
+        "id": 10088,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Founders Silver",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": "Given to players who purchased the Retail Collector's Edition of League of Legends.",
+        "release": "0000-00-00",
+        "set": [
+          "Collector's Edition"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin88/images/kayle_splash_centered_88.project_jade.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin88/images/kayle_splash_uncentered_88.project_jade.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin88/images/kayle_splash_tile_88.project_jade.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin88/kayleloadscreen_88.project_jade.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayle/skins/skin88/kayleloadscreen_88_le.project_jade.jpg",
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Zehra Fazal"
+        ],
+        "splashArtist": [
+          "Jem Flores"
         ]
       }
     ]
@@ -166213,11 +166431,11 @@
         "set": [
           "Petals of Spring"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_centered_46.skins_lillia_skin46.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_uncentered_46.skins_lillia_skin46.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_tile_46.skins_lillia_skin46.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46.skins_lillia_skin46.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46_le.skins_lillia_skin46.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_centered_46.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_uncentered_46.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/images/lillia_splash_tile_46.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin46/lillialoadscreen_46_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -228851,11 +229069,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_centered_42.skins_poppy_skin42.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_uncentered_42.skins_poppy_skin42.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_tile_42.skins_poppy_skin42.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/poppyloadscreen_42.skins_poppy_skin42.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/poppyloadscreen_42_le.skins_poppy_skin42.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_centered_42.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_uncentered_42.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/images/poppy_splash_tile_42.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/poppyloadscreen_42.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin42/poppyloadscreen_42_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -239396,6 +239614,36 @@
           "Roanna Peroz",
           "Kudos Productions"
         ]
+      },
+      {
+        "name": "Baron",
+        "id": 33035,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Baron",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "League Classic reward",
+        "rarity": "NoRarity",
+        "chromas": [],
+        "lore": null,
+        "release": "0000-00-00",
+        "set": [],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_centered_35.project_jade.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_uncentered_35.project_jade.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_tile_35.project_jade.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/rammusloadscreen_35.project_jade.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/rammusloadscreen_35_le.project_jade.jpg",
+        "newEffects": true,
+        "newAnimations": false,
+        "newRecall": false,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Duncan Watt"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -333523,6 +333771,60 @@
           "Lejia Chan",
           "Kudos Productions"
         ]
+      },
+      {
+        "name": "Prestige Magma Chamber",
+        "id": 45067,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Prestige Magma Chamber",
+        "lootEligible": true,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "2026, S3 Act 1 Premium Battle Pass reward",
+        "rarity": "Mythic",
+        "chromas": [
+          {
+            "name": "Vivid",
+            "id": 45068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/45/45068.png",
+            "colors": [
+              "#D8EDFF",
+              "#501ABB"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a Loot exclusive in the Mythic Shop.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Dear diary, this will be my final entry. I have finally found a path out of this accursed place! Finally the world shall suffer as I have. Finally, the world will burn as I do! The path to my world domination is rectified! RECTIFIED!\" - p. 2013, Veigar's Journal of Injustice",
+        "release": "0000-00-00",
+        "set": [
+          "Magma Chamber"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_centered_67.skins_veigar_skin67.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_uncentered_67.skins_veigar_skin67.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/images/veigar_splash_tile_67.skins_veigar_skin67.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/veigarloadscreen_67.skins_veigar_skin67.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin67/veigarloadscreen_67_le.skins_veigar_skin67.jpg",
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Bob Beal"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -361163,11 +361465,11 @@
         "set": [
           "Petals of Spring"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_centered_88.skins_yasuo_skin88.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_uncentered_88.skins_yasuo_skin88.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_tile_88.skins_yasuo_skin88.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88.skins_yasuo_skin88.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88_le.skins_yasuo_skin88.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_centered_88.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_uncentered_88.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/images/yasuo_splash_tile_88.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin88/yasuoloadscreen_88_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -370668,11 +370970,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_centered_70.skins_yuumi_skin70.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_uncentered_70.skins_yuumi_skin70.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_tile_70.skins_yuumi_skin70.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70.skins_yuumi_skin70.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70_le.skins_yuumi_skin70.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_centered_70.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_uncentered_70.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/images/yuumi_splash_tile_70.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin70/yuumiloadscreen_70_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -380807,11 +381109,11 @@
         "set": [
           "Lunar Revel: Firecracker"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_centered_43.skins_ziggs_skin43.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_uncentered_43.skins_ziggs_skin43.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_tile_43.skins_ziggs_skin43.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/ziggsloadscreen_43.skins_ziggs_skin43.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/ziggsloadscreen_43_le.skins_ziggs_skin43.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_centered_43.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_uncentered_43.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/images/ziggs_splash_tile_43.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/ziggsloadscreen_43.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin43/ziggsloadscreen_43_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
