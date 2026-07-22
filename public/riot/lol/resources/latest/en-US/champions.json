@@ -13691,7 +13691,7 @@
         "name": "T1",
         "id": 799008,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Legacy",
         "formatName": "T1",
         "lootEligible": true,
         "cost": 1350,
@@ -13827,7 +13827,7 @@
           }
         ],
         "lore": "Honoring Doran's winning performance as Ambessa during the 2025 World Championship.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
@@ -84782,7 +84782,7 @@
         "name": "T1",
         "id": 3047,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Legacy",
         "formatName": "T1",
         "lootEligible": true,
         "cost": 1350,
@@ -84918,7 +84918,7 @@
           }
         ],
         "lore": "Honoring Faker's winning performance as Galio during the 2025 World Championship.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
@@ -193414,7 +193414,7 @@
         "name": "MVP T1",
         "id": 21069,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "MVP T1",
         "lootEligible": true,
         "cost": 1820,
@@ -193550,7 +193550,7 @@
           }
         ],
         "lore": "Every year at the Champion's Cup, legends from around the world compete for glory. Atop the ranks is Miss Fortune, a gunslinger with three wins to her name—in a row. Now she charges in for her victory lap, confident she'll claim what's already hers by right: a title, a trophy, and a place in history.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
@@ -266040,7 +266040,7 @@
         "name": "T1",
         "id": 147068,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Legacy",
         "formatName": "T1",
         "lootEligible": true,
         "cost": 1350,
@@ -266176,7 +266176,7 @@
           }
         ],
         "lore": "Honoring Keria's winning performance as Seraphine during the 2025 World Championship.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
@@ -358104,7 +358104,7 @@
         "name": "T1",
         "id": 5053,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Legacy",
         "formatName": "T1",
         "lootEligible": true,
         "cost": 1350,
@@ -358240,7 +358240,7 @@
           }
         ],
         "lore": "Honoring Oner's winning performance as Xin Zhao during the 2025 World Championship.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
@@ -367849,7 +367849,7 @@
         "name": "T1",
         "id": 804010,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Legacy",
         "formatName": "T1",
         "lootEligible": true,
         "cost": 1350,
@@ -367985,7 +367985,7 @@
           }
         ],
         "lore": "Honoring Gumayusi's winning performance as Yunara during the 2025 World Championship.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "World Champions: 2025"
         ],
