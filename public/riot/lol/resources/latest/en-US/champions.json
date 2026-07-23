@@ -42460,7 +42460,7 @@
               ]
             },
             {
-              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a non-champion, she will shift her target priority to large monsters or minions, then champions, and then any other unit.",
+              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a non-champion, she will stop prioritizing champions and instead target the nearest enemy regardless of whether it's a champion, monster or minion.",
               "leveling": []
             },
             {
