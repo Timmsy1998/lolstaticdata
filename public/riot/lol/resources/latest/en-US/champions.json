@@ -42460,7 +42460,7 @@
               ]
             },
             {
-              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a non-champion, she will stop prioritizing champions and instead target the nearest enemy regardless of whether it's a champion, monster or minion.",
+              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a non-champion, she will shift her target priority to large monsters or minions, then champions, and then any other unit.",
               "leveling": []
             },
             {
@@ -364887,7 +364887,7 @@
               ]
             },
             {
-              "description": "Cursed: The target is revealed and inflicted with armor reduction, and continually raises a Mist Walker from each nearby grave, up to a maximum of 4.\nYorick, Mist Walkers and the The Maiden gain bonus movement speed while facing nearby Cursed enemies. Mist Walkers will leap to nearby Cursed enemy champions and large monsters, attacking them upon arrival.",
+              "description": "Cursed: The target is revealed and inflicted with armor reduction, and continually raises a Mist Walker from each nearby grave, up to a maximum of 4.\nYorick, Mist Walkers and the The Maiden gain bonus movement speed while facing nearby Cursed enemies. Mist Walkers will leap to nearby Cursed enemy champions and large monsters once, attacking them upon arrival.",
               "leveling": [
                 {
                   "attribute": "Armor Reduction",
