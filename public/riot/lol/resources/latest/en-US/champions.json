@@ -348173,7 +348173,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nIf the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.\nThe recast's howling animation has a 0.25-second  lockout time.\nThis will also cancel Warwick's basic attack.\nWarwick cannot attack or cast abilities during the animation, instead the last input will be buffered to play after it ends.\nWarwick will automatically recast if he enters  resurrection.",
+          "notes": "The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nIf the ability is not manually recasted, the secondary effect will trigger without being considered as an ability activation.\nThe recast's howling animation has a 0.25-second  lockout time.\nThis will also cancel Warwick's basic attack.\nWarwick cannot attack or cast abilities during the animation, instead the last input will be buffered to play after it ends.\nWarwick seems to get his basic attack timer reset after manually recasting.\nWarwick will automatically recast if he enters  resurrection.",
           "blurb": "Active:  Warwick gains damage reduction for a short time. Primal Howl can be recast within the duration, and does so automatically afterwards.",
           "missileSpeed": null,
           "rechargeRate": null,
