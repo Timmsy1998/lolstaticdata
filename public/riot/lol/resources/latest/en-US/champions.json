@@ -12349,7 +12349,7 @@
         "name": "Black Modern",
         "id": 12049,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Black Alistar Modern",
         "lootEligible": false,
         "cost": "Special",
@@ -12358,7 +12358,7 @@
         "rarity": "NoRarity",
         "chromas": [],
         "lore": "Given to players who pre-ordered the Digital Collector's Edition of League of Legends.",
-        "release": "0000-00-00",
+        "release": "2026-07-29",
         "set": [
           "Collector's Edition"
         ],
@@ -20764,7 +20764,7 @@
         "name": "Goth Modern",
         "id": 1060,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Goth Annie Modern",
         "lootEligible": false,
         "cost": "Special",
@@ -20773,7 +20773,7 @@
         "rarity": "NoRarity",
         "chromas": [],
         "lore": "Her mother is dead. Her father is dead. But Annie remains, seeing beauty in the dark.",
-        "release": "0000-00-00",
+        "release": "2029-07-29",
         "set": [
           "Goth"
         ],
@@ -34005,7 +34005,7 @@
               ]
             },
             {
-              "description": "True Form: Bel'Veth evolves into a monster, gaining bonus health, bonus movement speed out-of-combat, bonus attack range, increased size, as well as increased total attack speed. Void Surge can dash through terrain. Consuming a Void Coral refreshes the duration of True Form and heals Bel'Veth.\nEnhanced Void Coral Bonus: True Form is empowered to causes Void Remora to spawn from allied and enemy minions that die nearby.",
+              "description": "True Form: Bel'Veth evolves into a monster, gaining bonus health , bonus attack range, increased size, as well as increased total attack speed. Void Surge can dash through terrain. Consuming a Void Coral refreshes the duration of True Form and heals Bel'Veth.\nEnhanced Void Coral Bonus: True Form is empowered to causes Void Remora to spawn from allied and enemy minions that die nearby.",
               "leveling": [
                 {
                   "attribute": "Bonus Health",
@@ -34878,7 +34878,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 200035,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200035.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 200033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200033.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 200032,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200032.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 200030,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200030.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 200034,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200034.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 200037,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200037.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 200036,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200036.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 200031,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/200/200031.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Lady Bel'Veth of the Unseelie Court ushers the living world toward its final harvest. In her wake, all things ripen and spoil, a moldering feast before her open maw. Together, she and her swarm of chitinous children  devour summer's bounty and leave only rotting scraps. Autumn may be beautiful, but it is also proof of nature's insatiable hunger.",
         "release": "0000-00-00",
         "set": [
@@ -37438,7 +37607,7 @@
         "name": "Rustier",
         "id": 53075,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Rustier",
         "lootEligible": false,
         "cost": "Special",
@@ -37447,7 +37616,7 @@
         "rarity": "NoRarity",
         "chromas": [],
         "lore": null,
-        "release": "0000-00-00",
+        "release": "2026-07-29",
         "set": [
           "Legacy"
         ],
@@ -37470,7 +37639,7 @@
         "name": "Rustiest",
         "id": 53076,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Rustiest",
         "lootEligible": false,
         "cost": "Special",
@@ -37479,7 +37648,7 @@
         "rarity": "NoRarity",
         "chromas": [],
         "lore": null,
-        "release": "0000-00-00",
+        "release": "2026-07-29",
         "set": [
           "Legacy"
         ],
@@ -73428,6 +73597,27 @@
         "rarity": "Legendary",
         "chromas": [
           {
+            "name": "Beacon",
+            "id": 81077,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81077.png",
+            "colors": [
+              "#B3D89B",
+              "#337077"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Catseye",
             "id": 81031,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/81/81031.png",
@@ -98307,7 +98497,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 887051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887051.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 887050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887050.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 887054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887054.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 887052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887052.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 887055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887055.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 887049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887049.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 887056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887056.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 887053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/887/887053.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Unseelie Lady Gwen sweeps in on winter winds, dressing the season's austere beauty. She coats the world in silent snow, glittering ribbons of frost, and cloaks spun from the gray underbelly of heavy clouds. The wardrobe of winter that Gwen creates is so enchanting, wayward mortals fail to notice the tips of their fingers turning blue.",
         "release": "0000-00-00",
         "set": [
@@ -108698,6 +109057,27 @@
         "rarity": "Epic",
         "chromas": [
           {
+            "name": "Beacon",
+            "id": 39072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39072.png",
+            "colors": [
+              "#CEC8BF",
+              "#367378"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Catseye",
             "id": 39053,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/39/39053.png",
@@ -117955,7 +118335,7 @@
         "name": "Prestige Magma Chamber",
         "id": 24042,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Magma Chamber",
         "lootEligible": true,
         "cost": "Special",
@@ -117986,7 +118366,7 @@
           }
         ],
         "lore": "Jax flexed at himself in his obsidian mirror. \"Rad,\" he said, then \"Sick. Totally gnarly.\" He'd been trapped in the Magma Chamber for some years now, so his vocabulary was perhaps a little dated. But it didn't matter. With the cavernous chamber's walls finally fractured, he was ready to step out into the world and show everyone what a real weapon can do.",
-        "release": "0000-00-00",
+        "release": "2026-07-29",
         "set": [
           "Magma Chamber"
         ],
@@ -143882,7 +144262,7 @@
         "name": "Founders Silver",
         "id": 10088,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Founders Silver",
         "lootEligible": false,
         "cost": "Special",
@@ -167986,6 +168366,27 @@
             ]
           },
           {
+            "name": "Beacon",
+            "id": 127052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127052.png",
+            "colors": [
+              "#ADCCD7",
+              "#7A2335"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Catseye",
             "id": 127027,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/127/127027.png",
@@ -169277,7 +169678,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Health cost totals approximately 11.3346% of health when cast at full health over the full duration.\nThe health cost updates dynamically with Locke's current health, costing less the lower his remaining health is. It is not based on his current health at the time of cast.",
+          "notes": "Health cost totals approximately 11.335% of his maximum health when cast at full health over the full duration.\nThe health cost updates dynamically with Locke's current health, costing less the lower his remaining health is. It is not based on his current health at the time of cast.",
           "blurb": "Active:  Locke ignites his soul for a few seconds, gaining  bonus attack speed and  bonus move speed. He also stores grey health equal to the damage taken from champions, and an additional amount based on his missing health and Soul Ignition's elapsed duration.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -174806,7 +175207,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 117059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117059.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 117058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117058.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 117062,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117062.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 117060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117060.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 117063,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117063.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 117057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117057.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 117064,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117064.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 117061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/117/117061.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "As summer's reign begins, the Unseelie Lady Lulu whisks bewildered mortals into her idyllic glade to play, play, play! When she grows weary of the game, Lulu transmogrifies her new friends into caterpillar familiars; summer days are long, after all, and bugs make excellent company. Some playmates are simply too precious to be trusted with wings!",
         "release": "0000-00-00",
         "set": [
@@ -176449,6 +177019,27 @@
         "distribution": null,
         "rarity": "Epic",
         "chromas": [
+          {
+            "name": "Beacon",
+            "id": 99081,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/99/99081.png",
+            "colors": [
+              "#CCD0D5",
+              "#FD8E68"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
           {
             "name": "Catseye",
             "id": 99033,
@@ -208039,7 +208630,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This article or section is substantially or structurally incomplete. You can help the League of Legends Wiki by expanding it. For more projects, see the Community To Do List.\nAdditional information: This page is missing a full list of interactions with items, champion abilities, map-specific interactions, and tips & tricks.\n\n\nBefore disguising\nDisguise menu on the HUD\nNeeko's disguise collection is offered through a special Disguise Menu in the HUD. The menu holds up to 5 slots, based on the number of allied  champions. The player can select a disguise by  clicking on their portrait or via the Champion Specific Interaction hotkeys (default: Shift+F1:F5). The Sho'Ma disguise can be discarded by clicking on the 'x' next to the disguise's icon or via the sixth Champion Specific Interaction hotkey (default: Shift+F6).\nThe slot containing her Sho'Ma disguise will be third in the HUD if there are two or more allied champions in the game, otherwise it will be the rightmost slot. The remaining slots will contain allied champion disguises in order of their appearance in the pre-game Loading Screen.\nCasting Inherent Glamour does not count as an ability activation for the purposes of on-cast effects such as  Spellblade,  Force Pulse's passive, and does not interrupt  the clone's movement orders.\nNeeko does not begin storing Sho'Ma from a unit if that unit enters her  sight and gathering range at the same time, or if it is within gathering range when she loses the disguise.\nThe progress of gathering Sho'Ma from a unit is not lost even if Neeko stores Sho'Ma from a different unit.\nInherent Glamour's cooldown only prevents Neeko from activating disguises; she can still store and remove Sho'Ma while the passive is on cooldown.\nWhen disguising while storing Sho'Ma from a unit, Neeko continues to store Sho'Ma from that unit.\nNeeko cannot store Sho'Ma from  Dark Procession and  Powder Keg.\nAfter successfully storing Sho'Ma, Neeko celebrates by clapping.\nThis animation is forced and overrides all other animations except  Pop Blossom's landing animation.\nIf Neeko attempts to activate a disguise while near the  trap,  ward, or jungle plant she stored Sho'Ma from, she will  leap to that unit's exact position over 1 second, though not through terrain, and then become disguised. If she does so for a monster and is near its respective jungle camp, she will leap to that monster's usual position in the camp.\nIf the monster is any  Krug, she will leap to the large Krug's position in the camp on the blue side or medium Krug's position on the red side.\nIf the monster is  Rift Scuttler or a lesser  Raptor, she will leap to its position at the time of storing Sho'Ma instead.(bug)\nThe leap is interrupted if Neeko attacks, moves, or casts certain abilities and spells.\nThe disguise will still activate after 1 second if the leap is interrupted by moving or attacking.\nNeeko cannot gather Sho'Ma while leaping.\nShe will fail to activate the disguise after the leap if she is affected by the same conditions that would break a disguise.\nInherent Glamour's leap has a number of interactions that set it apart from other  lunges:\nInherent Glamour's leap does not interact with  Voltaic Cyclosword's Galvanize passive;\nInherent Glamour's leap does not override the forced movement inflicted by  airborne effects;\nThe path of Inherent Glamour's leap will be similar to the path Neeko would take if ordered to move to the unit's position instead.\nNeeko will copy the unit's facing direction when disguising after leaping.\nIf Neeko does not arrive at the unit's position while leaping, she will continue moving toward it.\nWhile not disguised, attempting to cast Inherent Glamour during a cast time or attack windup puts the ability on cooldown immediately, but postpones the disguise.\nDoing so while disguised will not postpone the effect and will interrupt the attack windup.\nThis allows Neeko to successfully disguise even if she gets affected by effects that would put Inherent Glamour on cooldown during the delay.(unexpected)\nNeeko can activate Inherent Glamour while  channeling, and remain in the disguise during the channel.(unexpected)\nNeeko can activate Inherent Glamour while  immobilized, and remain in the disguise during the immobilization, despite the fact that immobilizations are meant to break the disguise.(unexpected)\nWhile disguised\nNeeko will copy aesthetics as well as superficial mechanical statistics. She will fake a number of readings:\nHealth bar (original's current amount becomes her apparent maximum)\nWhile disguised as  Kled, Neeko's health bar simulates a health threshold, but does not color  Skaarl's health properly.(bug)\nSecondary resource - e.g. mana, energy or none at all (original's current amount becomes her apparent maximum)\nIf disguised as a  Siege  Minion, Neeko cannot see her mana bar.(bug)\nAmmunition\nStats\n Buffs and  debuffs with their respective icons and VFX/SFX (there are exceptions)\nNeeko sees the buffs that are actually applied to her, while enemies see the disguise's form's buffs.\nAlthough Neeko can see the buffs, she cannot read their descriptions by hovering their icons.(bug)\nAfter gaining a charge of Shared Riches ( World Atlas,  Runic Compass), Neeko is unable to see the charge count until she consumes a charge.(bug)\nLevel\nKill feed icon\nMinimap icon\nA number of attributes she actually adopts are:\nBase movement speed if it is lower than Neeko's base\nWhile disguised as a non-champion, Neeko's total movement speed cannot be reduced below 200.\nWhile disguised as a ward or plant, Neeko's total movement speed cannot be increased above 200, except via effects that set movement speed to a certain value ( Chaaaaaaaarge!!!).\nPENDING FOR TEST: Is this true for traps?\nDisguising as  Elise while she is in  spider form will set Neeko's base movement speed to 315 instead.(bug)\nClassification of the unit (e.g.  melee,  siege minion; large, small monster; ward)\nNeeko is never considered a minion for the purposes of  Reinforced Armor.\nBase range type of the unit ( melee,  ranged)\n Wards are considered to be melee, while jungle plants and  Rift Scuttler are considered to be ranged.\nBase attack speed and attack ratio\nWhen disguising as a non-champion, Neeko instead has her total attack speed set to that of the disguise's form, or to 2.0 if the disguise's form's total attack speed is any higher.\nAlthough  Jhin gains additional base attack speed through growth, Neeko only inherits his level 1 base attack speed value.(bug)\n Basic attack damage type ( basic damage,  ability damage), and subtype ( physical damage,  magic damage)\nFor example, many  pets deal ability damage instead of basic damage with their basic attacks.\nHowever,  critical strikes from non-champions always deal physical basic damage.\nThe  projectile or non-projectile quality of their attack and projectile speed, if applicable\nWhen  striking critically as a non-champion with a projectile attack, the attack projectile is invisible and hits near-instantly, but can still be intercepted by  Wind Wall and similar abilities.\n Base attack range of the unit's base form\nFor example, in the case of  Gnar, she will adopt 175 attack range.\nDamage dealt to champions (physical, magical) ratio for the purposes of  Camille's  Adaptive Defenses.\n Size (including size modifiers and base unit size) at the time of disguising\n Pathing radius when disguising as a non-champion\nPENDING FOR TEST: Is the same true for champions?\nVoice lines\nBase unit model, regardless of current form\nDefault transformation toggle (non-innate)\nCharacter interactions (jokes, taunts, dances, laughs, toggle effects), as well as their  Recall animation\nNeeko can copy  Samira's taunt animation but she will not actually throw the coin via the  Taunt ability.\nWhile disguised as a non-champion, Neeko will play her laugh sound when attempting to laugh.\nEditor's Note: This is an intentional feature, requested by fans when Neeko's V13.9 gameplay update was released.\nWhile disguised as a  Packmate, she will play  Naafiri's laugh instead.\nBoth Neeko and the disguise's form take damage based on her real current  health,  armor, and  magic resistance.\nWhile disguised as a  lane minion, Neeko uniquely takes bonus physical damage from minions based on the disguise's form's health.\nWhile disguised as a non-champion, for the purposes of combat status, Neeko is considered a champion when dealing damage, but not when taking damage.\nEnemy  turrets and  minions still aggro Neeko while she is disguised as a neutral  monster or jungle plant.\nWhile disguised as a plant or ward, Neeko can be targeted by minions and affected by most effects that normally don't affect them.\nPENDING FOR TEST: which abilities, runes and items do / don't interact with wards, plants and wardlike entities?\nWhile disguised as a unit not targetable by turrets (e.g. wards, traps,  Sentinel,  Tentacle), Neeko cannot be targeted by turrets until she damages a champion.\nDisguising as a unit not targetable by turrets does not drop ongoing turret aggro.\nWhile disguised as a jungle plant or  trap, Neeko's facing direction visually appears to not change while moving.\nNeeko's real facing direction is, however, affected by movement for the purposes of direction-facing effects (e.g.  Petrifying Gaze,  Backstab).\nDisguising as a  Blast Cone or  Scryer's Bloom creates their respective roots at Neeko's location at the time of disguise.\nPENDING FOR TEST: when do they disappear?\nDisguising as a monster does not cause Neeko's attack windup to not be cancelled if the target moves out of range.\nWhile disguised as a ward, Neeko can be  disabled by  control wards, but not by  sweeper drones or  Umbral Glaive's Blackout.(bug)\nWhile disguised as a ward, Neeko does not trigger Blackout.\nWhile disguised as a ward, when attacked by champions using  Umbral Glaive, Neeko takes damage from Extinguish, but the disguise's form does not.(bug)\nPENDING FOR TEST: did Umbral Glaive interactions change after V26.01?\nWhile disguised as a ward, when standing within a 225 radius of a  faelight, 'Neeko will mimic superward VFX for 39 seconds, or until her disguise is broken or she leaves the faelight location.\nWhile stationary, and within 75-225 radius of a faelight, Neeko will  blink into a 75 radius of the faelight's location.\nDisguising as a non-champion interrupts the cast time of  Darius'  Noxian Guillotine if it is targeting Neeko.\nWhile disguised as a non-champion, Neeko can be targeted by  Karma's  Focused Resolve and  Renewal.(bug)\nWhile disguised as a non-champion, Neeko can be directly hit by  Hwei's  Spiraling Despair.(bug)\nWhile disguised as a non-champion, Neeko cannot be affected by  Jhin's  Deadly Flourish,  Rammus'  Powerball's negative effects, cannot be  knocked up by  Jarvan IV's  Dragon Strike, and cannot attach  Zilean's  Time Bomb to herself.(bug)\nWhile disguised as a non-champion, Neeko cannot be tethered by  Taric's  Bastion. If she was tethered before changing, the tether will break as soon as she changes into a non-champion and Taric's spells can not be mimicked onto her. Once she changes into a champion the tether will automatically come back.\n Requiem does not affect Neeko while disguised as a non-champion if  Karthus is casting it during  Death Defied, but does otherwise.(bug)\nWhile disguised as a non-champion, Neeko breaks  Mountain Dragon Soul's shield.\nWhile disguised as a non-champion, allied champions using Shared Riches ( World Atlas,  Runic Compass) while Neeko is nearby will  execute minions and trigger the VFX without spending a charge or awarding  gold to Neeko.\nWhile disguised as a non-champion, enemy  Sundered Sky's Lightshield Strike indicator will not be displayed on Neeko, but she will still be affected by the empowered attack.\nAbilities and item actives with champion  targeting forgiveness (e.g.  K'Sante's  All Out,  Karma's  Inspire,  Kindred's  Mounting Dread) can be cast on Neeko even while she is disguised as a non-champion.(bug)\nWhile disguised as a minion or monster, Neeko cannot be  feared by  Noxian Guillotine.(bug)\nWhile disguised as a monster, Neeko cannot be targeted by  Smite.(bug)\nWhile disguised as a monster, Neeko does not receive damage from  Primal Smite.(bug)\nWhile disguised as a monster, Neeko receives full damage as a monster from  Unleashed Smite.\nWhile disguised as  Daisy, Neeko's  basic attacks will not deal damage.(bug)\nAfter gaining the  Brushmaker buff for the first time, Neeko's basic attacks while disguised as Daisy will do 100% total AD physical damage, but the damage will be attributed to  Ivern, allowing Neeko to attack turrets without breaking the disguise, as well as apply his  on-hit effects instead of her own.(bug)\nThis also allows Neeko to apply stacks of Daisy Smash! without consuming any, which can allow Daisy to cast Daisy Smash! multiple times within 3 seconds.(bug)\nWhile disguised as  Blue Sentinel or  Red Brambleback, Neeko's attacks use a different animation cycle from the original monster's and sometimes show VFX from the removed Voidborn forms of the monsters.(bug)\nWhile disguised as a non-champion, Neeko cannot receive  Crest of Insight and  Crest of Cinders by killing  Blue Sentinel and  Red Brambleback.(bug)\nWhile disguised as a non-champion, Neeko is not  knocked back when taking damage from  Graves'  New Destiny's pellets.(bug)\nWhile disguised as  Graves, Neeko's attacks visually imitate New Destiny's pellets, but only deal damage with his invisible missile.\nWhile disguised as  Lulu, Neeko will spawn a  Pix with the same skin ID as Neeko's.\nFor example,  Star Guardian Neeko (skin 10) will always produce a  Pool Party Pix with a Ruby Chroma (skin 10).\nWhile disguised as  Bel'Veth, Neeko's basic attacks always deal 0 damage.(bug)\nWhile disguised as  Elise's  Spiderlings or  Annie's  Tibbers, Neeko's basic attacks will only deal 100% bonus AD magic damage.(bug)\nIf Neeko has no bonus AD, she will not deal damage.\nHowever, Neeko's  critical strikes while disguised will deal (200% +  30%) total AD physical damage as expected.\nWhile disguised as  Tibbers, Neeko's attacks do not interact with  Arcane Comet.(bug)\nWhile disguised as  Bel'Veth's  Void Remora,  Zyra's  Thorn Spitters or  Vine Lashers, Neeko cannot issue a basic attack command.\nWhile disguised as a non-champion, Neeko takes reduced damage from  Kled's  dismounted attacks(bug), but is not considered a champion for the ability's other effects.\nNeeko benefits from  Mr. Kled's Wild Ride even while disguised as a lane minion,  Voidmite or  Void Remora.(bug)\nWhile disguised as a non-champion, Neeko cannot purchase items exclusive to  melee or  ranged champions (eg.  Runaan's Hurricane) regardless of her current range type.(bug)\nNeeko cannot purchase  Elixir of Iron,  Elixir of Sorcery ,  Elixir of Wrath,  Farsight Alteration while disguised as a unit with a lower level than required.\nNeeko will fail to purchase these items when disguising as a unit of required level if her real level is lower than required.\nBreaking the disguise\nInherent Glamour's disguise is broken by the following actions:\nCasting  Blooming Burst or  Tangle-Barbs.\nCasting  Pop Blossom will not break the disguise immediately, but after a delay.\nUsing  Exhaust,  Ignite,  Smite,  Unleashed Smite,  Primal Smite, or  Mark.\nUsing  Dash will not break the disguise.\nActivating the following items:\n Hextech Gunblade\n Hextech Rocketbelt\n Profane Hydra\n Randuin's Omen\n Ravenous Hydra\n Redemption\n Stridebreaker\n Tiamat\n Titanic Hydra\nWhile disguised as a champion(unexpected), dealing  ability damage to champions with abilities or items will also break the disguise.\n Akshan's  Comeuppance is special cased to break the disguise and put it on a 2-second cooldown both before damaging Neeko and while targeting her.\nDamage dealt by  Voidmites summoned by Neeko will be attributed to Neeko and will break the disguise if the disguise's form is a non-champion.(unexpected)\nThis includes Voidmites summoned by  Rift Herald Rodeo if Rift Herald was  attached to Neeko during the charge.",
+          "notes": "This article or section is substantially or structurally incomplete. You can help the League of Legends Wiki by expanding it. For more projects, see the Community To Do List.\nAdditional information: This page is missing a full list of interactions with items, champion abilities, map-specific interactions, and tips & tricks.\n\n\nBefore disguising\nDisguise menu on the HUD\nNeeko's disguise collection is offered through a special Disguise Menu in the HUD. The menu holds up to 5 slots, based on the number of allied  champions. The player can select a disguise by  clicking on their portrait or via the Champion Specific Interaction hotkeys (default: Shift+F1:F5). The Sho'Ma disguise can be discarded by clicking on the 'x' next to the disguise's icon or via the sixth Champion Specific Interaction hotkey (default: Shift+F6).\nThe slot containing her Sho'Ma disguise will be third in the HUD if there are two or more allied champions in the game, otherwise it will be the rightmost slot. The remaining slots will contain allied champion disguises in order of their appearance in the pre-game Loading Screen.\nCasting Inherent Glamour does not count as an ability activation for the purposes of on-cast effects such as  Spellblade,  Force Pulse's passive, and does not interrupt  the clone's movement orders.\nNeeko does not begin storing Sho'Ma from a unit if that unit enters her  sight and gathering range at the same time, or if it is within gathering range when she loses the disguise.\nThe progress of gathering Sho'Ma from a unit is not lost even if Neeko stores Sho'Ma from a different unit.\nInherent Glamour's cooldown only prevents Neeko from activating disguises; she can still store and remove Sho'Ma while the passive is on cooldown.\nWhen disguising while storing Sho'Ma from a unit, Neeko continues to store Sho'Ma from that unit.\nNeeko cannot store Sho'Ma from  Dark Procession and  Powder Keg.\nAfter successfully storing Sho'Ma, Neeko celebrates by clapping.\nThis animation is forced and overrides all other animations except  Pop Blossom's landing animation.\nIf Neeko attempts to activate a disguise while near the  trap,  ward, or jungle plant she stored Sho'Ma from, she will  leap to that unit's exact position over 1 second, though not through terrain, and then become disguised. If she does so for a monster and is near its respective jungle camp, she will leap to that monster's usual position in the camp.\nIf the monster is any  Krug, she will leap to the large Krug's position in the camp on the blue side or medium Krug's position on the red side.\nIf the monster is  Rift Scuttler or a lesser  Raptor, she will leap to its position at the time of storing Sho'Ma instead.(bug)\nThe leap is interrupted if Neeko attacks, moves, or casts certain abilities and spells.\nThe disguise will still activate after 1 second if the leap is interrupted by moving or attacking.\nNeeko cannot gather Sho'Ma while leaping.\nShe will fail to activate the disguise after the leap if she is affected by the same conditions that would break a disguise.\nInherent Glamour's leap has a number of interactions that set it apart from other  lunges:\nInherent Glamour's leap does not interact with  Voltaic Cyclosword's Galvanize passive;\nInherent Glamour's leap does not override the forced movement inflicted by  airborne effects;\nThe path of Inherent Glamour's leap will be similar to the path Neeko would take if ordered to move to the unit's position instead.\nNeeko will copy the unit's facing direction when disguising after leaping.\nIf Neeko does not arrive at the unit's position while leaping, she will continue moving toward it.\nWhile not disguised, attempting to cast Inherent Glamour during a cast time or attack windup puts the ability on cooldown immediately, but postpones the disguise.\nDoing so while disguised will not postpone the effect and will interrupt the attack windup.\nThis allows Neeko to successfully disguise even if she gets affected by effects that would put Inherent Glamour on cooldown during the delay.(unexpected)\nNeeko can activate Inherent Glamour while  channeling, and remain in the disguise during the channel.(unexpected)\nNeeko can activate Inherent Glamour while  immobilized, and remain in the disguise during the immobilization, despite the fact that immobilizations are meant to break the disguise.(unexpected)\nWhile disguised\nNeeko will copy aesthetics as well as superficial mechanical statistics. She will fake a number of readings:\nHealth bar (original's current amount becomes her apparent maximum)\nWhile disguised as  Kled, Neeko's health bar simulates a health threshold, but does not color  Skaarl's health properly.(bug)\nSecondary resource - e.g. mana, energy or none at all (original's current amount becomes her apparent maximum)\nIf disguised as a  Siege  Minion, Neeko cannot see her mana bar.(bug)\nAmmunition\nStats\n Buffs and  debuffs with their respective icons and VFX/SFX (there are exceptions)\nNeeko sees the buffs that are actually applied to her, while enemies see the disguise's form's buffs.\nAlthough Neeko can see the buffs, she cannot read their descriptions by hovering their icons.(bug)\nAfter gaining a charge of Shared Riches ( World Atlas,  Runic Compass), Neeko is unable to see the charge count until she consumes a charge.(bug)\nLevel\nKill feed icon\nMinimap icon\nA number of attributes she actually adopts are:\nBase movement speed if it is lower than Neeko's base\nWhile disguised as a non-champion, Neeko's total movement speed cannot be reduced below 200.\nWhile disguised as a ward or plant, Neeko's total movement speed cannot be increased above 200, except via effects that set movement speed to a certain value ( Chaaaaaaaarge!!!).\nPENDING FOR TEST: Is this true for traps?\nDisguising as  Elise while she is in  spider form will set Neeko's base movement speed to 315 instead.(bug)\nClassification of the unit (e.g.  melee,  siege minion; large, small monster; ward)\nNeeko is never considered a minion for the purposes of  Reinforced Armor.\nBase range type of the unit ( melee,  ranged)\n Wards are considered to be melee, while jungle plants and  Rift Scuttler are considered to be ranged.\nBase attack speed and attack ratio\nWhen disguising as a non-champion, Neeko instead has her total attack speed set to that of the disguise's form, or to 2.0 if the disguise's form's total attack speed is any higher.\nAlthough  Jhin gains additional base attack speed through growth, Neeko only inherits his level 1 base attack speed value.(bug)\n Basic attack damage type ( basic damage,  ability damage), and subtype ( physical damage,  magic damage)\nFor example, many  pets deal ability damage instead of basic damage with their basic attacks.\nHowever,  critical strikes from non-champions always deal physical basic damage.\nThe  projectile or non-projectile quality of their attack and projectile speed, if applicable\nWhen  striking critically as a non-champion with a projectile attack, the attack projectile is invisible and hits near-instantly, but can still be intercepted by  Wind Wall and similar abilities.\n Base attack range of the unit's base form\nFor example, in the case of  Gnar, she will adopt 175 attack range.\nDamage dealt to champions (physical, magical) ratio for the purposes of  Camille's  Adaptive Defenses.\n Size (including size modifiers and base unit size) at the time of disguising\n Pathing radius when disguising as a non-champion\nPENDING FOR TEST: Is the same true for champions?\nVoice lines\nBase unit model, regardless of current form\nDefault transformation toggle (non-innate)\nCharacter interactions (jokes, taunts, dances, laughs, toggle effects), as well as their  Recall animation\nNeeko can copy  Samira's taunt animation but she will not actually throw the coin via the  Taunt ability.\nWhile disguised as a non-champion, Neeko will play her laugh sound when attempting to laugh.\nEditor's Note: This is an intentional feature, requested by fans when Neeko's V13.9 gameplay update was released.\nWhile disguised as a  Packmate, she will play  Naafiri's laugh instead.\nBoth Neeko and the disguise's form take damage based on her real current  health,  armor, and  magic resistance.\nWhile disguised as a  lane minion, Neeko uniquely takes bonus physical damage from minions based on the disguise's form's health.\nWhile disguised as a non-champion, for the purposes of combat status, Neeko is considered a champion when dealing damage, but not when taking damage.\nEnemy  turrets and  minions still aggro Neeko while she is disguised as a neutral  monster or jungle plant.\nWhile disguised as a plant or ward, Neeko can be targeted by minions and affected by most effects that normally don't affect them.\nPENDING FOR TEST: which abilities, runes and items do / don't interact with wards, plants and wardlike entities?\nWhile disguised as a unit not targetable by turrets (e.g. wards, traps,  Sentinel,  Tentacle), Neeko cannot be targeted by turrets until she damages a champion.\nDisguising as a unit not targetable by turrets does not drop ongoing turret aggro.\nWhile disguised as a jungle plant or  trap, Neeko's facing direction visually appears to not change while moving.\nNeeko's real facing direction is, however, affected by movement for the purposes of direction-facing effects (e.g.  Petrifying Gaze,  Backstab).\nDisguising as a  Blast Cone or  Scryer's Bloom creates their respective roots at Neeko's location at the time of disguise.\nPENDING FOR TEST: when do they disappear?\nDisguising as a monster does not cause Neeko's attack windup to not be cancelled if the target moves out of range.\nWhile disguised as a ward, Neeko can be  disabled by  control wards, but not by  sweeper drones or  Umbral Glaive's Blackout.(bug)\nWhile disguised as a ward, Neeko does not trigger Blackout.\nWhile disguised as a ward, when attacked by champions using  Umbral Glaive, Neeko takes damage from Extinguish, but the disguise's form does not.(bug)\nPENDING FOR TEST: did Umbral Glaive interactions change after V26.01?\nWhile disguised as a ward, when standing within a 225 radius of a  faelight, 'Neeko will mimic superward VFX for 39 seconds, or until her disguise is broken or she leaves the faelight location.\nWhile stationary, and within 75-225 radius of a faelight, Neeko will  blink into a 75 radius of the faelight's location.\nDisguising as a non-champion interrupts the cast time of  Darius'  Noxian Guillotine if it is targeting Neeko.\nWhile disguised as a non-champion, Neeko can be targeted by  Karma's  Focused Resolve and  Renewal.(bug)\nWhile disguised as a non-champion, Neeko can be directly hit by  Hwei's  Spiraling Despair.(bug)\nWhile disguised as a non-champion, Neeko cannot be affected by  Jhin's  Deadly Flourish,  Rammus'  Powerball's negative effects, cannot be  knocked up by  Jarvan IV's  Dragon Strike, and cannot attach  Zilean's  Time Bomb to herself.(bug)\nWhile disguised as a non-champion, Neeko cannot be tethered by  Taric's  Bastion. If she was tethered before changing, the tether will break as soon as she changes into a non-champion and Taric's spells can not be mimicked onto her. Once she changes into a champion the tether will automatically come back.\n Requiem does not affect Neeko while disguised as a non-champion if  Karthus is casting it during  Death Defied, but does otherwise.(bug)\nWhile disguised as a non-champion, Neeko breaks  Mountain Dragon Soul's shield.\nWhile disguised as a non-champion, allied champions using Shared Riches ( World Atlas,  Runic Compass) while Neeko is nearby will  execute minions and trigger the VFX without spending a charge or awarding  gold to Neeko.\nWhile disguised as a non-champion, enemy  Sundered Sky's Lightshield Strike indicator will not be displayed on Neeko, but she will still be affected by the empowered attack.\nAbilities and item actives with champion  targeting forgiveness (e.g.  K'Sante's  All Out,  Karma's  Inspire,  Kindred's  Mounting Dread) can be cast on Neeko even while she is disguised as a non-champion.(bug)\nWhile disguised as a minion or monster, Neeko cannot be  feared by  Noxian Guillotine.(bug)\nWhile disguised as a monster, Neeko cannot be targeted by  Smite.(bug)\nWhile disguised as a monster, Neeko does not receive damage from  Primal Smite.(bug)\nWhile disguised as a monster, Neeko receives full damage as a monster from  Unleashed Smite.\nWhile disguised as  Daisy, Neeko's  basic attacks will not deal damage.(bug)\nAfter gaining the  Brushmaker buff for the first time, Neeko's basic attacks while disguised as Daisy will do 100% total AD physical damage, but the damage will be attributed to  Ivern, allowing Neeko to attack turrets without breaking the disguise, as well as apply his  on-hit effects instead of her own.(bug)\nThis also allows Neeko to apply stacks of Daisy Smash! without consuming any, which can allow Daisy to cast Daisy Smash! multiple times within 3 seconds.(bug)\nWhile disguised as  Blue Sentinel or  Red Brambleback, Neeko's attacks use a different animation cycle from the original monster's and sometimes show VFX from the removed Voidborn forms of the monsters.(bug)\nWhile disguised as a non-champion, Neeko cannot receive  Crest of Insight and  Crest of Cinders by killing  Blue Sentinel and  Red Brambleback.(bug)\nWhile disguised as a non-champion, Neeko is not  knocked back when taking damage from  Graves'  New Destiny's pellets.(bug)\nWhile disguised as  Graves, Neeko's attacks visually imitate New Destiny's pellets, but only deal damage with his invisible missile.\nWhile disguised as  Elise's  Spiderlings or  Annie's  Tibbers, Neeko's basic attacks will only deal 100% bonus AD magic damage.(bug)\nIf Neeko has no bonus AD, she will not deal damage.\nHowever, Neeko's  critical strikes while disguised will deal (200% +  30%) total AD physical damage as expected.\nWhile disguised as  Tibbers, Neeko's attacks do not interact with  Arcane Comet.(bug)\nWhile disguised as  Bel'Veth's  Void Remora,  Zyra's  Thorn Spitters or  Vine Lashers, Neeko cannot issue a basic attack command.\nWhile disguised as a non-champion, Neeko takes reduced damage from  Kled's  dismounted attacks(bug), but is not considered a champion for the ability's other effects.\nNeeko benefits from  Mr. Kled's Wild Ride even while disguised as a lane minion,  Voidmite or  Void Remora.(bug)\nWhile disguised as a non-champion, Neeko cannot purchase items exclusive to  melee or  ranged champions (eg.  Runaan's Hurricane) regardless of her current range type.(bug)\nNeeko cannot purchase  Elixir of Iron,  Elixir of Sorcery ,  Elixir of Wrath,  Farsight Alteration while disguised as a unit with a lower level than required.\nNeeko will fail to purchase these items when disguising as a unit of required level if her real level is lower than required.\nBreaking the disguise\nInherent Glamour's disguise is broken by the following actions:\nCasting  Blooming Burst or  Tangle-Barbs.\nCasting  Pop Blossom will not break the disguise immediately, but after a delay.\nUsing  Exhaust,  Ignite,  Smite,  Unleashed Smite,  Primal Smite, or  Mark.\nUsing  Dash will not break the disguise.\nActivating the following items:\n Hextech Gunblade\n Hextech Rocketbelt\n Profane Hydra\n Randuin's Omen\n Ravenous Hydra\n Redemption\n Stridebreaker\n Tiamat\n Titanic Hydra\nWhile disguised as a champion(unexpected), dealing  ability damage to champions with abilities or items will also break the disguise.\n Akshan's  Comeuppance is special cased to break the disguise and put it on a 2-second cooldown both before damaging Neeko and while targeting her.\nDamage dealt by  Voidmites summoned by Neeko will be attributed to Neeko and will break the disguise if the disguise's form is a non-champion.(unexpected)\nThis includes Voidmites summoned by  Rift Herald Rodeo if Rift Herald was  attached to Neeko during the charge.",
           "blurb": "Innate:  Neeko has a collection of disguises to take on the appearance of allied champions. She can choose a new champion to switch her disguise or select herself to deactivate her disguise. Standing near a non-champion unit will collect its Sho'Ma, adding its disguise to the collection. She can collect only one Sho'Ma, but can discard or consume it.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -239629,7 +240220,7 @@
         "name": "Baron",
         "id": 33035,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Baron",
         "lootEligible": false,
         "cost": "Special",
@@ -239638,7 +240229,7 @@
         "rarity": "NoRarity",
         "chromas": [],
         "lore": null,
-        "release": "0000-00-00",
+        "release": "2026-07-29",
         "set": [],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_centered_35.project_jade.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin35/images/rammus_splash_uncentered_35.project_jade.jpg",
@@ -249365,7 +249956,7 @@
         "name": "Victorious",
         "id": 107049,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Limited",
         "formatName": "Victorious",
         "lootEligible": false,
         "cost": "Special",
@@ -249564,7 +250155,7 @@
           }
         ],
         "lore": "Victorious Rengar was earned by players who accumulated enough split points in Ranked. Slaying beast after Voidborn beast, Rengar adorned himself with trophies from each hunt. He evolved, instincts sharpened with otherworldly power. Now, Rengar claims the world as his hunting grounds—eager to tear his nemesis apart with abominable claws of its own kind.",
-        "release": "0000-00-00",
+        "release": "2026-07-15",
         "set": [
           "Victorious"
         ],
@@ -333786,7 +334377,7 @@
         "name": "Prestige Magma Chamber",
         "id": 45067,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "Prestige Magma Chamber",
         "lootEligible": true,
         "cost": "Special",
@@ -333816,8 +334407,8 @@
             ]
           }
         ],
-        "lore": "Dear diary, this will be my final entry. I have finally found a path out of this accursed place! Finally the world shall suffer as I have. Finally, the world will burn as I do! The path to my world domination is rectified! RECTIFIED!\" - p. 2013, Veigar's Journal of Injustice",
-        "release": "0000-00-00",
+        "lore": " \"Dear diary, this will be my final entry. I have finally found a path out of this accursed place! Finally the world shall suffer as I have. Finally, the world will burn as I do! The path to my world domination is rectified! RECTIFIED!\" - p. 2013, Veigar's Journal of Injustice",
+        "release": "2029-07-29",
         "set": [
           "Magma Chamber"
         ],
