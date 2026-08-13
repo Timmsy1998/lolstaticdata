@@ -29941,11 +29941,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        60,
-                        80,
-                        100,
-                        120,
-                        140
+                        75,
+                        95,
+                        115,
+                        135,
+                        155
                       ],
                       "units": [
                         "",
@@ -34087,9 +34087,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        5,
-                        15,
-                        25
+                        6,
+                        13,
+                        20
                       ],
                       "units": [
                         "%",
@@ -34174,7 +34174,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Applies  proc damage on the bonus true damage and deals  area damage on the explosion.\nEndless Banquet's  takedown effect will not trigger against monsters if they were slain by an enemy.\nEndless Banquet's true damage based on the target's missing health is calculated before the base damage is dealt.\nTrue Form's duration is displayed in Bel'Veth's resource bar, in seconds.\nBel'Veth's True Form at 80  Lavender stacks will last indefinitely, but is still lost upon death.\nBel'Veth will consume all existing Void Corals at once, therefore she is able to acquire the enhanced effects of True Form even if she does not physically consume an enhanced Void Coral.\nThe Void Coral that Bel'Veth consumes herself will not expire in the process of her doing so.\nBel'Veth will consume all other Void Corals upon consumption regardless of range.\nRanking up Endless Banquet will update the bonuses dynamically; if Bel'Veth has True Form upon the level-up, she will receive the upgraded stats.\nBel'Veth gains the bonus health and heal from Endless Banquet at the start of the cast time.\nBel'Veth will be able to consume the target Void Coral even if her dash is interrupted.\nShe dashes at the start of the cast time.\nA Void Coral will not spawn when scoring a  takedown against a summoned  Rift Herald.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe following table refers for interactions while Bel'Veth is in cast time:\nMovement summoner spells can be buffered to cast after the cast time completes if permitted.\nShe is locked out of movement and attack actions for 0.25 seconds after the cast time completes and no buffering of them is permitted for the entirety of her lockout.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Mark\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Applies  proc damage on the bonus true damage and deals  area damage on the explosion.\nEndless Banquet's  takedown effect will not trigger against monsters if they were slain by an enemy.\nEndless Banquet's true damage based on the target's missing health is calculated before the base damage is dealt.\nTrue Form's duration is displayed in Bel'Veth's resource bar, in seconds.\nThe resource bar's color is white. It is purple when Bel'Veth has the enhanced Void Coral bonus.\nBel'Veth's True Form at 80  Lavender stacks will last indefinitely, but is still lost upon death.\nBel'Veth will consume all existing Void Corals at once, therefore she is able to acquire the enhanced effects of True Form even if she does not physically consume an enhanced Void Coral.\nThe Void Coral that Bel'Veth consumes herself will not expire in the process of her doing so.\nBel'Veth will consume all other Void Corals upon consumption regardless of range.\nRanking up Endless Banquet will update the bonuses dynamically; if Bel'Veth has True Form upon the level-up, she will receive the upgraded stats.\nBel'Veth gains the bonus health and heal from Endless Banquet at the start of the cast time.\nBel'Veth will be able to consume the target Void Coral even if her dash is interrupted.\nShe dashes at the start of the cast time.\nA Void Coral will not spawn when scoring a  takedown against a summoned  Rift Herald.\nThis ability will cast from wherever the caster is at the start of the cast time.\nThe following table refers for interactions while Bel'Veth is in cast time:\nMovement summoner spells can be buffered to cast after the cast time completes if permitted.\nShe is locked out of movement and attack actions for 0.25 seconds after the cast time completes and no buffering of them is permitted for the entirety of her lockout.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Mark\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": "Passive: Bel'Veth's  basic attacks deal bonus true damage and generates a  stack that increases this damage against the same target. This effect can stack infinitely.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -46707,7 +46707,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Camille/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Camille's next basic attack on-hit against an enemy champion grants her a shield equal to 20% of her maximum health, lasting for 2 seconds and absorbing damage from either exclusively physical damage or magic damage, based on which type the target has previously dealt most of against champions as well as on Camille's current armor and magic resistance.",
+              "description": "Innate: Periodically, Camille's next basic attack on-hit against an enemy champion grants her a shield equal to 10% / 15% / 20% (based on level) of her maximum health, lasting for 2 seconds and absorbing damage from either exclusively physical damage or magic damage, based on which type the target has previously dealt most of against champions as well as on Camille's current armor and magic resistance.",
               "leveling": []
             }
           ],
@@ -46716,9 +46716,9 @@
             "modifiers": [
               {
                 "values": [
-                  18,
                   14,
-                  10
+                  11,
+                  8
                 ],
                 "units": [
                   " (based on level)",
@@ -46962,11 +46962,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        6,
-                        6.5,
                         7,
                         7.5,
-                        8
+                        8,
+                        8.5,
+                        9
                       ],
                       "units": [
                         "%  of target's maximum health",
@@ -47041,11 +47041,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        3,
-                        3.25,
                         3.5,
                         3.75,
-                        4
+                        4,
+                        4.25,
+                        4.5
                       ],
                       "units": [
                         "%  of target's maximum health",
@@ -47104,11 +47104,11 @@
             "modifiers": [
               {
                 "values": [
-                  15,
-                  14,
-                  13,
                   12,
-                  11
+                  11.5,
+                  11,
+                  10.5,
+                  10
                 ],
                 "units": [
                   "",
@@ -96347,7 +96347,7 @@
               "leveling": []
             },
             {
-              "description": "A Thousand Cuts is modified based on the target:\n Heals Gwen for 50% of post-mitigation damage dealt against champions, capped at 10 : 25 (based on level) (+ 6.5% AP) per instance.\nDeals an additional 8 : 30 (based on level) bonus magic damage against minions that are below 40% health.\nDeals a maximum of 3 (+ 5% AP) magic damage against monsters.",
+              "description": "A Thousand Cuts is modified based on the target:\n Heals Gwen for 67% of post-mitigation damage dealt against champions, capped at 12 : 40 (based on level) (+ 7% AP) per instance.\nDeals an additional 8 : 30 (based on level) bonus magic damage against minions that are below 40% health.\nDeals a maximum of 3 (+ 5% AP) magic damage against monsters.",
               "leveling": []
             }
           ],
@@ -126049,7 +126049,7 @@
           {
             "name": "Catseye",
             "id": 222067,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222067.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin67/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#FFEE59",
               "#FFEE59"
@@ -126070,7 +126070,7 @@
           {
             "name": "Emerald",
             "id": 222068,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222068.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin68/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#2DA130",
               "#2DA130"
@@ -126091,7 +126091,7 @@
           {
             "name": "Obsidian",
             "id": 222072,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222072.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin72/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#27211C",
               "#27211C"
@@ -126112,7 +126112,7 @@
           {
             "name": "Pearl",
             "id": 222073,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222073.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin73/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#ECF9F8",
               "#ECF9F8"
@@ -126133,7 +126133,7 @@
           {
             "name": "Rose Quartz",
             "id": 222071,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222071.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin71/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#E58BA5",
               "#E58BA5"
@@ -126154,7 +126154,7 @@
           {
             "name": "Ruby",
             "id": 222066,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222066.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin66/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#D33528",
               "#D33528"
@@ -126175,7 +126175,7 @@
           {
             "name": "Sapphire",
             "id": 222070,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222070.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin70/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#2756CE",
               "#2756CE"
@@ -126196,7 +126196,7 @@
           {
             "name": "Turquoise",
             "id": 222069,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/222/222069.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin69/chromapreview.chroma_jinx_sparkyoceansong.png",
             "colors": [
               "#73BFBE",
               "#73BFBE"
@@ -146972,9 +146972,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        20,
-                        40,
-                        60
+                        25,
+                        50,
+                        75
                       ],
                       "units": [
                         "",
@@ -146995,8 +146995,8 @@
                     {
                       "values": [
                         40,
-                        75,
-                        110
+                        80,
+                        120
                       ],
                       "units": [
                         "",
@@ -147006,9 +147006,9 @@
                     },
                     {
                       "values": [
-                        22.5,
-                        22.5,
-                        22.5
+                        25,
+                        25,
+                        25
                       ],
                       "units": [
                         "% AP",
@@ -147029,8 +147029,8 @@
                     {
                       "values": [
                         300,
-                        562.5,
-                        825
+                        600,
+                        900
                       ],
                       "units": [
                         "",
@@ -147040,9 +147040,9 @@
                     },
                     {
                       "values": [
-                        168.75,
-                        168.75,
-                        168.75
+                        187.5,
+                        187.5,
+                        187.5
                       ],
                       "units": [
                         "% AP",
@@ -170172,7 +170172,7 @@
               ]
             },
             {
-              "description": "Once all marks expire, and if at least one champion was executed, the totem seals the souls of all executed champions and drops to the ground both over 2.25 seconds. It then lingers for a duration equal to Purgatory's remaining cooldown, but for no less than 10 seconds. Locke can move near the totem to collect it, and for each soul sealed it will both reduce Purgatory's current cooldown by 20% and grant him a permanent Sealed Champion stack.",
+              "description": "Once all marks expire, and if at least one champion was executed, the totem seals the souls of all executed champions and drops to the ground both over 2.25 seconds. It then lingers for a duration equal to Purgatory's remaining cooldown, but for no less than 10 seconds. Locke can move near the totem to collect it, and for each soul sealed it will both reduce Purgatory's current cooldown by 20% of its total cooldown and grant him a permanent Sealed Champion stack.",
               "leveling": []
             }
           ],
@@ -194227,9 +194227,9 @@
         "availability": "Rare",
         "formatName": "MVP T1",
         "lootEligible": true,
-        "cost": 1820,
+        "cost": "Special",
         "sale": 0,
-        "distribution": null,
+        "distribution": "150 Mythic Essence",
         "rarity": "Mythic",
         "chromas": [
           {
@@ -204296,7 +204296,7 @@
               ]
             },
             {
-              "description": "If Siphoning Strike kills the target, Nasus permanently gains 3 stacks, increased to 12 if the target is a champion, large minion, or large monster.",
+              "description": "If Siphoning Strike kills the target, Nasus permanently gains 4 stacks, increased to 10 if the target is a champion, large minion, or large monster.",
               "leveling": []
             },
             {
@@ -227618,15 +227618,15 @@
         "percentPerLevel": 0.0
       },
       "healthRegen": {
-        "flat": 8,
+        "flat": 9,
         "percent": 0.0,
         "perLevel": 0.8,
         "percentPerLevel": 0.0
       },
       "mana": {
-        "flat": 280,
+        "flat": 300,
         "percent": 0.0,
-        "perLevel": 40,
+        "perLevel": 45,
         "percentPerLevel": 0.0
       },
       "manaRegen": {
@@ -227648,7 +227648,7 @@
         "percentPerLevel": 0.0
       },
       "attackDamage": {
-        "flat": 60,
+        "flat": 56,
         "percent": 0.0,
         "perLevel": 4,
         "percentPerLevel": 0.0
@@ -227911,11 +227911,11 @@
                     },
                     {
                       "values": [
-                        100,
-                        100,
-                        100,
-                        100,
-                        100
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
                       ],
                       "units": [
                         "% bonus AD",
@@ -227927,10 +227927,10 @@
                     },
                     {
                       "values": [
-                        9,
-                        9,
-                        9,
-                        9,
+                        7,
+                        7.5,
+                        8,
+                        8.5,
                         9
                       ],
                       "units": [
@@ -227948,11 +227948,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        105,
-                        135,
-                        165,
-                        195
+                        85,
+                        120,
+                        155,
+                        190,
+                        225
                       ],
                       "units": [
                         "",
@@ -227969,11 +227969,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        105,
-                        160,
-                        215,
-                        270,
-                        325
+                        115,
+                        175,
+                        235,
+                        295,
+                        355
                       ],
                       "units": [
                         "",
@@ -227985,11 +227985,11 @@
                     },
                     {
                       "values": [
-                        100,
-                        100,
-                        100,
-                        100,
-                        100
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
                       ],
                       "units": [
                         "% bonus AD",
@@ -228012,10 +228012,10 @@
                     {
                       "values": [
                         20,
-                        25,
-                        30,
-                        35,
-                        40
+                        23,
+                        26,
+                        29,
+                        32
                       ],
                       "units": [
                         "%",
@@ -228023,6 +228023,22 @@
                         "%",
                         "%",
                         "%"
+                      ]
+                    },
+                    {
+                      "values": [
+                        0.8,
+                        0.8,
+                        0.8,
+                        0.8,
+                        0.8
+                      ],
+                      "units": [
+                        "% per 100 Poppy's bonus health",
+                        "% per 100 Poppy's bonus health",
+                        "% per 100 Poppy's bonus health",
+                        "% per 100 Poppy's bonus health",
+                        "% per 100 Poppy's bonus health"
                       ]
                     }
                   ]
@@ -228048,11 +228064,11 @@
                     },
                     {
                       "values": [
-                        200,
-                        200,
-                        200,
-                        200,
-                        200
+                        150,
+                        150,
+                        150,
+                        150,
+                        150
                       ],
                       "units": [
                         "% bonus AD",
@@ -228064,10 +228080,10 @@
                     },
                     {
                       "values": [
-                        18,
-                        18,
-                        18,
-                        18,
+                        14,
+                        15,
+                        16,
+                        17,
                         18
                       ],
                       "units": [
@@ -228085,11 +228101,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        210,
-                        320,
-                        430,
-                        540,
-                        650
+                        230,
+                        350,
+                        470,
+                        590,
+                        710
                       ],
                       "units": [
                         "",
@@ -228101,11 +228117,11 @@
                     },
                     {
                       "values": [
-                        200,
-                        200,
-                        200,
-                        200,
-                        200
+                        150,
+                        150,
+                        150,
+                        150,
+                        150
                       ],
                       "units": [
                         "% bonus AD",
@@ -230154,7 +230170,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2800 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -351415,11 +351431,11 @@
           "spellshieldable": "True",
           "resource": "MANA",
           "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "spell",
+          "spellEffects": "speciale",
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Crushing Blow's bonus damage is tagged as  basic damage and  spell damage, which allows it to trigger  spell effects.\nCrushing Blow triggers on  structures and  wards but the armor reduction is not applied.\nIssuing a Hold command (default J) or Stop command (default S) after Crushing Blow's attack has started will cancel the animation, however the attack will still be launched and Wukong will be unable to move until that point.",
+          "notes": "The  basic attack portion of Crushing Blow is tagged as both  basic damage and  spell damage, while the bonus damage portion is tagged as  basic damage and  proc damage.\nCrushing Blow triggers on  structures and  wards but the armor reduction is not applied.\nIssuing a Hold command (default J) or Stop command (default S) after Crushing Blow's attack has started will cancel the animation, however the attack will still be launched and Wukong will be unable to move until that point.",
           "blurb": "Active:  Wukong's next basic attack within a few seconds will gain  bonus range, deal bonus physical damage, and inflict  armor reduction for a short time.",
           "missileSpeed": null,
           "rechargeRate": null,
