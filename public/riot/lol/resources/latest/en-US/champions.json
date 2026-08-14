@@ -126161,14 +126161,14 @@
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -183455,9 +183455,7 @@
       }
     },
     "positions": [
-      "JUNGLE",
-      "SUPPORT",
-      "TOP"
+      "SUPPORT"
     ],
     "roles": [
       "SUPPORT",
@@ -267034,12 +267032,12 @@
         "cost": 1820,
         "sale": 0,
         "distribution": null,
-        "rarity": "NoRarity",
+        "rarity": "Legendary",
         "chromas": [
           {
             "name": "Catseye",
             "id": 147079,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147079.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin79/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#FFEE59",
               "#FFEE59"
@@ -267060,7 +267058,7 @@
           {
             "name": "Obsidian",
             "id": 147081,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147081.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin81/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#27211C",
               "#27211C"
@@ -267081,7 +267079,7 @@
           {
             "name": "Pearl",
             "id": 147078,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147078.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin78/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#ECF9F8",
               "#ECF9F8"
@@ -267102,28 +267100,28 @@
           {
             "name": "Ruby",
             "id": 147076,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147076.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin76/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#D33528",
               "#D33528"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
           {
             "name": "Sapphire",
             "id": 147077,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147077.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin77/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#2756CE",
               "#2756CE"
@@ -267144,7 +267142,7 @@
           {
             "name": "Tanzanite",
             "id": 147080,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/147/147080.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin80/chromapreview.chroma_seraphine_gemstone.png",
             "colors": [
               "#54209B",
               "#54209B"
@@ -267172,7 +267170,7 @@
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin69/images/seraphine_splash_uncentered_69.skins_seraphine_skin69.jpg",
         "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin69/images/seraphine_splash_tile_69.skins_seraphine_skin69.jpg",
         "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin69/seraphineloadscreen_69.skins_seraphine_skin69.jpg",
-        "loadScreenVintagePath": null,
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin69/seraphineloadscreen_69_le.skins_seraphine_skin69.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -292067,7 +292065,7 @@
           {
             "name": "Catseye",
             "id": 16065,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16065.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin65/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#FFEE59",
               "#FFEE59"
@@ -292088,7 +292086,7 @@
           {
             "name": "Emerald",
             "id": 16066,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16066.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin66/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#2DA130",
               "#2DA130"
@@ -292109,7 +292107,7 @@
           {
             "name": "Obsidian",
             "id": 16070,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16070.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin70/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#27211C",
               "#27211C"
@@ -292130,7 +292128,7 @@
           {
             "name": "Pearl",
             "id": 16071,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16071.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin71/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#ECF9F8",
               "#ECF9F8"
@@ -292151,7 +292149,7 @@
           {
             "name": "Rose Quartz",
             "id": 16069,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16069.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin69/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#E58BA5",
               "#E58BA5"
@@ -292172,28 +292170,28 @@
           {
             "name": "Ruby",
             "id": 16064,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16064.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin64/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#D33528",
               "#D33528"
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
               }
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
           {
             "name": "Sapphire",
             "id": 16068,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16068.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin68/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#2756CE",
               "#2756CE"
@@ -292214,7 +292212,7 @@
           {
             "name": "Turquoise",
             "id": 16067,
-            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/16/16067.png",
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin67/chromapreview.chroma_soraka_sparkyoceansong.png",
             "colors": [
               "#73BFBE",
               "#73BFBE"
@@ -348865,7 +348863,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Eternal Hunger's damage is applied before the damage of the effect that triggers it.\nEternal Hunger does not affect:\n structures\n wards (except  effigies)\nJungle plants\n Gangplank's  kegs\nEternal Hunger does affect:\n Illaoi's  Tentacles\nPENDING FOR TEST: Other units with modified health behaviour.",
+          "notes": "Eternal Hunger's damage is applied before the damage of the effect that triggers it.\nEternal Hunger does not affect:\n structures\n wards (except  effigies)\nJungle plants\n Gangplank's  kegs\nEternal Hunger does affect:\n Illaoi's  Tentacles\n Yorick's  Dark Procession\nPENDING FOR TEST: Other units with modified health behaviour.",
           "blurb": "Innate:  Warwick deals bonus magic damage on-hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -365926,7 +365924,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Dark Procession has a  turret prioritization value of 6, equal to that of  super minions.\nYorick's other  pets each have a lower prioritization value, allowing him to delay the turret from targeting the  The Maiden or a Mist Walker for one attack.\nDark Procession deals 0  proc  true damage to enemies it knocks aside, which triggers in-combat effects such as drawing turret and monster aggression,  Sudden Impact or applying  Elixir of Sorcery.\nThe perimeter is made up of 18 units with 100  pathing radius and 20  gameplay radius each.\nYorick marks any enemy champion within repeatedly while the cage persists in order to gain assist credit, lasting for the standard credit timer.",
+          "notes": "Dark Procession has a  turret prioritization value of 6, equal to that of  super minions.\nYorick's other  pets each have a lower prioritization value, allowing him to delay the turret from targeting the  The Maiden or a Mist Walker for one attack.\nDark Procession deals 0  proc  true damage to enemies it knocks aside, which triggers in-combat effects such as drawing turret and monster aggression,  Sudden Impact or applying  Elixir of Sorcery.\nThe perimeter is made up of 18 units with 100  pathing radius and 20  gameplay radius each, which interact with effects like  Warwick's  Eternal Hunger. [2]\nYorick marks any enemy champion within repeatedly while the cage persists in order to gain assist credit, lasting for the standard credit timer.",
           "blurb": "Active:  Yorick summons a destructible ring of spirits at the target location that  knocks aside enemies hit. It remains as terrain against enemies for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -378168,7 +378166,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Charged attacks only deal the base damage to  structures.\nUncharged attacks do not execute enemies that are  shielded or  invulnerable while below the health threshold.\n Spell shield will only block a fully charged attack. Uncharged attacks are not blocked.\nThe attack's range is affected by attack range modifiers ( Rapid Firecannon) (tested on patch 26.12).\nUncharged and charged attacks trigger  Tear of the Goddess' Mana Charge.\nAttacking a turret does not consume Crystalline Overgrowth.\nThe empowered attack will trigger but not be consumed against  wards or jungle plants.\nIf Last Hit Indicator enabled, it will indicate Living Battery's  execute threshold instead of its usual function.",
+          "notes": "Charged attacks only deal the base damage to  structures.\nUncharged attacks do not execute enemies that are  shielded or  invulnerable while below the health threshold.\n Spell shield will only block a fully charged attack. Uncharged attacks are not blocked.\nThe attack's range is affected by attack range modifiers ( Rapid Firecannon) (tested on patch 26.12).\nUncharged and charged attacks trigger  Tear of the Goddess' Mana Charge and  Manaflow Band.\nAttacking a turret does not consume Crystalline Overgrowth.\nThe empowered attack will trigger but not be consumed against  wards or jungle plants.\nIf Last Hit Indicator enabled, it will indicate Living Battery's  execute threshold instead of its usual function.",
           "blurb": "Innate:  Zeri generates charge when she moves and casts  Burst Fire. Her next  basic attack will consume charge to deal magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
