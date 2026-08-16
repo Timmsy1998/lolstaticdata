@@ -183455,7 +183455,9 @@
       }
     },
     "positions": [
-      "SUPPORT"
+      "JUNGLE",
+      "SUPPORT",
+      "TOP"
     ],
     "roles": [
       "SUPPORT",
@@ -292060,7 +292062,7 @@
         "cost": 1350,
         "sale": 0,
         "distribution": null,
-        "rarity": "NoRarity",
+        "rarity": "Epic",
         "chromas": [
           {
             "name": "Catseye",
@@ -324737,7 +324739,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Udyr cannot dash while  grounded or  rooted, but he will still declare the empowered attack.\nThe empowered attack will still apply its effects even if the dash is interrupted.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.\nThe immunity to the stun is not applied in any case.",
+          "notes": "Udyr cannot dash while  grounded or  rooted, but he will still declare the empowered attack.\nThe empowered attack will still apply its effects even if the dash is interrupted.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.\nThe immunity to the stun is not applied in any case.\nStunning a unit with Blazing Stampede will grant a stack of Tear of the Goddess, regardless of Monk Training; You may stack Tear of the Goddess completely with only a single cast of Blazing Stampede.",
           "blurb": "Stampede Stance:  Udyr gains  ghosting and a burst of  movement speed that decays over a few seconds. His attacks in this stance briefly  stun his target, but this cannot affect them more than once every few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
