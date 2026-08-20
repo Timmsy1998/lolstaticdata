@@ -8785,9 +8785,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -9702,7 +9702,7 @@
     },
     "releaseDate": "2021-07-22",
     "releasePatch": "11.15",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -13485,7 +13485,7 @@
     },
     "releaseDate": "2024-11-06",
     "releasePatch": "14.22",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -20838,9 +20838,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -22249,7 +22249,7 @@
     },
     "releaseDate": "2019-12-11",
     "releasePatch": "9.24",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -23251,9 +23251,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -23934,7 +23934,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -30544,7 +30544,7 @@
     },
     "releaseDate": "2014-09-16",
     "releasePatch": "4.16",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -33137,7 +33137,7 @@
       "health": {
         "flat": 580,
         "percent": 0.0,
-        "perLevel": 110,
+        "perLevel": 105,
         "percentPerLevel": 0.0
       },
       "healthRegen": {
@@ -34193,7 +34193,7 @@
     },
     "releaseDate": "2022-06-09",
     "releasePatch": "12.11",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -37907,7 +37907,7 @@
               "leveling": []
             },
             {
-              "description": "Upon applying 3 stacks of Ablaze to a large monster or enemy champion, the fire becomes unstable, causing it form a fiery ring around the target that grants sight within its radius and, after 2 seconds, consumes their stacks to explode. All enemies within the detonation are applied a stack of Ablaze and dealt magic damage equal to 6% : 12% (based on level) (+ 2% per 100 AP) of their maximum health, capped at 270 / 355 / 440 / 525 (based on level) against monsters.",
+              "description": "Upon applying 3 stacks of Ablaze to a large monster or enemy champion, the fire becomes unstable, causing it to form a fiery ring around the target that grants sight within its radius and, after 2 seconds, consumes their stacks to explode. All enemies within the detonation are applied a stack of Ablaze and dealt magic damage equal to 6% : 12% (based on level) (+ 2% per 100 AP) of their maximum health, capped at 270 / 355 / 440 / 525 (based on level) against monsters.",
               "leveling": []
             },
             {
@@ -44066,9 +44066,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -44843,7 +44843,7 @@
     },
     "releaseDate": "2011-01-04",
     "releasePatch": "1.0.0.108",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -46502,7 +46502,7 @@
         "percentPerLevel": 0.0
       },
       "mana": {
-        "flat": 339,
+        "flat": 375,
         "percent": 0.0,
         "perLevel": 52,
         "percentPerLevel": 0.0
@@ -47451,7 +47451,7 @@
     },
     "releaseDate": "2016-12-07",
     "releasePatch": "6.24",
-    "patchLastChanged": "26.04",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -52669,9 +52669,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -53555,7 +53555,7 @@
     },
     "releaseDate": "2009-09-19",
     "releasePatch": "0.9.25.21",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -62237,9 +62237,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -63045,7 +63045,7 @@
     },
     "releaseDate": "2012-06-06",
     "releasePatch": "1.0.0.140b",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -71964,9 +71964,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -72753,7 +72753,7 @@
     },
     "releaseDate": "2010-03-16",
     "releasePatch": "1.0.0.79",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -93907,9 +93907,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -94762,7 +94762,7 @@
     },
     "releaseDate": "2011-10-19",
     "releasePatch": "1.0.0.127",
-    "patchLastChanged": "26.07",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -97391,7 +97391,7 @@
     },
     "releaseDate": "2021-04-15",
     "releasePatch": "11.8",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -120924,9 +120924,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -121977,7 +121977,7 @@
     },
     "releaseDate": "2016-02-01",
     "releasePatch": "6.2",
-    "patchLastChanged": "26.05",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1234,
       "rp": 880,
@@ -123544,9 +123544,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -123925,7 +123925,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDespite Jinx starting the game using  Pow-Pow she doesn't receive any bonus attack speed until Switcheroo! has been learned.\n Fishbones splash damage affects structures (minions will target Jinx) but does not affect targets if Jinx's attacks are  blocked,  dodged, or  missed.\n Runaan's Hurricane's Wind's Fury bolts are special-cased to generate one  Pow-Pow stack per enemy hit.\nEach of  Runaan's Hurricane's additional bolts apply  Fishbones' splash damage, which stacks with each other.\nBoth weapons deal  basic damage to their primary target (this includes the increased damage of  Fishbones), which applies  life steal based on the damage dealt (post-mitigation) as usual.\nThe splash damage of  Fishbones is based on the pre-mitigation damage done to the primary target (which includes critical strikes), and is not considered modified physical damage. It deals  default damage and thus doesn't apply  life steal or  on-hit effects.\n Fishbones' damage calculations:\nBasic attack damage: 110% AD\nCritical strike damage: 220% AD\nCritical strike damage with  Infinity Edge: 253% AD\n Runaan's Hurricane's bolt damage: 60.5% AD\nBolt critical strike damage: 121% AD\nBolt critical strike damage with  Infinity Edge: 139.15% AD\nMaximum potential damage with  Runaan's Hurricane: 231% AD\nMaximum potential critical strike damage with  Runaan's Hurricane: 462% AD\nMaximum potential critical strike damage with  Runaan's Hurricane and  Infinity Edge: 531.3% AD",
+          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDespite Jinx starting the game using  Pow-Pow she doesn't receive any bonus attack speed until Switcheroo! has been learned.\n Fishbones splash damage affects structures (minions will target Jinx) but does not affect targets if Jinx's attacks are  blocked,  dodged, or  missed.\n Runaan's Hurricane's Wind's Fury bolts are special-cased to generate one  Pow-Pow stack per enemy hit.\nEach of  Runaan's Hurricane's additional bolts apply  Fishbones' splash damage, which stacks with each other.\nBoth weapons deal  basic damage to their primary target (this includes the increased damage of  Fishbones), which applies  life steal based on the damage dealt (post-mitigation) as usual.\nThe splash damage of  Fishbones is based on the pre-mitigation damage done to the primary target (which includes critical strikes), and is not considered modified physical damage. It deals  default damage and thus doesn't apply  life steal or  on-hit effects.\nSimilarly, the splash damage of  Fishbones will not apply the additional damage from  Hexoptics C44's Magnification.\n Fishbones' damage calculations:\nBasic attack damage: 110% AD\nCritical strike damage: 220% AD\nCritical strike damage with  Infinity Edge: 253% AD\n Runaan's Hurricane's bolt damage: 60.5% AD\nBolt critical strike damage: 121% AD\nBolt critical strike damage with  Infinity Edge: 139.15% AD\nMaximum potential damage with  Runaan's Hurricane: 231% AD\nMaximum potential critical strike damage with  Runaan's Hurricane: 462% AD\nMaximum potential critical strike damage with  Runaan's Hurricane and  Infinity Edge: 531.3% AD",
           "blurb": "Toggle:  Jinx switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -124439,7 +124439,7 @@
     },
     "releaseDate": "2013-10-10",
     "releasePatch": "3.12",
-    "patchLastChanged": "26.04",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -127707,9 +127707,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -128638,7 +128638,7 @@
     },
     "releaseDate": "2018-03-07",
     "releasePatch": "8.5",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -130571,9 +130571,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -131393,7 +131393,7 @@
     },
     "releaseDate": "2014-11-20",
     "releasePatch": "4.20",
-    "patchLastChanged": "26.07",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -147105,7 +147105,7 @@
     },
     "releaseDate": "2010-04-08",
     "releasePatch": "1.0.0.82",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -150276,9 +150276,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -151101,7 +151101,7 @@
     },
     "releaseDate": "2015-10-14",
     "releasePatch": "5.20",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -154239,9 +154239,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -155057,7 +155057,7 @@
     },
     "releaseDate": "2010-06-24",
     "releasePatch": "1.0.0.94",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -170237,7 +170237,7 @@
     },
     "releaseDate": "2026-06-24",
     "releasePatch": "26.13",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -170274,7 +170274,9 @@
         "voiceActor": [
           "Kieran Regan"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Horace 'Hozure' Hsu"
+        ]
       },
       {
         "name": "High Noon",
@@ -170523,9 +170525,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -171251,7 +171253,7 @@
     },
     "releaseDate": "2013-08-22",
     "releasePatch": "3.10a",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -191619,9 +191621,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -192465,7 +192467,7 @@
     },
     "releaseDate": "2010-09-08",
     "releasePatch": "1.0.0.100",
-    "patchLastChanged": "26.01",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -195097,7 +195099,7 @@
     },
     "releaseDate": "2010-02-24",
     "releasePatch": "1.0.0.75",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -204931,7 +204933,7 @@
     },
     "releaseDate": "2009-10-01",
     "releasePatch": "0.9.25.24",
-    "patchLastChanged": "25.24",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -228644,7 +228646,7 @@
     },
     "releaseDate": "2010-01-13",
     "releasePatch": "1.0.0.70",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -233484,7 +233486,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Audacity only damages targets if within 250 range upon completion of the dash.",
+          "notes": "Audacity only damages targets if within 250 range upon completion of the dash.\nQiyana will automatically be ordered to acquire and attack Audacity's target as soon as the dash completes.",
           "blurb": "Active:  Qiyana  dashes toward the target enemy and deals physical damage upon arrival.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -234905,9 +234907,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -235676,7 +235678,7 @@
     },
     "releaseDate": "2013-03-01",
     "releasePatch": "3.03",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -248523,7 +248525,7 @@
               "leveling": []
             },
             {
-              "description": "His first attack on-hit is empowered to stab the target, having an uncancellable windup, gaining 25 bonus range, and dealing additional physical damage. The attack can critically strike for (100% + 30%) AD bonus physical damage.",
+              "description": "His first attack on-hit is empowered to stab the target, having an uncancellable windup, gaining 25 bonus range, and dealing additional physical damage.",
               "leveling": [
                 {
                   "attribute": "Additional Physical Damage",
@@ -257555,9 +257557,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -258415,7 +258417,7 @@
     },
     "releaseDate": "2020-09-21",
     "releasePatch": "10.19",
-    "patchLastChanged": "26.06",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -261742,9 +261744,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -262590,7 +262592,7 @@
     },
     "releaseDate": "2019-11-10",
     "releasePatch": "9.22",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -281101,9 +281103,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -281965,7 +281967,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.02",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -285484,9 +285486,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -286444,7 +286446,7 @@
     },
     "releaseDate": "2024-01-31",
     "releasePatch": "14.2",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -312315,9 +312317,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 28,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -313255,7 +313257,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -321168,9 +321170,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -321982,7 +321984,7 @@
     },
     "releaseDate": "2009-05-01",
     "releasePatch": "May 1, 2009 Patch",
-    "patchLastChanged": "26.09",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -327209,9 +327211,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -328235,7 +328237,7 @@
     },
     "releaseDate": "2012-05-08",
     "releasePatch": "1.0.0.139",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -329997,9 +329999,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -330767,7 +330769,7 @@
     },
     "releaseDate": "2011-05-10",
     "releasePatch": "1.0.0.118",
-    "patchLastChanged": "25.17",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -341426,7 +341428,7 @@
     },
     "releaseDate": "2021-01-21",
     "releasePatch": "11.2",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -343423,7 +343425,7 @@
     },
     "releaseDate": "2011-12-29",
     "releasePatch": "1.0.0.131",
-    "patchLastChanged": "25.24",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -352821,9 +352823,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -353648,7 +353650,7 @@
     },
     "releaseDate": "2017-04-19",
     "releasePatch": "7.8",
-    "patchLastChanged": "26.04",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -367708,9 +367710,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -367907,7 +367909,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The bonus damage is calculated based on the total damage of the critical strike pre-mitigation.\nIf Yunara critically strikes against a champion that has  Randuin's Omen, the bonus magic damage from Vow of the First Lands and the bonus magic damage on-hit from  Cultivation of Spirit will both be reduced by 30%.(unexpected)\nVow of the First Lands can trigger and be triggered by  Shadowflame's Cinderbloom, causing recursion.",
+          "notes": "The bonus damage is calculated based on the total damage of the critical strike pre-mitigation.\nIf Yunara critically strikes against a champion that has  Randuin's Omen, the bonus magic damage from Vow of the First Lands and the bonus magic damage on-hit from  Cultivation of Spirit will both be reduced by 30%.(unexpected)",
           "blurb": "Innate:  Yunara's  critical strikes deal bonus magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -368778,7 +368780,7 @@
     },
     "releaseDate": "2025-07-16",
     "releasePatch": "25.14",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -377946,9 +377948,9 @@
         "percentPerLevel": 0.0
       },
       "magicResistance": {
-        "flat": 30,
+        "flat": 33,
         "percent": 0.0,
-        "perLevel": 1.3,
+        "perLevel": 1.1,
         "percentPerLevel": 0.0
       },
       "attackDamage": {
@@ -379024,7 +379026,7 @@
     },
     "releaseDate": "2022-01-20",
     "releasePatch": "12.2",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.16",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
