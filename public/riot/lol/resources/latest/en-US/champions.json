@@ -51085,7 +51085,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the end of the cast time.\nFeral Scream uses  edge range for enemy targets only; Its range is center-to-edge.",
+          "notes": "This ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Cho'Gath roars in a cone, dealing magic damage and  silencing enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -341283,7 +341283,7 @@
               "leveling": []
             },
             {
-              "description": "Harrowed Path can be cast during any of Viego's abilities. Viego cannot gain the camouflage nor bonus movement speed from Harrowed Path for 1 second if he casted it during Spectral Maw's channel or started the channel while the mist was active.",
+              "description": "Harrowed Path can be cast during any of Viego's abilities. Viego cannot gain the camouflage nor bonus movement speed from Harrowed Path for 1 second if he casts it during Spectral Maw's channel or starts the channel while the mist was active.",
               "leveling": []
             }
           ],
@@ -341318,7 +341318,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spectral Maw's recast does not incur the 1 second cooldown for regaining the stealth and instead prevents the stealth from being gained until the dash ends, resetting the cooldown if it is active.\nThe cooldown is not reset if it was incurred by basic attacking a large monster, but is however reset from it being incurred by  Spectral Maw's channel.\nThe bonus movement speed and camouflage are granted by the same buff.\nViego will enter camouflage even while  Recalling.\nViego can cast Harrowed Path during the cast time of any ability or spell.\nHarrowed Path will follow Viego into  Mordekaiser's  Death Realm\nRanking up Harrowed Path while the effect is already active will still immediately improve the bonuses it grants.\nThe initial missile can be destroyed by  projectile-blocking effects, but the formed Black Mist trail will not disappear. The wall spread missiles cannot be destroyed.\nHarrowed Path can interact with player-generated terrain.\nThe spread path around terrain is determined upon collision and does not change even if the terrain expires mid-spread.\nPENDING FOR TEST: Terrain being created while Harrowed Path is spreading.\nUsing a basic attack breaks the stealth at the start of the attack windup.\nThe stealth regain timer is refreshed from basic attacks at the start of their attack windup.\nViego can benefit from an enemy's Harrowed Path, gaining the bonus stats corresponding to his own Harrowed Path.",
+          "notes": "Spectral Maw's recast does not incur the 1 second cooldown for regaining the stealth and instead prevents the stealth from being gained until the dash ends, resetting the cooldown if it is active.\nThe cooldown is not reset if it was incurred by basic attacking a large monster, but is however reset from it being incurred by  Spectral Maw's channel.\nThe bonus movement speed and camouflage are granted by the same buff.\nViego will enter camouflage even while  Recalling.\nViego can cast Harrowed Path during the cast time of any ability or spell.\nHarrowed Path will follow Viego into  Mordekaiser's  Death Realm.\nRanking up Harrowed Path while the effect is already active will still immediately improve the bonuses it grants.\nThe initial missile can be destroyed by  projectile-blocking effects, but the formed Black Mist trail will not disappear. The wall spread missiles cannot be destroyed.\nHarrowed Path can interact with player-generated terrain.\nThe spread path around terrain is determined upon collision and does not change even if the terrain expires mid-spread.\nPENDING FOR TEST: Terrain being created while Harrowed Path is spreading.\nUsing a basic attack breaks the stealth at the start of the attack windup.\nThe stealth regain timer is refreshed from basic attacks at the start of their attack windup.\nViego can benefit from an enemy's Harrowed Path, gaining the bonus stats corresponding to his own Harrowed Path.",
           "blurb": "Active:  Viego sends a spectre in the target direction that creates a trail of mist in its wake for a period. If it hits terrain, the mist is spread further around either side.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -367909,7 +367909,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The bonus damage is calculated based on the total damage of the critical strike pre-mitigation.\nIf Yunara critically strikes against a champion that has  Randuin's Omen, the bonus magic damage from Vow of the First Lands and the bonus magic damage on-hit from  Cultivation of Spirit will both be reduced by 30%.(unexpected)",
+          "notes": "The bonus damage is calculated based on the total damage of the critical strike (including after  Randuin's Omen and  Shadowflame) pre-mitigation.\nIf Yunara critically strikes against a champion that has  Randuin's Omen, the bonus magic damage from Vow of the First Lands and the bonus magic damage on-hit from  Cultivation of Spirit will both be reduced by 30%.(unexpected)\nIf the bonus damage critically strikes (e.g  Shadowflame), then Vow of the First Lands will apply again on itself before ending the loop.",
           "blurb": "Innate:  Yunara's  critical strikes deal bonus magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
