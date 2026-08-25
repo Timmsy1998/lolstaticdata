@@ -235271,7 +235271,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Blinding Assault's  nearsight will persist through  death.\nThis ability will cast from wherever the caster is at the start of the cast time.",
-          "blurb": "Active:  Quinn sends  Valor in the target direction who stops upon hitting an enemy, dealing physical damage all nearby enemies.",
+          "blurb": "Active:  Quinn sends  Valor in the target direction who stops upon hitting an enemy, dealing physical damage to all nearby enemies.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -373728,7 +373728,7 @@
               "leveling": []
             },
             {
-              "description": "After the duration, Zac is revived with 10 : 50% maximum health. Zac will die once all bloblets are killed.",
+              "description": "After the duration, Zac is revived with 10 : 50% maximum health. Zac will be executed once all bloblets are killed.",
               "leveling": []
             },
             {
@@ -382521,11 +382521,11 @@
               "leveling": []
             },
             {
-              "description": "When he has stored enough to level up an allied champion and grant the same amount of experience to himself, he can select them to channel for 1.2 seconds after a 0.5-second cast time.The channel is interrupted and disabled upon entering combat with enemy champions or taking damage from turrets, placing it on a 10-second cooldown. If Zilean interrupts it himself, it is placed on a 1-second cooldown, increased to 2 if he used a basic attack against a turret to do so. Additionally, if Zilean becomes affected by any form of crowd control, the channel is placed on a 10-second cooldown.",
+              "description": "When he has stored enough experience to level up an allied champion to their next level, he can select them to channel for 1.2 seconds after a 0.5-second cast time.The channel is interrupted and disabled upon entering combat with enemy champions or taking damage from turrets, placing it on a 10-second cooldown. If Zilean interrupts it himself, it is placed on a 1-second cooldown, increased to 2 if he used a basic attack against a turret to do so. Additionally, if Zilean becomes affected by any form of crowd control, the channel is placed on a 10-second cooldown.",
               "leveling": []
             },
             {
-              "description": "A successful channel will grant an equal amount of experience to the ally to-level-up and Zilean, with a combined minimum of 15% of the stored experience.",
+              "description": "A successful channel will grant an equal amount of experience to the ally for them to level up as well as to Zilean, with a combined minimum of 15% of the stored experience.",
               "leveling": []
             },
             {
