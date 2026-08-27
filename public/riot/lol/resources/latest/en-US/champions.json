@@ -6308,7 +6308,7 @@
     },
     "releaseDate": "2010-05-11",
     "releasePatch": "1.0.0.85",
-    "patchLastChanged": "26.05",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -26751,11 +26751,11 @@
             "modifiers": [
               {
                 "values": [
-                  8.75,
-                  10,
-                  11.25,
-                  12.5,
-                  13.75
+                  30,
+                  35,
+                  40,
+                  45,
+                  50
                 ],
                 "units": [
                   "",
@@ -26797,7 +26797,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability always employs Quick cast.\nApplies  persistent damage on the burst and  persistent area damage on the beam.\nBreath of Light's bursts against an enemy champion will aggro nearby enemy minions.\nBreath of Light's burn places a timer on the primary target, which ticks in 0.2 second intervals. Thus, at[ 5 completed intervals ][ 1 full second ], the burst damage is triggered.\nThe timer's visuals themselves otherwise serve no other purpose than gameplay clarity.\nThe timer is placed on the initial primary target and any new primary targets that are acquired during the channel.\nIt falls off and resets to zero if a target is not hit within 1 second of no longer being afflicted by the burn.\n Spell shield will only block the burst damage.\nThe following table refers to interactions while Aurelion Sol is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nInterrupts\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nInterrupts\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Teleport\n\n\nInterrupted by\n\n Flash  Recall  Hexflash\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
+          "notes": "This ability always employs Quick cast.\nApplies  persistent damage on the burst and  persistent area damage on the beam.\nBreath of Light's total mana cost after channeling it for its maximum duration is 90 / 105 / 120 / 135 / 7937.5.\nBreath of Light's bursts against an enemy champion will aggro nearby enemy minions.\nBreath of Light's burn places a timer on the primary target, which ticks in 0.2 second intervals. Thus, at[ 5 completed intervals, ][ 1 full second, ]the burst damage is triggered.\nThe timer's visuals themselves otherwise serve no other purpose than gameplay clarity.\nThe timer is placed on the initial primary target and any new primary targets that are acquired during the channel.\nIt falls off and resets to zero if a target is not hit within 1 second of no longer being afflicted by the burn.\n Spell shield will only block the burst damage.\nThe following table refers to interactions while Aurelion Sol is  channeling:\n\n\nType\n\nChannel\n\n\nAttacking\n\nInterrupts\n\n\nAbilities\n\nInterrupts\n\n\nMovement\n\nInterrupts\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\n Hextech Rocketbelt\n\n\nInterrupted by\n\nAll item-actives not specified above interrupt\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Teleport\n\n\nInterrupted by\n\n Flash  Recall  Hexflash\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -26890,10 +26890,10 @@
               {
                 "values": [
                   22,
-                  20.5,
-                  19,
-                  17.5,
-                  16
+                  20,
+                  18,
+                  16,
+                  14
                 ],
                 "units": [
                   "",
@@ -26928,7 +26928,7 @@
           "angle": null,
           "castTime": "0.4 • None",
           "effectRadius": null,
-          "targetRange": "1500 (+ 7.5  ×  Stardust)"
+          "targetRange": "1500 (+ 7.5 × Stardust)"
         }
       ],
       "E": [
@@ -27298,7 +27298,7 @@
     },
     "releaseDate": "2016-03-24",
     "releasePatch": "6.6",
-    "patchLastChanged": "25.22",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -51114,11 +51114,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        20,
-                        40,
-                        60,
-                        80,
-                        100
+                        30,
+                        50,
+                        70,
+                        90,
+                        110
                       ],
                       "units": [
                         "",
@@ -51167,11 +51167,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        60,
-                        120,
-                        180,
-                        240,
-                        300
+                        90,
+                        150,
+                        210,
+                        270,
+                        330
                       ],
                       "units": [
                         "",
@@ -51601,7 +51601,7 @@
     },
     "releaseDate": "2009-06-26",
     "releasePatch": "June 26, 2009 Patch",
-    "patchLastChanged": "25.23",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -58208,7 +58208,7 @@
     },
     "releaseDate": "2012-08-07",
     "releasePatch": "1.0.0.144",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -94168,11 +94168,11 @@
                     },
                     {
                       "values": [
-                        65,
-                        65,
-                        65,
-                        65,
-                        65
+                        55,
+                        55,
+                        55,
+                        55,
+                        55
                       ],
                       "units": [
                         "% bonus AD",
@@ -94210,11 +94210,11 @@
                     },
                     {
                       "values": [
-                        55,
-                        70,
-                        85,
-                        100,
-                        115
+                        45,
+                        60,
+                        75,
+                        90,
+                        105
                       ],
                       "units": [
                         "% bonus AD",
@@ -94247,11 +94247,11 @@
                     },
                     {
                       "values": [
-                        120,
-                        135,
-                        150,
-                        165,
-                        180
+                        100,
+                        115,
+                        130,
+                        145,
+                        160
                       ],
                       "units": [
                         "% bonus AD",
@@ -94762,7 +94762,7 @@
     },
     "releaseDate": "2011-10-19",
     "releasePatch": "1.0.0.127",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -107328,11 +107328,11 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70,
-                        70,
-                        70
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
                       ],
                       "units": [
                         "% AD",
@@ -107448,7 +107448,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Irelia/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Irelia assumes a defensive stance with her blades to charge for up to 1.5 seconds, during which she reduces incoming physical damage by 40% : 70% (based on level) (+ 7% per 100 AP) and incoming magic damage by 20% : 35% (based on level) (+ 3.5% per 100 AP). Additionally, Defiant Dance's damage increases over the first 0.75 seconds of the channel.",
+              "description": "Active: Irelia assumes a defensive stance with her blades to charge for up to 1.5 seconds, during which she reduces incoming physical damage by 40% : 70% (based on level) (+ 8% per 100 AP) and incoming magic damage by 20% : 35% (based on level) (+ 4% per 100 AP). Additionally, Defiant Dance's damage increases over the first 0.75 seconds of the channel.",
               "leveling": []
             },
             {
@@ -107788,9 +107788,9 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70
+                        100,
+                        100,
+                        100
                       ],
                       "units": [
                         "% AP",
@@ -107872,7 +107872,7 @@
     },
     "releaseDate": "2010-11-16",
     "releasePatch": "1.0.0.105",
-    "patchLastChanged": "25.17",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -119707,7 +119707,7 @@
     },
     "releaseDate": "2012-07-07",
     "releasePatch": "1.0.0.142",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -126038,7 +126038,7 @@
         "name": "Ocean Song",
         "id": 222065,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Ocean Song",
         "lootEligible": true,
         "cost": 1350,
@@ -146758,7 +146758,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The empowered basic attack applies bonus  spell damage, while the electrical surge deals  area damage.\nElectrical Surge's enhanced attack will be consumed and the bonus damage will not be applied if Kennen is  blinded.\nElectrical Surge's enhanced attack cannot be  dodged or  blocked.\nUniquely to Electrical Surge,  on-hit effects triggered by the enchanced attack's cast instance (e.g.  Runaan's Hurricane's Wind's Fury,  Dusk and Dawn's Spellblade) will apply the bonus damage and  Mark of the Storm to targets hit.\nThis is not the case with any other effects applied  on-hit.\nDeveloper's Note: This is intentional.\nThe empowered attack will trigger but not be consumed nor apply its effects against  structures and  wards.",
+          "notes": "The empowered basic attack applies bonus  spell damage, while the electrical surge deals  area damage.\nElectrical Surge's enhanced attack will be consumed and the bonus damage will not be applied if Kennen is  blinded.\nElectrical Surge's enhanced attack cannot be  dodged or  blocked.\nUniquely to Electrical Surge,  on-hit effects triggered by the enhanced attack's cast instance (e.g.  Runaan's Hurricane's Wind's Fury,  Dusk and Dawn's Spellblade) will apply the bonus damage and  Mark of the Storm to targets hit.\nThis is not the case with any other effects applied  on-hit.\nDeveloper's Note: This is intentional.\nThe empowered attack will trigger but not be consumed nor apply its effects against  structures and  wards.",
           "blurb": "Passive:  Kennen's basic attacks  on-attack generate a stack of Electrical Surge, which stacks up to a cap. At max stacks, his next basic attack consumes them all to deal bonus magic damage and apply a stack of  Mark of the Storm.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -156797,11 +156797,11 @@
       "attackSpeed": {
         "flat": 0.658,
         "percent": 0.0,
-        "perLevel": 2.35,
+        "perLevel": 1.5,
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
-        "flat": 0.4,
+        "flat": 0.625,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -157171,11 +157171,11 @@
                     },
                     {
                       "values": [
-                        80,
-                        80,
-                        80,
-                        80,
-                        80
+                        90,
+                        90,
+                        90,
+                        90,
+                        90
                       ],
                       "units": [
                         "% AP",
@@ -157574,9 +157574,9 @@
                     },
                     {
                       "values": [
-                        80,
-                        80,
-                        80
+                        90,
+                        90,
+                        90
                       ],
                       "units": [
                         "% AP",
@@ -157727,7 +157727,7 @@
     },
     "releaseDate": "2010-11-02",
     "releasePatch": "1.0.0.104",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -195099,7 +195099,7 @@
     },
     "releaseDate": "2010-02-24",
     "releasePatch": "1.0.0.75",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -204219,7 +204219,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Nasus/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Nasus gains 12% / 18% / 24% (based on level) life steal.",
+              "description": "Innate: Nasus gains 10% / 15% / 20% (based on level) life steal.",
               "leveling": []
             }
           ],
@@ -204933,7 +204933,7 @@
     },
     "releaseDate": "2009-10-01",
     "releasePatch": "0.9.25.24",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -215107,7 +215107,7 @@
     "adaptiveType": "PHYSICAL_DAMAGE",
     "stats": {
       "health": {
-        "flat": 655,
+        "flat": 640,
         "percent": 0.0,
         "perLevel": 109,
         "percentPerLevel": 0.0
@@ -215131,7 +215131,7 @@
         "percentPerLevel": 0.0
       },
       "armor": {
-        "flat": 38,
+        "flat": 36,
         "percent": 0.0,
         "perLevel": 4.2,
         "percentPerLevel": 0.0
@@ -215952,7 +215952,7 @@
     },
     "releaseDate": "2011-03-15",
     "releasePatch": "1.0.0.113",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -230204,8 +230204,8 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2800 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
-          "blurb": null,
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2800 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUltra Hydra Ultra Hydra0 271.4ARAM: MayhemUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "blurb": "Innate:  Pyke gains  attack damage equal to a portion of his  bonus health.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -232874,18 +232874,18 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Qiyana/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Qiyana slashes forward in the target direction, dealing physical damage to enemies in a line, reduced to 75% damage against targets beyond the first. Edge of Ixtal deals 175% damage against monsters.",
+              "description": "Active: Qiyana slashes forward in the target direction, dealing physical damage to enemies in a line, reduced to 75% damage against targets beyond the first. Edge of Ixtal deals 160% damage against monsters.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
                   "modifiers": [
                     {
                       "values": [
-                        70,
-                        100,
-                        130,
-                        160,
-                        190
+                        80,
+                        110,
+                        140,
+                        170,
+                        200
                       ],
                       "units": [
                         "",
@@ -232897,11 +232897,11 @@
                     },
                     {
                       "values": [
-                        85,
-                        85,
-                        85,
-                        85,
-                        85
+                        90,
+                        90,
+                        90,
+                        90,
+                        90
                       ],
                       "units": [
                         "% bonus AD",
@@ -232918,11 +232918,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        52.5,
-                        75,
-                        97.5,
-                        120,
-                        142.5
+                        60,
+                        82.5,
+                        105,
+                        127.5,
+                        150
                       ],
                       "units": [
                         "",
@@ -232934,11 +232934,11 @@
                     },
                     {
                       "values": [
-                        63.75,
-                        63.75,
-                        63.75,
-                        63.75,
-                        63.75
+                        67.5,
+                        67.5,
+                        67.5,
+                        67.5,
+                        67.5
                       ],
                       "units": [
                         "% bonus AD",
@@ -233035,18 +233035,18 @@
               "leveling": []
             },
             {
-              "description": "Enemies hit are dealt Edge of Ixtal's damage, reduced to 75% against subsequent enemies beyond the closest. Elemental Wrath deals 175% damage against monsters.",
+              "description": "Enemies hit are dealt Edge of Ixtal's damage, reduced to 75% against subsequent enemies beyond the closest. Elemental Wrath deals 160% damage against monsters.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
                   "modifiers": [
                     {
                       "values": [
-                        70,
-                        100,
-                        130,
-                        160,
-                        190
+                        80,
+                        110,
+                        140,
+                        170,
+                        200
                       ],
                       "units": [
                         "",
@@ -233058,11 +233058,11 @@
                     },
                     {
                       "values": [
-                        85,
-                        85,
-                        85,
-                        85,
-                        85
+                        90,
+                        90,
+                        90,
+                        90,
+                        90
                       ],
                       "units": [
                         "% bonus AD",
@@ -233079,11 +233079,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        67.5,
-                        86.25,
+                        60,
+                        82.5,
                         105,
-                        123.75,
-                        142.5
+                        127.5,
+                        150
                       ],
                       "units": [
                         "",
@@ -233095,11 +233095,11 @@
                     },
                     {
                       "values": [
-                        63.75,
-                        63.75,
-                        63.75,
-                        63.75,
-                        63.75
+                        67.5,
+                        67.5,
+                        67.5,
+                        67.5,
+                        67.5
                       ],
                       "units": [
                         "% bonus AD",
@@ -233129,11 +233129,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        112,
-                        160,
-                        208,
-                        256,
-                        304
+                        128,
+                        176,
+                        224,
+                        272,
+                        320
                       ],
                       "units": [
                         "",
@@ -233145,11 +233145,11 @@
                     },
                     {
                       "values": [
-                        136,
-                        136,
-                        136,
-                        136,
-                        136
+                        144,
+                        144,
+                        144,
+                        144,
+                        144
                       ],
                       "units": [
                         "% bonus AD",
@@ -233166,11 +233166,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        94.5,
-                        135,
-                        175.5,
-                        216,
-                        256.5
+                        108,
+                        148.5,
+                        189,
+                        229.5,
+                        270
                       ],
                       "units": [
                         "",
@@ -233182,11 +233182,11 @@
                     },
                     {
                       "values": [
-                        114.75,
-                        114.75,
-                        114.75,
-                        114.75,
-                        114.75
+                        121.5,
+                        121.5,
+                        121.5,
+                        121.5,
+                        121.5
                       ],
                       "units": [
                         "% bonus AD",
@@ -233680,7 +233680,7 @@
     },
     "releaseDate": "2019-06-28",
     "releasePatch": "9.13",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -267062,7 +267062,7 @@
         "name": "Heartsong",
         "id": 147069,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Heartsong",
         "lootEligible": true,
         "cost": 1820,
@@ -292090,7 +292090,7 @@
         "name": "Ocean Song",
         "id": 16063,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Ocean Song",
         "lootEligible": true,
         "cost": 1350,
@@ -310407,11 +310407,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        120,
-                        165,
-                        210,
-                        255
+                        65,
+                        110,
+                        155,
+                        200,
+                        245
                       ],
                       "units": [
                         "",
@@ -310423,11 +310423,11 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70,
-                        70,
-                        70
+                        60,
+                        60,
+                        60,
+                        60,
+                        60
                       ],
                       "units": [
                         "% AP",
@@ -310634,7 +310634,7 @@
     },
     "releaseDate": "2013-01-23",
     "releasePatch": "1.0.0.154",
-    "patchLastChanged": "25.18",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -315692,10 +315692,10 @@
                     {
                       "values": [
                         30,
-                        45,
-                        60,
-                        75,
-                        90
+                        50,
+                        70,
+                        90,
+                        110
                       ],
                       "units": [
                         "%",
@@ -316150,7 +316150,7 @@
     },
     "releaseDate": "2010-12-01",
     "releasePatch": "1.0.0.106",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -330033,15 +330033,15 @@
     "adaptiveType": "PHYSICAL_DAMAGE",
     "stats": {
       "health": {
-        "flat": 550,
+        "flat": 580,
         "percent": 0.0,
-        "perLevel": 103,
+        "perLevel": 98,
         "percentPerLevel": 0.0
       },
       "healthRegen": {
-        "flat": 3.5,
+        "flat": 4,
         "percent": 0.0,
-        "perLevel": 0.55,
+        "perLevel": 0.5,
         "percentPerLevel": 0.0
       },
       "mana": {
@@ -330119,11 +330119,11 @@
       "attackSpeed": {
         "flat": 0.658,
         "percent": 0.0,
-        "perLevel": 3.3,
+        "perLevel": 2.8,
         "percentPerLevel": 0.0
       },
       "attackSpeedRatio": {
-        "flat": 0.657999992370605,
+        "flat": 0.658,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -330336,10 +330336,10 @@
             "modifiers": [
               {
                 "values": [
-                  30,
-                  30,
-                  30,
-                  30,
+                  46,
+                  42,
+                  38,
+                  34,
                   30
                 ],
                 "units": [
@@ -330415,10 +330415,10 @@
                   "modifiers": [
                     {
                       "values": [
-                        6,
+                        4,
+                        5.5,
                         7,
-                        8,
-                        9,
+                        8.5,
                         10
                       ],
                       "units": [
@@ -330436,11 +330436,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        50,
-                        65,
-                        80,
-                        95,
-                        110
+                        40,
+                        55,
+                        70,
+                        85,
+                        100
                       ],
                       "units": [
                         "",
@@ -330833,7 +330833,7 @@
     },
     "releaseDate": "2011-05-10",
     "releasePatch": "1.0.0.118",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -345334,7 +345334,7 @@
     },
     "releaseDate": "2010-07-27",
     "releasePatch": "1.0.0.97",
-    "patchLastChanged": "25.23",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -355294,7 +355294,7 @@
     "adaptiveType": "MAGIC_DAMAGE",
     "stats": {
       "health": {
-        "flat": 596,
+        "flat": 575,
         "percent": 0.0,
         "perLevel": 106,
         "percentPerLevel": 0.0
@@ -355609,11 +355609,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        115,
-                        155,
-                        195,
-                        235
+                        70,
+                        110,
+                        150,
+                        190,
+                        230
                       ],
                       "units": [
                         "",
@@ -356226,7 +356226,7 @@
     },
     "releaseDate": "2011-10-05",
     "releasePatch": "1.0.0.126",
-    "patchLastChanged": "25.08",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -359613,7 +359613,7 @@
         "percentPerLevel": 0.0
       },
       "criticalStrikeDamageModifier": {
-        "flat": 0.9,
+        "flat": 0.95,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -359757,7 +359757,7 @@
               "leveling": []
             },
             {
-              "description": "Yasuo's critical strikes deal only[ (180% + 27%) AD physical damage. ][ 90% of the critical damage champions usually have. ]",
+              "description": "Yasuo's critical strikes deal only[ (190% + 28.5%) AD physical damage. ][ 95% of the critical damage champions usually have. ]",
               "leveling": []
             },
             {
@@ -359798,7 +359798,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yasuo/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
+              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (190% + 28.5%) damage.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -359865,11 +359865,11 @@
                         0
                       ],
                       "units": [
-                        "(189% + 28.35%) AD",
-                        "(189% + 28.35%) AD",
-                        "(189% + 28.35%) AD",
-                        "(189% + 28.35%) AD",
-                        "(189% + 28.35%) AD"
+                        "(199.5% + 29.925%) AD",
+                        "(199.5% + 29.925%) AD",
+                        "(199.5% + 29.925%) AD",
+                        "(199.5% + 29.925%) AD",
+                        "(199.5% + 29.925%) AD"
                       ]
                     }
                   ]
@@ -360408,7 +360408,7 @@
     },
     "releaseDate": "2013-12-13",
     "releasePatch": "3.15",
-    "patchLastChanged": "26.01",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -362818,7 +362818,7 @@
         "percentPerLevel": 0.0
       },
       "criticalStrikeDamageModifier": {
-        "flat": 0.9,
+        "flat": 0.95,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -362961,7 +362961,7 @@
               "leveling": []
             },
             {
-              "description": "Yone's critical strikes deal only[ (180% + 27%) AD physical damage. ][ 90% of the critical damage champions usually have. ]",
+              "description": "Yone's critical strikes deal only[ (190% + 28.5%) AD physical damage. ][ 95% of the critical damage champions usually have. ]",
               "leveling": []
             },
             {
@@ -363002,7 +363002,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yone/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Mortal Steel's damage based on its AD ratio can critically strike for (180% + 27%) damage.",
+              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Mortal Steel's damage based on its AD ratio can critically strike for (190% + 28.5%) damage.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -363069,20 +363069,20 @@
                         0
                       ],
                       "units": [
-                        "(198%",
-                        "(198%",
-                        "(198%",
-                        "(198%",
-                        "(198%"
+                        "(209%",
+                        "(209%",
+                        "(209%",
+                        "(209%",
+                        "(209%"
                       ]
                     },
                     {
                       "values": [
-                        29.7,
-                        29.7,
-                        29.7,
-                        29.7,
-                        29.7
+                        31.35,
+                        31.35,
+                        31.35,
+                        31.35,
+                        31.35
                       ],
                       "units": [
                         "%) AD",
@@ -363576,7 +363576,7 @@
     },
     "releaseDate": "2020-08-06",
     "releasePatch": "10.16",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.17",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
