@@ -8389,6 +8389,27 @@
             ]
           },
           {
+            "name": "Paragon",
+            "id": 84104,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin104/chromapreview.chroma_akali_empyrean.png",
+            "colors": [
+              "#FEF9B0",
+              "#564998"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          },
+          {
             "name": "Pearl",
             "id": 84090,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/84/84090.png",
@@ -158059,7 +158080,29 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Paragon",
+            "id": 7061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin61/chromapreview.chroma_leblanc_elderwood_paragon.png",
+            "colors": [
+              "#B0E1F1",
+              "#614D96"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": "When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names.",
         "release": "2016-03-10",
         "set": [
@@ -185571,7 +185614,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The second strike separately rolls a  critical strike.\nPENDING FOR TEST: Does it trigger  Sundered Sky's Lightshield Strike?\nIf the stacks expire during the empowered attack's first strike animation, the attack cancels and the normal basic attack windup starts. (bug)\nDouble Strike does not cause Master Yi to attack twice. Effects that trigger on completing the attack windup will only trigger once and thus do not interact with Double Strike. (e.g.  Hail of Blades).\nSince Double Strike resets the counter with the first strike, and the second strike applies on-hit effects, the second strike is able to add a stack for the next Double Strike activation.\nIf Double Strike's target becomes  untargetable shortly after the triggering attack, it will still occur and deal its effects as usual.\nBasic attacks that are  dodged,  blocked, or missed while Master Yi is  blinded will not generate any stacks of Double Strike nor refresh the duration of active stacks.\nDouble Strike's interaction with parry effects at 3 stacks (the damage of the strikes is negated in all cases):\nIf the triggering basic attack is  dodged, Master Yi will not perform the second strike nor consume the stacks.\nIf the triggering basic attack is  blocked, Master Yi will perform the second strike but not consume the stacks.\nIf the triggering basic attack misses while Master Yi is  blinded, he will consume the stacks.\nThe second strike will fail to hit the target at all if the triggering attack misses.  On-attack effects do not occur, despite the attack animation playing.(bug)",
+          "notes": "The second strike separately rolls a  critical strike.\nThe second strike does not trigger  Sundered Sky's Lightshield Strike.\nIf the stacks expire during the empowered attack's first strike animation, the attack cancels and the normal basic attack windup starts. (bug)\nDouble Strike does not cause Master Yi to attack twice. Effects that trigger on completing the attack windup will only trigger once and thus do not interact with Double Strike. (e.g.  Hail of Blades).\nSince Double Strike resets the counter with the first strike, and the second strike applies on-hit effects, the second strike is able to add a stack for the next Double Strike activation.\nIf Double Strike's target becomes  untargetable shortly after the triggering attack, it will still occur and deal its effects as usual.\nBasic attacks that are  dodged,  blocked, or missed while Master Yi is  blinded will not generate any stacks of Double Strike nor refresh the duration of active stacks.\nDouble Strike's interaction with parry effects at 3 stacks (the damage of the strikes is negated in all cases):\nIf the triggering basic attack is  dodged, Master Yi will not perform the second strike nor consume the stacks.\nIf the triggering basic attack is  blocked, Master Yi will perform the second strike but not consume the stacks.\nIf the triggering basic attack misses while Master Yi is  blinded, he will consume the stacks.\nThe second strike will fail to hit the target at all if the triggering attack misses.  On-attack effects do not occur, despite the attack animation playing.(bug)",
           "blurb": "Innate:  Master Yi's  basic attacks generate a  stack of Double Strike for a few seconds. At 3 stacks, his next basic attack will consume them all to strike a second time for reduced physical damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -223543,7 +223586,50 @@
         "sale": 0,
         "distribution": "Hall of Legends Premium Pass reward (Level 10).",
         "rarity": "Mythic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Mythclimber",
+            "id": 61042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin42/chromapreview.chroma_orianna_risenlegend.png",
+            "colors": [
+              "#FFAB40",
+              "#4C89A3"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who completed the 2026 Hall of Legends Battle Pass honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Paragon",
+            "id": 61041,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin41/chromapreview.chroma_orianna_hall.png",
+            "colors": [
+              "#D8EDFF",
+              "#4854D3"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": "Attempting my Trials with an entire squadron was bold, Orianna—and almost your downfall. But it is not fate that now gives you a second chance, but your friend. Live on, in this mechanical body she built, as my Keeper of Harmony. Your success proves that true power lies in resilience, and that hardship is best met with teamwork.",
         "release": "0000-00-00",
         "set": [
@@ -302595,7 +302681,29 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Paragon",
+            "id": 163033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin33/chromapreview.chroma_taliyah_freljord.png",
+            "colors": [
+              "#FFFDD8",
+              "#164785"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": null,
         "release": "2016-05-17",
         "set": [
