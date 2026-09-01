@@ -8388,7 +8388,27 @@
               }
             ]
           },
-          null,
+          {
+            "name": "Paragon",
+            "id": 84104,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akali/skins/skin104/chromapreview.chroma_akali_empyrean.png",
+            "colors": [
+              "#FEF9B0",
+              "#564998"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          },
           {
             "name": "Pearl",
             "id": 84090,
@@ -20743,11 +20763,11 @@
         "set": [
           "Pandemonium"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_centered_59.skins_annie_skin59.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_uncentered_59.skins_annie_skin59.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_tile_59.skins_annie_skin59.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59.skins_annie_skin59.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59_le.skins_annie_skin59.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_centered_59.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_uncentered_59.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/images/annie_splash_tile_59.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin59/annieloadscreen_59_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -42091,10 +42111,10 @@
         "set": [
           "Victorious"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_centered_51.skins_braum_skin51.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_uncentered_51.skins_braum_skin51.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_tile_51.skins_braum_skin51.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/braumloadscreen_51.skins_braum_skin51.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_centered_51.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_uncentered_51.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/images/braum_splash_tile_51.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin51/braumloadscreen_51.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -111420,10 +111440,10 @@
         "set": [
           "Rain Shepherd"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_centered_31.skins_ivern_skin31.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_uncentered_31.skins_ivern_skin31.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_tile_31.skins_ivern_skin31.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/ivernloadscreen_31.skins_ivern_skin31.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_centered_31.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_uncentered_31.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/images/ivern_splash_tile_31.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin31/ivernloadscreen_31.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -152165,11 +152185,11 @@
         "set": [
           "Pandemonium"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_centered_45.skins_kindred_skin45.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_uncentered_45.skins_kindred_skin45.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_tile_45.skins_kindred_skin45.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45.skins_kindred_skin45.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45_le.skins_kindred_skin45.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_centered_45.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_uncentered_45.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/images/kindred_splash_tile_45.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin45/kindredloadscreen_45_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -158061,7 +158081,27 @@
         "distribution": null,
         "rarity": "Epic",
         "chromas": [
-          null
+          {
+            "name": "Paragon",
+            "id": 7061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin61/chromapreview.chroma_leblanc_elderwood_paragon.png",
+            "colors": [
+              "#B0E1F1",
+              "#614D96"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
         ],
         "lore": "When the Coven first rose to power, they craved the living enchantments of the Elderwood—a tool, they believed, for the resurrection of their dark patrons. Thus did they fall upon the great forest, and slaughter its children… until a lone sylvan stood against them, stealing the witches' lives, their magic, and even their names.",
         "release": "2016-03-10",
@@ -169785,7 +169825,11 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Locke/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Locke ignites his soul for 6 seconds, becoming ghosted and gaining 40% : 70% (based on level) bonus attack speed and 40% (+ 2% per 100 AP) bonus movement speed, with the latter decaying to 20% over 1 second after 1.5 seconds have elapsed. He also stores an amount of grey health on his health bar equal to 100% of the post-mitigation damage he takes from enemy champions, up to a cap, plus the total amount of health expended from Soul Ignition's health cost. Locke additionally stores up to 40 : 200 (based on level) (+ 20% AP) grey health for himself, based on his missing health and Soul Ignition's elapsed duration. The missing health portion of this additional grey health stored reaches its maximum when his current health is at or below 150 : 450 (based on level) (+ 60% AP).",
+              "description": "Active: Locke ignites his soul for 6 seconds, becoming ghosted and gaining 40% : 70% (based on level) bonus attack speed and 40% (+ 2% per 100 AP) bonus movement speed, with the latter decaying to 20% over 1 second after 1.5 seconds have elapsed.",
+              "leveling": []
+            },
+            {
+              "description": "Additionally, during the effect he stores an amount of grey health on his health bar equal to 100% of the post-mitigation damage he takes from enemy champions, up to a cap, plus the total amount of health expended from Soul Ignition's health cost. Locke additionally stores up to 40 : 200 (based on level) (+ 20% AP) grey health for himself, based on his missing health and Soul Ignition's elapsed duration. The missing health portion of this additional grey health stored reaches its maximum when his current health is at or below 150 : 450 (based on level) (+ 60% AP).",
               "leveling": [
                 {
                   "attribute": "Damage taken grey health cap",
@@ -188590,11 +188634,11 @@
         "set": [
           "PROJECT"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_centered_116.skins_masteryi_skin116.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.skins_masteryi_skin116.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_tile_116.skins_masteryi_skin116.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116.skins_masteryi_skin116.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116_le.skins_masteryi_skin116.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_centered_116.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_uncentered_116.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/images/masteryi_splash_tile_116.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin116/masteryiloadscreen_116_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -223534,6 +223578,81 @@
           "Alsie Lau",
           "Mo Yan"
         ]
+      },
+      {
+        "name": "Risen Legend",
+        "id": 61040,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Risen Legend",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "rarity": "Mythic",
+        "chromas": [
+          {
+            "name": "Mythclimber",
+            "id": 61042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin42/chromapreview.chroma_orianna_risenlegend.png",
+            "colors": [
+              "#FFAB40",
+              "#4C89A3"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who completed the 2026 Hall of Legends Battle Pass honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Paragon",
+            "id": 61041,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin41/chromapreview.chroma_orianna_hall.png",
+            "colors": [
+              "#D8EDFF",
+              "#4854D3"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
+        "lore": "Attempting my Trials with an entire squadron was bold, Orianna—and almost your downfall. But it is not fate that now gives you a second chance, but your friend. Live on, in this mechanical body she built, as my Keeper of Harmony. Your success proves that true power lies in resilience, and that hardship is best met with teamwork.",
+        "release": "0000-00-00",
+        "set": [
+          "Risen Legends"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_centered_40.skins_orianna_skin40.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_uncentered_40.skins_orianna_skin40.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/images/orianna_splash_tile_40.skins_orianna_skin40.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin40/oriannaloadscreen_40.skins_orianna_skin40.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Heath Pennington"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -236471,10 +236590,10 @@
         "set": [
           "PROJECT"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_centered_24.skins_quinn_skin24.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_uncentered_24.skins_quinn_skin24.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_tile_24.skins_quinn_skin24.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/quinnloadscreen_24.skins_quinn_skin24.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_centered_24.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_uncentered_24.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/images/quinn_splash_tile_24.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/quinn/skins/skin24/quinnloadscreen_24.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -267186,7 +267305,10 @@
         "voiceActor": [
           "Michele Panu"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Ina Wong",
+          "West Studio"
+        ]
       }
     ]
   },
@@ -272630,11 +272752,11 @@
         "set": [
           "Pandemonium"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_centered_71.skins_shaco_skin71.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_uncentered_71.skins_shaco_skin71.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_tile_71.skins_shaco_skin71.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71.skins_shaco_skin71.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71_le.skins_shaco_skin71.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_centered_71.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_uncentered_71.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/images/shaco_splash_tile_71.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shaco/skins/skin71/shacoloadscreen_71_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -276003,7 +276125,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "1600 • 1575",
+          "speed": "1500 • 1600",
           "width": "120 • 100",
           "angle": null,
           "castTime": "0.25 • 0.3333",
@@ -283965,10 +284087,10 @@
         "set": [
           "PROJECT"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_centered_72.skins_sivir_skin72.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_uncentered_72.skins_sivir_skin72.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_tile_72.skins_sivir_skin72.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/sivirloadscreen_72.skins_sivir_skin72.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_centered_72.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_uncentered_72.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/images/sivir_splash_tile_72.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin72/sivirloadscreen_72.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -302567,7 +302689,27 @@
         "distribution": null,
         "rarity": "Epic",
         "chromas": [
-          null
+          {
+            "name": "Paragon",
+            "id": 163033,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/taliyah/skins/skin33/chromapreview.chroma_taliyah_freljord.png",
+            "colors": [
+              "#FFFDD8",
+              "#164785"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as an exclusive reward for players who obtained the 2026 Hall of Legends Signature Immortalized Legend Edition Collection honoring CAPS.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 5,
+                "region": "riot"
+              }
+            ]
+          }
         ],
         "lore": null,
         "release": "2016-05-17",
@@ -315191,6 +315333,38 @@
         "splashArtist": [
           "Terence 'Terrylefruit' Cantal"
         ]
+      },
+      {
+        "name": "Risen Legend",
+        "id": 18079,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Risen Legend",
+        "lootEligible": false,
+        "cost": "Special",
+        "sale": 0,
+        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+        "rarity": "Transcendent",
+        "chromas": [],
+        "lore": "I, the Mechanical Prodigy, bestow my gifts only to a legend with inventiveness, resolve, and skill. I've seen these in you, Tristana. Even in defeat, you persisted, building a Destruction Assistance Droid to ultimately complete my Trials. To meet your full potential, push yourself and the Band of Gunners to the limit. Show this world power unparalleled.",
+        "release": "0000-00-00",
+        "set": [
+          "Risen Legends"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin79/images/tristana_splash_centered_79.hol_tristana.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin79/images/tristana_splash_uncentered_79.hol_tristana.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin79/images/tristana_splash_tile_79.hol_tristana.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/tristana/skins/skin79/tristanaloadscreen_79.hol_tristana.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": true,
+        "newQuotes": false,
+        "voiceActor": [
+          "Elspeth Eastman"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -332599,11 +332773,11 @@
         "set": [
           "Pandemonium"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_centered_67.skins_vayne_skin67.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_uncentered_67.skins_vayne_skin67.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_tile_67.skins_vayne_skin67.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67.skins_vayne_skin67.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67_le.skins_vayne_skin67.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_centered_67.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_uncentered_67.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/images/vayne_splash_tile_67.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin67/vayneloadscreen_67_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -346687,10 +346861,10 @@
         "set": [
           "PsyOps"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_centered_49.skins_vladimir_skin49.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_uncentered_49.skins_vladimir_skin49.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_tile_49.skins_vladimir_skin49.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/vladimirloadscreen_49.skins_vladimir_skin49.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_centered_49.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_uncentered_49.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/images/vladimir_splash_tile_49.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/vladimir/skins/skin49/vladimirloadscreen_49.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -375384,10 +375558,10 @@
         "set": [
           "Space Groove"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_centered_33.skins_zac_skin33.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_uncentered_33.skins_zac_skin33.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_tile_33.skins_zac_skin33.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/zacloadscreen_33.skins_zac_skin33.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_centered_33.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_uncentered_33.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/images/zac_splash_tile_33.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zac/skins/skin33/zacloadscreen_33.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
