@@ -209418,7 +209418,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "This ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "This ability will cast from wherever the caster is at the end of the cast time.\n Spell shield will not prevent the missile to become empowered.",
           "blurb": "Active:  Neeko slings a magical spiral in the target direction that deals magic damage and  roots enemies hit.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -209517,14 +209517,14 @@
           },
           "targeting": "Auto",
           "affects": "Enemies, Self",
-          "spellshieldable": "True",
+          "spellshieldable": "special",
           "resource": "MANA",
           "damageType": "MAGIC_DAMAGE",
           "spellEffects": "spellaoe",
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Ability details:\n\nThe wind up uses a special bar similar to cast bars to represent when Pop Blossom's cast time will start.\nThe wind up has no special interactions.\nThe highlighted area is fixed around Neeko.\nThis ability will cast from wherever the caster is at the end of the cast time.\nInteractions:\n\nOn-cast effects are applied on activation.\nPop Blossom can start its cast time during  stasis.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Ability details:\n\nThe wind up uses a special bar similar to cast bars to represent when Pop Blossom's cast time will start.\nThe wind up has no special interactions.\nThe highlighted area is fixed around Neeko.\n Spell shield will only prevent the  knocking up part of the ability.\nThis ability will cast from wherever the caster is at the end of the cast time.\nInteractions:\n\nOn-cast effects are applied on activation.\nPop Blossom can start its cast time during  stasis.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -317505,7 +317505,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Bloodlust can still be activated even if Tryndamere does not have any Fury.\nBloodlust can be activated at any point of Tryndamere's  basic attack.\nNote that if an  basic attack will  critically strike is determined when the attack windup starts.\nThis means that if  Bloodlust is cast during Tryndamere's attack windup windup, the attack will use the  critical strike chance given by the Fury before the  Bloodlust cast.\nFurthermore, the Fury for that  basic attack will be given once the windup completes. This lets Tryndamere start building Fury immediately.\nBloodlust's  attack damage  gold value:\nAt 90% missing health, it is worth  700 / 1225 / 1750 / 2275 / 2800.\nThe bonus is worth  7.78 / 13.6125 / 19.445 / 25.2775 / 31.11 more per 1% missing health.",
+          "notes": "Bloodlust can still be activated even if Tryndamere does not have any Fury.\nBloodlust can be activated at any point of Tryndamere's  basic attack.\nNote that if an  basic attack will  critically strike is determined when the attack windup starts.\nThis means that if  Bloodlust is cast during Tryndamere's attack windup, the attack will use the  critical strike chance given by the Fury before the  Bloodlust cast.\nFurthermore, the Fury for that  basic attack will be given once the windup completes. This lets Tryndamere start building Fury immediately.\nBloodlust's  attack damage  gold value:\nAt 90% missing health, it is worth  700 / 1225 / 1750 / 2275 / 2800.\nThe bonus is worth  7.78 / 13.6125 / 19.445 / 25.2775 / 31.11 more per 1% missing health.",
           "blurb": "Passive:  Tryndamere gains  bonus attack damage based on his missing health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -359916,7 +359916,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yasuo/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (190% + 28.5%) damage.",
+              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (190% + 27.075%) damage.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
