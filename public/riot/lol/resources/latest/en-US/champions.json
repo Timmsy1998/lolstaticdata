@@ -75042,7 +75042,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The 2-second duration stated in the ability description is not accurate. The actual time required is slightly longer and appears to be inconsistent. It usually takes approximately 2.2 seconds, but may take up to 4.4 seconds after casting a spell for unknown reasons.\nAttempting to impersonate an Effigy, or maintaining the impersonation, will be interrupted if Fiddlesticks:\nMoves.\nThere is a brief grace period after moving where Fiddlesticks is still considered an effigy.\nIs affected by a  crowd control effect.\nIs hit by an ability.\nTakes damage.\nFiddlesticks can still enter the effigy state while taking damage from non-champion units due to the preparation time being uninterrupted by non-champion damage.\n Ocean Drake and  Hextech Drake are exceptions, as their attacks apply crowd control effects which interfere with the impersonation.\nDeclares an attack.\nCasts an ability or summoner spell.\nUses an item's active effect, potion, or consumable, including Support Quest items and  Control Ward.\nUsing  Scarecrow Effigy does not interrupt the impersonation.\nBegins  channeling.\nWhile pretending to be an effigy, when standing within a 225 radius of a  faelight, Fiddlesticks imitates superward visual effects for 39 seconds or until interrupted.\nWhile within 75-225 radius of a faelight, Fiddlesticks will  blink into a 75 radius of the faelight's location.\nThe trinket slot can still be temporarily replaced by  Eye of the Herald.\n -  Surprise Party Fiddlesticks has a special icon for this ability.",
+          "notes": "The 2-second duration stated in the ability description is not accurate. The actual time required is slightly longer and appears to be inconsistent. It usually takes approximately 2.2 seconds, but may take up to 4.4 seconds after casting a spell for unknown reasons.\nAttempting to impersonate an Effigy, or maintaining the impersonation, will be interrupted if Fiddlesticks:\nMoves.\nThere is a brief grace period after moving where Fiddlesticks is still considered an effigy.\nIs affected by a  crowd control effect.\nPENDING FOR TEST: Is hit by an ability.\nTakes damage.\nFiddlesticks can still enter the effigy state while taking damage from non-champion units due to the preparation time being uninterrupted by non-champion damage.\n Ocean Drake and  Hextech Drake are exceptions, as their attacks apply crowd control effects which interfere with the impersonation.\nDeclares an attack.\nCasts an ability or summoner spell.\nUses an item's active effect, potion, or consumable, including Support Quest items and  Control Ward.\nUsing  Scarecrow Effigy does not interrupt the impersonation.\nBegins  channeling.\nWhile pretending to be an effigy, when standing within a 225 radius of a  faelight, Fiddlesticks imitates superward visual effects for 39 seconds or until interrupted.\nWhile within 75-225 radius of a faelight, Fiddlesticks will  blink into a 75 radius of the faelight's location.\nThe trinket slot can still be temporarily replaced by  Eye of the Herald.\n -  Surprise Party Fiddlesticks has a special icon for this ability.",
           "blurb": "Innate:  Fiddlesticks has a  Scarecrow Effigy in place of a trinket, which will imitate Fiddlesticks. Fiddlesticks can impersonate an effigy by remaining idle out of combat.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -359916,7 +359916,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yasuo/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike for (190% + 27.075%) damage.",
+              "description": "Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Steel Tempest's damage based on its AD ratio can critically strike.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -363120,7 +363120,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Yone/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Mortal Steel's damage based on its AD ratio can critically strike for (190% + 28.5%) damage.",
+              "description": "Active: Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects to the first enemy hit. Mortal Steel's damage based on its AD ratio can critically strike.",
               "leveling": [
                 {
                   "attribute": "Physical Damage",
@@ -363187,27 +363187,11 @@
                         0
                       ],
                       "units": [
-                        "(209%",
-                        "(209%",
-                        "(209%",
-                        "(209%",
-                        "(209%"
-                      ]
-                    },
-                    {
-                      "values": [
-                        31.35,
-                        31.35,
-                        31.35,
-                        31.35,
-                        31.35
-                      ],
-                      "units": [
-                        "%) AD",
-                        "%) AD",
-                        "%) AD",
-                        "%) AD",
-                        "%) AD"
+                        "(209% + 31.35%) AD",
+                        "(209% + 31.35%) AD",
+                        "(209% + 31.35%) AD",
+                        "(209% + 31.35%) AD",
+                        "(209% + 31.35%) AD"
                       ]
                     }
                   ]
