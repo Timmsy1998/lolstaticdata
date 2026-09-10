@@ -5,7 +5,7 @@
     "name": "Aatrox",
     "title": "The Darkin Blade",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Aatrox.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Aatrox.png",
     "resource": "BLOOD_WELL",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -2141,7 +2141,7 @@
     "name": "Ahri",
     "title": "The Nine-Tailed Fox",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ahri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ahri.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -4602,6 +4602,27 @@
             ]
           },
           {
+            "name": "Pristine",
+            "id": 103096,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin96/chromapreview.chroma_ahri_coven.png",
+            "colors": [
+              "#DDE8F3",
+              "#DBB995"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Rose Quartz",
             "id": 103045,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/103/103045.png",
@@ -5388,7 +5409,7 @@
     "name": "Akali",
     "title": "The Rogue Assassin",
     "fullName": "Akali Jhomen Tethi",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Akali.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Akali.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -8770,7 +8791,7 @@
     "name": "Akshan",
     "title": "The Rogue Sentinel",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Akshan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Akshan.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -10439,7 +10460,7 @@
     "name": "Alistar",
     "title": "The Minotaur",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Alistar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Alistar.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -12406,7 +12427,7 @@
     "name": "Ambessa",
     "title": "Matriarch of War",
     "fullName": "Ambessa Medarda",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ambessa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ambessa.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -13878,7 +13899,7 @@
     "name": "Amumu",
     "title": "The Sad Mummy",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Amumu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Amumu.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -16171,7 +16192,7 @@
     "name": "Anivia",
     "title": "The Cryophoenix",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Anivia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Anivia.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -18489,6 +18510,36 @@
           "Augusto Quirino",
           "West Studio"
         ]
+      },
+      {
+        "name": "Old God",
+        "id": 34056,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Old God",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [],
+        "lore": "The cold wind that once stole Anivia's breath then gave the Twilight Raptor flight. From her mountaintop roost amidst civilization's ruins, she looks down on humankind's works with hatred for how mortals have squandered nature's gifts. Wielding the primeval power of the storm, Anivia turns those with avarice in their heart into little more than dust.",
+        "release": "0000-00-00",
+        "set": [
+          "Coven"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin56/images/anivia_splash_centered_56.skins_anivia_skin56.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin56/images/anivia_splash_uncentered_56.skins_anivia_skin56.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin56/images/anivia_splash_tile_56.skins_anivia_skin56.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin56/anivialoadscreen_56.skins_anivia_skin56.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [],
+        "splashArtist": []
       }
     ]
   },
@@ -18498,7 +18549,7 @@
     "name": "Annie",
     "title": "The Dark Child",
     "fullName": "Annie Hastur",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Annie.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Annie.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -20823,7 +20874,7 @@
     "name": "Aphelios",
     "title": "The Weapon of the Faithful",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Aphelios.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Aphelios.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -23236,7 +23287,7 @@
     "name": "Ashe",
     "title": "The Frost Archer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ashe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ashe.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -25007,6 +25058,27 @@
             ]
           },
           {
+            "name": "Pristine",
+            "id": 22093,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin93/chromapreview.chroma_ashe_coven.png",
+            "colors": [
+              "#DDE8F3",
+              "#DBB995"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Rose Quartz",
             "id": 22035,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/22/22035.png",
@@ -26213,7 +26285,7 @@
     "name": "Aurelion Sol",
     "title": "The Star Forger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/AurelionSol.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/AurelionSol.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -28230,7 +28302,7 @@
     "name": "Aurora",
     "title": "The Witch Between Worlds",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Aurora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Aurora.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -29668,7 +29740,7 @@
     "name": "Azir",
     "title": "The Emperor of the Sands",
     "fullName": "Omah Azir",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Azir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Azir.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -31276,7 +31348,7 @@
     "name": "Bard",
     "title": "The Wandering Caretaker",
     "fullName": "Bard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Bard.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Bard.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -31306,9 +31378,9 @@
         "percentPerLevel": 0.0
       },
       "armor": {
-        "flat": 34,
+        "flat": 32,
         "percent": 0.0,
-        "perLevel": 5,
+        "perLevel": 4.7,
         "percentPerLevel": 0.0
       },
       "magicResistance": {
@@ -32033,7 +32105,7 @@
     },
     "releaseDate": "2015-03-12",
     "releasePatch": "5.5",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -33150,7 +33222,7 @@
     "name": "Bel'Veth",
     "title": "The Empress of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Belveth.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Belveth.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -35100,7 +35172,7 @@
     "name": "Blitzcrank",
     "title": "The Great Steam Golem",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Blitzcrank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Blitzcrank.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -37696,7 +37768,7 @@
     "name": "Brand",
     "title": "The Burning Vengeance",
     "fullName": "Kegan Rodhe",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Brand.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Brand.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -39826,7 +39898,7 @@
     "name": "Braum",
     "title": "The Heart of the Freljord",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Braum.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Braum.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -42137,7 +42209,7 @@
     "name": "Briar",
     "title": "The Restrained Hunger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Briar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Briar.png",
     "resource": "FRENZY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -44051,7 +44123,7 @@
     "name": "Caitlyn",
     "title": "The Sheriff of Piltover",
     "fullName": "Caitlyn Kiramman",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Caitlyn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Caitlyn.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -46505,7 +46577,7 @@
     "name": "Camille",
     "title": "The Steel Shadow",
     "fullName": "Camille Ferros",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Camille.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Camille.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -48727,7 +48799,7 @@
     "name": "Cassiopeia",
     "title": "The Serpent's Embrace",
     "fullName": "Cassiopeia Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Cassiopeia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Cassiopeia.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -48948,7 +49020,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Cassiopeia/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Cassiopeia increases the effectiveness of all movement speed bonuses by 6% : 40% (based on level).",
+              "description": "Innate: Cassiopeia increases the effectiveness of all movement speed bonuses by 5% : 36% (based on level).",
               "leveling": []
             }
           ],
@@ -48992,11 +49064,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        110,
-                        145,
-                        180,
-                        215
+                        65,
+                        100,
+                        135,
+                        170,
+                        205
                       ],
                       "units": [
                         "",
@@ -49008,11 +49080,11 @@
                     },
                     {
                       "values": [
-                        65,
-                        65,
-                        65,
-                        65,
-                        65
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
                       ],
                       "units": [
                         "% AP",
@@ -49029,11 +49101,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        10.71,
-                        15.71,
-                        20.71,
-                        25.71,
-                        30.71
+                        9.29,
+                        14.29,
+                        19.29,
+                        24.29,
+                        29.29
                       ],
                       "units": [
                         "",
@@ -49045,11 +49117,11 @@
                     },
                     {
                       "values": [
-                        9.29,
-                        9.29,
-                        9.29,
-                        9.29,
-                        9.29
+                        10.71,
+                        10.71,
+                        10.71,
+                        10.71,
+                        10.71
                       ],
                       "units": [
                         "% AP",
@@ -49338,7 +49410,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Cassiopeia/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Cassiopeia launches her fangs at the target enemy that deal 52 : 120 (based on level) (+ 10% AP) magic damage. If this kills the target, Twin Fang's mana cost is refunded.",
+              "description": "Active: Cassiopeia launches her fangs at the target enemy that deal 50 : 120 (based on level) (+ 20% AP) magic damage. If this kills the target, Twin Fang's mana cost is refunded.",
               "leveling": []
             },
             {
@@ -49365,11 +49437,11 @@
                     },
                     {
                       "values": [
-                        55,
-                        55,
-                        55,
-                        55,
-                        55
+                        45,
+                        45,
+                        45,
+                        45,
+                        45
                       ],
                       "units": [
                         "% AP",
@@ -49386,24 +49458,24 @@
                   "modifiers": [
                     {
                       "values": [
-                        52.0,
-                        56.0,
-                        60.0,
-                        64.0,
-                        68.0,
-                        72.0,
-                        76.0,
-                        80.0,
-                        84.0,
-                        88.0,
-                        92.0,
-                        96.0,
-                        100.0,
-                        104.0,
-                        108.0,
-                        112.0,
-                        116.0,
-                        120.0
+                        50.0,
+                        54.0,
+                        58.0,
+                        62.0,
+                        66.0,
+                        70.0,
+                        74.0,
+                        78.0,
+                        82.0,
+                        86.0,
+                        90.0,
+                        94.0,
+                        98.0,
+                        102.0,
+                        106.0,
+                        110.0,
+                        114.0,
+                        118.0
                       ],
                       "units": [
                         "",
@@ -49509,11 +49581,11 @@
             "modifiers": [
               {
                 "values": [
-                  40,
-                  40,
-                  40,
-                  40,
-                  40
+                  45,
+                  45,
+                  45,
+                  45,
+                  45
                 ],
                 "units": [
                   "",
@@ -49584,9 +49656,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        150,
-                        250,
-                        350
+                        125,
+                        225,
+                        325
                       ],
                       "units": [
                         "",
@@ -49596,9 +49668,9 @@
                     },
                     {
                       "values": [
-                        50,
-                        50,
-                        50
+                        75,
+                        75,
+                        75
                       ],
                       "units": [
                         "% AP",
@@ -49672,7 +49744,7 @@
     },
     "releaseDate": "2010-12-14",
     "releasePatch": "1.0.0.107",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -50615,7 +50687,7 @@
     "name": "Cho'Gath",
     "title": "The Terror of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Chogath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Chogath.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -52654,7 +52726,7 @@
     "name": "Corki",
     "title": "The Daring Bombardier",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Corki.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Corki.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -54686,7 +54758,7 @@
     "name": "Darius",
     "title": "The Hand of Noxus",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Darius.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Darius.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -57288,7 +57360,7 @@
     "name": "Diana",
     "title": "Scorn of the Moon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Diana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Diana.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -58229,7 +58301,7 @@
     },
     "releaseDate": "2012-08-07",
     "releasePatch": "1.0.0.144",
-    "patchLastChanged": "26.17",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -60244,11 +60316,11 @@
         "set": [
           "The Eternal Aspects"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_centered_76.skins_diana_skin76.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_uncentered_76.skins_diana_skin76.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_tile_76.skins_diana_skin76.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/dianaloadscreen_76.skins_diana_skin76.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/dianaloadscreen_76_le.skins_diana_skin76.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_centered_76.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_uncentered_76.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/images/diana_splash_tile_76.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/dianaloadscreen_76.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin76/dianaloadscreen_76_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -60279,11 +60351,11 @@
         "set": [
           "The Eternal Aspects"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_centered_77.skins_diana_skin77.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_uncentered_77.skins_diana_skin77.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_tile_77.skins_diana_skin77.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77.skins_diana_skin77.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77_le.skins_diana_skin77.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_centered_77.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_uncentered_77.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/images/diana_splash_tile_77.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/diana/skins/skin77/dianaloadscreen_77_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -60305,7 +60377,7 @@
     "name": "Dr. Mundo",
     "title": "The Madman of Zaun",
     "fullName": "'Doctor' Mundo",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/DrMundo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/DrMundo.png",
     "resource": "HEALTH",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -62222,7 +62294,7 @@
     "name": "Draven",
     "title": "The Glorious Executioner",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Draven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Draven.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -64923,7 +64995,7 @@
     "name": "Ekko",
     "title": "The Boy Who Shattered Time",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ekko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ekko.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -65281,11 +65353,11 @@
                     },
                     {
                       "values": [
-                        60,
-                        60,
-                        60,
-                        60,
-                        60
+                        70,
+                        70,
+                        70,
+                        70,
+                        70
                       ],
                       "units": [
                         "% AP",
@@ -65318,11 +65390,11 @@
                     },
                     {
                       "values": [
-                        90,
-                        90,
-                        90,
-                        90,
-                        90
+                        100,
+                        100,
+                        100,
+                        100,
+                        100
                       ],
                       "units": [
                         "% AP",
@@ -65345,11 +65417,11 @@
             "modifiers": [
               {
                 "values": [
+                  40,
                   50,
                   60,
                   70,
-                  80,
-                  90
+                  80
                 ],
                 "units": [
                   "",
@@ -65818,7 +65890,7 @@
     },
     "releaseDate": "2015-05-29",
     "releasePatch": "5.10",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -67252,7 +67324,7 @@
     "name": "Elise",
     "title": "The Spider Queen",
     "fullName": "Elise Kythera Zaavan",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Elise.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Elise.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -69206,7 +69278,7 @@
     "name": "Evelynn",
     "title": "Agony's Embrace",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Evelynn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Evelynn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -71949,7 +72021,7 @@
     "name": "Ezreal",
     "title": "The Prodigal Explorer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ezreal.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ezreal.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -74801,7 +74873,7 @@
     "name": "Fiddlesticks",
     "title": "The Ancient Fear",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Fiddlesticks.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Fiddlesticks.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -77380,7 +77452,7 @@
     "name": "Fiora",
     "title": "The Grand Duelist",
     "fullName": "Fiora Laurent",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Fiora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Fiora.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -80648,7 +80720,7 @@
     "name": "Fizz",
     "title": "The Tidal Trickster",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Fizz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Fizz.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -82779,7 +82851,7 @@
     "name": "Galio",
     "title": "The Colossus",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Galio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Galio.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -85140,7 +85212,7 @@
     "name": "Gangplank",
     "title": "The Saltwater Scourge",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gangplank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Gangplank.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -87230,7 +87302,7 @@
     "name": "Garen",
     "title": "The Might of Demacia",
     "fullName": "Garen Crownguard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Garen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Garen.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -89500,7 +89572,7 @@
     "name": "Gnar",
     "title": "The Missing Link",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gnar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Gnar.png",
     "resource": "RAGE",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -91747,7 +91819,7 @@
     "name": "Gragas",
     "title": "The Rabble Rouser",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gragas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Gragas.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -93892,7 +93964,7 @@
     "name": "Graves",
     "title": "The Outlaw",
     "fullName": "Malcolm Graves",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Graves.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Graves.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -96141,7 +96213,7 @@
     "name": "Gwen",
     "title": "The Hallowed Seamstress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Gwen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Gwen.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -98723,7 +98795,7 @@
     "name": "Hecarim",
     "title": "The Shadow of War",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Hecarim.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Hecarim.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -100848,7 +100920,7 @@
     "name": "Heimerdinger",
     "title": "The Revered Inventor",
     "fullName": "Cecil B. Heimerdinger",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Heimerdinger.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Heimerdinger.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -102688,7 +102760,7 @@
     "name": "Hwei",
     "title": "The Visionary",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Hwei.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Hwei.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -105176,7 +105248,7 @@
     "name": "Illaoi",
     "title": "The Kraken Priestess",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Illaoi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Illaoi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -107033,10 +107105,10 @@
         "set": [
           "Day Job"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_centered_37.skins_illaoi_skin37.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_uncentered_37.skins_illaoi_skin37.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_tile_37.skins_illaoi_skin37.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/illaoiloadscreen_37.skins_illaoi_skin37.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_centered_37.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_uncentered_37.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/images/illaoi_splash_tile_37.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin37/illaoiloadscreen_37.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -107058,7 +107130,7 @@
     "name": "Irelia",
     "title": "The Blade Dancer",
     "fullName": "Xan Irelia",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Irelia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Irelia.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -109661,10 +109733,10 @@
         "set": [
           "Day Job"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_centered_63.skins_irelia_skin63.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_uncentered_63.skins_irelia_skin63.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_tile_63.skins_irelia_skin63.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/irelialoadscreen_63.skins_irelia_skin63.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_centered_63.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_uncentered_63.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/images/irelia_splash_tile_63.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin63/irelialoadscreen_63.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -109686,7 +109758,7 @@
     "name": "Ivern",
     "title": "The Green Father",
     "fullName": "Ivern Bramblefoot",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ivern.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ivern.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -110995,8 +111067,7 @@
         "lore": "A nightmarish totem forged of witchcraft and forbidden incantations, Ivern stood among the Old Gods in the days before their destruction. Left inert for hundreds of years, he has risen along with his brethren to annihilate the paltry works of man.",
         "release": "2020-12-10",
         "set": [
-          "Coven",
-          "Elderwood"
+          "Coven"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin11/images/ivern_splash_centered_11.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ivern/skins/skin11/images/ivern_splash_uncentered_11.jpg",
@@ -111466,7 +111537,7 @@
     "name": "Janna",
     "title": "The Storm's Fury",
     "fullName": "Janna Windforce",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Janna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Janna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -114095,6 +114166,36 @@
           "David Villegas",
           "West Studio"
         ]
+      },
+      {
+        "name": "Coven",
+        "id": 40067,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Coven",
+        "lootEligible": true,
+        "cost": 1820,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Legendary",
+        "chromas": [],
+        "lore": "They came to Janna as a howling gale : the restless storm driven forth by the Twilight Raptor's wings, dismantling humankind's manufactured works. Benevolence abandoned, mercy forfeit, she is an instrument of nature's wrath, using ancient magics to bestow the earth to her Mother Most Ancient's primordial rule.",
+        "release": "0000-00-00",
+        "set": [
+          "Coven"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/images/janna_splash_centered_67.skins_janna_skin67.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/images/janna_splash_uncentered_67.skins_janna_skin67.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/images/janna_splash_tile_67.skins_janna_skin67.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/jannaloadscreen_67.skins_janna_skin67.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": true,
+        "newQuotes": false,
+        "voiceActor": [],
+        "splashArtist": []
       }
     ]
   },
@@ -114104,7 +114205,7 @@
     "name": "Jarvan IV",
     "title": "The Exemplar of Demacia",
     "fullName": "Jarvan Lightshield IV",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/JarvanIV.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/JarvanIV.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -116289,7 +116390,7 @@
     "name": "Jax",
     "title": "Grandmaster at Arms",
     "fullName": "Saijax Cail-Rynx Kohari Icath’un",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jax.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Jax.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -118418,7 +118519,7 @@
     "name": "Jayce",
     "title": "The Defender of Tomorrow",
     "fullName": "Jayce Talis",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jayce.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Jayce.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -120909,7 +121010,7 @@
     "name": "Jhin",
     "title": "The Virtuoso",
     "fullName": "Khada Jhin",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jhin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Jhin.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -123529,7 +123630,7 @@
     "name": "Jinx",
     "title": "The Loose Cannon",
     "fullName": "Powder",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Jinx.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Jinx.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -126267,7 +126368,7 @@
     "name": "K'Sante",
     "title": "The Pride of Nazumah",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/KSante.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/KSante.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -127692,7 +127793,7 @@
     "name": "Kai'Sa",
     "title": "Daughter of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kaisa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kaisa.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -130556,7 +130657,7 @@
     "name": "Kalista",
     "title": "The Spear of Vengeance",
     "fullName": "Kalista vol Kalah Heigaari",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kalista.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kalista.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -132217,7 +132318,7 @@
     "name": "Karma",
     "title": "The Enlightened One",
     "fullName": "Darha",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Karma.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Karma.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -135178,7 +135279,7 @@
     "name": "Karthus",
     "title": "The Deathsinger",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Karthus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Karthus.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -137074,7 +137175,7 @@
     "name": "Kassadin",
     "title": "The Void Walker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kassadin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kassadin.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -137355,11 +137456,11 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70,
-                        70,
-                        70
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
                       ],
                       "units": [
                         "% AP",
@@ -137798,8 +137899,8 @@
                   "modifiers": [
                     {
                       "values": [
-                        70,
-                        90,
+                        80,
+                        95,
                         110
                       ],
                       "units": [
@@ -137926,8 +138027,8 @@
                   "modifiers": [
                     {
                       "values": [
-                        210,
-                        270,
+                        220,
+                        275,
                         330
                       ],
                       "units": [
@@ -138026,7 +138127,7 @@
     },
     "releaseDate": "2009-08-07",
     "releasePatch": "0.9.22.7",
-    "patchLastChanged": "26.11",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -138842,7 +138943,7 @@
     "name": "Katarina",
     "title": "The Sinister Blade",
     "fullName": "Katarina Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Katarina.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Katarina.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -141513,7 +141614,7 @@
     "name": "Kayle",
     "title": "The Righteous",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kayle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kayle.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -144529,7 +144630,7 @@
     "name": "Kayn",
     "title": "The Shadow Reaper",
     "fullName": "Shieda Kayn",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kayn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kayn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -146244,7 +146345,7 @@
     "name": "Kennen",
     "title": "The Heart of the Tempest",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kennen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kennen.png",
     "resource": "ENERGY",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -147993,7 +148094,7 @@
     "name": "Kha'Zix",
     "title": "The Voidreaver",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Khazix.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Khazix.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -150261,7 +150362,7 @@
     "name": "Kindred",
     "title": "The Eternal Hunters",
     "fullName": "Lamb and Wolf",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kindred.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kindred.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -152212,7 +152313,7 @@
     "name": "Kled",
     "title": "The Cantankerous Cavalier",
     "fullName": "Kled and Skaarl",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Kled.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Kled.png",
     "resource": "COURAGE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -154224,7 +154325,7 @@
     "name": "Kog'Maw",
     "title": "The Mouth of the Abyss",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/KogMaw.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/KogMaw.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -156726,7 +156827,7 @@
     "name": "LeBlanc",
     "title": "The Deceiver",
     "fullName": "Emilia (Evaine) LeBlanc",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Leblanc.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Leblanc.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -159298,7 +159399,7 @@
     "name": "Lee Sin",
     "title": "The Blind Monk",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/LeeSin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/LeeSin.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -162351,7 +162452,7 @@
     "name": "Leona",
     "title": "The Radiant Dawn",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Leona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Leona.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -164898,11 +164999,11 @@
         "set": [
           "The Eternal Aspects"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_centered_64.skins_leona_skin64.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_uncentered_64.skins_leona_skin64.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_tile_64.skins_leona_skin64.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64.skins_leona_skin64.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64_le.skins_leona_skin64.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_centered_64.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_uncentered_64.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/images/leona_splash_tile_64.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leona/skins/skin64/leonaloadscreen_64_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -164923,7 +165024,7 @@
     "name": "Lillia",
     "title": "The Bashful Bloom",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lillia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lillia.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -167100,7 +167201,7 @@
     "name": "Lissandra",
     "title": "The Ice Witch",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lissandra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lissandra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -169259,7 +169360,7 @@
     "name": "Locke",
     "title": "The Ashen Exorcist",
     "fullName": "Corvin Locke",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Locke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Locke.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -170536,7 +170637,7 @@
     "name": "Lucian",
     "title": "The Purifier",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lucian.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lucian.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -173062,7 +173163,7 @@
     "name": "Lulu",
     "title": "The Fae Sorceress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lulu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lulu.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -175665,7 +175766,7 @@
     "name": "Lux",
     "title": "The Lady of Luminosity",
     "fullName": "Luxanna Crownguard",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Lux.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lux.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -178497,7 +178598,7 @@
     "name": "Malphite",
     "title": "Shard of the Monolith",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Malphite.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Malphite.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -180369,8 +180470,7 @@
         "lore": "Appearing to mortals as a Jet-Black Ibex, Malphite was an Old God of the mountain slain by the Eclipse order and cast down onto the rocks below. Death did not claim him, but the mountain did—and now he rises in its hulking earthen form, the land itself twisted with hatred and consumed by new and terrible hungers.",
         "release": "2021-08-12",
         "set": [
-          "Coven",
-          "Elderwood"
+          "Coven"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin27/images/malphite_splash_centered_27.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin27/images/malphite_splash_uncentered_27.jpg",
@@ -180820,7 +180920,7 @@
     "name": "Malzahar",
     "title": "The Prophet of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Malzahar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Malzahar.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -183305,7 +183405,7 @@
     "name": "Maokai",
     "title": "The Twisted Treant",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Maokai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Maokai.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -185369,7 +185469,7 @@
     "name": "Master Yi",
     "title": "The Wuju Bladesman",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/MasterYi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/MasterYi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -185401,7 +185501,7 @@
       "armor": {
         "flat": 33,
         "percent": 0.0,
-        "perLevel": 4.5,
+        "perLevel": 5,
         "percentPerLevel": 0.0
       },
       "magicResistance": {
@@ -186379,9 +186479,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        35,
-                        45,
-                        55
+                        40,
+                        50,
+                        60
                       ],
                       "units": [
                         "%",
@@ -186459,7 +186559,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -188657,7 +188757,7 @@
     "name": "Mel",
     "title": "The Soul's Reflection",
     "fullName": "Mel Medarda",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Mel.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Mel.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -190090,6 +190190,38 @@
           "Francis Tneh",
           "West Studio"
         ]
+      },
+      {
+        "name": "Coven",
+        "id": 800012,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Coven",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [],
+        "lore": "They came to Mel as dying rays of light : the Porcelain Abomination's shadow heavy with the weight of nightfall. She was granted twisted death magic to punish those that cast her out, and with deep hatred for the Eclipse Knights and bitter conviction in her new power, she ensures the last gasp of a twilit era before eternal darkness subsumes humanity.",
+        "release": "0000-00-00",
+        "set": [
+          "Coven"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin12/images/mel_splash_centered_12.skins_mel_skin12.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin12/images/mel_splash_uncentered_12.skins_mel_skin12.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin12/images/mel_splash_tile_12.skins_mel_skin12.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin12/melloadscreen_12.skins_mel_skin12.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Toks Olagundoye"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -190099,7 +190231,7 @@
     "name": "Milio",
     "title": "The Gentle Flame",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Milio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Milio.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -191632,7 +191764,7 @@
     "name": "Miss Fortune",
     "title": "The Bounty Hunter",
     "fullName": "Sarah Fortune",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/MissFortune.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/MissFortune.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -194439,7 +194571,7 @@
     "name": "Mordekaiser",
     "title": "The Iron Revenant",
     "fullName": "Sahn-Uzal",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Mordekaiser.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Mordekaiser.png",
     "resource": "SHIELD",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -196554,7 +196686,7 @@
     "name": "Morgana",
     "title": "The Fallen",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Morgana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Morgana.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -198393,6 +198525,27 @@
             ]
           },
           {
+            "name": "Pristine",
+            "id": 25083,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin83/chromapreview.chroma_morgana_coven.png",
+            "colors": [
+              "#DDE8F3",
+              "#DBB995"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
             "name": "Ruby",
             "id": 25027,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/25/25027.png",
@@ -199448,7 +199601,7 @@
     "name": "Naafiri",
     "title": "The Hound of a Hundred Bites",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Naafiri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Naafiri.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -201501,7 +201654,7 @@
     "name": "Nami",
     "title": "The Tidecaller",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nami.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nami.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -204044,7 +204197,7 @@
     "name": "Nasus",
     "title": "The Curator of the Sands",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nasus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nasus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -206511,7 +206664,7 @@
     "name": "Nautilus",
     "title": "The Titan of the Depths",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nautilus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nautilus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -206553,7 +206706,7 @@
         "percentPerLevel": 0.0
       },
       "attackDamage": {
-        "flat": 61,
+        "flat": 58,
         "percent": 0.0,
         "perLevel": 3.3,
         "percentPerLevel": 0.0
@@ -206786,10 +206939,10 @@
                     {
                       "values": [
                         85,
-                        130,
-                        175,
-                        220,
-                        265
+                        125,
+                        165,
+                        205,
+                        245
                       ],
                       "units": [
                         "",
@@ -207511,7 +207664,7 @@
     },
     "releaseDate": "2012-02-14",
     "releasePatch": "1.0.0.134",
-    "patchLastChanged": "25.16",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -208633,7 +208786,7 @@
     "name": "Neeko",
     "title": "The Curious Chameleon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Neeko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Neeko.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -210748,7 +210901,7 @@
     "name": "Nidalee",
     "title": "The Bestial Huntress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nidalee.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nidalee.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -213600,7 +213753,7 @@
     "name": "Nilah",
     "title": "The Joy Unbound",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nilah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nilah.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -215148,7 +215301,7 @@
     "name": "Nocturne",
     "title": "The Eternal Nightmare",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nocturne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nocturne.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -216423,8 +216576,7 @@
         "lore": "The great corpses of the Old Gods fed the land, and in time even the Elderwood would come to grow over their putrid rot:hiding it, perhaps, for a time. But the Gods never truly died and, with the resurgence of the Coven, one has risen again:Nocturne, the Eternal Nightmare.",
         "release": "2019-08-29",
         "set": [
-          "Coven",
-          "Elderwood"
+          "Coven"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin07/images/nocturne_splash_centered_7.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin07/images/nocturne_splash_uncentered_7.jpg",
@@ -216915,7 +217067,7 @@
     "name": "Nunu & Willump",
     "title": "The Boy and His Yeti",
     "fullName": "Nunu & Willump",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Nunu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Nunu.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -219539,7 +219691,7 @@
     "name": "Olaf",
     "title": "The Berserker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Olaf.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Olaf.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -220264,7 +220416,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The health cost is equal to 40% of Reckless Swing's true damage value.\nReckless Swing can be cast even if Olaf doesn't have the sufficient amount of health to pay for the health cost.\nAs with all abilities with health costs, Reckless Swing will not reduce Olaf's health below 1.\nReckless Swing's health refund is considered a  heal therefore it is affected by healing modifiers.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nOlaf will also not receive the benefits from killing an enemy if this canceling takes place very shortly before the attack hits the invalidated target, but Reckless Swing's effect will be consumed.(bug)",
+          "notes": "The health cost is equal to 40% of Reckless Swing's true damage value.\nReckless Swing can be cast even if Olaf doesn't have the sufficient amount of health to pay for the health cost.\nAs with all abilities with health costs, Reckless Swing will not reduce Olaf's health below 1.\nReckless Swing's health refund is considered a  heal therefore it is affected by healing modifiers.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nOlaf will also not receive the benefits from killing an enemy if this canceling takes place very shortly before the attack hits the invalidated target, but Reckless Swing's effect will be consumed.(bug)\nThe health cost will also be refunded if the target dies shortly after being hit by Reckless Swing.",
           "blurb": "Active:  Olaf consumes  health to strike thunder onto the target enemy, dealing true damage. If this kills the target, Olaf  heals the  health cost.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -221723,7 +221875,7 @@
     "name": "Orianna",
     "title": "The Lady of Clockwork",
     "fullName": "Orianna Reveck",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Orianna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Orianna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -223662,7 +223814,7 @@
     "name": "Ornn",
     "title": "The Fire Below the Mountain",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ornn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ornn.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -225460,7 +225612,7 @@
     "name": "Pantheon",
     "title": "The Unbreakable Spear",
     "fullName": "Atreus",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Pantheon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Pantheon.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -227730,7 +227882,7 @@
     "name": "Poppy",
     "title": "Keeper of the Hammer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Poppy.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Poppy.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -230045,7 +230197,7 @@
     "name": "Pyke",
     "title": "The Bloodharbor Ripper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Pyke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Pyke.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -232702,7 +232854,7 @@
     "name": "Qiyana",
     "title": "Empress of the Elements",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Qiyana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Qiyana.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -234993,7 +235145,7 @@
     "name": "Quinn",
     "title": "Demacia's Wings",
     "fullName": "Quinn and Valor",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Quinn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Quinn.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -236613,7 +236765,7 @@
     "name": "Rakan",
     "title": "The Charmer",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Rakan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Rakan.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -238827,7 +238979,7 @@
     "name": "Rammus",
     "title": "The Armordillo",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Rammus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Rammus.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -240603,7 +240755,7 @@
     "name": "Rek'Sai",
     "title": "The Void Burrower",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/RekSai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/RekSai.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -242431,7 +242583,7 @@
     "name": "Rell",
     "title": "The Iron Maiden",
     "fullName": "Rell Canwell",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Rell.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Rell.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -244092,7 +244244,7 @@
     "name": "Renata Glasc",
     "title": "The Chem-Baroness",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Renata.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Renata.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -245725,7 +245877,7 @@
     "name": "Renekton",
     "title": "The Butcher of the Sands",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Renekton.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Renekton.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -248371,7 +248523,7 @@
     "name": "Rengar",
     "title": "The Pridestalker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Rengar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Rengar.png",
     "resource": "FEROCITY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -250531,7 +250683,7 @@
     "name": "Riven",
     "title": "The Exile",
     "fullName": "Konte Riven",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Riven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Riven.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -253081,7 +253233,7 @@
     "name": "Rumble",
     "title": "The Mechanized Menace",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Rumble.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Rumble.png",
     "resource": "HEAT",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -255827,7 +255979,7 @@
     "name": "Ryze",
     "title": "The Rune Mage",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ryze.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ryze.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -257643,7 +257795,7 @@
     "name": "Samira",
     "title": "The Desert Rose",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Samira.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Samira.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -259535,7 +259687,7 @@
     "name": "Sejuani",
     "title": "Fury of the North",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sejuani.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sejuani.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -261830,7 +261982,7 @@
     "name": "Senna",
     "title": "The Redeemer",
     "fullName": "Senna Abaru",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Senna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Senna.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -264579,7 +264731,7 @@
     "name": "Seraphine",
     "title": "The Starry-Eyed Songstress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Seraphine.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Seraphine.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -265281,10 +265433,10 @@
               {
                 "values": [
                   11,
-                  10.5,
-                  10,
-                  9.5,
-                  9
+                  11,
+                  11,
+                  11,
+                  11
                 ],
                 "units": [
                   "",
@@ -265444,7 +265596,7 @@
     },
     "releaseDate": "2020-10-29",
     "releasePatch": "10.22",
-    "patchLastChanged": "26.14",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -267318,7 +267470,7 @@
     "name": "Sett",
     "title": "The Boss",
     "fullName": "Settrigh",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sett.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sett.png",
     "resource": "GRIT",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -269866,7 +270018,7 @@
     "name": "Shaco",
     "title": "The Demon Jester",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Shaco.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Shaco.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -270276,7 +270428,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Shaco/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Shaco summons a box at the target location that becomes stealthed after arming over 2 seconds, lasting for up to 40 (+ 10% AP) seconds. The box is invulnerable and untargetable to enemies while stealthed.",
+              "description": "Active: Shaco summons a box at the target location that becomes stealthed after arming over 2 seconds, lasting for up to 50 (+ 10% AP) seconds. The box is invulnerable and untargetable to enemies while stealthed.",
               "leveling": []
             },
             {
@@ -272778,7 +272930,7 @@
     "name": "Shen",
     "title": "The Eye of Twilight",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Shen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Shen.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -275287,7 +275439,7 @@
     "name": "Shyvana",
     "title": "The Half-Dragon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Shyvana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Shyvana.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -277002,7 +277154,7 @@
     "name": "Singed",
     "title": "The Mad Chemist",
     "fullName": "Corin Reveck",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Singed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Singed.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -278624,7 +278776,7 @@
     "name": "Sion",
     "title": "The Undead Juggernaut",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sion.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sion.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -281167,10 +281319,10 @@
         "set": [
           "Day Job"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_centered_50.skins_sion_skin50.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_uncentered_50.skins_sion_skin50.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_tile_50.skins_sion_skin50.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/sionloadscreen_50.skins_sion_skin50.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_centered_50.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_uncentered_50.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/images/sion_splash_tile_50.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin50/sionloadscreen_50.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -281192,7 +281344,7 @@
     "name": "Sivir",
     "title": "The Battle Mistress",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sivir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sivir.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -284112,7 +284264,7 @@
     "name": "Skarner",
     "title": "The Primordial Sovereign",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Skarner.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Skarner.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -285575,7 +285727,7 @@
     "name": "Smolder",
     "title": "The Fiery Fledgling",
     "fullName": "Ignacarious Gigantareno Rex Le Spes Offerentis",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Smolder.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Smolder.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -287055,7 +287207,7 @@
     "name": "Sona",
     "title": "Maven of the Strings",
     "fullName": "Sona Buvelle",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sona.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -289670,7 +289822,7 @@
     "name": "Soraka",
     "title": "The Starchild",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Soraka.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Soraka.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -292391,7 +292543,7 @@
     "name": "Swain",
     "title": "The Noxian Grand General",
     "fullName": "Jericho Swain",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Swain.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Swain.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -294637,7 +294789,7 @@
     "name": "Sylas",
     "title": "The Unshackled",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Sylas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Sylas.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -296944,7 +297096,7 @@
     "name": "Syndra",
     "title": "The Dark Sovereign",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Syndra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Syndra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -297169,7 +297321,7 @@
               "leveling": []
             },
             {
-              "description": "Collecting a Splinter of Wrath from an enemy restores 20 : 255 (based on level) mana. Splinters of Wrath are brought to Syndra from enemies over 0.6 seconds.",
+              "description": "Collecting a Splinter of Wrath from an enemy restores 20 : 239 (based on level) mana. Splinters of Wrath are brought to Syndra from enemies over 0.6 seconds.",
               "leveling": []
             },
             {
@@ -297523,11 +297675,11 @@
             "modifiers": [
               {
                 "values": [
+                  13,
                   12,
                   11,
                   10,
-                  9,
-                  8
+                  9
                 ],
                 "units": [
                   "",
@@ -297876,7 +298028,7 @@
     },
     "releaseDate": "2012-09-13",
     "releasePatch": "1.0.0.147",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -299618,7 +299770,7 @@
     "name": "Tahm Kench",
     "title": "The River King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/TahmKench.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/TahmKench.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -301658,7 +301810,7 @@
     "name": "Taliyah",
     "title": "The Stoneweaver",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Taliyah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Taliyah.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -303297,7 +303449,7 @@
     "name": "Talon",
     "title": "The Blade's Shadow",
     "fullName": "Talon Du Couteau",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Talon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Talon.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -305623,7 +305775,7 @@
     "name": "Taric",
     "title": "The Shield of Valoran",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Taric.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Taric.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -307199,7 +307351,7 @@
     "name": "Teemo",
     "title": "The Swift Scout",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Teemo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Teemo.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -309917,7 +310069,7 @@
     "name": "Thresh",
     "title": "The Chain Warden",
     "fullName": "Erlok Grael",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Thresh.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Thresh.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -312428,7 +312580,7 @@
     "name": "Tristana",
     "title": "The Yordle Gunner",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Tristana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Tristana.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -315374,7 +315526,7 @@
     "name": "Trundle",
     "title": "The Troll King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Trundle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Trundle.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -317029,7 +317181,7 @@
     "name": "Tryndamere",
     "title": "The Barbarian King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Tryndamere.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Tryndamere.png",
     "resource": "FURY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -319027,7 +319179,7 @@
     "name": "Twisted Fate",
     "title": "The Card Master",
     "fullName": "Tobias Felix",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/TwistedFate.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/TwistedFate.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -321313,7 +321465,7 @@
     "name": "Twitch",
     "title": "The Plague Rat",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Twitch.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Twitch.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -323626,7 +323778,7 @@
     "name": "Udyr",
     "title": "The Spirit Walker",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Udyr.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Udyr.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -325548,7 +325700,7 @@
     "name": "Urgot",
     "title": "The Dreadnought",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Urgot.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Urgot.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -327345,6 +327497,38 @@
           "Kelvin Law",
           "West Studio"
         ]
+      },
+      {
+        "name": "Old God",
+        "id": 6041,
+        "isBase": false,
+        "availability": "Upcoming",
+        "formatName": "Old God",
+        "lootEligible": true,
+        "cost": 1350,
+        "sale": 0,
+        "distribution": null,
+        "rarity": "Epic",
+        "chromas": [],
+        "lore": "Urgot's obscene aspiration to unshackle himself from his too-human constraints led him to fashion a new body, one profane with terrible power. When he was slain by the Eclipse Knights, he returned in the shape of mankind's greatest fear: the entropic rot of mortality, intent on miring the world of man in beautiful and eternal decay.",
+        "release": "0000-00-00",
+        "set": [
+          "Coven"
+        ],
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin41/images/urgot_splash_centered_41.skins_urgot_skin41.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin41/images/urgot_splash_uncentered_41.skins_urgot_skin41.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin41/images/urgot_splash_tile_41.skins_urgot_skin41.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin41/urgotloadscreen_41.skins_urgot_skin41.jpg",
+        "loadScreenVintagePath": null,
+        "newEffects": true,
+        "newAnimations": true,
+        "newRecall": true,
+        "newVoice": false,
+        "newQuotes": false,
+        "voiceActor": [
+          "Paul M. Guyet"
+        ],
+        "splashArtist": []
       }
     ]
   },
@@ -327354,7 +327538,7 @@
     "name": "Varus",
     "title": "The Arrow of Retribution",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Varus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Varus.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -330142,7 +330326,7 @@
     "name": "Vayne",
     "title": "The Night Hunter",
     "fullName": "Shauna Vayne",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Vayne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Vayne.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -332799,7 +332983,7 @@
     "name": "Veigar",
     "title": "The Tiny Master of Evil",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Veigar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Veigar.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -335207,7 +335391,7 @@
     "name": "Vel'Koz",
     "title": "The Eye of the Void",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Velkoz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Velkoz.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -336999,7 +337183,7 @@
     "name": "Vex",
     "title": "The Gloomist",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Vex.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Vex.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -338743,7 +338927,7 @@
     "name": "Vi",
     "title": "The Piltover Enforcer",
     "fullName": "Violet",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Vi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Vi.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -340862,7 +341046,7 @@
     "name": "Viego",
     "title": "The Ruined King",
     "fullName": "Viego Santiarul Molach vol Kalah Heigaari",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viego.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Viego.png",
     "resource": "NONE",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -340906,7 +341090,7 @@
       "attackDamage": {
         "flat": 57,
         "percent": 0.0,
-        "perLevel": 3.5,
+        "perLevel": 4,
         "percentPerLevel": 0.0
       },
       "movespeed": {
@@ -341084,7 +341268,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Viego/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a Mist Wraith spawns from that champion's corpse for 8 seconds. Viego can basic attack a Mist Wraith to consume it: causing him to blink to its location after winding up for 1 second, during which he is untargetable (except to turrets) and unable to act. He then gains Possession and heals himself for 2% (+ 2.5% per 100 bonus AD) (+ 2% per 100 AP) (+ 5% per 100% bonus attack speed) of the target's maximum health.",
+              "description": "Innate: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a Mist Wraith spawns from that champion's corpse for 8 seconds. Viego can basic attack a Mist Wraith to consume it: causing him to blink to its location after winding up for 1 second, during which he is untargetable (except to turrets) and unable to act. He then gains Possession and heals himself for 2% (+ 2.5% per 100 bonus AD) (+ 2% per 100 AP) (+ 0.4% per 100 bonus health) (+ 5% per 100% bonus attack speed) of the target's maximum health.",
               "leveling": []
             },
             {
@@ -341610,7 +341794,7 @@
     },
     "releaseDate": "2021-01-21",
     "releasePatch": "11.2",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -342643,7 +342827,7 @@
     "name": "Viktor",
     "title": "The Herald of the Arcane",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Viktor.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Viktor.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -344463,7 +344647,7 @@
     "name": "Vladimir",
     "title": "The Crimson Reaper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Vladimir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Vladimir.png",
     "resource": "CRIMSON_RUSH",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -344589,7 +344773,7 @@
         "percentPerLevel": 0.0
       },
       "aramDamageTaken": {
-        "flat": 1.05,
+        "flat": 1,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -344601,7 +344785,7 @@
         "percentPerLevel": 0.0
       },
       "aramHealing": {
-        "flat": 0.9,
+        "flat": 1,
         "percent": 0.0,
         "perLevel": 0.0,
         "percentPerLevel": 0.0
@@ -346890,7 +347074,7 @@
     "name": "Volibear",
     "title": "The Relentless Storm",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Volibear.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Volibear.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -348811,7 +348995,7 @@
     "name": "Warwick",
     "title": "The Uncaged Wrath of Zaun",
     "fullName": "Vander",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Warwick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Warwick.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -350665,8 +350849,7 @@
         "lore": "Once known as Father Wolf, Warwick roamed the wood and reveled in moonlight's bloody hunt. The Eclipse Order thought to slay him in his den and end his barbarity—but death means nothing to Old Gods, and he did not stay down. Father Wolf howls into the night once more, now slavering for the taste of human flesh.",
         "release": "2021-08-12",
         "set": [
-          "Coven",
-          "Elderwood"
+          "Coven"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_centered_35.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_uncentered_35.jpg",
@@ -351213,7 +351396,7 @@
     "name": "Wukong",
     "title": "The Monkey King",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/MonkeyKing.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/MonkeyKing.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -352969,7 +353152,7 @@
     "name": "Xayah",
     "title": "The Rebel",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Xayah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Xayah.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -355406,7 +355589,7 @@
     "name": "Xerath",
     "title": "The Magus Ascendant",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Xerath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Xerath.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -357183,7 +357366,7 @@
     "name": "Xin Zhao",
     "title": "The Seneschal of Demacia",
     "fullName": "Xin Zhao",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/XinZhao.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/XinZhao.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -359647,7 +359830,7 @@
     "name": "Yasuo",
     "title": "The Unforgiven",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Yasuo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Yasuo.png",
     "resource": "FLOW",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -362852,7 +363035,7 @@
     "name": "Yone",
     "title": "The Unforgotten",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Yone.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Yone.png",
     "resource": "FLOW",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -365460,7 +365643,7 @@
     "name": "Yorick",
     "title": "Shepherd of Souls",
     "fullName": "Yorick Mori",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Yorick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Yorick.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -367840,7 +368023,7 @@
     "name": "Yunara",
     "title": "The Unbroken Faith",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Yunara.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Yunara.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -369360,7 +369543,7 @@
     "name": "Yuumi",
     "title": "The Magical Cat",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Yuumi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Yuumi.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -372341,7 +372524,7 @@
     "name": "Zaahen",
     "title": "The Unsundered",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zaahen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zaahen.png",
     "resource": "MANA",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -372582,7 +372765,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The bonus attack damage granted by Determination stacks will update dynamically with Zaahen's total attack damage.\nDetermination stacks are generated per damage instance per champion damaged with Zaahen's attacks and abilities.\n The Darkin Glaive's initial cast empowered attack can generate a stack for each strike.\nBoth passes of  Dreaded Return can generate a stack.\nBoth  Aureate Rush's swing and  Grim Deliverance's shockwave generate a stack for every champion hit.\n Ivern's  Triggerseed generates a stack for every champion hit when cast on Zaahen.(bug)\nDuring the resurrection's health restoration, Zaahen's  current health is set to a percentage of his maximum health equal to the cumulative amount of health restored on that restoration tick, for every single tick.\nIn other words, his current health will always be overridden by the percentage of health he is supposed to have restored on every restoration tick, to prevent him from healing or restoring health by other sources.\nUpon the resurrection being triggered, all summoner spells that are not already on cooldown are placed on a 5-second  cooldown.\nThe  untargetability from the resurrection does not  destroy in-flight  projectiles.\nCultivation of War's resurrection takes priority over  Guardian Angel's Rebirth, but grants priority to  Zilean's  Chronoshift.\nThe resurrection does not activate if Zaahen is killed by the  Nexus Obelisk.\n Invulnerability will prevent stacks from being generated, as no damage is dealt.\n Spell shield will not prevent stacks from being generated, even if no damage is dealt.(bug)\nCultivation of War  stacks additively with  Infernal Might and  Overlord's Bloodmail's Retribution.\nDetermination stacks are displayed in a secondary resource bar under Zaahen's health bar.\nThe bar is white at <4 stacks, yellow at ≥4 stacks and orange at ≥9 stacks.\nAt maximum stacks, if the revive is available, the bar will be red and will remain red after Zaahen revives until he loses stacks again.(unexpected)\nThere's a short delay between the stacks falling off and the removal of the revive. If Zaahen triggers it during this time, it will fail to go on cooldown.(bug)\nThe following table refers for interactions while Zaahen is locked out during the resurrection:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "The bonus attack damage granted by Determination stacks will update dynamically with Zaahen's total attack damage.\nDetermination stacks are generated per damage instance per champion damaged with Zaahen's attacks and abilities.\n The Darkin Glaive's initial cast empowered attack can generate a stack for each strike.\nBoth passes of  Dreaded Return can generate a stack.\nBoth  Aureate Rush's swing and  Grim Deliverance's shockwave generate a stack for every champion hit.\n Ivern's  Triggerseed generates a stack for every champion hit when cast on Zaahen.(bug)\nDuring the resurrection's health restoration, Zaahen's  current health is set to a percentage of his maximum health equal to the cumulative amount of health restored on that restoration tick, for every single tick.\nIn other words, his current health will always be overridden by the percentage of health he is supposed to have restored on every restoration tick, to prevent him from healing or restoring health by other sources.\nUpon the resurrection being triggered, all summoner spells that are not already on cooldown are placed on a 5-second  cooldown.\nThe  untargetability from the resurrection does not  destroy in-flight  projectiles.\nCultivation of War's resurrection takes priority over  Guardian Angel's Rebirth, but grants priority to  Zilean's  Chronoshift.\nThe resurrection does not activate if Zaahen is killed by the  Nexus Obelisk.\n Invulnerability will prevent stacks from being generated, as no damage is dealt.\n Spell shield will not prevent stacks from being generated, even if no damage is dealt.(bug)\nCultivation of War  stacks additively with  Infernal Might and  Overlord's Bloodmail's Retribution and  multiplicatively with mid lane quest's bonus AD multiplier.\nDetermination stacks are displayed in a secondary resource bar under Zaahen's health bar.\nThe bar is white at <4 stacks, yellow at ≥4 stacks and orange at ≥9 stacks.\nAt maximum stacks, if the revive is available, the bar will be red and will remain red after Zaahen revives until he loses stacks again.(unexpected)\nThere's a short delay between the stacks falling off and the removal of the revive. If Zaahen triggers it during this time, it will fail to go on cooldown.(bug)\nThe following table refers for interactions while Zaahen is locked out during the resurrection:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash  Mark  Dash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Innate:  Zaahen's  basic attacks and  abilities against enemy  champions grant him  stacks of Determination, refreshing on subsequent damage to champions and stacking up to 12 times.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -372768,11 +372951,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        25,
-                        50,
-                        75,
-                        100,
-                        125
+                        30,
+                        60,
+                        90,
+                        120,
+                        150
                       ],
                       "units": [
                         "",
@@ -372861,7 +373044,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The Darkin Glaive's damage is tagged as  basic damage and  spell damage, which allows it to trigger  spell effects.\n Spell shield will only block the knock up from the recast.\nSince the healing is granted on-attack, parrying effects will not prevent Zaahen from gaining the heal. Otherwise, parrying effects will negate all other aspects of The Darkin Glaive's attacks while consuming them.\nThe ability will not heal against wards, plants, or structures.\nThe first cast's double-strike attack:\nRolls  critical strike once for both strikes.\nDoes not cause Zaahen to attack twice.\nEffects that trigger on-attack or interact with the attack windup will only trigger once and thus do not interact with The Darkin Glaive. (e.g.  Lethal Tempo,  Hail of Blades).\nWill consume  Bone Plating once.(bug)\nIf the first strike triggers the rune, the second one will get blocked by it.\nIf the first strike is blocked by the rune, the second one will not.\nThe 1.5-second delay is not \"fuzzy\" (it will never take up to another 0.25 seconds) and so will never correctly sync up with  Sheen like  Camille's  Precision Protocol.(unexpected)",
+          "notes": "The Darkin Glaive's damage is tagged as  basic damage and  spell damage, which allows it to trigger  spell effects.\n Spell shield will only block the knock up from the recast.\nSince the healing is granted on-attack, parrying effects will not prevent Zaahen from gaining the heal. Otherwise, parrying effects will negate all other aspects of The Darkin Glaive's attacks while consuming them.\nThe ability will not heal against wards, plants, or structures.\nUpon being put in resurrection and if The Darkin Glaive is active, it is placed on cooldown immediately.\nThe first cast's double-strike attack:\nRolls  critical strike once for both strikes.\nDoes not cause Zaahen to attack twice.\nEffects that trigger on-attack or interact with the attack windup will only trigger once and thus do not interact with The Darkin Glaive. (e.g.  Lethal Tempo,  Hail of Blades).\nWill consume  Bone Plating once.(bug)\nIf the first strike triggers the rune, the second one will get blocked by it.\nIf the first strike is blocked by the rune, the second one will not.\nThe 1.5-second delay is not \"fuzzy\" (it will never take up to another 0.25 seconds) and so will never correctly sync up with  Sheen like  Camille's  Precision Protocol.(unexpected)",
           "blurb": "Active:  Zaahen's next  basic attack strikes twice, dealing modified physical damage, applying  on-hit effects and  healing him based on his maximum health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -373402,7 +373585,7 @@
     },
     "releaseDate": "2025-11-19",
     "releasePatch": "25.23",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
@@ -373654,7 +373837,7 @@
     "name": "Zac",
     "title": "The Secret Weapon",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zac.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zac.png",
     "resource": "HEALTH",
     "attackType": "MELEE",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -375566,7 +375749,7 @@
     "name": "Zed",
     "title": "The Master of Shadows",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zed.png",
     "resource": "ENERGY",
     "attackType": "MELEE",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -378078,7 +378261,7 @@
     "name": "Zeri",
     "title": "The Spark of Zaun",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zeri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zeri.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "PHYSICAL_DAMAGE",
@@ -378688,11 +378871,11 @@
                     },
                     {
                       "values": [
-                        120,
-                        120,
-                        120,
-                        120,
-                        120
+                        100,
+                        100,
+                        100,
+                        100,
+                        100
                       ],
                       "units": [
                         "% AD",
@@ -378741,11 +378924,11 @@
                     },
                     {
                       "values": [
-                        180,
-                        180,
-                        180,
-                        180,
-                        180
+                        150,
+                        150,
+                        150,
+                        150,
+                        150
                       ],
                       "units": [
                         "% AD",
@@ -378794,11 +378977,11 @@
                     },
                     {
                       "values": [
-                        198,
-                        198,
-                        198,
-                        198,
-                        198
+                        165,
+                        165,
+                        165,
+                        165,
+                        165
                       ],
                       "units": [
                         "% AD",
@@ -379192,7 +379375,7 @@
     },
     "releaseDate": "2022-01-20",
     "releasePatch": "12.2",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.18",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -380293,7 +380476,7 @@
     "name": "Ziggs",
     "title": "The Hexplosives Expert",
     "fullName": "Zigmund",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Ziggs.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ziggs.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -382461,7 +382644,7 @@
     "name": "Zilean",
     "title": "The Chronokeeper",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zilean.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zilean.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -383978,7 +384161,7 @@
     "name": "Zoe",
     "title": "The Aspect of Twilight",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zoe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zoe.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
@@ -386106,7 +386289,7 @@
     "name": "Zyra",
     "title": "Rise of the Thorns",
     "fullName": "",
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.17.1/img/champion/Zyra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Zyra.png",
     "resource": "MANA",
     "attackType": "RANGED",
     "adaptiveType": "MAGIC_DAMAGE",
