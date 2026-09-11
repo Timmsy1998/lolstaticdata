@@ -5179,7 +5179,7 @@
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends 2024 event.",
         "rarity": "Transcendent",
         "chromas": [],
         "lore": "You've done well, Ahri, to complete my trials with such grace and humility. To become a Risen Legend is no easy feat, and even in the face of failure, you have proven your resilience. Go forth and leave a legacy worthy of the Unkillable Demon King. When you're ready to learn your true potential… heed my call.",
@@ -18522,7 +18522,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Citrine",
+            "id": 34059,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin59/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#DF9117",
+              "#DF9117"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 34058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin58/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 34062,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin62/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 34060,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin60/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 34063,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin63/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 34057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin57/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 34061,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin61/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 34064,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/anivia/skins/skin64/chromapreview.chroma_anivia_oldgod.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "The cold wind that once stole Anivia's breath then gave the Twilight Raptor flight. From her mountaintop roost amidst civilization's ruins, she looks down on humankind's works with hatred for how mortals have squandered nature's gifts. Wielding the primeval power of the storm, Anivia turns those with avarice in their heart into little more than dust.",
         "release": "0000-00-00",
         "set": [
@@ -18539,7 +18708,10 @@
         "newVoice": false,
         "newQuotes": false,
         "voiceActor": [],
-        "splashArtist": []
+        "splashArtist": [
+          "Huyy Nguyen",
+          "West Studio"
+        ]
       }
     ]
   },
@@ -99251,11 +99423,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        100,
-                        150,
+                        80,
+                        120,
+                        160,
                         200,
-                        250,
-                        300
+                        240
                       ],
                       "units": [
                         "",
@@ -99267,11 +99439,11 @@
                     },
                     {
                       "values": [
-                        100,
-                        100,
-                        100,
-                        100,
-                        100
+                        80,
+                        80,
+                        80,
+                        80,
+                        80
                       ],
                       "units": [
                         "% AP",
@@ -114178,7 +114350,134 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Legendary",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 40071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin71/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 40072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin72/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 40073,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin73/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 40070,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin70/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 40068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin68/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 40069,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin69/chromapreview.chroma_janna_coven.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "They came to Janna as a howling gale : the restless storm driven forth by the Twilight Raptor's wings, dismantling humankind's manufactured works. Benevolence abandoned, mercy forfeit, she is an instrument of nature's wrath, using ancient magics to bestow the earth to her Mother Most Ancient's primordial rule.",
         "release": "0000-00-00",
         "set": [
@@ -114188,7 +114487,7 @@
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/images/janna_splash_uncentered_67.skins_janna_skin67.jpg",
         "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/images/janna_splash_tile_67.skins_janna_skin67.jpg",
         "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/jannaloadscreen_67.skins_janna_skin67.jpg",
-        "loadScreenVintagePath": null,
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/janna/skins/skin67/jannaloadscreen_67_le.skins_janna_skin67.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -130624,7 +130923,7 @@
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends 2025 event.",
         "rarity": "Transcendent",
         "chromas": [],
         "lore": "I was right to place my trust in you, Kai'Sa. My vision for this world requires unrelenting conviction, and you've proven yourself worthy at every turn. Now your true test begins—to control the power I've granted you. Are you ready for the hunt?",
@@ -159266,7 +159565,7 @@
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "distribution": "Hall of Legends Premium 2024 Pass reward (Level 10).",
         "rarity": "Mythic",
         "chromas": [
           {
@@ -190202,7 +190501,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Aquamarine",
+            "id": 800014,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin14/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#6ABBEE",
+              "#6ABBEE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 800017,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin17/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 800016,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin16/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 800020,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin20/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 800018,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin18/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 800013,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin13/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 800019,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin19/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 800015,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin15/chromapreview.chroma_mel_coven.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "They came to Mel as dying rays of light : the Porcelain Abomination's shadow heavy with the weight of nightfall. She was granted twisted death magic to punish those that cast her out, and with deep hatred for the Eclipse Knights and bitter conviction in her new power, she ensures the last gasp of a twilit era before eternal darkness subsumes humanity.",
         "release": "0000-00-00",
         "set": [
@@ -223735,12 +224203,12 @@
         "name": "Risen Legend",
         "id": 61040,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Limited",
         "formatName": "Risen Legend",
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "distribution": "Hall of Legends Premium 2026 Pass reward (Level 10).",
         "rarity": "Mythic",
         "chromas": [
           {
@@ -223787,7 +224255,7 @@
           }
         ],
         "lore": "Attempting my Trials with an entire squadron was bold, Orianna—and almost your downfall. But it is not fate that now gives you a second chance, but your friend. Live on, in this mechanical body she built, as my Keeper of Harmony. Your success proves that true power lies in resilience, and that hardship is best met with teamwork.",
-        "release": "0000-00-00",
+        "release": "2026-09-10",
         "set": [
           "Risen Legends"
         ],
@@ -315490,16 +315958,16 @@
         "name": "Risen Legend",
         "id": 18079,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Limited",
         "formatName": "Risen Legend",
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends event.",
+        "distribution": "Purchase the Risen Legend Collection during the Hall of Legends 2026 event.",
         "rarity": "Transcendent",
         "chromas": [],
         "lore": "I, the Mechanical Prodigy, bestow my gifts only to a legend with inventiveness, resolve, and skill. I've seen these in you, Tristana. Even in defeat, you persisted, building a Destruction Assistance Droid to ultimately complete my Trials. To meet your full potential, push yourself and the Band of Gunners to the limit. Show this world power unparalleled.",
-        "release": "0000-00-00",
+        "release": "2026-09-10",
         "set": [
           "Risen Legends"
         ],
@@ -327509,7 +327977,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 6043,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin43/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 6044,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin44/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 6049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin49/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 6048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin48/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 6047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin47/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 6042,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin42/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 6045,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin45/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 6046,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin46/chromapreview.chroma_urgot_oldgod.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Urgot's obscene aspiration to unshackle himself from his too-human constraints led him to fashion a new body, one profane with terrible power. When he was slain by the Eclipse Knights, he returned in the shape of mankind's greatest fear: the entropic rot of mortality, intent on miring the world of man in beautiful and eternal decay.",
         "release": "0000-00-00",
         "set": [
@@ -327528,7 +328165,10 @@
         "voiceActor": [
           "Paul M. Guyet"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Francis Tneh",
+          "West Studio"
+        ]
       }
     ]
   },
@@ -332736,7 +333376,7 @@
         "lootEligible": false,
         "cost": "Special",
         "sale": 0,
-        "distribution": "Hall of Legends Premium Pass reward (Level 10).",
+        "distribution": "Hall of Legends Premium 2025 Pass reward (Level 10).",
         "rarity": "Mythic",
         "chromas": [
           {
