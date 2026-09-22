@@ -87954,7 +87954,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Courage's bonus resistances are only gained when it is ranked up at least once, but Courage's passive is retroactive for units killed before it was learned.\nCourage's bonus resistances can be obtained by any of Garen's damage sources (basic attacks, abilities, summoner spells, runes, item actives).\nThis does not include last hits transferred to Garen artificially.\nThe kills on these enemy unit types count towards Courage stacks:\n Champions (Only kills, assists don't grant stacks)\nAll  minions and  monsters\nChampion summoned units (e.g.  Noxious Trap,  Powder Keg)\nAll  pets and  clones.\nThe bonus is equal for all these units; large units do not grant a larger bonus.\nThe kills on these enemy unit types do not count towards Courage stacks:\n Wards.\n Turrets (including  Sun Disk) and other  structures\nJungle plants.\nUnits destroyed by 'trampling' such as  Zyra's  seeds,  Zac's  goo or  Rek'Sai's  tunnels.\n Illaoi's  Tentacles and  Yorick's  Dark Procession\nCourage will only grant bonus resistances from units killed by Garen himself.  Eye of the Herald does not count.\nThe  Tenacity increase  stacks additively with the tenacity reduction from  Brittle, but multiplicatively with other sources.",
+          "notes": "Courage's bonus resistances can be obtained by any of Garen's damage sources (basic attacks, abilities, summoner spells, runes, item actives).\nThis does not include last hits transferred to Garen artificially.\nThe kills on these enemy unit types count towards Courage stacks:\n Champions (Only kills, assists don't grant stacks)\nAll  minions and  monsters\nChampion summoned units (e.g.  Noxious Trap,  Powder Keg)\nAll  pets and  clones.\nThe bonus is equal for all these units; large units do not grant a larger bonus.\nThe kills on these enemy unit types do not count towards Courage stacks:\n Wards.\n Turrets (including  Sun Disk) and other  structures\nJungle plants.\nUnits destroyed by 'trampling' such as  Zyra's  seeds,  Zac's  goo or  Rek'Sai's  tunnels.\n Illaoi's  Tentacles and  Yorick's  Dark Procession\nCourage will only grant bonus resistances from units killed by Garen himself.  Eye of the Herald does not count.\nThe  Tenacity increase  stacks additively with the tenacity reduction from  Brittle, but multiplicatively with other sources.",
           "blurb": "Passive:  Garen permanently gains bonus  armor and  magic resist by killing enemies, up to a cap. Upon reaching the cap, he gains another permanent boost to these defenses.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -186297,7 +186297,7 @@
               "leveling": []
             },
             {
-              "description": "Wuju Style and Highlander can be cast during Alpha Strike. Each time Alpha Strike hits a target, the current durations of Wuju Style and Highlander are refreshed. Alpha Strike does not trigger its cooldown reduction nor grant a stack of Double Strike when applying on-hit effects.",
+              "description": "Wuju Style and Highlander can be cast during Alpha Strike. Each time Alpha Strike hits a target, the current durations of Wuju Style and Highlander are refreshed. During Alpha Strike, applying on-hits through any means will not trigger the cooldown reduction nor grant stacks of Double Strike. (unexpected)",
               "leveling": []
             }
           ],
