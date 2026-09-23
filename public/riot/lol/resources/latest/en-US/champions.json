@@ -843,10 +843,10 @@
             "modifiers": [
               {
                 "values": [
-                  20,
                   18,
-                  16,
-                  14,
+                  16.5,
+                  15,
+                  13.5,
                   12
                 ],
                 "units": [
@@ -891,7 +891,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aatrox/ability-icon/e",
           "effects": [
             {
-              "description": "Passive: Aatrox heals for 16% (+ 1.1% per 100 bonus health) of non- persistent post-mitigation damage he deals against enemy champions.",
+              "description": "Passive: Aatrox heals for 16% (+ 1.3% per 100 bonus health) of non- persistent post-mitigation damage he deals against enemy champions.",
               "leveling": []
             },
             {
@@ -1071,7 +1071,7 @@
     },
     "releaseDate": "2013-06-13",
     "releasePatch": "3.8",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -10437,10 +10437,10 @@
         "set": [
           "High Noon"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_centered_21.skins_akshan_skin21.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_uncentered_21.skins_akshan_skin21.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_tile_21.skins_akshan_skin21.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/akshanloadscreen_21.skins_akshan_skin21.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_centered_21.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_uncentered_21.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/images/akshan_splash_tile_21.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/akshan/skins/skin21/akshanloadscreen_21.jpg",
         "loadScreenVintagePath": null,
         "newEffects": true,
         "newAnimations": true,
@@ -21443,7 +21443,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aphelios/ability-icon/p",
           "effects": [
             {
-              "description": "Basic attacks with Severum are non-projectile and have an uncancellable windup. Severum's attacks heal Aphelios for 2% : 7.1% (based on level) of the post-mitigation damage dealt, increased to 5% : 17.75% (based on level) for attacks from abilities.",
+              "description": "Basic attacks with Severum are non-projectile and have an uncancellable windup. Severum's attacks heal Aphelios for 2% : 8% (based on level) of the post-mitigation damage dealt, increased to 5% : 20% (based on level) for attacks from abilities.",
               "leveling": []
             },
             {
@@ -21503,7 +21503,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aphelios/ability-icon/p",
           "effects": [
             {
-              "description": "Basic attacks with Gravitum slow enemies by 30% for 2.5 seconds, decaying to 10% after 0.7 seconds.",
+              "description": "Basic attacks with Gravitum slow enemies by 30% for 2.5 seconds, decaying to 15% after 0.7 seconds.",
               "leveling": []
             }
           ],
@@ -21627,7 +21627,7 @@
               "leveling": []
             },
             {
-              "description": "Attacks with Crescendum are empowered to deal 0% : 138.5% (based on number of Chakrams) AD additional physical damage and have a lower windup of 10.67%, further decreased to 6.67% when critically striking. The bonus damage from Chakrams is affected by critical strike modifiers.",
+              "description": "Attacks with Crescendum are empowered to deal 0% : 146% (based on number of Chakrams) AD additional physical damage and have a lower windup of 10.67%, further decreased to 6.67% when critically striking. The bonus damage from Chakrams is affected by critical strike modifiers.",
               "leveling": []
             }
           ],
@@ -21724,7 +21724,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aphelios/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Aphelios fires a bolt of energy in the target direction that deals 70 : 160 (based on level) (+ 42% : 60% (based on level) bonus AD) (+ 100% AP) physical damage to the first enemy hit.",
+              "description": "Active: Aphelios fires a bolt of energy in the target direction that deals 80 : 170 (based on level) (+ 42% : 60% (based on level) bonus AD) (+ 100% AP) physical damage to the first enemy hit.",
               "leveling": []
             }
           ],
@@ -21944,7 +21944,7 @@
           "projectile": "SPECIAL",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nEach attack of Onslaught counts as a separate cast instance for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\nOnslaught begins firing with Aphelios' off-hand weapon.\nThis means that, if used with  Crescendum, it will generate [n ÷ 2] Chakrams for even numbers of hits, and [(n - 1 ÷ 2) + 1] Chakrams for odd numbers of hits.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.",
+          "notes": "Severum's attacks are not  intercepted, but the attacks from the off-hand weapon are during Onslaught.\nAphelios will also not perform the attacks while channeling  Recall.\nEach attack of Onslaught counts as a separate cast instance for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nIf Aphelios is  taunted, he will still attack the nearest enemy.\nDuring Onslaught, Aphelios'   attack range is reduced[ to 410 ][ by 140 ]and his attack commands instead issue movement commands to walk into the respective range of his target.\nOnslaught's attacks stack  Energized, but do not apply any other  on-attack effects.\nOnslaught begins firing with Aphelios' off-hand weapon.\nThis means that, if used with  Crescendum, it will generate [n ÷ 2] Chakrams for even numbers of hits, and [(n - 1) ÷ 2 + 1] Chakrams for odd numbers of hits.\n Crescendum will not deal damage if blocked by  Wind Wall, but the stacks will still be gained.\nCosmetically, the Moonlight cost is consumed through the duration.",
           "blurb": "Active: Aphelios gains bonus  movement speed and quickly attacks a nearby enemy with  Severum and his current off-hand weapon, dealing physical damage. The number of attacks is increased based on his bonus attack speed.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -22128,24 +22128,24 @@
             "modifiers": [
               {
                 "values": [
-                  9.0,
-                  8.823529411764707,
-                  8.647058823529411,
-                  8.470588235294118,
-                  8.294117647058824,
-                  8.117647058823529,
-                  7.9411764705882355,
-                  7.764705882352941,
-                  7.588235294117647,
-                  7.411764705882353,
-                  7.235294117647059,
-                  7.0588235294117645,
-                  6.882352941176471,
-                  6.705882352941176,
-                  6.529411764705882,
-                  6.352941176470588,
-                  6.1764705882352935,
-                  6.0
+                  8.0,
+                  7.823529411764706,
+                  7.647058823529412,
+                  7.470588235294118,
+                  7.294117647058823,
+                  7.117647058823529,
+                  6.9411764705882355,
+                  6.764705882352941,
+                  6.588235294117647,
+                  6.411764705882353,
+                  6.235294117647059,
+                  6.0588235294117645,
+                  5.882352941176471,
+                  5.705882352941176,
+                  5.529411764705882,
+                  5.352941176470588,
+                  5.1764705882352935,
+                  5.0
                 ],
                 "units": [
                   "",
@@ -22493,7 +22493,7 @@
     },
     "releaseDate": "2019-12-11",
     "releasePatch": "9.24",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -29144,11 +29144,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        70,
-                        110,
-                        150,
-                        190,
-                        230
+                        80,
+                        120,
+                        160,
+                        200,
+                        240
                       ],
                       "units": [
                         "",
@@ -29287,9 +29287,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        3.5,
-                        4.25,
-                        5
+                        3.25,
+                        3.75,
+                        4.25
                       ],
                       "units": [
                         " seconds",
@@ -29309,8 +29309,8 @@
                   "modifiers": [
                     {
                       "values": [
-                        1.75,
-                        2.5,
+                        2.25,
+                        2.75,
                         3.25
                       ],
                       "units": [
@@ -29395,7 +29395,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Collision with the border is essentially moving within range of it while being targetable, including via normal movement, dash, or displacement.\nAurora and enemies can collide with the border any number of times, as much as the duration permits.\nEnemies can be applied the slow by colliding with the border only once after moving within collision radius of it. The slow may be applied again from collision only until after they have left the collision radius; it cannot be continuously applied while enemies remain within collision radius of the border.\n Untargetable units cannot collide with the border, including Aurora herself.\nThe in-game tooltip incorrectly lists the rift duration as 0.75 seconds longer than it actually is.(bug)\nIt is seemingly including the time required for the shockwave to fully expand. However, the rift and its borders will only form after the fact, so the actual duration of the rift is shorter.\nBetween Worlds'   untargetability from the rift dash does not  destroy in-flight  projectiles.\nBetween Worlds'  first cast is disabled while  grounded or  rooted.\nAurora can still dash from colliding with the border even if she is  immobilized or  grounded.\n Spell shield can block both the shockwave and border collision.\nA pair of portals signifying Aurora's nearest possible entry and its corresponding exit is visible to her at all times.\nDespite supposedly not being a projectile, the damage from Between Worlds gets reflected by  Mel's  Rebuttal, dealing damage and applying a mark of  Aurora's  Spirit Abjuration to all of Aurora's allies in range, but only if it has not hit another enemy champion first.\nIf the damage hits any enemy champion before interacting with Rebuttal, Between Worlds will only hit enemies, including  Mel.\nAurora can still pass through the edge of the spell to open a portal and dash to the other side, even if it has been reflected by Rebuttal.\nThe following table refers for interactions while Aurora is dashing:\nThis lockout applies to both the initial dash and the dashes in the formed rift.\nThe lockout during the initial cast's dash persists for another 0.5 seconds after the dash ends.\nThe lockout during the rift dash persists for another 0.15 seconds after the dash ends.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Collision with the border is essentially moving within range of it while being targetable, including via normal movement, dash, or displacement.\nAurora and enemies can collide with the border any number of times, as much as the duration permits.\nEnemies can be applied the slow by colliding with the border only once after moving within collision radius of it. The slow may be applied again from collision only until after they have left the collision radius; it cannot be continuously applied while enemies remain within collision radius of the border.\n Untargetable units cannot collide with the border, including Aurora herself.\nBetween Worlds'   untargetability from the rift dash does not  destroy in-flight  projectiles.\nBetween Worlds'  first cast is disabled while  grounded or  rooted.\nAurora can still dash from colliding with the border even if she is  immobilized or  grounded.\n Spell shield can block both the shockwave and border collision.\nA pair of portals signifying Aurora's nearest possible entry and its corresponding exit is visible to her at all times.\nDespite supposedly not being a projectile, the damage from Between Worlds gets reflected by  Mel's  Rebuttal, dealing damage and applying a mark of  Aurora's  Spirit Abjuration to all of Aurora's allies in range, but only if it has not hit another enemy champion first.\nIf the damage hits any enemy champion before interacting with Rebuttal, Between Worlds will only hit enemies, including  Mel.\nAurora can still pass through the edge of the spell to open a portal and dash to the other side, even if it has been reflected by Rebuttal.\nThe following table refers for interactions while Aurora is dashing:\nThis lockout applies to both the initial dash and the dashes in the formed rift.\nThe lockout during the initial cast's dash persists for another 0.5 seconds after the dash ends.\nThe lockout during the rift dash persists for another 0.15 seconds after the dash ends.\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Aurora becomes  unstoppable and  leaps, unleashing an expanding shockwave that deals magic damage to enemies hit and  slows them briefly, and gaining  Realm Hopper for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -29414,7 +29414,7 @@
     },
     "releaseDate": "2024-07-17",
     "releasePatch": "14.14",
-    "patchLastChanged": "25.22",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -29889,11 +29889,11 @@
         "set": [
           "Broken Covenant"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_centered_20.skins_aurora_skin20.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_uncentered_20.skins_aurora_skin20.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_tile_20.skins_aurora_skin20.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/auroraloadscreen_20.skins_aurora_skin20.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/auroraloadscreen_20_le.skins_aurora_skin20.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_centered_20.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_uncentered_20.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/images/aurora_splash_tile_20.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/auroraloadscreen_20.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin20/auroraloadscreen_20_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -40046,11 +40046,11 @@
         "set": [
           "Sinful Shores"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_centered_53.skins_brand_skin53.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_uncentered_53.skins_brand_skin53.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_tile_53.skins_brand_skin53.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53.skins_brand_skin53.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53_le.skins_brand_skin53.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_centered_53.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_uncentered_53.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/images/brand_splash_tile_53.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin53/brandloadscreen_53_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -47220,10 +47220,10 @@
               ]
             },
             {
-              "description": "Enemies hit by the outer half of the cone take additional physical damage, capped at 300 against monsters, and are slowed by 80% decaying over 2 seconds. Camille is healed for 100% of this additional damage post-mitigation against enemy champions in the outer half.",
+              "description": "Enemies hit by the outer half of the cone take bonus physical damage, capped at 300 against monsters, and are slowed by 80% decaying over 2 seconds. Camille is healed for 100% of this bonus damage post-mitigation against enemy champions in the outer half.",
               "leveling": [
                 {
-                  "attribute": "Outer Cone Additional Damage",
+                  "attribute": "Outer Cone Bonus Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -47395,7 +47395,7 @@
           "projectile": "FALSE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Camille can move during the delay, but the hitbox and Camille's visuals are fixed to the initial target direction.\nCamille's facing-direction, for effects such as  Petrifying Gaze, is the direction she is moving, and not the direction the model is facing.\nThe damage modifier against non-epic monsters applies after the cap.\nBecause the increased damage in the outer range of the cone is dealt as an additional instance of damage (as opposed to bonus damage to the original instance), it will trigger effects twice such as being reduced by  Bone Plating an extra time.(unexpected)\nIt still belongs to the same cast instance, therefore it does not trigger additional stacks of  Conqueror or  Electrocute.",
+          "notes": "Camille can move during the delay, but the hitbox and Camille's visuals are fixed to the initial target direction.\nCamille's facing-direction, for effects such as  Petrifying Gaze, is the direction she is moving, and not the direction the model is facing.\nThe damage modifier against non-epic monsters applies after the cap.",
           "blurb": "Active:  Camille briefly becomes  ghosted and sweeps her leg after a delay, dealing physical damage to enemies hit in a cone. Enemies in the outer half are slowed and take increased damage, while also  healing her.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -47716,7 +47716,7 @@
     },
     "releaseDate": "2016-12-07",
     "releasePatch": "6.24",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -62508,7 +62508,7 @@
         "percentPerLevel": 0.0
       },
       "attackDamage": {
-        "flat": 62,
+        "flat": 64,
         "percent": 0.0,
         "perLevel": 3.4,
         "percentPerLevel": 0.0
@@ -63310,7 +63310,7 @@
     },
     "releaseDate": "2012-06-06",
     "releasePatch": "1.0.0.140b",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -67722,7 +67722,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Spider Form: Elise's basic attacks deal 12 / 22 / 32 / 42 (based on Spider Form's Rank) (+ 15% AP) bonus magic damage and heal her for 6 / 8 / 10 / 12 (based on Spider Form's Rank) (+ 8% AP) on-hit.",
+              "description": "Innate - Spider Form: Elise's basic attacks deal 14 / 24 / 34 / 44 (based on Spider Form's Rank) (+ 15% AP) bonus magic damage and heal her for 6 / 8 / 10 / 12 (based on Spider Form's Rank) (+ 8% AP) on-hit.",
               "leveling": []
             },
             {
@@ -68201,11 +68201,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        60,
-                        75,
-                        90,
-                        105,
-                        120
+                        70,
+                        85,
+                        100,
+                        115,
+                        130
                       ],
                       "units": [
                         "%",
@@ -68534,7 +68534,7 @@
     },
     "releaseDate": "2012-10-26",
     "releasePatch": "1.0.0.150",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -77622,7 +77622,7 @@
       "health": {
         "flat": 620,
         "percent": 0.0,
-        "perLevel": 99,
+        "perLevel": 105,
         "percentPerLevel": 0.0
       },
       "healthRegen": {
@@ -78286,9 +78286,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        18.75,
-                        25,
-                        31.25
+                        20,
+                        26.25,
+                        32.5
                       ],
                       "units": [
                         "",
@@ -78298,9 +78298,9 @@
                     },
                     {
                       "values": [
-                        15,
-                        15,
-                        15
+                        17.5,
+                        17.5,
+                        17.5
                       ],
                       "units": [
                         "% bonus AD",
@@ -78315,9 +78315,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        75,
-                        100,
-                        125
+                        80,
+                        105,
+                        130
                       ],
                       "units": [
                         "",
@@ -78327,9 +78327,9 @@
                     },
                     {
                       "values": [
-                        60,
-                        60,
-                        60
+                        70,
+                        70,
+                        70
                       ],
                       "units": [
                         "% bonus AD",
@@ -78344,9 +78344,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        375,
-                        500,
-                        625
+                        400,
+                        525,
+                        650
                       ],
                       "units": [
                         "",
@@ -78356,9 +78356,9 @@
                     },
                     {
                       "values": [
-                        300,
-                        300,
-                        300
+                        350,
+                        350,
+                        350
                       ],
                       "units": [
                         "% bonus AD",
@@ -78425,14 +78425,14 @@
           "width": null,
           "angle": null,
           "castTime": "none",
-          "effectRadius": "550 • 500",
+          "effectRadius": "550 • 600",
           "targetRange": "500"
         }
       ]
     },
     "releaseDate": "2012-02-29",
     "releasePatch": "1.0.0.135",
-    "patchLastChanged": "25.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -105384,11 +105384,11 @@
         "set": [
           "Sinful Shores"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_centered_21.skins_hwei_skin21.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_uncentered_21.skins_hwei_skin21.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_tile_21.skins_hwei_skin21.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21.skins_hwei_skin21.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21_le.skins_hwei_skin21.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_centered_21.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_uncentered_21.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/images/hwei_splash_tile_21.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin21/hweiloadscreen_21_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -123900,11 +123900,11 @@
         "set": [
           "Broken Covenant"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_centered_64.skins_jhin_skin64.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_uncentered_64.skins_jhin_skin64.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_tile_64.skins_jhin_skin64.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/jhinloadscreen_64.skins_jhin_skin64.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/jhinloadscreen_64_le.skins_jhin_skin64.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_centered_64.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_uncentered_64.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/images/jhin_splash_tile_64.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/jhinloadscreen_64.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin64/jhinloadscreen_64_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -148607,7 +148607,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Khazix/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Kha'Zix gains Unseen Threat whenever the enemy loses sight of him or he activates Void Assault. Unseen Threat: Kha'Zix empowers his next basic attack against an enemy champion to deal 17 : 136 (based on level) (+ 50% bonus AD) bonus magic damage and slow them by 25% for 2 seconds.",
+              "description": "Innate: Kha'Zix gains Unseen Threat whenever the enemy loses sight of him or he activates Void Assault. Unseen Threat: Kha'Zix empowers his next basic attack against an enemy champion to deal 22 : 141 (based on level) (+ 50% bonus AD) bonus magic damage and slow them by 25% for 2 seconds.",
               "leveling": []
             }
           ],
@@ -148988,7 +148988,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Khazix/ability-icon/w",
           "effects": [
             {
-              "description": "Evolved Bonus: Void Spike now fires three clusters in a cone, slows by 40% and reveals enemy champions hit for 2 seconds. Multiple explosions do not deal additional damage against the same target nor provide Kha'Zix with extra healing.",
+              "description": "Evolved Bonus: Void Spike now fires three clusters in a cone, slows by 40% and reveals enemy champions hit for 2.25 seconds. Multiple explosions do not deal additional damage against the same target nor provide Kha'Zix with extra healing.",
               "leveling": []
             },
             {
@@ -149145,7 +149145,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Khazix/ability-icon/e",
           "effects": [
             {
-              "description": "Evolved Bonus: Leap gains 200 bonus cast range, and the cooldown resets upon scoring a champion takedown.",
+              "description": "Evolved Bonus: Leap gains 300 bonus cast range, and the cooldown resets upon scoring a champion takedown.",
               "leveling": []
             }
           ],
@@ -149294,7 +149294,7 @@
     },
     "releaseDate": "2012-09-27",
     "releasePatch": "1.0.0.148",
-    "patchLastChanged": "26.05",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -159666,11 +159666,11 @@
         "set": [
           "Sinful Shores"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_centered_59.skins_leblanc_skin59.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_uncentered_59.skins_leblanc_skin59.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_tile_59.skins_leblanc_skin59.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59.skins_leblanc_skin59.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59_le.skins_leblanc_skin59.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_centered_59.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_uncentered_59.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/images/leblanc_splash_tile_59.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin59/leblancloadscreen_59_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -165347,7 +165347,7 @@
         "percentPerLevel": 0.0
       },
       "armor": {
-        "flat": 22,
+        "flat": 24,
         "percent": 0.0,
         "perLevel": 4.5,
         "percentPerLevel": 0.0
@@ -166162,7 +166162,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Lillia/ability-icon/r",
           "effects": [
             {
-              "description": "Active: Lillia casts a magical lullaby over all enemy champions affected by Dream Dust, which arrives after 0.3 seconds and renders them drowsy for 1.5 seconds, slowing them by 10%. After the duration, they fall asleep for 2 seconds.",
+              "description": "Active: Lillia casts a magical lullaby over all enemy champions affected by Dream Dust, which arrives after 0.3 seconds and renders them drowsy for 1.5 seconds, slowing them by 10%. After the duration, they fall asleep for 2.5 seconds.",
               "leveling": []
             },
             {
@@ -166265,7 +166265,7 @@
     },
     "releaseDate": "2020-07-22",
     "releasePatch": "10.15",
-    "patchLastChanged": "26.08",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -170702,10 +170702,10 @@
         "lore": "A nail-slinging exorcist versed in forbidden rites, Corvin Locke is the progeny of Demacian occultists. Born into lies and hypocrisy, he learned young that demons aren’t the cause of humanity’s darkness, but the consequence. Now, Locke tears through every soul, exposing its darkness, intent on making the world a more honest place… one exorcism at a time.",
         "release": "2026-06-24",
         "set": [],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_centered_0.locke.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_uncentered_0.locke.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_tile_0.locke.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/lockeloadscreen_0.locke.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_centered_0.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_uncentered_0.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/images/locke_splash_tile_0.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/base/lockeloadscreen_0.jpg",
         "loadScreenVintagePath": null,
         "newEffects": false,
         "newAnimations": false,
@@ -170905,11 +170905,11 @@
         "set": [
           "High Noon"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_centered_1.locke.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_uncentered_1.locke.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_tile_1.locke.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1.locke.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1_le.locke.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_centered_1.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_uncentered_1.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/images/locke_splash_tile_1.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/locke/skins/skin01/lockeloadscreen_1_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -171159,7 +171159,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Vigilance: Whenever Lucian is healed or shielded by an ally, or an enemy champion within 1000 units is immobilized, his next two shots within 6 seconds are empowered to deal 15 (+ 20% AD) bonus magic damage on-hit. He can store up to 4 empowered shots at a time.",
+              "description": "Innate - Vigilance: Whenever Lucian is healed or shielded by an ally, or an enemy champion within 1000 units is immobilized, his next two shots within 6 seconds are empowered to deal 5 (+ 15% AD) bonus magic damage on-hit. He can store up to 4 empowered shots at a time.",
               "leveling": []
             }
           ],
@@ -171203,11 +171203,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        80,
-                        115,
-                        150,
-                        185,
-                        220
+                        90,
+                        130,
+                        170,
+                        210,
+                        250
                       ],
                       "units": [
                         "",
@@ -171694,7 +171694,7 @@
     },
     "releaseDate": "2013-08-22",
     "releasePatch": "3.10a",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -186293,11 +186293,11 @@
               "leveling": []
             },
             {
-              "description": "Basic attacks on-hit reduce Alpha Strike's current cooldown by 1 second, affected by ability haste.",
+              "description": "Basic attacks on-hit reduce Alpha Strike's current cooldown by 1 second.",
               "leveling": []
             },
             {
-              "description": "Wuju Style and Highlander can be cast during Alpha Strike. Each time Alpha Strike hits a target, the current durations of Wuju Style and Highlander are refreshed. During Alpha Strike, applying on-hits through any means will not trigger the cooldown reduction nor grant stacks of Double Strike. (unexpected)",
+              "description": "Wuju Style and Highlander can be cast during Alpha Strike. Each time Alpha Strike hits a target, the current durations of Wuju Style and Highlander are refreshed. Alpha Strike's cast instance does not trigger its cooldown reduction nor grant a stack of Double Strike when applying on-hit effects.",
               "leveling": []
             }
           ],
@@ -186351,7 +186351,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Alpha Strike's primary damage applies after Master Yi reappears.\nAlpha Strike's  cooldown reduction applies on  structures.\nWhen Master Yi bounces from a unit it will grant  vision in a 600 radius around it for up to 0.627 seconds after Alpha Strike ends, including across terrain, though not into  brush.\nIt will always grant vision around the primary target, even if he doesn't bounce off it.\nAlpha Strike's damage is calculated at the moment that each mark is placed. Because of this, it is possible to inflict differing amounts of damage if Master Yi's AD changes between marks.\nMaster Yi will follow all his primary target's movements.\nAlpha Strike can only follow up-to 2000 units; If the target teleports a very long distance, it will not be followed.\nWhile vanished, the initial cast location of Alpha Strike counts as Master Yi's position, which is considered for effects such as  tethers.\nIf the primary target becomes  untargetable and there are no other nearby valid targets, Alpha Strike will end prematurely and will not deal the damage occurring after Master Yi's reappearance.\nThe choice of exit direction occurs through an indicator anchored to the target during the time that Master Yi is vanished. You are unable to choose the exit direction after the third mark.(bug) Selection commands (default: MB1/left click) and movement commands (default: MB2/right click) are both valid.\nMultiple commands can be issued, but only the final command before exiting will determine the direction.\nIf the primary target is a champion, Master Yi will be automatically ordered to basic attack them after Alpha Strike ends.\nMaster Yi will not be able to buffer other abilities.(bug)\nOnly the first instance of damage counts as a hit for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nAlpha Strike does not interact with  Sejuani's  Permafrost. (unexpected)\nAlpha Strike does not stack  Press the Attack as it is always tagged as dealing AoE damage.\nWhile  basic damage  on-hit can stack  Conqueror multiple times regardless of cast instance, Alpha Strike is unique in that it is the only multi  on-hit effect to stack just once for being a single cast instance and for not being  basic damage.\n Spell shield will only block a single instance of damage.\nOn-hit damage applied by Alpha Strike will be negated by  dodge and  block, but not while Master Yi is  blinded.\nAlpha Strike's own damage will not be negated.\nIf Master Yi  dies during Alpha Strike and he is only focusing one target, the ability will only deal the reduced damage strikes and not the final tick of damage from reappearing.\nIf he is striking multiple targets the damage will be dealt immediately when dying, and if he dies before the bounce from the last target, Alpha Strike will deal reduced damage only to all units he already bounced from.(bug)\nIf Master Yi enters  resurrection during Alpha Strike and he is only focusing one target, the ability will deal the reduced damage strikes as normal and the final tick of damage after being resurrected.\nIf he is striking multiple targets, Alpha Strike will sometimes deal the reduced damage from repeated bounces and the main damage after being resurrected, and sometimes only the reduced damage, unrelated to the number of targets available.(bug)\nThe following table refers for interactions while Master Yi is performing Alpha Strike:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Wuju Style and  Highlander are usable.  Meditate is disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Alpha Strike's primary damage applies after Master Yi reappears.\nAlpha Strike's  cooldown reduction applies on  structures.\nWhen Master Yi bounces from a unit it will grant  vision in a 600 radius around it for up to 0.627 seconds after Alpha Strike ends, including across terrain, though not into  brush.\nIt will always grant vision around the primary target, even if he doesn't bounce off it.\nAlpha Strike's damage is calculated at the moment that each mark is placed. Because of this, it is possible to inflict differing amounts of damage if Master Yi's AD changes between marks.\nMaster Yi will follow all his primary target's movements.\nAlpha Strike can only follow up-to 2000 units; If the target teleports a very long distance, it will not be followed.\nWhile vanished, the initial cast location of Alpha Strike counts as Master Yi's position, which is considered for effects such as  tethers.\nIf the primary target becomes  untargetable and there are no other nearby valid targets, Alpha Strike will end prematurely and will not deal the damage occurring after Master Yi's reappearance.\nThe choice of exit direction occurs through an indicator anchored to the target during the time that Master Yi is vanished. You are unable to choose the exit direction after the third mark.(bug) Selection commands (default: MB1/left click) and movement commands (default: MB2/right click) are both valid.\nMultiple commands can be issued, but only the final command before exiting will determine the direction.\nIf the primary target is a champion, Master Yi will be automatically ordered to basic attack them after Alpha Strike ends.\nMaster Yi will not be able to buffer other abilities.(bug)\nOnly the first instance of damage counts as a hit for effects such as  Electrocute and  Eclipse's Ever Rising Moon.\nAlpha Strike does not interact with  Sejuani's  Permafrost. (unexpected)\nAlpha Strike does not stack  Press the Attack as it is always tagged as dealing AoE damage.\nWhile  basic damage  on-hit can stack  Conqueror multiple times regardless of cast instance, Alpha Strike is unique in that it is the only multi  on-hit effect to stack just once for being a single cast instance and for not being  basic damage.\n Spell shield will only block a single instance of damage.\nOn-hit damage applied by Alpha Strike will be negated by  dodge and  block, but not while Master Yi is  blinded.\nAlpha Strike's own damage will not be negated.\nIf Master Yi  dies during Alpha Strike and he is only focusing one target, the ability will only deal the reduced damage strikes and not the final tick of damage from reappearing.\nIf he is striking multiple targets the damage will be dealt immediately when dying, and if he dies before the bounce from the last target, Alpha Strike will deal reduced damage only to all units he already bounced from.(bug)\nIf Master Yi enters  resurrection during Alpha Strike and he is only focusing one target, the ability will deal the reduced damage strikes as normal and the final tick of damage after being resurrected.\nIf he is striking multiple targets, Alpha Strike will sometimes deal the reduced damage from repeated bounces and the main damage after being resurrected, and sometimes only the reduced damage, unrelated to the number of targets available.(bug)\nThe exclusion for the cooldown reduction and Double Strike stacks also applies for effects that apply as part of Alpha Strike's cast instance (e.g  Statikk Shiv,  Dusk and Dawn). [2] (unexpected)\nThe following table refers for interactions while Master Yi is performing Alpha Strike:\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Wuju Style and  Highlander are usable.  Meditate is disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Master Yi briefly  vanishes and marks the target enemy, then rapidly marks up to 3 other nearby enemies. If there are no other eligible targets before then, Master Yi can mark the same enemies again.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -186852,7 +186852,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.18",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -204925,11 +204925,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        40,
-                        60,
-                        80,
-                        100,
-                        120
+                        30,
+                        50,
+                        70,
+                        90,
+                        110
                       ],
                       "units": [
                         "",
@@ -205595,7 +205595,7 @@
     },
     "releaseDate": "2009-10-01",
     "releasePatch": "0.9.25.24",
-    "patchLastChanged": "26.17",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -216573,9 +216573,9 @@
             "modifiers": [
               {
                 "values": [
-                  140,
-                  115,
-                  90
+                  160,
+                  130,
+                  100
                 ],
                 "units": [
                   "",
@@ -216614,7 +216614,7 @@
     },
     "releaseDate": "2011-03-15",
     "releasePatch": "1.0.0.113",
-    "patchLastChanged": "26.17",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -218816,7 +218816,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.03",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -228686,11 +228686,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        85,
-                        120,
-                        155,
-                        190,
-                        225
+                        70,
+                        105,
+                        140,
+                        175,
+                        210
                       ],
                       "units": [
                         "",
@@ -228707,11 +228707,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        115,
-                        175,
-                        235,
-                        295,
-                        355
+                        100,
+                        160,
+                        220,
+                        280,
+                        340
                       ],
                       "units": [
                         "",
@@ -228839,11 +228839,11 @@
                   "modifiers": [
                     {
                       "values": [
-                        230,
-                        350,
-                        470,
-                        590,
-                        710
+                        200,
+                        320,
+                        440,
+                        560,
+                        680
                       ],
                       "units": [
                         "",
@@ -229382,7 +229382,7 @@
     },
     "releaseDate": "2010-01-13",
     "releasePatch": "1.0.0.70",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 225,
       "rp": 260,
@@ -230908,8 +230908,8 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 7.1Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2800 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUltra Hydra Ultra Hydra0 271.4ARAM: MayhemUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWorld Atlas World Atlas400 2.1Classic Summoner's Rift 5v5Zaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
-          "blurb": "Innate:  Pyke gains  attack damage equal to a portion of his  bonus health.",
+          "notes": "Game elements that increase health based on the champion's health (e.g  Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.\nPyke converts bonus health to bonus AD at a gold efficiency of 93.75%.\n Spirit Visage and  Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.\nPyke's grey health does not have a time limit, and will stay on his health bar until Pyke leaves enemy vision or dies.\nHowever, if his combined current health and grey health would start to exceed 100% of his maximum health, the excess grey health is lost.\nSince Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25 : 202.49 (based on level) bonus attack damage.\n Untargetable champions count towards Pyke's modified grey health storing.\nAmount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones:\nThis table is automatically generated based on the data from Module:ItemData/data.\n\nItemCostAmountAvailabilityAbyssal Mask Abyssal Mask2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidAnathema's Chains Anathema's Chains2500 46.4ArenaAtma's Reckoning Atma's Reckoning2500 50ARAM: Mayhem, ArenaBami's Cinder Bami's Cinder900 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBandlepipes Bandlepipes2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Cleaver Black Cleaver3000 73.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidBlack Hole Gauntlet Black Hole Gauntlet0 64.3ArenaBloodletter's Curse Bloodletter's Curse2900 28.6Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidBloodsong Bloodsong400 14.3Classic Summoner's Rift 5v5Bounty of Worlds Bounty of Worlds400 14.3Classic Summoner's Rift 5v5Catalyst of Aeons Catalyst of Aeons1300 21.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidCelestial Opposition Celestial Opposition400 14.3Classic Summoner's Rift 5v5Chempunk Chainsword Chempunk Chainsword3000 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCloak of Starry Night Cloak of Starry Night0 21.4ArenaCosmic Drive Cosmic Drive3000 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidCrown of the Shattered Queen Crown of the Shattered Queen0 25ArenaCrystalline Bracer Crystalline Bracer800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidDark Seal Dark Seal350 3.6Classic Summoner's Rift 5v5Dead Man's Plate Dead Man's Plate2900 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDemonic Embrace Demonic Embrace0 50ArenaDiadem of Songs Diadem of Songs2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidDivine Sunderer Divine Sunderer0 80ArenaDoran's Blade Doran's Blade450 15.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Helm Doran's Helm450 10.7Nexus Blitz, Classic Summoner's Rift 5v5Doran's Ring Doran's Ring400 6.4Nexus Blitz, Classic Summoner's Rift 5v5Doran's Shield Doran's Shield450 7.9Nexus Blitz, Classic Summoner's Rift 5v5Dream Maker Dream Maker400 14.3Classic Summoner's Rift 5v5Dusk and Dawn Dusk and Dawn3100 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEchoes of Helia Echoes of Helia2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEdge of Night Edge of Night3000 67.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidEverfrost Everfrost0 17.9ArenaExperimental Hexplate Experimental Hexplate3000 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFimbulwinter Fimbulwinter2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidFlesheater Flesheater0 35.7ArenaForce of Entropy Force of Entropy0 64.3ArenaForce of Nature Force of Nature2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidGiant's Belt Giant's Belt900 25Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidGoredrinker Goredrinker0 83.6ArenaGuardian's Blade Guardian's Blade950 40.7Arena, All Random All MidGuardian's Hammer Guardian's Hammer950 35.7Arena, All Random All MidGuardian's Horn Guardian's Horn950 10.7Arena, All Random All MidGuardian's Orb Guardian's Orb950 10.7Arena, All Random All MidGuardian's Shroud Guardian's Shroud500 21.4ArenaHaunting Guise Haunting Guise1300 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidHeartsteel Heartsteel3000 64.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHexbolt Companion Hexbolt Companion0 35.7ArenaHextech Rocketbelt Hextech Rocketbelt2650 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHollow Radiance Hollow Radiance2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidHullbreaker Hullbreaker3000 75.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidIceborn Gauntlet Iceborn Gauntlet2900 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidInnervating Locket Innervating Locket0 14.3ArenaJak'Sho, The Protean Jak'Sho, The Protean3200 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKaenic Rookern Kaenic Rookern2900 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidKindlegem Kindlegem800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidKinkou Jitte Kinkou Jitte0 28.6ArenaKnight's Vow Knight's Vow2300 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLiandry's Torment Liandry's Torment3000 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidLightning Rod Lightning Rod0 35.7ArenaLocket of the Iron Solari Locket of the Iron Solari2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMejai's Soulstealer Mejai's Soulstealer1500 7.1Classic Summoner's Rift 5v5Mikael's Blessing Mikael's Blessing2300 17.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMoonflair Spellblade Moonflair Spellblade0 28.6ArenaMoonstone Renewer Moonstone Renewer2200 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidMorellonomicon Morellonomicon2850 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidNight Harvester Night Harvester0 21.4ArenaOverlord's Bloodmail Overlord's Bloodmail3300 69.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPhage Phage1100 29.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidProtoplasm Harness Protoplasm Harness2600 42.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidPyromancer's Cloak Pyromancer's Cloak0 28.6ArenaRadiant Virtue Radiant Virtue0 28.6ArenaRanduin's Omen Randuin's Omen2700 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidReality Fracture Reality Fracture0 21.4ArenaRiftmaker Riftmaker3100 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRod of Ages Rod of Ages2600 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidRuby Crystal Ruby Crystal400 10.7Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidRunic Compass Runic Compass400 4.3Classic Summoner's Rift 5v5Rylai's Crystal Scepter Rylai's Crystal Scepter2600 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidShield of Molten Stone Shield of Molten Stone0 21.4ArenaSolstice Sleigh Solstice Sleigh400 14.3Classic Summoner's Rift 5v5Spear of Shojin Spear of Shojin3100 77.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSpectre's Cowl Spectre's Cowl1250 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidSpirit Visage Spirit Visage2700 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSterak's Gage Sterak's Gage3200 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidStridebreaker Stridebreaker3300 72.1Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSundered Sky Sundered Sky3100 68.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSunfire Aegis Sunfire Aegis2800 25Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidSword of Blossoming Dawn Sword of Blossoming Dawn2500 14.3ARAM: Mayhem, ArenaTalisman of Ascension Talisman of Ascension0 0ArenaThe Golden Spatula The Golden Spatula0 115ARAM: Mayhem, ArenaThornmail Thornmail2450 10.7Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTitanic Hydra Titanic Hydra3300 82.9Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTrinity Force Trinity Force3333 59.8Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidTunneler Tunneler1150 32.9Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidTurbo Chemtank Turbo Chemtank0 42.9ArenaUltra Hydra Ultra Hydra0 271.4ARAM: MayhemUnending Despair Unending Despair2800 28.6Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidVoid Immolation Void Immolation0 71.4ARAM: Mayhem, ArenaWarmog's Armor Warmog's Armor3100 71.4Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWhispering Circlet Whispering Circlet2250 14.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidWinged Moonplate Winged Moonplate800 14.3Nexus Blitz, Classic Summoner's Rift 5v5, All Random All MidWinter's Approach Winter's Approach2400 39.3Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All MidZaz'Zak's Realmspike Zaz'Zak's Realmspike400 14.3Classic Summoner's Rift 5v5Zeke's Convergence Zeke's Convergence2200 21.4Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid",
+          "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -245566,7 +245566,7 @@
     },
     "releaseDate": "2022-02-17",
     "releasePatch": "12.4",
-    "patchLastChanged": "25.14",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -247527,7 +247527,7 @@
     },
     "releaseDate": "2011-01-18",
     "releasePatch": "1.0.0.109",
-    "patchLastChanged": "25.08",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -253926,7 +253926,7 @@
               "leveling": []
             },
             {
-              "description": "Overheated: Rumble's mech becomes Overheated, disabling his abilities as his Heat decays back down to 0 over 4 seconds. During this time, he gains 50% : 142.54% (based on level) bonus attack speed and empowers his basic attacks to deal 5 : 44.12 (based on level) (+ 25% AP) (+ 4% of the target's maximum health) bonus magic damage on-hit. The damage based on the target's health ratio is capped at 65 : 163.32 (based on level) against monsters.",
+              "description": "Overheated: Rumble's mech becomes Overheated, disabling his abilities as his Heat decays back down to 0 over 4 seconds. During this time, he gains 30% : 110.97% (based on level) bonus attack speed and empowers his basic attacks to deal 5 : 44.12 (based on level) (+ 25% AP) (+ 4% of the target's maximum health) bonus magic damage on-hit. The damage based on the target's health ratio is capped at 90 : 188.33 (based on level) against monsters.",
               "leveling": []
             }
           ],
@@ -255625,7 +255625,7 @@
     },
     "releaseDate": "2011-04-26",
     "releasePatch": "1.0.0.116",
-    "patchLastChanged": "26.13",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -256473,7 +256473,7 @@
       "armor": {
         "flat": 22,
         "percent": 0.0,
-        "perLevel": 4.2,
+        "perLevel": 4.7,
         "percentPerLevel": 0.0
       },
       "magicResistance": {
@@ -256788,7 +256788,7 @@
               ]
             },
             {
-              "description": "Flux Bonus: Overload deals 25% / 50% / 75% / 100% (based on Realm Warp's Rank) increased damage and spreads to surrounding Fluxed enemies.",
+              "description": "Flux Bonus: Overload deals 15% / 40% / 65% / 90% (based on Realm Warp's Rank) increased damage and spreads to surrounding Fluxed enemies.",
               "leveling": []
             }
           ],
@@ -257064,11 +257064,11 @@
             "modifiers": [
               {
                 "values": [
-                  35,
-                  45,
-                  55,
-                  65,
-                  75
+                  40,
+                  50,
+                  60,
+                  70,
+                  80
                 ],
                 "units": [
                   "",
@@ -257139,9 +257139,9 @@
                   "modifiers": [
                     {
                       "values": [
-                        50,
-                        75,
-                        100
+                        40,
+                        65,
+                        90
                       ],
                       "units": [
                         "%",
@@ -257223,7 +257223,7 @@
     },
     "releaseDate": "2009-02-21",
     "releasePatch": "Alpha Week 2",
-    "patchLastChanged": "26.12",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 260,
@@ -275878,11 +275878,11 @@
         "set": [
           "Broken Covenant"
         ],
-        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_centered_54.skins_shen_skin54.jpg",
-        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_uncentered_54.skins_shen_skin54.jpg",
-        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_tile_54.skins_shen_skin54.jpg",
-        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/shenloadscreen_54.skins_shen_skin54.jpg",
-        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/shenloadscreen_54_le.skins_shen_skin54.jpg",
+        "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_centered_54.jpg",
+        "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_uncentered_54.jpg",
+        "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/images/shen_splash_tile_54.jpg",
+        "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/shenloadscreen_54.jpg",
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/shen/skins/skin54/shenloadscreen_54_le.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -303250,7 +303250,7 @@
     },
     "releaseDate": "2016-05-18",
     "releasePatch": "6.10",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 2400,
       "rp": 880,
@@ -339605,7 +339605,7 @@
         "percentPerLevel": 0.0
       },
       "attackDamage": {
-        "flat": 63,
+        "flat": 61,
         "percent": 0.0,
         "perLevel": 3.5,
         "percentPerLevel": 0.0
@@ -339785,7 +339785,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Vi/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Vi's next ability hit grants her a shield equal to 12% of her maximum health for 3 seconds.",
+              "description": "Innate: Periodically, Vi's next ability hit grants her a shield equal to 10% of her maximum health for 3 seconds.",
               "leveling": []
             },
             {
@@ -340383,7 +340383,7 @@
     },
     "releaseDate": "2012-12-19",
     "releasePatch": "1.0.0.153",
-    "patchLastChanged": "26.10",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -347958,11 +347958,11 @@
               "leveling": []
             },
             {
-              "description": "The Relentless Storm: For each stack, Volibear gains 5% (+ 3% per 100 AP) bonus attack speed, up to 25% (+ 15% per 100 AP).",
+              "description": "The Relentless Storm: For each stack, Volibear gains 5% (+ 4% per 100 AP) bonus attack speed, up to 25% (+ 20% per 100 AP).",
               "leveling": []
             },
             {
-              "description": "Lightning Claws: Volibear's claws ignite with lightning, empowering his basic attacks on-hit to deal 11 : 68 (based on level) (+ 45% AP) bonus magic damage to the target and the nearest visible enemy within 450 units of the target, chaining up to 4 subsequent targets.",
+              "description": "Lightning Claws: Volibear's claws ignite with lightning, empowering his basic attacks on-hit to deal 11 : 68 (based on level) (+ 20% bonus AD) (+ 45% AP) bonus magic damage to the target and the nearest visible enemy within 450 units of the target, chaining up to 4 subsequent targets.",
               "leveling": []
             }
           ],
@@ -348711,7 +348711,7 @@
     },
     "releaseDate": "2011-11-29",
     "releasePatch": "1.0.0.130",
-    "patchLastChanged": "26.15",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 675,
       "rp": 585,
@@ -364518,7 +364518,7 @@
     },
     "releaseDate": "2020-08-06",
     "releasePatch": "10.16",
-    "patchLastChanged": "26.17",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 1575,
       "rp": 790,
@@ -369786,7 +369786,7 @@
     },
     "releaseDate": "2025-07-16",
     "releasePatch": "25.14",
-    "patchLastChanged": "26.16",
+    "patchLastChanged": "26.19",
     "price": {
       "blueEssence": 3150,
       "rp": 975,
