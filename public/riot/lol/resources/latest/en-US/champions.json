@@ -293,7 +293,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Aatrox will assume stance when an enemy champion is in range of  Infernal Chains.\nThe toggle expression (default CTRL + 5) switches between stances manually.\nIf Deathbringer Stance becomes available during a standard attack's windup, it will not be consumed or trigger the bonus damage.\nEven if the ability hit is  spell shielded Deathbringer Stance's cooldown will still be reduced.\nThis ability goes on cooldown on death and refreshes upon respawn.\nThe empowered attack will not trigger against  structures and  wards.",
+          "notes": "Aatrox will assume stance when an enemy champion is in range of  Infernal Chains.\nThe toggle expression (default CTRL + 5) switches between stances manually.\nIf Deathbringer Stance's empowered attack becomes available during a standard attack's windup, it will not be consumed or trigger the bonus damage.\nThe cooldown reduction applies even if an ability's hit is countered by  spell shield.\nIf available upon death, Deathbringer Stance begins incurring its cooldown, but becomes available upon respawn.\nThe empowered attack will not trigger against  structures and  wards.",
           "blurb": "Innate: Periodically,  Aatrox's next  basic attack deals bonus magic damage based on the target's maximum health,  healing him for the damage dealt.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -670,7 +670,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The highlighted areas denote the sweetspot - enemies are affected where the two areas overlap (See  edge range and  center range). The first and second casts function like any point-blank AOE (i.e. an effect centered on the caster). An enemy is considered to be hit by the ability based on  edge range - i.e. if any part of your  gameplay radius is within the hitbox, you are affected.\nThe third cast, as well as the Sweetspot for the first and second cast, function like ground-targeted abilities. An enemy is considered to be hit by the ability based on  center range - i.e. an enemy's center has to be within the hitbox to be affected.\nAs implied by the previous point, the Sweetspot for the first and second cast is implemented as separate areas of effect to the main component of the ability. Enemies must be within both areas to trigger the bonus damage,  knock up and  Deathbringer Stance's cooldown reduction.\nThe 'target gets hit' SFX plays whenever an enemy is within the Sweetspot - meaning it is possible to trigger the sound effect without affecting an enemy.\nIn the game, Sweetspot damage is incorrectly displayed as  a real critical strike.(bug)\nEach cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nThe hitbox and Aatrox's model are fixed to the initial target direction.\nAatrox's facing-direction, for effects such as  Petrifying Gaze, is the direction he is moving, and not the direction the model is facing.\nAll damage modifiers  stack multiplicatively.\nThere's a small period of time in which Aatrox can't declare basic attacks after casting The Darkin Blade.(unexpected)\nThis ability's damage is calculated based on the caster's current stats and changes dynamically.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe Darkin Blade maintains its casting angle direction in relation to Aatrox if he moves during the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Umbral Dash can be cast. Other abilities are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "The ability's area of effect consists of two shapes, different for each cast - the Sweetspot is the part where two areas overlap (See  edge range and  center range).\nThe first and second casts function like any point-blank AOE (ground/area effect centered at or offset to the caster). An enemy is considered to be hit by them based on  edge range - i.e. the hit registers if any part of the enemy's  gameplay radius is within the hitbox.\nThe third cast, as well as the Sweetspot of the first and second cast, register their hit based on  center range. The enemy's center must be within the hitbox to apply the effects.\nAs implied by the previous point, the Sweetspot for the first and second cast is implemented as separate areas of effect to the main component of the ability. Enemies must be within both areas to trigger the bonus damage,  knock up and  Deathbringer Stance's cooldown reduction.\nThe 'target hit successfully' SFX plays whenever an enemy is within the Sweetspot - meaning it is possible to trigger the sound effect without affecting an enemy.\nEach cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nThe Darkin Blade's angle of cast is fixed during the cast time, i.e. it maintains its direction in relation to Aatrox and does not respect any changes in his facing direction.\nIf Aatrox changes his position during The Darkin Blade's cast, his real facing direction for effects such as  Petrifying Gaze is the direction he is moving and not the direction the model is facing.\nAatrox cannot declare basic attacks shortly after casting The Darkin Blade.(unexpected)\nThis ability will cast from wherever the caster is at the end of the cast time.\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\n Umbral Dash can be cast. Other abilities are disabled.\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
@@ -43073,7 +43073,7 @@
               ]
             },
             {
-              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a non-champion, she will shift her target priority to large monsters, minions or champions, then any other unit.",
+              "description": "Briar prioritizes attacking champions, then large monsters or minions, and then any other unit. If she casts Head Rush on a minion or monster, she will shift her target priority to large monsters, minions or champions, then any other unit.",
               "leveling": []
             },
             {
@@ -43131,7 +43131,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Blood Frenzy acquires targets regardless of if they are visible or not.\nThis does not apply to  stealthed targets.\nIt cannot acquire  wards, jungle plants, or structures however.\nIf the main attack  critically strikes, the cleave damage will do so as well.\nBriar uses  Frenzy as a resource to indicate the remaining duration of the frenzy, in seconds.\nThe following table refers for interactions while Briar is in her frenzy:\nWhile in the frenzy, Briar cannot control her movement nor declare who she attacks. She will automatically acquire a nearby enemy as her attack target based on a priority system, becoming forced to basic attack the target and consequently move into her attack range of them to do so.\n Disarming crowd control as well as any other lockout that would disable basic attacking will disable the forced attacks.\n Forced action crowd control will cause her forced attacks to be either overridden or disabled, depending on the actions being forced by the debuff.\n\n\nAttacking\n\nUncontrollable\n\n\nAbilities\n\n Head Rush can only be cast on targets within its radius.  Chilling Scream interrupts the frenzy.  Certain Death can be cast during the frenzy without interrupting it.\n\n\nMovement\n\nUncontrollable\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
+          "notes": "Blood Frenzy acquires targets regardless of if they are visible or not.\nThis does not apply to  stealthed targets.\nIt cannot acquire  wards, jungle plants, or structures however.\nThe target priority shift from casting  Head Rush on a minion or monster will occur even if the dash is interrupted.\nIf the main attack  critically strikes, the cleave damage will do so as well.\nBriar uses  Frenzy as a resource to indicate the remaining duration of the frenzy, in seconds.\nThe following table refers for interactions while Briar is in her frenzy:\nWhile in the frenzy, Briar cannot control her movement nor declare who she attacks. She will automatically acquire a nearby enemy as her attack target based on a priority system, becoming forced to basic attack the target and consequently move into her attack range of them to do so.\n Disarming crowd control as well as any other lockout that would disable basic attacking will disable the forced attacks.\n Forced action crowd control will cause her forced attacks to be either overridden or disabled, depending on the actions being forced by the debuff.\n\n\nAttacking\n\nUncontrollable\n\n\nAbilities\n\n Head Rush can only be cast on targets within its radius.  Chilling Scream interrupts the frenzy.  Certain Death can be cast during the frenzy without interrupting it.\n\n\nMovement\n\nUncontrollable\n\n\nItems\n\nUsable\n\nAll items are usable\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Flash\n\n\nDisabled\n\n Teleport  Recall\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath",
           "blurb": "Active:  Briar  dashes and senses her surroundings. If there is a nearby enemy upon her arrival, she gains Blood Frenzy for a few seconds, during which she can cast  Snack Attack.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -149867,7 +149867,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Khazix/ability-icon/e",
           "effects": [
             {
-              "description": "Evolved Bonus: Leap gains 300 bonus cast range, and the cooldown resets upon scoring a champion takedown.",
+              "description": "Evolved Bonus: Leap gains 300 bonus range, and the cooldown resets upon scoring a champion takedown.",
               "leveling": []
             }
           ],
@@ -149883,7 +149883,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Kha'Zix can use his summoner spells and item actives while  leaping.\nBuffering Interactions\n\n Taste Their Fear can be buffered to cast after the  leap ends if it is cast while the target is out of range. There is no check for the target coming in range during the  leap.\nIf the target is still out of range after landing, there will be a 0.5 second delay  before Kha'Zix starts moving towards the target compared to manually casting  Taste Their Fear after landing.\n Void Spike &  Void Assault can be buffered to cast after the  leap ends.",
-          "blurb": "Evolved Bonus: Leap has increased range, and the cooldown  resets upon scoring a champion  takedown.",
+          "blurb": "Evolved Bonus: Leap gains increased range, and the  cooldown resets upon scoring a champion  takedown.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -263469,7 +263469,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "If a target's mark has a remaining duration less than 0.25 seconds, and Senna starts her basic attack windup on the target during this time, the mark's duration will be modified to 0.75 seconds. Subsequent windups on the marked target will refresh this modified duration if the previous attack windup did not complete.\nDespite the damage text showing 1 to Mist Wraiths, attacking them will calculate the attack's damage (including  critical strike modifiers) and any on-hit effects (including her Relic Cannon damage) for the purposes of  life steal and  drain effects.\nRelic Cannon is only applied if the attack deals more than 0 damage.\nHence, it is not applied if the target is  invulnerable or Senna's basic attack's  attack damage is reduced to 0 or below.\nThe bonus damage is also not applied against  structures (regardless of their vulnerability).\nDealing 0 damage is valid for marking and collecting Mist from champions, but dealing no damage at all is not.\nHence, Senna can mark and collect from  invulnerable enemies.\n Dodge prevents marking and collecting a Mist via Senna's basic attacks and  Piercing Darkness.\nPENDING FOR TEST:: Mist interaction with  block and  blind.\nMist traveling to Senna can be  destroyed as a projectile.\n Nunu & Willump spawn a wraith each.\nEnemies will not see newly spawned wraiths while Senna is not visible.\nA wraith can be hit by  Bard's  Cosmic Binding and it will interact with it the same way minions or monsters interact with Cosmic Binding but it will not take damage.\nMist Wraith has a spawn animation, but is targetable immediately.\nMist Wraith grants a small amount of  sight around itself.\n Runaan's Hurricane secondary bolts will ignore Mist Wraiths.\nAttacking a Mist Wraith will not consume Energized.\nExcluding the range increase and the bonus shielding on  Dawning Shadow, one stack of Mist is worth  46.25 ( +8 from Mist Wraith pickup ( 54.25 total)),  35.62125 if the critical chance is converted to life steal.\n 0.75 AD is worth  26.25.\n 0.5% critical strike chance is worth  20.\n 0.175% life steal is worth  9.37125.\nThe bonus on-hit damage applies an additional stack of  Black Cleaver's Carve.\n Critical strike chance gained from  Yun Tal Wildarrows' Practice Makes Lethal, Augments and  Stat bonuses do not interact with the life steal conversion.(bug)\nThe buff will be granted even when hitting units that have zero movement speed (from which Senna cannot gain any movement speed).\nAttacking structures is special-cased to not grant it at all, however.\nPinging Absolution in the HUD will send a chat message to the team that displays its stack count and her total  attack range accumulated.",
+          "notes": "If a target's mark has a remaining duration less than 0.25 seconds, and Senna starts her basic attack windup on the target during this time, the mark's duration will be modified to 0.75 seconds. Subsequent windups on the marked target will refresh this modified duration if the previous attack windup did not complete.\nDespite the damage text showing 1 to Mist Wraiths, attacking them will calculate the attack's damage (including  critical strike modifiers) and any on-hit effects (including her Relic Cannon damage) for the purposes of  life steal and  drain effects.\nRelic Cannon is only applied if the attack deals more than 0 damage.\nHence, it is not applied if the target is  invulnerable or Senna's basic attack's  attack damage is reduced to 0 or below.\nThe bonus damage is also not applied against  structures (regardless of their vulnerability).\nDealing 0 damage is valid for marking and collecting Mist from champions, but dealing no damage at all is not.\nHence, Senna can mark and collect from  invulnerable enemies.\n Dodge prevents marking and collecting a Mist via Senna's basic attacks and  Piercing Darkness.\nPENDING FOR TEST:: Mist interaction with  block and  blind.\nMist traveling to Senna can be  destroyed as a projectile.\n Nunu & Willump spawn a wraith each.\nEnemies will not see newly spawned wraiths while Senna is not visible.\nA wraith can be hit by  Bard's  Cosmic Binding and it will interact with it the same way minions or monsters interact with Cosmic Binding but it will not take damage.\nMist Wraith has a spawn animation, but is targetable immediately.\nMist Wraith grants a small amount of  sight around itself.\n Runaan's Hurricane's Wind's Fury bolts will ignore Mist Wraiths.\nWind's Fury can still trigger if Mist Wraiths are the primary target.\nAttacking a Mist Wraith will not consume Energized.\nExcluding the range increase and the bonus shielding on  Dawning Shadow, one stack of Mist is worth  46.25 ( +8 from Mist Wraith pickup ( 54.25 total)),  35.62125 if the critical chance is converted to life steal.\n 0.75 AD is worth  26.25.\n 0.5% critical strike chance is worth  20.\n 0.175% life steal is worth  9.37125.\nThe bonus on-hit damage applies an additional stack of  Black Cleaver's Carve.\n Critical strike chance gained from  Yun Tal Wildarrows' Practice Makes Lethal, Augments and  Stat bonuses do not interact with the life steal conversion.(bug)\nThe buff will be granted even when hitting units that have zero movement speed (from which Senna cannot gain any movement speed).\nAttacking structures is special-cased to not grant it at all, however.\nPinging Absolution in the HUD will send a chat message to the team that displays its stack count and her total  attack range accumulated.",
           "blurb": "Innate - Weakened Soul:  Senna's  basic attacks  on-hit and  abilities against enemy  champions apply a  stack of Mist for a few seconds. Subsequent hits collect the Mist, dealing bonus physical damage based on the target's current health and rendering the target immune to further Mist applications for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -370095,80 +370095,6 @@
                         40,
                         40,
                         40
-                      ],
-                      "units": [
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "attribute": "Active Increased Minion Damage",
-                  "modifiers": [
-                    {
-                      "values": [
-                        12.5,
-                        25,
-                        37.5,
-                        50,
-                        62.5
-                      ],
-                      "units": [
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "values": [
-                        50,
-                        50,
-                        50,
-                        50,
-                        50
-                      ],
-                      "units": [
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "attribute": "Combined Increased Minion Damage",
-                  "modifiers": [
-                    {
-                      "values": [
-                        25,
-                        50,
-                        75,
-                        100,
-                        125
-                      ],
-                      "units": [
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "values": [
-                        100,
-                        100,
-                        100,
-                        100,
-                        100
                       ],
                       "units": [
                         "% AP",
