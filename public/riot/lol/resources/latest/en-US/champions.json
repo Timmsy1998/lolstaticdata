@@ -106236,7 +106236,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Illaoi/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Illaoi empowers her next basic attack within 6 seconds to gain 25 bonus range and cause her to leap to the target's location if they are beyond her normal basic attack range.",
+              "description": "Active: Illaoi empowers her next basic attack within 6 seconds to gain 225 bonus range and cause her to leap to the target's location if they are beyond her normal basic attack range.",
               "leveling": []
             },
             {
