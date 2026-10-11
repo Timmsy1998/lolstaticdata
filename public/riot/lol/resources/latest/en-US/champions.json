@@ -8793,7 +8793,7 @@
         "cost": 1820,
         "sale": 0,
         "distribution": null,
-        "rarity": "NoRarity",
+        "rarity": "Legendary",
         "chromas": [
           {
             "name": "Catseye",
@@ -8895,8 +8895,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -182955,7 +182955,7 @@
           "onHitEffects": null,
           "occurrence": null,
           "notes": "Malzahar loses all  stacks upon  death.\nZz'Rot Swarm stacks are gained per cast and not per ability activation. For example, if  Malefic Visions is cast and the ability cancels under certain circumstances, a Zz'Rot Swarm stack will still be granted despite the ability's failure to complete.",
-          "blurb": "Passive:  Malzahar generates a stack of Zz'Rot Swarm when he casts another  ability, up to a maximum.",
+          "blurb": "Passive:  Malzahar generates a  stack of Zz'Rot Swarm when he casts another  ability, up to a maximum.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
@@ -365237,8 +365237,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 2,
+                "region": "riot"
               }
             ]
           },
@@ -365258,8 +365258,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -365279,8 +365279,8 @@
             ],
             "rarities": [
               {
-                "rarity": null,
-                "region": null
+                "rarity": 1,
+                "region": "riot"
               }
             ]
           },
@@ -365300,7 +365300,7 @@
             ],
             "rarities": [
               {
-                "rarity": 1,
+                "rarity": 2,
                 "region": "riot"
               }
             ]
