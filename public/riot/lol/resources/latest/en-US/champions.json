@@ -250886,7 +250886,7 @@
               "leveling": []
             },
             {
-              "description": "Rengar's next basic attack within 125 range against any enemy or with Unseen Predator to the marked enemy deals 100% AD additional physical damage, then inflicts armor reduction for 4 seconds.\nThe target is revealed until the leap has finished.",
+              "description": "Rengar's next basic attack within 125 range against any enemy or with Unseen Predator to the marked enemy deals 100% AD additional physical damage and then inflicts armor reduction for 4 seconds.\nThe target is revealed until the leap has finished.",
               "leveling": [
                 {
                   "attribute": "Armor Reduction",
