@@ -86545,7 +86545,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Remove Scury does not remove debuffs other than  crowd control, even if both occur from the same effect. For example, Remove Scurvy will dispel the  slow from  Exhaust, but not its damage reduction.\nRemove Scurvy can remove the underlying  stun from  airborne, but a  blink or  dash ability is required to override the displacement.",
+          "notes": "Remove Scurvy does not remove debuffs other than  crowd control, even if both occur from the same effect. For example, Remove Scurvy will dispel the  slow from  Exhaust, but not its damage reduction.\nRemove Scurvy can remove the underlying  stun from  airborne, but a  blink or  dash ability is required to override the displacement.",
           "blurb": "Active:  Gangplank eats citrus to  cleanse  crowd control effects and  heal based on his missing health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -164128,7 +164128,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The enhanced attack will apply other  on-hit effects and can  critically strike as normal.\n Critical strikes do not interact with Shield of Daybreak's bonus damage.\nPENDING FOR TEST:: Shield of Daybreak's interactions with  dodging,  blocking.\nShield of Daybreak's attack can  miss, nullifying its effects entirely.\nShield of Daybreak's attack does not put Leona's basic attack on cooldown.\nThis effectively performs a second  attack reset.\nThis is unlike other empowered attacks (including those which, similar to Shield of Daybreak, use a more unconventional spell cast rather than an attack override).\nLeona will wait out Shield of Daybreak's wind-down before automatically attacking, anyway. The player must issue the next attack themselves to gain the full benefit of the second reset.\nShield of Daybreak shares this feature with  Volibear's  Thundering Smash and  Shyvana's  Emberstrike.\nThe empowered attack can trigger against  turrets exclusively.",
+          "notes": "The enhanced attack will apply other  on-hit effects and can  critically strike as normal.\n Critical strikes do not interact with Shield of Daybreak's bonus damage.\nPENDING FOR TEST:: Shield of Daybreak's interactions with  dodging,  blocking.\nShield of Daybreak's attack can  miss, nullifying its effects entirely.\nShield of Daybreak's attack does not put Leona's basic attack on cooldown.\nThis effectively performs a second  attack reset.\nThis is unlike nearly every other empowered attack spell (including those which, similar to Shield of Daybreak, formerly used a more unconventional spell-cast as an attack rather than an attack override).\nLeona will wait out Shield of Daybreak's wind-down before automatically attacking, anyway. The player must issue the next attack themselves to gain the full benefit of the second reset.\nShield of Daybreak shares this feature with  Volibear's  Thundering Smash and  Shyvana's  Emberstrike.\nThe empowered attack can trigger against  turrets exclusively.",
           "blurb": "Active:  Leona illuminates her shield, causing her next  basic attack within a few seconds to deal bonus magic damage and briefly  stun the target.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -241228,7 +241228,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDeactivating the ability manually does not.\nDefensive Ball Curl ends immediately if  Powerball is cast.\nDefensive Ball Curl will return damage from attacks and/or abilities that apply on-hit effects ( Mystic Shot) as well as from  Runaan's Hurricane's Wind's Fury (will not return damage from turrets,  H-28G Evolution Turret, or  Jack in the Box).\nThe resistance scaling will factor from all sources, including Defensive Ball Curl's flat bonus. This will recalculate over the duration.",
+          "notes": "The initial cast counts as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDeactivating the ability manually does not.\nDefensive Ball Curl ends immediately if  Powerball is cast.\nDefensive Ball Curl will return damage from attacks and/or abilities that apply on-hit effects ( Mystic Shot) as well as from  Runaan's Hurricane's Wind's Fury (will not return damage from turrets,  H-28G Evolution Turret, or  Jack in the Box).\nDefensive Ball Curl's total resistances and  Mountainous Vigor  stack multiplicatively\nThe ability's bonus armor and magic resist flat components are scaled by  Jak'Sho, The Protean's Voidborn Resilience, and combined with the total resists (excluding the stats from  Mountainous Vigor) multiplied by the ability's percentage total resistances increase. The resulting total bonus stats are then multiplied by  Mountainous Vigor.\nThe resistances gained from Defensive Ball Curl's will recalculate over the duration.",
           "blurb": "Active:  Rammus enters a defensive stance for a few seconds, gaining  bonus armor and  bonus magic resist. During this time, enemies that land a basic attack against Rammus are dealt magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -261642,7 +261642,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Gaining Frost Armor does not remove any pre-existing  slows or  cripples.\nIcebreaker will not trigger if the basic attack is  blocked or misses due to  blind.\nPENDING FOR TEST:: Icebreaker's  interactions with  dodging effects via basic attack.\nPENDING FOR TEST::  Spell shield interaction with Icebreaker.",
+          "notes": "Gaining Frost Armor does not remove any pre-existing  slows or  cripples.\nIcebreaker will not trigger if the basic attack is  blocked or misses due to  blind.\nFrost Armor's bonus armor and magic resist are calculated from bonus resistances excluding  Jak'Sho, The Protean's Voidborn Resilience and  Mountainous Vigor. The resulting stats are then scaled  multiplicatively by the 2 multipliers.\nPENDING FOR TEST:: Icebreaker's  interactions with  dodging effects via basic attack.\nPENDING FOR TEST::  Spell shield interaction with Icebreaker.",
           "blurb": "Innate - Icebreaker: Enemies  stunned by  Sejuani are also marked Frozen at the same time. Her next  basic attack or  ability against a Frozen target will consume the mark to deal bonus magic damage based on their maximum health.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -269603,7 +269603,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Sett/ability-icon/p",
           "effects": [
             {
-              "description": "Innate - Heart of the Half-Beast: Sett regenerates[ an additional 0.075 / 0.25 / 0.5 / 1 / 1.025 / 1.05 (based on level) health every 0.5 seconds per 5% of his missing health. ][ up-to an additional 1.425 / 4.75 / 9.5 / 19 / 19.475 / 19.95 (based on level) health per 0.5 seconds, with the maximum reached at the threshold of 95% missing health. ]",
+              "description": "Innate - Heart of the Half-Beast: Sett regenerates[ an additional 0.075 / 0.25 / 0.5 / 1 / 1.025 / 1.05 (based on level) health every 0.5 seconds per 5% of his missing health. ][ up-to an additional 1.5 / 5 / 10 / 20 / 20.5 / 21 (based on level) health per 0.5 seconds, with the maximum approached as he nears 100% missing health. ]",
               "leveling": []
             },
             {
@@ -269626,7 +269626,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Alternatively, Pit Grit grants Sett 0.75 / 2.5 / 5 / 10 / 10.25 / 10.5 (based on level) bonus health regeneration for every 5% missing health, up to 14.25 / 47.5 / 95 / 190 / 194.75 / 199.5 (based on level) at the cap of 95% missing health.\nThe Right Punch does not grant  bonus attack speed, rather its windup is sped up and fixed at [ 12.5% of a Left Punch's windup time. ][ 800% of a Left Punch's windup speed. ]\nThe windup is still affected by  cripples and attack speed buffs that were not already active for the previous Left Punch's.\nThe bonus physical damage from the Right Punch benefits from  life steal.",
+          "notes": "Alternatively, Pit Grit grants Sett 0.75 / 2.5 / 5 / 10 / 10.25 / 10.5 (based on level) bonus health regeneration for every 5% missing health, up to 15 / 50 / 100 / 200 / 205 / 210 (based on level) at the theoretical maximum of 100% missing health.\nThe bonus regeneration is gained smoothly with the missing health fraction of Sett's health bar; that means there are no discrete changes in the regeneration at each 5% missing health threshold. The 5% figure is merely in the tooltip as a guideline for the player's quantitative understanding of the effect.\nThe Right Punch does not grant  bonus attack speed, rather its windup is sped up and fixed at [ 12.5% of a Left Punch's windup time. ][ 800% of a Left Punch's windup speed. ]\nThe windup is still affected by  cripples and attack speed buffs that were not already active for the previous Left Punch's.\nThe bonus physical damage from the Right Punch benefits from  life steal.",
           "blurb": "Innate - Heart of the Half-Beast:  Sett  regenerates additional health based on his missing health.",
           "missileSpeed": null,
           "rechargeRate": null,
