@@ -47778,7 +47778,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Camille/ability-icon/e",
           "effects": [
             {
-              "description": "Active: Camille fires a grapple in the target direction. If the grapple collides with terrain, Camille will dash toward and attach to the terrain for 0.75 seconds, during which she gains the ability to cast Wall Dive.",
+              "description": "Active: Camille fires a grapple in the target direction. If the grapple collides with terrain, Camille will dash to the collision point and upon arrival attach to the terrain for 1 second, during which she gains the ability to cast Wall Dive.",
               "leveling": []
             },
             {
@@ -47942,7 +47942,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Wall Dive count as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDespite what one might assume from a wall-jumping ability, Wall Dive can be used to go through terrain (including the terrain she is bound to).\nCasting  Flash during Wall Dive's dash will interrupt it but Camille will affect enemies around the new location.\nWall Dive is disabled while  grounded or  rooted.\nWall Dive will not automatically cast from movement or attack commands in both cases. While grounded, however, Camille is able to move while bound. She may still dash away from her current location once the grounding finishes.\nCamille will only gain a range indicator towards each valid champion within the extended dash range (800), but will still gain the extended dash range without the indicator against enemies within the 1400 range.\nShe does not have to  see any enemy champions to gain the range indicator or extended range.\n Displacement immunity will not resist the application of the  stun.\nIf  Tactical Sweep is cast during Wall Dive's dash on its opposite direction, the target wil be  knockback further and to a different direction.(bug)\nThe following table refers for interactions while Camille is bound to terrain:\nWhen Camille is interrupted, she will automatically cast Wall Dive. The only exception is if she was interrupted by casting  Flash or  Recall, in which case Wall Dive cancels.\n\n\nAttacking\n\nInitiates the dash towards attack target.\n\n\nAbilities\n\n Precision Protocol and  Tactical Sweep are usable.  The Hextech Ultimatum is disabled.\n\n\nMovement\n\nInitiates the dash towards the commanded location.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nN/A\n\n\nInterrupted by\n\nAll items interrupt\n\n\nConsumables\n\nInterrupts\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Teleport  Hexflash\n\n\nInterrupted by\n\n Flash  Recall\n\n\nInterrupted by\n\nDeath Cast-inhibiting effects",
+          "notes": "Wall Dive count as an ability activation for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nCasting  Flash during Wall Dive's dash will interrupt it but Camille will affect enemies around the new location.\nWall Dive is disabled while  immobilized,  grounded, or  rooted, but not while  silenced.\nWall Dive will not automatically cast from movement or attack commands while grounded or rooted. While grounded, however, Camille is able to move while bound. She may still dash away from her current location once the grounding finishes.\nCamille will only gain a range indicator towards each valid champion within the extended dash range (800), but will still gain the extended dash range without the indicator against enemies within the 1400 range.\nShe does not have to  see any enemy champions to gain the range indicator or extended range.\n Displacement immunity will not resist the application of the  stun.\nThe following table refers for interactions while Camille is bound to terrain:\nIf Camille interrupts the bind by casting  Recall, she will automatically cast Wall Dive in the direction she is facing.\nThe bind will not be immediately interrupted if Camille casts  Flash. She may cast Wall Dive for up to 0.3 seconds (duration permitting) after using  Flash, allowing her to dash from the blink location.\n\n\nAttacking\n\nInitiates the dash towards attack target.\n\n\nAbilities\n\n Precision Protocol and  Tactical Sweep are usable.  The Hextech Ultimatum is disabled.\n\n\nMovement\n\nInitiates the dash towards the commanded location.\n\n\nItems\n\nUsable\n\nN/A\n\n\nDisabled\n\nAll items are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nDisabled\n\n\nSpells\n\nUsable\n\nN/A\n\n\nDisabled\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite  Teleport  Hexflash\n\n\nInterrupted by\n\n Flash  Recall\n\n\nInterrupted by\n\nDeath Displacement effects",
           "blurb": "Active:  Camille  dashes, dealing physical damage to enemies near the landing location. Dash range is doubled towards enemy  champions.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -129129,7 +129129,7 @@
     "attributeRatings": {
       "damage": 3,
       "toughness": 1,
-      "control": 1,
+      "control": 0,
       "mobility": 3,
       "utility": 1,
       "abilityReliance": 10,
