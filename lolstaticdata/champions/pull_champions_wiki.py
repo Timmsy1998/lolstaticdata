@@ -1,5 +1,6 @@
 from typing import Tuple, List, Union, Iterator, Dict
 import re
+import requests
 from bs4 import BeautifulSoup
 from collections import Counter
 from slpp import slpp as lua
@@ -819,27 +820,18 @@ class LolWikiDataHandler:
             print(f"Chroma Mismatch: {id} not available in {available}")
 
     def _get_skins(self):
-        url = f"https://wiki.leagueoflegends.com/en-us/Module:SkinData/data"
+        # Fetch the Lua source directly instead of relying on the wiki's HTML layout.
+        url = "https://wiki.leagueoflegends.com/en-us/Module:SkinData/data?action=raw"
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        source = "\n".join(strip_lua_comments(response.text.splitlines()))
+        table = re.match(r"\s*return\s*(\{.*)", source, re.DOTALL)
+        if table is None:
+            raise ValueError(f"Expected a Lua skin data table from {url}")
 
-        html = download_soup(url, False)
-        soup = BeautifulSoup(html, "lxml")
-
-        # Pull the relevant champData from the html tags
-        spans = soup.find("pre", {"class": "mw-code mw-script"})
-        start = None
-        spans = spans.text.split("\n")
-
-        for i, span in enumerate(spans):
-            if str(span) == "return {":
-                start = i
-                spans[i] = "{"
-                break
-            
-        spans = spans[start:]
-        spans = strip_lua_comments(spans)
-        spans = "".join(spans)
-        
-        skin_data = lua.decode(spans)
+        skin_data = lua.decode(table.group(1))
+        if not isinstance(skin_data, dict) or not skin_data:
+            raise ValueError(f"Expected a non-empty Lua skin data table from {url}")
         return skin_data
 
     def _get_skin_path(self, path):
