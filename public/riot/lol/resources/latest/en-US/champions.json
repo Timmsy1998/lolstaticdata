@@ -129280,7 +129280,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Caustic Wounds: Plasma stacks applied by Kai'Sa's basic attacks or Void Seeker deal 4 : 30 (based on level) (+ 12% AP) additional magic damage plus 1 : 8 (based on level) (+ 3% AP) additional magic damage per Plasma stack before application, up to a total of 8 : 62 (based on level) (+ 24% AP) additional magic damage at 4 Plasma stacks before application. The fifth stack against a target consumes them all to deal additional magic damage equal to 15% (+ 6% per 100 AP) of the target's missing health, capped at 400 against monsters.",
+              "description": "Innate - Caustic Wounds: Plasma stacks applied by Kai'Sa's basic attacks or Void Seeker deal 4 : 30 (based on level) (+ 12% AP) additional magic damage plus 1 : 8 (based on level) (+ 3% AP) additional magic damage per Plasma stack on the target before application, up to a total of 8 : 62 (based on level) (+ 24% AP) additional magic damage at 4 Plasma stacks before application. The fifth stack against a target consumes them all to deal additional magic damage equal to 15% (+ 6% per 100 AP) of the target's missing health, capped at 400 against monsters.",
               "leveling": []
             }
           ],
@@ -131928,7 +131928,7 @@
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_uncentered_83.skins_kaisa_skin83.jpg",
         "tilePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/images/kaisa_splash_tile_83.skins_kaisa_skin83.jpg",
         "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/kaisaloadscreen_83.skins_kaisa_skin83.jpg",
-        "loadScreenVintagePath": null,
+        "loadScreenVintagePath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin83/kaisaloadscreen_83_le.skins_kaisa_skin83.jpg",
         "newEffects": true,
         "newAnimations": true,
         "newRecall": true,
@@ -225831,7 +225831,7 @@
               "leveling": []
             },
             {
-              "description": "Ornn will prioritize upgrading the first Legendary item eligible for a Masterwork upgrade based on its position in the inventory, detecting each slot until an eligible item is found.",
+              "description": "The Masterwork upgrade scans each item slot in the champion's inventory (from slots 1-6) for an eligible Legendary item, upgrading the first eligible item that is found.",
               "leveling": []
             }
           ],
@@ -338228,11 +338228,11 @@
             "modifiers": [
               {
                 "values": [
-                  6,
-                  6,
-                  6,
-                  6,
-                  6
+                  7,
+                  7,
+                  7,
+                  7,
+                  7
                 ],
                 "units": [
                   "",
