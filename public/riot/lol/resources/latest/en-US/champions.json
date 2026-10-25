@@ -5412,7 +5412,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 103103,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin103/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 103102,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin102/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 103100,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin100/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 103105,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin105/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 103104,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin104/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 103098,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin98/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 103099,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin99/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 103101,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin101/chromapreview.chroma_ahri_kda.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "As K/DA's founder, Ahri knows when it's time to shake things up. Firestarter was the perfect chance to play with expectations, turn up the heat, and make this comeback unforgettable. Never one to let the mystery fade, Ahri knows exactly how to captivate her fans and leave them wanting more.",
         "release": "0000-00-00",
         "set": [
@@ -45793,7 +45962,7 @@
         "lore": "Very few snipers can cut it on the Arctic front. The cold is unforgiving, the winds are harsh, and any who dare brave the tundra find themselves at the mercy of Caitlyn, a sniper with deadly aim and a killer instinct.",
         "release": "2011-12-29",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin04/images/caitlyn_splash_centered_4.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin04/images/caitlyn_splash_uncentered_4.jpg",
@@ -72665,7 +72834,134 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Legendary",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Catseye",
+            "id": 28069,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin69/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 28067,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin67/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 28072,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin72/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 28068,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin68/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 28070,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin70/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 28071,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin71/chromapreview.chroma_evelynn_kda.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "A bonafide diva with a penchant for making headlines, Evelynn was the clear choice to lead K/DA into a fiery new era. Bold and uncompromising, she leaves fans in a fever with every performance. But behind the headlines is a perfectionist who won't settle for less. Every beat, every strut will set the whole world ablaze.",
         "release": "0000-00-00",
         "set": [
@@ -94008,7 +94304,7 @@
         "lore": "A large man even before donning his hermetically sealed arctic combat suit, Gragas is a mystery to all save for High Command's secretive R&D labs. He appears human by all measures, save for the mask he never removes, and the eerily cold mixture of chemicals powering his massive frame.",
         "release": "2018-01-25",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin10/images/gragas_splash_centered_10.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin10/images/gragas_splash_uncentered_10.jpg",
@@ -131918,8 +132214,177 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
-        "lore": "For Kai'Sa, K/DA's hiatus was an opportunity. Eager to travel, she learned from dancers all across the globe, weaving their influences into her already killer choreo. Now with K/DA's long-awaited comeback, there's a world of influence evolving her every step. Kai'sa's excited to bring the heat with every 8-count.<br>",
+        "chromas": [
+          {
+            "name": "Citrine",
+            "id": 145088,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin88/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#DF9117",
+              "#DF9117"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 145087,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin87/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 145091,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin91/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 145090,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin90/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 145084,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin84/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 145086,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin86/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Tanzanite",
+            "id": 145085,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin85/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#54209B",
+              "#54209B"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Turquoise",
+            "id": 145089,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin89/chromapreview.chroma_kaisa_kda.png",
+            "colors": [
+              "#73BFBE",
+              "#73BFBE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
+        "lore": "For Kai'Sa, K/DA's hiatus was an opportunity. Eager to travel, she learned from dancers all across the globe, weaving their influences into her already killer choreo. Now with K/DA's long-awaited comeback, there's a world of influence evolving her every step. Kai'Sa's excited to bring the heat with every 8-count.<br>",
         "release": "0000-00-00",
         "set": [
           "K/DA"
@@ -148988,7 +149453,7 @@
         "lore": "High Command's public stance towards ninjas are joking-to-nonexistent, as this is a war of modern weapons, not medieval flights of fancy. Privately, they deploy Kennen to hot zones in the deep Arctic, relying on his finely honed ninjitsu and deadly precision.",
         "release": "2011-12-29",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/skin05/images/kennen_splash_centered_5.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/kennen/skins/skin05/images/kennen_splash_uncentered_5.jpg",
@@ -295880,7 +296345,7 @@
         "lore": "They could have sent an army—twelve helicarriers boasting hypercoil cannons, pulse-jumping shocktroopers, and mechs to carve through the ice. But instead, a lone, grizzled veteran striding across the tundra. Some things are better left to the Grand General.",
         "release": "2010-10-05",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin01/images/swain_splash_centered_1.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin01/images/swain_splash_uncentered_1.jpg",
@@ -331135,7 +331600,7 @@
         "lore": "Varus leaps from the rampart, a hail of arrows flying from his bow and freezing the ground beneath his victims. As they struggle to regroup, he draws a missile—circuits flashing along its spine—and lets fly. Thanks for the archer, High Command!",
         "release": "2014-03-20",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin03/images/varus_splash_centered_3.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin03/images/varus_splash_uncentered_3.jpg",
@@ -350600,7 +351065,7 @@
         "lore": "It's easy to get used to having a bear in the platoon. He never gets cold, he sleeps all the time, and he can tear through a fully armored regiment of enemy soldiers in about six seconds. It's very easy to get used to having a bear in the platoon.",
         "release": "2011-11-29",
         "set": [
-          "Arctic Ops"
+          "Arcticops"
         ],
         "splashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin02/images/volibear_splash_centered_2.jpg",
         "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/volibear/skins/skin02/images/volibear_splash_uncentered_2.jpg",
