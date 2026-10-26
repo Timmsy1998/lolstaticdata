@@ -95011,6 +95011,27 @@
             ]
           },
           {
+            "name": "Firestarter",
+            "id": 79049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin49/chromapreview.chroma_gragas_firestarter.png",
+            "colors": [
+              "#851034",
+              "#251B33"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 2,
+                "region": "riot"
+              }
+            ]
+          },
+          {
             "name": "Obsidian",
             "id": 79046,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/79/79046.png",
