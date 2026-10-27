@@ -68674,7 +68674,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Elise will not dash if the target is within basic attack range.\nThis ability is disabled while  grounded or  rooted even if Elise is in the range in which she does not dash.\nIf Elise is allowed to dash, Venomous Bite can be used to cross sufficiently thin terrain.\n Spiderlings can cross walls and terrain to reach Venomous Bite's target and will attack provided Elise stays within their leash range.\nThere is a maximum range in which Spiderlings or Volatile Spiderlings can dash to the target.\n Spiderlings will dash even if they are  crowd controlled.\nVenomous Bite will always apply its effects after the cast time, even if the dash is interrupted.\nVenomous Bite's  reveal is a small area around the target, making it possible for them to exit the reveal radius and lose vision.\nVenomous Bite will still deal its damage but not apply on-hit effects if it is  blocked or  dodged. It cannot be missed while Elise is  blinded.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nWith the exceptions of Elise's Death Blossom, Victorious, Blood Moon, and Super Galaxy skins; Venomous Bite's VFX size will scale uncapped based off the total damage it does. (unexpected)",
+          "notes": "Elise will not dash if the target is within basic attack range.\nThis ability is disabled while  grounded or  rooted even if Elise is in the range in which she does not dash.\nThe dash and reveal take place from the start of the cast time.\nIf Elise is allowed to dash, Venomous Bite can be used to cross sufficiently thin terrain.\n Spiderlings can cross walls and terrain to reach Venomous Bite's target and will attack provided Elise stays within their leash range.\nThere is a maximum range in which Spiderlings or Volatile Spiderlings can dash to the target.\n Spiderlings will dash even if they are  crowd controlled.\nVenomous Bite will always apply its effects after the cast time, even if the dash is interrupted.\nVenomous Bite's  reveal is a small area around the target, making it possible for them to exit the reveal radius and lose vision.\nVenomous Bite will still deal its damage but not apply on-hit effects if it is  blocked or  dodged. It cannot be missed while Elise is  blinded.\nIf the target becomes  untargetable,  dies, or is too far away or no longer in  sight during the cast time, this ability will cancel but does not go on  cooldown nor pay its cost (if applicable).\nWith the exceptions of Elise's Death Blossom, Victorious, Blood Moon, and Super Galaxy skins; Venomous Bite's VFX size will scale uncapped based off the total damage it does. (unexpected)",
           "blurb": "Active:  Elise  pounces at the target enemy and deals damage based on the target's missing health, applying  on-hit effects.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -95011,7 +95011,7 @@
             ]
           },
           {
-            "name": "Firestarter",
+            "name": "FIRESTARTER",
             "id": 79049,
             "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/gragas/skins/skin49/chromapreview.chroma_gragas_firestarter.png",
             "colors": [
@@ -95020,8 +95020,8 @@
             ],
             "descriptions": [
               {
-                "description": null,
-                "region": null
+                "description": "This chroma was released as a Loot exclusive in the Worlds 2026 event.",
+                "region": "riot"
               }
             ],
             "rarities": [
@@ -125421,7 +125421,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDespite Jinx starting the game using  Pow-Pow she doesn't receive any bonus attack speed until Switcheroo! has been learned.\n Fishbones splash damage affects structures (minions will target Jinx) but does not affect targets if Jinx's attacks are  blocked,  dodged, or  missed.\n Runaan's Hurricane's Wind's Fury bolts are special-cased to generate one  Pow-Pow stack per enemy hit.\nEach of  Runaan's Hurricane's additional bolts apply  Fishbones' splash damage, which stacks with each other.\nBoth weapons deal  basic damage to their primary target (this includes the increased damage of  Fishbones), which applies  life steal based on the damage dealt (post-mitigation) as usual.\nThe splash damage of  Fishbones is based on the pre-mitigation damage done to the primary target (which includes critical strikes). It deals  proc damage and thus doesn't apply  life steal or  on-hit effects.\nThe splash damage of  Fishbones will not account for damage modifiers applied to the primary target (e.g.  Hexoptics C44's Magnification).\n Fishbones' damage calculations:\nBasic attack damage: 110% AD\nCritical strike damage: 220% AD\nCritical strike damage with  Infinity Edge: 253% AD\n Runaan's Hurricane's bolt damage: 71.5% AD\nBolt critical strike damage: 143% AD\nBolt critical strike damage with  Infinity Edge: 164.45% AD\nMaximum potential damage with  Runaan's Hurricane: 253% AD\nMaximum potential critical strike damage with  Runaan's Hurricane: 506% AD\nMaximum potential critical strike damage with  Runaan's Hurricane and  Infinity Edge: 581.9% AD",
+          "notes": "Toggle abilities do not count as ability activations for the purposes of on-cast effects such as  Spellblade and triggering  Force Pulse's passive.\nDespite Jinx starting the game using  Pow-Pow she doesn't receive any bonus attack speed until Switcheroo! has been learned.\n Fishbones splash damage affects structures (minions will target Jinx) but does not affect targets if Jinx's attacks are  blocked,  dodged, or  missed.\n Runaan's Hurricane's Wind's Fury bolts are special-cased to generate one  Pow-Pow stack per enemy hit.\nEach of  Runaan's Hurricane's additional bolts apply  Fishbones' splash damage, which stacks with each other.\nBoth weapons deal  basic damage to their primary target (this includes the increased damage of  Fishbones), which applies  life steal based on the damage dealt (post-mitigation) as usual.\nThe splash damage of  Fishbones is based on the pre-mitigation damage done to the primary target (which includes critical strikes). It deals  proc damage and thus doesn't apply  life steal or  on-hit effects.\nThe splash damage of  Fishbones will not account for damage modifiers applied to the primary target (e.g.  Hexoptics C44's Magnification).\n Fishbones' damage calculations:\nBasic attack damage: 110% AD\nCritical strike damage: 220% AD\nCritical strike damage with  Infinity Edge: 253% AD\n Runaan's Hurricane's bolt damage: 66% AD\nBolt critical strike damage: 132% AD\nBolt critical strike damage with  Infinity Edge: 151.8% AD\nMaximum potential damage with  Runaan's Hurricane: 242% AD\nMaximum potential critical strike damage with  Runaan's Hurricane: 484% AD\nMaximum potential critical strike damage with  Runaan's Hurricane and  Infinity Edge: 556.6% AD",
           "blurb": "Toggle:  Jinx switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.",
           "missileSpeed": null,
           "rechargeRate": null,
