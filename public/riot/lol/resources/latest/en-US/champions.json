@@ -9173,7 +9173,9 @@
         "voiceActor": [
           "Krizia Bajos"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Terence 'Terrylefruit' Cantal"
+        ]
       }
     ]
   },
@@ -382404,7 +382406,7 @@
               "leveling": []
             },
             {
-              "description": "Spark Surge resets Zeri's basic attack timer and Burst Fire's cooldown. Ultrashock Laser and Lightning Crash can be cast during the dash.",
+              "description": "Spark Surge resets Zeri's basic attack timer and Burst Fire's cooldown. Ultrashock Laser and Lightning Crash can be cast during the dash. Recall can be cast while dashing over terrain.",
               "leveling": []
             }
           ],
