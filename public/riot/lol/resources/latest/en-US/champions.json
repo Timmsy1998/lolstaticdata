@@ -73014,7 +73014,9 @@
         "voiceActor": [
           "Mara Junot"
         ],
-        "splashArtist": []
+        "splashArtist": [
+          "Alsie Lau"
+        ]
       }
     ]
   },
@@ -106691,101 +106693,7 @@
       "difficulty": 2
     },
     "abilities": {
-      "P": [
-        {
-          "name": "Prophet of an Elder God",
-          "icon": "https://cdn.communitydragon.org/latest/champion/Illaoi/ability-icon/p",
-          "effects": [
-            {
-              "description": "Innate: Periodically, Illaoi spawns a Tentacle on the nearest terrain, if no other Tentacle is around it. Tentacles fully spawn after a 2 second delay and are untargetable in the meantime.",
-              "leveling": []
-            },
-            {
-              "description": "Tentacles are commanded to attack by Illaoi's abilities, dealing 9 : 180 (based on level) (+ 110% AD) (+ 40% AP) physical damage to all enemies struck, increased by 0% : 30% (based on Tentacle Smash's rank).Each enemy individually reduces the slam damage by 50% for every slam they were hit by in the last 0.66 seconds, capped at 75% less damage.",
-              "leveling": []
-            },
-            {
-              "description": "Each Tentacle also heals Illaoi for 5% of her missing health if it hits at least one enemy champion.",
-              "leveling": []
-            },
-            {
-              "description": "See Pets for more details about Tentacles.",
-              "leveling": []
-            }
-          ],
-          "cost": null,
-          "cooldown": {
-            "modifiers": [
-              {
-                "values": [
-                  18.0,
-                  17.352941176470587,
-                  16.705882352941178,
-                  16.058823529411764,
-                  15.411764705882353,
-                  14.764705882352942,
-                  14.117647058823529,
-                  13.470588235294118,
-                  12.823529411764707,
-                  12.176470588235293,
-                  11.529411764705882,
-                  10.882352941176471,
-                  10.235294117647058,
-                  9.588235294117647,
-                  8.941176470588236,
-                  8.294117647058822,
-                  7.647058823529411,
-                  7.0
-                ],
-                "units": [
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
-                ]
-              }
-            ],
-            "affectedByCdr": false
-          },
-          "targeting": "Passive",
-          "affects": "Enemies",
-          "spellshieldable": "True",
-          "resource": null,
-          "damageType": "PHYSICAL_DAMAGE",
-          "spellEffects": "Area of effect",
-          "projectile": "FALSE",
-          "onHitEffects": null,
-          "occurrence": null,
-          "notes": "Illaoi cannot spawn Tentacles on ally invulnerable  structures [6] (note), in addition to neither her nor the Vessel being able to spawn them in Nexus Obelisk's attack range.\nWhen the inhibitor is down, Nexus turrets will only have a single hardcoded valid space on each of their external sides to spawn Tentacles on. [7] (note)\nTentacles are prevented from spawning on base gates.\nIf multiple Tentacles hit simultaneously, the received healing is calculated iteratively based on the new amount of missing health, as per this formula: (maximum health − current health) × (1 − 0.95n), with 'n' the number of Tentacle hits.\nBecause the healing is calculated iteratively,  Grievous Wounds ends up slightly less effective than its nominal value, since the reduced healing leaves more missing health on each subsequent Tentacle hit.\nA slam that extends the damage reduction window to reduce the damage of a successive slam that would otherwise not have been reduced, can have its contribution of damage effectivelly negated or even outweighted by the window extension. For example, a slam reduced to 25% damage may be the cause of a successive slam being reduced from 100% to 50% damage - reducing the damage by 50% with only a contribution of 25%. [8] [9] (unexpected)\nThe expectation would instead be for slam damage to follow the formula (200% − damage% of slams in the last 0.66s) ÷ 2, which would result in the successive slam from the above example to be reduced from 100% to 87.5% damage - reducing the damage by 12.5% with a contribution of 25%.\nThe healing applies after  omnivamp.",
-          "blurb": "Innate: Periodically, a Tentacle will spawn next to nearby terrain. It can be killed by enemy basic attacks and will become dormant if  Illaoi leaves it alone.",
-          "missileSpeed": null,
-          "rechargeRate": null,
-          "collisionRadius": null,
-          "tetherRadius": null,
-          "onTargetCdStatic": null,
-          "innerRadius": null,
-          "speed": null,
-          "width": null,
-          "angle": null,
-          "castTime": null,
-          "effectRadius": "1000",
-          "targetRange": null
-        }
-      ],
+      "I": [],
       "Q": [
         {
           "name": "Tentacle Smash",
@@ -264699,8 +264607,8 @@
           "affects": "Self, Enemies",
           "spellshieldable": "False",
           "resource": null,
-          "damageType": null,
-          "spellEffects": null,
+          "damageType": "PHYSICAL_DAMAGE",
+          "spellEffects": "unknown",
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
