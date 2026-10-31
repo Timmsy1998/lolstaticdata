@@ -34219,7 +34219,7 @@
               "leveling": []
             },
             {
-              "description": "Innate - Inescapable: Whenever Bel'Veth scores a takedown against a champion, monster, or large minion within 3 seconds of damaging them, she generates a permanent stack of Lavender. Large minions and monsters generate 1 stack, champions and epic monsters generate 2 stacks.\nLavender: For each stack, Bel'Veth gains 0.1% : 2% (based on level) bonus attack speed.",
+              "description": "Innate - Inescapable: Whenever Bel'Veth scores a takedown against a champion, large monster, or large minion within 3 seconds of damaging them, she generates a permanent stack of Lavender. Large minions and monsters generate 1 stack, champions and epic monsters generate 2 stacks.\nLavender: For each stack, Bel'Veth gains 0.1% : 2% (based on level) bonus attack speed.",
               "leveling": []
             }
           ],
@@ -106693,7 +106693,101 @@
       "difficulty": 2
     },
     "abilities": {
-      "I": [],
+      "P": [
+        {
+          "name": "Prophet of an Elder God",
+          "icon": "https://cdn.communitydragon.org/latest/champion/Illaoi/ability-icon/p",
+          "effects": [
+            {
+              "description": "Innate: Periodically, Illaoi spawns a Tentacle on the nearest terrain, if no other Tentacle is around it. Tentacles fully spawn after a 2 second delay and are untargetable in the meantime.",
+              "leveling": []
+            },
+            {
+              "description": "Tentacles are commanded to attack by Illaoi's abilities, dealing 9 : 180 (based on level) (+ 110% AD) (+ 40% AP) physical damage to all enemies struck, increased by 0% : 30% (based on Tentacle Smash's rank).Each enemy individually reduces the slam damage by 50% for every slam they were hit by in the last 0.66 seconds, capped at 75% less damage.",
+              "leveling": []
+            },
+            {
+              "description": "Each Tentacle also heals Illaoi for 5% of her missing health if it hits at least one enemy champion.",
+              "leveling": []
+            },
+            {
+              "description": "See Pets for more details about Tentacles.",
+              "leveling": []
+            }
+          ],
+          "cost": null,
+          "cooldown": {
+            "modifiers": [
+              {
+                "values": [
+                  18.0,
+                  17.352941176470587,
+                  16.705882352941178,
+                  16.058823529411764,
+                  15.411764705882353,
+                  14.764705882352942,
+                  14.117647058823529,
+                  13.470588235294118,
+                  12.823529411764707,
+                  12.176470588235293,
+                  11.529411764705882,
+                  10.882352941176471,
+                  10.235294117647058,
+                  9.588235294117647,
+                  8.941176470588236,
+                  8.294117647058822,
+                  7.647058823529411,
+                  7.0
+                ],
+                "units": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ],
+            "affectedByCdr": false
+          },
+          "targeting": "Passive",
+          "affects": "Enemies",
+          "spellshieldable": "True",
+          "resource": null,
+          "damageType": "PHYSICAL_DAMAGE",
+          "spellEffects": "Area of effect",
+          "projectile": "FALSE",
+          "onHitEffects": null,
+          "occurrence": null,
+          "notes": "Illaoi cannot spawn Tentacles on ally invulnerable  structures [6] (note), in addition to neither her nor the Vessel being able to spawn them in Nexus Obelisk's attack range.\nWhen the inhibitor is down, Nexus turrets will only have a single hardcoded valid space on each of their external sides to spawn Tentacles on. [7] (note)\nTentacles are prevented from spawning on base gates.\nIf multiple Tentacles hit simultaneously, the received healing is calculated iteratively based on the new amount of missing health, as per this formula: (maximum health − current health) × (1 − 0.95n), with 'n' the number of Tentacle hits.\nBecause the healing is calculated iteratively,  Grievous Wounds ends up slightly less effective than its nominal value, since the reduced healing leaves more missing health on each subsequent Tentacle hit.\nA slam that extends the damage reduction window to reduce the damage of a successive slam that would otherwise not have been reduced, can have its contribution of damage effectivelly negated or even outweighted by the window extension. For example, a slam reduced to 25% damage may be the cause of a successive slam being reduced from 100% to 50% damage - reducing the damage by 50% with only a contribution of 25%. [8] [9] (unexpected)\nThe expectation would instead be for slam damage to follow the formula (200% − damage% of slams in the last 0.66s) ÷ 2, which would result in the successive slam from the above example to be reduced from 100% to 87.5% damage - reducing the damage by 12.5% with a contribution of 25%.\nThe healing applies after  omnivamp.",
+          "blurb": "Innate: Periodically, a Tentacle will spawn next to nearby terrain. It can be killed by enemy basic attacks and will become dormant if  Illaoi leaves it alone.",
+          "missileSpeed": null,
+          "rechargeRate": null,
+          "collisionRadius": null,
+          "tetherRadius": null,
+          "onTargetCdStatic": null,
+          "innerRadius": null,
+          "speed": null,
+          "width": null,
+          "angle": null,
+          "castTime": null,
+          "effectRadius": "1000",
+          "targetRange": null
+        }
+      ],
       "Q": [
         {
           "name": "Tentacle Smash",
@@ -150636,7 +150730,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Kha'Zix can use his summoner spells and item actives while  leaping.\nBuffering Interactions\n\n Taste Their Fear can be buffered to cast after the  leap ends if it is cast while the target is out of range. There is no check for the target coming in range during the  leap.\nIf the target is still out of range after landing, there will be a 0.5 second delay  before Kha'Zix starts moving towards the target compared to manually casting  Taste Their Fear after landing.\n Void Spike &  Void Assault can be buffered to cast after the  leap ends.",
+          "notes": "Leap has no minimum dash range.\nKha'Zix can use his summoner spells and item actives while  leaping.\nBuffering Interactions\n\n Taste Their Fear can be buffered to cast after the  leap ends if it is cast while the target is out of range. There is no check for the target coming in range during the  leap.\nIf the target is still out of range after landing, there will be a 0.5 second delay  before Kha'Zix starts moving towards the target compared to manually casting  Taste Their Fear after landing.\n Void Spike &  Void Assault can be buffered to cast after the  leap ends.",
           "blurb": "Active:  Kha'Zix  leaps to the target location, dealing physical damage to nearby enemies upon landing.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -158967,7 +159061,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Leblanc/ability-icon/q",
           "effects": [
             {
-              "description": "Active: LeBlanc projects an orb at the target enemy that deals magic damage and marks them for 3.5 seconds.",
+              "description": "Active: LeBlanc projects an orb at the target enemy that deals magic damage and marks them for 3.5 seconds, with 10 : 146 (based on level) bonus magic damage against minions.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -159051,7 +159145,7 @@
               ]
             },
             {
-              "description": "Sigil of Malice's orb deals 10 : 146 (based on level) bonus magic damage against minions and refunds 100% of its mana cost and 30% of its remaining cooldown if either the orb or its mark's consumption kills the target.",
+              "description": "Sigil of Malice's orb refunds 100% of its mana cost and 30% of its remaining cooldown if either the orb or its mark's consumption kills the target.",
               "leveling": []
             }
           ],
@@ -181136,7 +181230,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The main target is dealt  basic damage, though without applying life steal, while the cone deals  area non- proc damage without applying  spell effects.\nThe cone will trigger  Jax's  Counter Strike damage reduction,  Cheap Shot,  Conqueror,  Dark Harvest,  Electrocute,  Summon Aery,  Eclipse,  World Atlas enemy champion proc, and  Ocean Dragon Soul.\nIt is also special cased to trigger  Tear of the Goddess.\nThe cone does not benefit from  Spear of Shojin's damage amp.\nThe passive will amplify negative armor, too, if Malphite's armor is dropped that low.\nThe passive's bonus armor  stacks multiplicatively with  Jak'Sho, The Protean's Voidborn Resilience and  Mountainous Vigor.\nThe empowered attack:\nBenefits from Thunderclap's cone effect.\nPrevents Malphite from casting  Seismic Shard and  Ground Slam during its windup.\nCannot have its windup canceled by new movement or attack commands, or casting  Unstoppable Force.\nCan have its windup canceled by casting  Hextech Rocketbelt.\nThe cone starts from Malphite's location.\nUnlike similar spells, it does not deal its damage separately to the primary target of the attack(s); if the target is outside the area of effect when struck, it will not take the additional damage.",
+          "notes": "The main target is dealt  basic damage, though without applying life steal, while the cone deals  area non- proc damage without applying  spell effects.\nThe cone will trigger  Jax's  Counter Strike damage reduction,  Cheap Shot,  Conqueror,  Dark Harvest,  Electrocute,  Summon Aery,  Eclipse,  World Atlas enemy champion proc, and  Ocean Dragon Soul.\nIt is also special cased to trigger  Tear of the Goddess.\nThe cone does not benefit from  Spear of Shojin's damage amp.\nThe passive will amplify negative armor, too, if Malphite's armor is dropped that low.\nThe passive's bonus armor  stacks multiplicatively with  Jak'Sho, The Protean's Voidborn Resilience and  Mountainous Vigor and stacks recursively with  Conditioning.\nThe empowered attack:\nBenefits from Thunderclap's cone effect.\nPrevents Malphite from casting  Seismic Shard and  Ground Slam during its windup.\nCannot have its windup canceled by new movement or attack commands, or casting  Unstoppable Force.\nCan have its windup canceled by casting  Hextech Rocketbelt.\nThe cone starts from Malphite's location.\nUnlike similar spells, it does not deal its damage separately to the primary target of the attack(s); if the target is outside the area of effect when struck, it will not take the additional damage.",
           "blurb": "Passive:  Malphite gains  bonus armor, tripled while  Granite Shield is active.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -253285,7 +253379,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Riven/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Riven's ability casts generate a stack of Charge for 6 seconds, refreshing on subsequent casts and stacking up to 3 times. Riven's basic attacks are empowered to each consume a stack on-attack to deal bonus physical damage equal to 30% : 46.76% (based on level) AD, reduced to[ 50% ][ 15% : 23.38% (based on level) AD ]against structures. Against monsters, it also deals 50 additional bonus physical damage.",
+              "description": "Innate: Riven's ability casts generate a stack of Charge for 6 seconds, refreshing on subsequent casts and stacking up to 3 times. Riven's basic attacks on-attack are empowered to each consume a stack on-hit to deal bonus physical damage equal to 30% : 46.76% (based on level) AD, reduced to[ 50% ][ 15% : 23.38% (based on level) AD ]against structures. Against monsters, it also deals 50 additional bonus physical damage.",
               "leveling": []
             },
             {
@@ -313079,7 +313173,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Thresh will track the target if they change locations.\nHe will dash to the target's previous location if the target is too far away or moves beyond 2000 units.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe pull that occurs with each of Thresh's tugs is a non- airborne displacement that displaces the target toward him. Thresh will only tug if the target remains  stunned and he has not casted Deathly Leap.\nThresh will not tug his hook at all if the stun was not applied to the target.\nThese displacements will not be resisted by  displacement immunity or  crowd control immunity.(unexpected)\nThe first tug occurs after the 0.1-second delay, while the second tug occurs after 0.7 seconds of the target being stunned (or 0.6 seconds from the end of the initial delay).\nThe initial  airborne debuff that is applied to the target upon hitting them is removed if the displacement from the first pull is interrupted.\nThe target will not be pulled with the tugs if they are too close to Thresh.\nDeath Sentence cannot be recast while  grounded or  rooted.\nDeath Sentence can be recast even while the target is  untargetable.\nDeath Sentence will not  stun enemies that are  displacement immune or  immune to crowd control but the target will still be marked and Thresh is still granted the ability to recast for his dash.\n Spell shield will block all of Death Sentence's effects, including the mark as well as prevent the cooldown reduction.\nDeath Sentence's  stun duration is affected by  tenacity but the mark will always persist for 1.5 seconds, unless the target uses a  cleansing effect, in which case the mark is removed.\nDeath Sentence's  stun will persist even if Thresh dies before the duration ends. The tugs will not occur as Thresh is not alive.\nThe reveal lingers for 0.05 seconds after it ends.\nDeathly Leap has a maximum cast range of ~3000 units. If Thresh or the target move a greater distance than this away from one another while the target is marked, Deathly Leap can still be cast but will fail to trigger the dash.(bug)\nThresh will turn his facing direction towards the cast direction only after Death Sentence's cast is complete.\nIf Thresh is facing more than 90° away from the cast direction in either direction, he will turn to face exactly 90° away from the cast direction over the cast time, then turn towards the cast direction when the missile is fired.\nIf Thresh is facing less than 90° away from the cast direction, he will keep his facing direction until the missile is fired.\nThis prevents the enemy from knowing where exactly Thresh is aiming at before the cast animation is complete.\nDeath Sentence triggers on-cast effects (such as  Spellblade and triggering  Force Pulse's passive) once at the start of the cast, and once at the end of the cast. It may trigger on-cast effects a third time when casting Deathly Leap.\nThis is because a separate spell is cast to prevent Thresh from facing towards the target direction immediately, which is (incorrectly) flagged to trigger on-cast effects.(bug)\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
+          "notes": "Thresh will track the target if they change locations.\nHe will dash to the target's previous location if the target is too far away or moves beyond 2000 units.\nThis ability will cast from wherever the caster is at the end of the cast time.\nThe pull that occurs with each of Thresh's tugs is a non- airborne displacement that displaces the target toward him. Thresh will only tug if the target remains  stunned and he has not casted Deathly Leap.\nThresh will not tug his hook at all if the stun was not applied to the target.\nThese displacements will not be resisted by  displacement immunity or  crowd control immunity.(unexpected)\nThe first tug occurs after the 0.1-second delay, while the second tug occurs after 0.7 seconds of the target being stunned (or 0.6 seconds from the end of the initial delay).\nThe initial  airborne debuff that is applied to the target upon hitting them is removed if the displacement from the first pull is interrupted.\nThe target will not be pulled with the tugs if they are too close to Thresh.\nDeath Sentence cannot be recast while  grounded or  rooted.\nDeath Sentence can be recast even while the target is  untargetable.\nDeath Sentence will not  stun enemies that are  displacement immune or  immune to crowd control but the target will still be marked and Thresh is still granted the ability to recast for his dash (except with  Malzahar's  Void Shift).\n Spell shield will block all of Death Sentence's effects, including the mark as well as prevent the cooldown reduction.\nDeath Sentence's  stun duration is affected by  tenacity but the mark will always persist for 1.5 seconds, unless the target uses a  cleansing effect, in which case the mark is removed.\nDeath Sentence's  stun will persist even if Thresh dies before the duration ends. The tugs will not occur as Thresh is not alive.\nThe reveal lingers for 0.05 seconds after it ends.\nDeathly Leap has a maximum cast range of ~3000 units. If Thresh or the target move a greater distance than this away from one another while the target is marked, Deathly Leap can still be cast but will fail to trigger the dash.(bug)\nThresh will turn his facing direction towards the cast direction only after Death Sentence's cast is complete.\nIf Thresh is facing more than 90° away from the cast direction in either direction, he will turn to face exactly 90° away from the cast direction over the cast time, then turn towards the cast direction when the missile is fired.\nIf Thresh is facing less than 90° away from the cast direction, he will keep his facing direction until the missile is fired.\nThis prevents the enemy from knowing where exactly Thresh is aiming at before the cast animation is complete.\nDeath Sentence triggers on-cast effects (such as  Spellblade and triggering  Force Pulse's passive) once at the start of the cast, and once at the end of the cast. It may trigger on-cast effects a third time when casting Deathly Leap.\nThis is because a separate spell is cast to prevent Thresh from facing towards the target direction immediately, which is (incorrectly) flagged to trigger on-cast effects.(bug)\n\n\nType\n\nCast time\n\n\nAttacking\n\nDisabled\n\n\nAbilities\n\nDisabled\n\n\nMovement\n\nDisabled\n\n\nItems\n\nUsable\n\n Shurelya's Battlesong  Youmuu's Ghostblade  Randuin's Omen\n\n\nDisabled\n\nAll the other item-actives are disabled\n\n\nInterrupted by\n\nN/A\n\n\nConsumables\n\nUsable\n\n\nSpells\n\nUsable\n\n Barrier  Clarity  Cleanse  Exhaust  Ghost  Heal  Ignite  Smite\n\n\nDisabled\n\n Flash  Teleport  Recall  Hexflash\n\n\nInterrupted by\n\nN/A\n\n\nInterrupted by\n\nDeath, unless protected by  Resurrection",
           "blurb": null,
           "missileSpeed": null,
           "rechargeRate": null,
