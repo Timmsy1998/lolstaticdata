@@ -183133,7 +183133,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Malzahar/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Periodically, Malzahar gains Void Shift until he takes non- minion damage or negates a crowd control effect, to which it then lingers for 0.25 seconds before expiring. Void Shift: Malzahar gains crowd control immunity and 90% damage reduction.",
+              "description": "Innate: Periodically, Malzahar gains Void Shift until he takes non- minion damage or negates a crowd control effect, to which it then lingers for 0.25 seconds before expiring. Void Shift: Malzahar gains crowd control immunity and reduces incoming damage from non-minions by 90%.",
               "leveling": []
             },
             {
