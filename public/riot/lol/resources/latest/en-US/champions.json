@@ -186058,7 +186058,7 @@
               "leveling": []
             },
             {
-              "description": "Once landed, the Sapling grants sight of its surroundings and remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies, capped at 300 against non-champions, and slowing them by 45% for 2 seconds.",
+              "description": "Once landed, the Sapling grants sight of its surroundings and remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies, capped at 300 against non-champions, and slowing them by 45% for 2 seconds.A Sapling placed in a brush becomes empowered.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -186116,7 +186116,11 @@
               ]
             },
             {
-              "description": "A Sapling placed in a brush becomes empowered: lasting 30 (+ 1.5% bonus health) seconds and causing its explosion to deal 66.7% damage to non- minion targets struck and attach two Saplings to them for 1.5 seconds, as well as slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. The attached Saplings explode on the afflicted target every 0.75 seconds over the duration, dealing them the same damage each time.Targets can only be attached to two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already. Against minions, the explosion deals 100% damage. The total damage is capped at 600 against non-champions.",
+              "description": "Empowered Bonus: lasts 30 (+ 1.5% bonus health) seconds and causes its explosion to slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. The total damage cap is increased to 600 against non-champions.",
+              "leveling": []
+            },
+            {
+              "description": "Against non- minion targets, the explosion deals 66.7% damage but attaches two Saplings to them for 1.5 seconds, which reapply the same damage every 0.75 seconds over the duration.Targets can only be attached by two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already.",
               "leveling": [
                 {
                   "attribute": "Magic Damage per Instance",
@@ -186225,7 +186229,7 @@
                   ]
                 },
                 {
-                  "attribute": "Total Magic Damage",
+                  "attribute": "Non-Minion Total Magic Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -186266,59 +186270,6 @@
                         50,
                         50,
                         50
-                      ],
-                      "units": [
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP",
-                        "% AP"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "attribute": "Minion Damage",
-                  "modifiers": [
-                    {
-                      "values": [
-                        50,
-                        75,
-                        100,
-                        125,
-                        150
-                      ],
-                      "units": [
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "values": [
-                        5,
-                        5,
-                        5,
-                        5,
-                        5
-                      ],
-                      "units": [
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health",
-                        "% bonus health"
-                      ]
-                    },
-                    {
-                      "values": [
-                        25,
-                        25,
-                        25,
-                        25,
-                        25
                       ],
                       "units": [
                         "% AP",
@@ -251603,7 +251554,7 @@
               "leveling": []
             },
             {
-              "description": "Active: Rengar prowls for a duration, gaining bonus movement speed. After a 2-second delay, he also becomes camouflaged and gains Unseen Predator.\nThe camouflage can only last up to 14 seconds. (unexpected)",
+              "description": "Active: Rengar prowls for a duration, gaining bonus movement speed. After a 2-second delay, he also becomes camouflaged and gains Unseen Predator.",
               "leveling": [
                 {
                   "attribute": "Effect Duration",
