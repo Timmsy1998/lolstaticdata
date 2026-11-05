@@ -186058,7 +186058,7 @@
               "leveling": []
             },
             {
-              "description": "Once landed, the Sapling grants sight of its surroundings and remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies, capped at 300 against non-champions, and slowing them by 45% for 2 seconds.A Sapling placed in a brush becomes empowered.",
+              "description": "Once landed, the Sapling grants sight of its surroundings and remains stationary for 30 seconds or until it reacts to the first nearby visible enemy, chasing them for up to 2.5 seconds. The Sapling explodes upon colliding with an enemy or when it expires, dealing magic damage to nearby enemies and slowing them by 45% for 2 seconds.A Sapling placed in a brush becomes empowered.",
               "leveling": [
                 {
                   "attribute": "Magic Damage",
@@ -186116,7 +186116,7 @@
               ]
             },
             {
-              "description": "Empowered Bonus: Lasts 30 (+ 1.5% bonus health) seconds and causes its explosion to slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. Against non- minion targets, the explosion deals 66.7% damage but attaches two Saplings to them for 1.5 seconds, which reapply the same damage every 0.75 seconds over the duration. The total damage cap is increased to 600 against non-champions.Targets can only be attached by two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already.",
+              "description": "Empowered Bonus: Lasts 30 (+ 1.5% bonus health) seconds and causes its explosion to slow enemies hit by 45% (+ 1% per 100 bonus health) (+ 1% per 100 AP) for 2 seconds and reveal them for 3 seconds. Against non- minion targets, the explosion deals 66.7% damage but attaches two Saplings to them for 1.5 seconds, which reapply the same damage every 0.75 seconds over the duration.Targets can only be attached by two Saplings at a time; subsequent empowered Sapling explosions on a target will refresh the duration and only attach a Sapling if one has exploded on them already.",
               "leveling": [
                 {
                   "attribute": "Non-Minion Magic Damage per Instance",
@@ -191071,7 +191071,7 @@
       ],
       "Q": [
         {
-          "name": "Radiant Volley",
+          "name": "Radiant Barrage",
           "icon": "https://cdn.communitydragon.org/latest/champion/Mel/ability-icon/q",
           "effects": [
             {
@@ -191175,7 +191175,7 @@
               ]
             },
             {
-              "description": "Radiant Volley's current cooldown is reduced by 0.5 : 1 (based on level) seconds if at least one bolt hits an enemy champion.",
+              "description": "Radiant Barrage's current cooldown is reduced by 0.5 : 1 (based on level) seconds if at least one bolt hits an enemy champion.",
               "leveling": []
             },
             {
@@ -191233,7 +191233,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Spell shield will only block a single explosion.\nFor the given number of Radiant Volley bolts, the spread will result in the same individual areas being affected over the duration invariably.\nEach individual missile is explicitly assigned an explosion location at a small offset from the cast location. This varies by missile, which results in their combined area of effect distributing over a total radius of [explosion radius + maximum spread] = 200 + 50 = 250 units.\nThis means that the distribution area is not random.\nThe order of bolts however, which will determine the order of individual areas to be affected per explosion, is random.\nMel launching the missiles in the same arcing motion for every Radiant Volley cast does not correlate with which missile is being fired at the time. The height and gravity of each missile are irrelevant.\nNote that the combined area of effect may not always be the maximum possible (circle with radius of 250 units); this drawback diminishes with a higher number of bolts as the new missiles fill the gaps within.\nThis ability will cast from wherever the caster is at the end of the cast time.",
+          "notes": "Spell shield will only block a single explosion.\nFor the given number of Radiant Barrage bolts, the spread will result in the same individual areas being affected over the duration invariably.\nEach individual missile is explicitly assigned an explosion location at a small offset from the cast location. This varies by missile, which results in their combined area of effect distributing over a total radius of [explosion radius + maximum spread] = 200 + 50 = 250 units.\nThis means that the distribution area is not random.\nThe order of bolts however, which will determine the order of individual areas to be affected per explosion, is random.\nMel launching the missiles in the same arcing motion for every Radiant Volley cast does not correlate with which missile is being fired at the time. The height and gravity of each missile are irrelevant.\nNote that the combined area of effect may not always be the maximum possible (circle with radius of 250 units); this drawback diminishes with a higher number of bolts as the new missiles fill the gaps within.\nThis ability will cast from wherever the caster is at the end of the cast time.",
           "blurb": "Active:  Mel concentrates a bombardment of luminous bolts that explode in an area, dealing magic damage.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -191262,11 +191262,11 @@
                   "modifiers": [
                     {
                       "values": [
+                        50,
                         80,
                         110,
                         140,
-                        170,
-                        200
+                        170
                       ],
                       "units": [
                         "",
@@ -191278,11 +191278,11 @@
                     },
                     {
                       "values": [
-                        70,
-                        70,
-                        70,
-                        70,
-                        70
+                        50,
+                        50,
+                        50,
+                        50,
+                        50
                       ],
                       "units": [
                         "% AP",
@@ -251749,7 +251749,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Thrill of the Hunt's duration starts on-cast.\nIt is not expected for the camouflage duration to be lower than the total effect duration. [10] (unexpected)\nIf a  revealed enemy  stealths, their  true sight debuff will be removed, dropping aggro. [11] [12] (unexpected)\nThe debuff will be reapplied after 0.033s if they get back in range.\nUsing a basic attack  breaks the stealth at the start of the attack windup.\nUnlike other champions that break the stealth at the start of attack windup, Rengar may automatically start attacking a nearby target if the player's \"Auto Attack\" setting is turned on. [13] (unexpected)\nThe ability applies a mark on the target at the start of attack windup that is successively consumed when the basic attack hits to apply the effect.\nIf the attack is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe mark will however still linger for a very short period after that, allowing Rengar to consume it with a quick basic attack. [14]\nThe ability deals  basic damage.\nUnlike other ability empowered attacks (i.e  Kled's  Violent Tendencies,  Malphite's  Thunderclap), the additional damage is also tagged as  proc damage - preventing triggering certain effects (e.g  Malignance). [15] (unexpected)\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse and  Electrocute (e.g while using  Black Cleaver). [16] (unexpected)\nThe Unseen Predator buff may randomly end before a melee attack hits, causing the ability's effects to go through but without generating Ferocity. [17] (unexpected)\nRengar may sometimes be able to still leap away after consuming the ability with a melee basic attack. [18] (unexpected)\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons\n\n\n\n VIctorious",
+          "notes": "Thrill of the Hunt's duration starts on-cast.\nIf a  revealed enemy  stealths, their  true sight debuff will be removed, dropping aggro. [9] [10] (unexpected)\nThe debuff will be reapplied after 0.033s if they get back in range.\nUsing a basic attack  breaks the stealth at the start of the attack windup.\nUnlike other champions that break the stealth at the start of attack windup, Rengar may automatically start attacking a nearby target if the player's \"Auto Attack\" setting is turned on. [11] (unexpected)\nThe ability applies a mark on the target at the start of attack windup that is successively consumed when the basic attack hits to apply the effect.\nIf the attack is prevented or blocked (e.g. by  knocking down Rengar when  leaping) then the effect will not be applied.\nThe mark will however still linger for a very short period after that, allowing Rengar to consume it with a quick basic attack. [12]\nThe ability deals  basic damage.\nUnlike other ability empowered attacks (i.e  Kled's  Violent Tendencies,  Malphite's  Thunderclap), the additional damage is also tagged as  proc damage - preventing triggering certain effects (e.g  Malignance). [13] (unexpected)\nIt is also part of a separate cast instance - potentially allowing an extra stack of  Eclipse and  Electrocute (e.g while using  Black Cleaver). [14] (unexpected)\nThe Unseen Predator buff may randomly end before a melee attack hits, causing the ability's effects to go through but without generating Ferocity. [15] (unexpected)\nRengar may sometimes be able to still leap away after consuming the ability with a melee basic attack. [16] (unexpected)\nRengar discerns a distinct  heart beat instead of the usual  true sight indicator. This indicator will be removed when out of range, but the target will remain revealed.\nThrill of the Hunt has an indicator that appears above the target(s) when Rengar is nearby. Some skins have a unique indicator.\n\n\n\n Headhunter\n\n\n\n Night Hunter\n\n\n\n Mecha\n\n\n\n Pretty Kitty\n\n\n\n Guardian of the Sands\n\n\n\n Sentinel\n\n\n\n Street Demons\n\n\n\n VIctorious",
           "blurb": "Passive:  Rengar also gains  Unseen Predator while  camouflaged.",
           "missileSpeed": null,
           "rechargeRate": null,
