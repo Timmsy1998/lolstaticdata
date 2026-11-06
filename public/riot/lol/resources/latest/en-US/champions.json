@@ -5405,7 +5405,7 @@
         "name": "KDA FIRESTARTER",
         "id": 103097,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "K/DA FIRESTARTER Ahri",
         "lootEligible": true,
         "cost": 1350,
@@ -9147,7 +9147,7 @@
         "name": "KDA FIRESTARTER Ignition",
         "id": 84102,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "K/DA FIRESTARTER Ignition Akali",
         "lootEligible": true,
         "cost": "Special",
@@ -72829,7 +72829,7 @@
         "name": "KDA FIRESTARTER",
         "id": 28065,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "K/DA FIRESTARTER Evelynn",
         "lootEligible": true,
         "cost": 1820,
@@ -72988,7 +72988,7 @@
         "name": "KDA Hitmaker",
         "id": 28066,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "K/DA Hitmaker Evelynn",
         "lootEligible": true,
         "cost": "Special",
@@ -132232,7 +132232,7 @@
         "name": "KDA FIRESTARTER",
         "id": 145083,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "K/DA FIRESTARTER Kai'Sa",
         "lootEligible": true,
         "cost": 1350,
@@ -213190,7 +213190,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Aquamarine",
+            "id": 518052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin52/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#6ABBEE",
+              "#6ABBEE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 518056,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin56/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Jasper",
+            "id": 518057,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin57/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#9F4A25",
+              "#9F4A25"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 518053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin53/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 518054,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin54/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Peridot",
+            "id": 518058,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin58/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#B6E084",
+              "#B6E084"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 518055,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin55/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 518051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/neeko/skins/skin51/chromapreview.chroma_neeko_cafecuties.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          }
+        ],
         "lore": "Neeko delights in taking on all sorts of roles in the cafe—anything to learn what makes customers tick! Her bubbliness shines wherever she works, whether it be hosting parties, waiting tables, or crafting recipes. She even used to greet guests by appearing exactly like them…  but she now knows that a cup of pop blossom tea is a much more welcome treat.",
         "release": "0000-00-00",
         "set": [
@@ -327087,7 +327256,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "Deals  spell damage to the primary target and applies  area damage on the lightning strikes.\nThe lightning strikes can deal up to 9% : 19.06% (based on level) (+ 4.8% per 100 AP) of the target's maximum health bonus magic damage per empowered basic attack against an isolated target.\nIf both empowered attacks are used on the same isolated target, the lightning strikes can deal up to 18% : 38.12% (based on level) (+ 9.6% per 100 AP) of the target's maximum health bonus magic damage.\nThe lightning strikes from two separate empowered attacks can overlap with each other on the same target for additional damage.\n Spell shield will only block an empowered attack's application of the lightning strikes.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.",
+          "notes": "Deals  spell damage to the primary target and applies  area damage on the lightning strikes.\nIf you have  Dusk and Dawn equipped, the second empowered attack loses it's damage type and is counted as an  on-hit effect.(unexpected)\nEach empowered attack is considered to belong to its own cast instance.\nApplies 1 stack to  Spear of Shojin while the temporary buff is ticking, but it applies 2 stacks while the permanent buff remains (after the temporary one has run out). (bug)\nAdditionally, while both buffs are active, the second empowered attack has a chance to cause this as well. (bug)\nThe lightning strikes can deal up to 9% : 19.06% (based on level) (+ 4.8% per 100 AP) of the target's maximum health bonus magic damage per empowered basic attack against an isolated target.\nIf both empowered attacks are used on the same isolated target, the lightning strikes can deal up to 18% : 38.12% (based on level) (+ 9.6% per 100 AP) of the target's maximum health bonus magic damage.\nThe lightning strikes from two separate empowered attacks can overlap with each other on the same target for additional damage.\n Spell shield will only block an empowered attack's application of the lightning strikes.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.",
           "blurb": "Claw Stance:  Udyr first two basic attacks deal bonus physical damage equal to a portion of the target's maximum health. Additionally, he gains  attack speed and bonus on-hit physical damage for a few seconds.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -327686,7 +327855,7 @@
           "projectile": null,
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The empowered attacks apply  spell effects to the target.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.\nThe increased life steal is a buff that expires after two valid attacks have been completed, as opposed to an on-attack modifier for your next two attacks. This means that while the buff is active,  Ravenous Hydra will heal at the increased life steal value.",
+          "notes": "The empowered attacks apply  spell effects to the target.\nIf you have  Dusk and Dawn equipped, the second empowered attack loses it's damage type and only applies the  on-hit effect.(unexpected)\nEach empowered attack is considered to belong to its own cast instance.\nThe empowered attacks will not trigger nor be consumed if they hit a structure or ward or are parried.\nThe increased life steal is a buff that expires after two valid attacks have been completed, as opposed to an on-attack modifier for your next two attacks. This means that while the buff is active,  Ravenous Hydra will heal at the increased life steal value.",
           "blurb": "Mantle Stance:  Udyr gains a  shield and his next two basic attacks gain  life steal and  heal him.",
           "missileSpeed": null,
           "rechargeRate": null,
@@ -389602,7 +389771,176 @@
         "sale": 0,
         "distribution": null,
         "rarity": "Epic",
-        "chromas": [],
+        "chromas": [
+          {
+            "name": "Amethyst",
+            "id": 142049,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin49/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#9C68D7",
+              "#9C68D7"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Catseye",
+            "id": 142047,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin47/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#FFEE59",
+              "#FFEE59"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Emerald",
+            "id": 142048,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin48/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#2DA130",
+              "#2DA130"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Obsidian",
+            "id": 142053,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin53/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#27211C",
+              "#27211C"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Pearl",
+            "id": 142052,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin52/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#ECF9F8",
+              "#ECF9F8"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Rose Quartz",
+            "id": 142051,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin51/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#E58BA5",
+              "#E58BA5"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          },
+          {
+            "name": "Ruby",
+            "id": 142046,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin46/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#D33528",
+              "#D33528"
+            ],
+            "descriptions": [
+              {
+                "description": "This chroma was released as a bundle exclusive in 2026.",
+                "region": "riot"
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": 1,
+                "region": "riot"
+              }
+            ]
+          },
+          {
+            "name": "Sapphire",
+            "id": 142050,
+            "chromaPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin50/chromapreview.chroma_zoe_cafecuties.png",
+            "colors": [
+              "#2756CE",
+              "#2756CE"
+            ],
+            "descriptions": [
+              {
+                "description": null,
+                "region": null
+              }
+            ],
+            "rarities": [
+              {
+                "rarity": null,
+                "region": null
+              }
+            ]
+          }
+        ],
         "lore": "Chaotic confectioner of ever-changing delights, Zoe's pastries are out-of-this-world—literally! Zoe reaches into portals for fresh ingredients, even if her magical combinations lead to mixed results. Some days she bakes a perfect cherry pie, other days, dubious slime pudding…. Still, Zoe's equally zany customers will always try what's new on the menu!",
         "release": "0000-00-00",
         "set": [
