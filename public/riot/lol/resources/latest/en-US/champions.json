@@ -191030,7 +191030,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Mel/ability-icon/p",
           "effects": [
             {
-              "description": "Innate: Mel's basic attacks and abilities apply a stack of Overwhelm for each instance of damage they deal to enemies for 5 seconds, refreshing on subsequent damage instances and stacking infinitely.",
+              "description": "Innate: Mel's basic attacks and abilities apply a stack of Overwhelm for each instance of damage they deal to enemies for 5 seconds, refreshing on subsequent applications and stacking infinitely.",
               "leveling": []
             },
             {
@@ -191136,7 +191136,7 @@
                   ]
                 },
                 {
-                  "attribute": "Total Magic Damage",
+                  "attribute": "Maximum Magic Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -191175,7 +191175,7 @@
               ]
             },
             {
-              "description": "Radiant Barrage's current cooldown is reduced by 0.5 : 1 (based on level) seconds if at least one bolt hits an enemy champion.",
+              "description": "After all bolts have landed, if at least one bolt has hit an enemy champion, Radiant Barrage's current cooldown is reduced by 0.5 : 1 (based on level) seconds.",
               "leveling": []
             },
             {
@@ -191255,7 +191255,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Mel/ability-icon/w",
           "effects": [
             {
-              "description": "Active: Mel unleashes a refraction nova that expands outward from herself over 0.75 seconds, destroying all hostile projectiles sourced from enemy champions that collide with the nova. Additionally, she grants herself and allies hit by the nova a shield and 10% : 30% (based on level) (+ 4% per 100 AP) bonus movement speed for 2 seconds.",
+              "description": "Active: Mel unleashes a refraction nova within her surrounding area that lasts 0.75 seconds, expanding within the duration. The nova destroys all hostile non- turret projectiles that collide with it. Mel and allies that come into contact with it are granted a shield and 10% : 30% (based on level) (+ 4% per 100 AP) bonus movement speed, both lasting 2 seconds.",
               "leveling": [
                 {
                   "attribute": "Shield",
@@ -191297,7 +191297,7 @@
               ]
             },
             {
-              "description": "After the nova expires, Mel retaliates against the enemy champions that had their projectiles destroyed, firing a number of homing bolts at each champion equal to the number of projectiles that were destroyed from them, up to a maximum of 7 per target. Subsequent bolts against an enemy deal reduced damage.",
+              "description": "The nova additionally harnesses each hostile projectile that collides with it as a bolt, up to a maximum of 7 times per source. After the nova's expiration, the number of bolts respective to each enemy homes to them, with each bolt dealing magic damage, reduced for subsequent hits.",
               "leveling": [
                 {
                   "attribute": "Initial Bolt Magic Damage",
@@ -191456,22 +191456,22 @@
           },
           "targeting": "Auto",
           "affects": "Self, Enemies",
-          "spellshieldable": "unknown",
+          "spellshieldable": "true",
           "resource": "MANA",
           "damageType": "MAGIC_DAMAGE",
-          "spellEffects": "unknown",
+          "spellEffects": "spellaoe",
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": null,
-          "blurb": "Active:  Mel conjures a nova around herself for a brief time and grants herself and allies hit by the nova a  shield and a burst of  bonus move speed for a short period.",
+          "notes": "Spell shield will block all applicable bolts that hit the user from the same cast instance of Rebuttal.\nThe nova rapidly expands over the first 0.25 seconds of cast, then much more slowly over the following 0.5 seconds.\nRebuttal's buffs can stack with each other up to 3 times.\nEach subsequent cast resets the remaining duration of both buffs.",
+          "blurb": "Active:  Mel conjures a nova around herself for a brief time that destroys enemy non- turret  projectiles and grants herself and allies that come into contact with it a  shield and a burst of  bonus move speed for a short period.",
           "missileSpeed": null,
           "rechargeRate": null,
           "collisionRadius": null,
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": null,
+          "speed": "3000",
           "width": null,
           "angle": null,
           "castTime": "none",
@@ -270627,10 +270627,10 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Sett/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Sett empowers his next two basic attacks within 5 seconds to gain 50 bonus range and deal bonus physical damage, capped at 400 total damage of each attack against monsters.",
+              "description": "Active: Sett empowers his next two basic attacks within 5 seconds to gain 50 bonus range and deal modified physical damage, capped at 400 damage of each attack against monsters (unexpected), with the cap affected by critical strike modifiers.",
               "leveling": [
                 {
-                  "attribute": "Bonus Physical Damage",
+                  "attribute": "Physical Damage Per Hit",
                   "modifiers": [
                     {
                       "values": [
@@ -270646,6 +270646,22 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        100,
+                        100,
+                        100,
+                        100,
+                        100
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
                       ]
                     },
                     {
@@ -270667,7 +270683,7 @@
                   ]
                 },
                 {
-                  "attribute": "Total Bonus Physical Damage",
+                  "attribute": "Total Physical Damage",
                   "modifiers": [
                     {
                       "values": [
@@ -270683,6 +270699,22 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "values": [
+                        200,
+                        200,
+                        200,
+                        200,
+                        200
+                      ],
+                      "units": [
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD",
+                        "% AD"
                       ]
                     },
                     {
