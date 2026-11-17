@@ -9147,11 +9147,11 @@
         ]
       },
       {
-        "name": "KDA FIRESTARTER",
+        "name": "KDA FIRESTARTER Ignition",
         "id": 84102,
         "isBase": false,
         "availability": "Rare",
-        "formatName": "K/DA FIRESTARTER Akali",
+        "formatName": "K/DA FIRESTARTER Ignition Akali",
         "lootEligible": true,
         "cost": "Special",
         "sale": 0,
@@ -22597,7 +22597,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aphelios/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Aphelios deploys a lunar sentry at the target location that arms after 0.35 seconds, lasting for up to 20 seconds, during which it is inactive and untargetable. The sentry activates if an enemy is within range of it, reducing its duration to 4 seconds and becoming targetable. Sentries have 6 health and take 3 damage per ranged basic attack and 4 damage per hit by abilities. Turret attacks destroy sentries instantly.",
+              "description": "Active: Aphelios deploys a lunar sentry at the target location that arms after 0.35 seconds, lasting for up to 20 seconds, during which it is inactive and untargetable. The sentry activates if an enemy is within range of it, reducing its duration to 4 seconds and becoming targetable. Sentries have 6 health and take ( 4 / 3) damage per basic attack and 4 damage per hit by abilities. Turret attacks destroy sentries instantly.",
               "leveling": []
             },
             {
@@ -201827,6 +201827,7 @@
         "distribution": "0.5% drop rate from the Sanctum or opening 80 Ancient Sparks",
         "rarity": "Exalted",
         "chromas": [
+          null,
           null
         ],
         "lore": "Twins, born of branch and bloom, guarded mortals from afar. But one sister yearned to feel as mortals do, and from this hunger made masked, demonic children—becoming the Grovemother. She traded places with a queen of nearby lands… but her children followed, bringing ruin and death. Now imprisoned in her grove, she still longs for the fullness of emotion.",
@@ -225105,7 +225106,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "The Ball does not grant  sight while in flight, but the sound effect of striking an enemy is audible through the Fog of War.\nOrianna cannot cast her other abilities while the The Ball is moving to the target with Command: Protect.\nOrianna gains Command: Protect's bonus resistances whenever The Ball is attached to her (even if she didn't self-cast).\nThe Ball will remain where Command: Protect's target ally died or, if they died or became  untargetable before The Ball reaches them, it will instead snap back to Orianna.\nThe Ball will return to Orianna if Command: Protect's target ally moves too far away from her (The Ball will always respect its leash range, which is increased by 100 when attached to allied champions).\nThe Ball will join Command: Protect's target ally in  stealth if they are affected by it when Orianna targets them.\nThe Ball snaps back to Orianna upon being intercepted by  projectile-blocking effects.\nCommand: Protect has a  forgiveness radius of 175 units.",
+          "notes": "The Ball does not grant  sight while in flight, but the sound effect of striking an enemy is audible through the Fog of War.\nArmor and magic resist granted by The Ball are not multiplied by  Mountainous Vigor.(bug)\nOrianna cannot cast her other abilities while the The Ball is moving to the target with Command: Protect.\nOrianna gains Command: Protect's bonus resistances whenever The Ball is attached to her (even if she didn't self-cast).\nThe Ball will remain where Command: Protect's target ally died or, if they died or became  untargetable before The Ball reaches them, it will instead snap back to Orianna.\nThe Ball will return to Orianna if Command: Protect's target ally moves too far away from her (The Ball will always respect its leash range, which is increased by 100 when attached to allied champions).\nThe Ball will join Command: Protect's target ally in  stealth if they are affected by it when Orianna targets them.\nThe Ball snaps back to Orianna upon being intercepted by  projectile-blocking effects.\nCommand: Protect has a  forgiveness radius of 175 units.",
           "blurb": "Passive:  The Ball grants bonus  armor and  magic resist to the unit it is attached to.",
           "missileSpeed": null,
           "rechargeRate": null,
