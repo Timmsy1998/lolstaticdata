@@ -9766,7 +9766,7 @@
               "leveling": []
             },
             {
-              "description": "Second Cast: Akshan swings around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to his facing direction, stopping upon colliding with an enemy champion or terrain. While swinging, he fires at the nearest visible enemy every 0.231 seconds to deal them physical damage and apply on-hit effects for each shot, with on-hit damage reduced to 25% effectiveness.Akshan will be knocked down by any immobilizing or polymorphing crowd control during the dash.",
+              "description": "Second Cast: Akshan swings around the terrain in either a clockwise or counterclockwise direction based on the position of the cursor relative to his facing direction, stopping upon colliding with an enemy champion or terrain. While swinging, he fires at the nearest visible enemy every 0.231 seconds to deal them physical damage and apply on-hit and on-attack effects for each shot, with on-hit and on-attack damage reduced to 25% effectiveness.Akshan will be knocked down by any immobilizing or polymorphing crowd control during the dash.",
               "leveling": [
                 {
                   "attribute": "Physical Damage per Shot",
@@ -22597,7 +22597,7 @@
           "icon": "https://cdn.communitydragon.org/latest/champion/Aphelios/ability-icon/q",
           "effects": [
             {
-              "description": "Active: Aphelios deploys a lunar sentry at the target location that arms after 0.35 seconds, lasting for up to 20 seconds, during which it is inactive and untargetable. The sentry activates if an enemy is within range of it, reducing its duration to 4 seconds and becoming targetable. Sentries have 6 health and take ( 4 / 3) damage per basic attack and 4 damage per hit by abilities. Turret attacks destroy sentries instantly.",
+              "description": "Active: Aphelios deploys a lunar sentry at the target location that arms after 0.35 seconds, lasting for up to 20 seconds, during which it is inactive and untargetable. The sentry activates if an enemy is within range of it, reducing its duration to 4 seconds and becoming targetable. Sentries have 6 health and take 3 damage per hit from basic attacks and abilities. Turret attacks destroy sentries instantly.",
               "leveling": []
             },
             {
@@ -213658,7 +213658,7 @@
         "name": "Cafe Cuties",
         "id": 518050,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Cafe Cuties",
         "lootEligible": true,
         "cost": 1350,
@@ -213836,7 +213836,7 @@
           }
         ],
         "lore": "Neeko delights in taking on all sorts of roles in the cafe—anything to learn what makes customers tick! Her bubbliness shines wherever she works, whether it be hosting parties, waiting tables, or crafting recipes. She even used to greet guests by appearing exactly like them…  but she now knows that a cup of pop blossom tea is a much more welcome treat.",
-        "release": "0000-00-00",
+        "release": "2026-11-18",
         "set": [
           "Cafe Cuties"
         ],
@@ -268550,7 +268550,7 @@
               "leveling": []
             },
             {
-              "description": "While any amount of Notes are active, Seraphine's next basic attack is empowered to have an uncancellable windup, gain 25 bonus attack range per Note, and fire all Notes at the target, with each one dealing 4 : 27.47 (based on level) (+ 4% AP) magic damage, reduced by 75% for Notes from allies.",
+              "description": "While any amount of Notes are active, Seraphine's next basic attack is empowered to have an uncancellable windup, gain 25 bonus attack range per Note, and on-hit fire all Notes at the target, with each one dealing 4 : 27.47 (based on level) (+ 4% AP) magic damage, reduced by 75% for Notes from allies.",
               "leveling": []
             }
           ],
@@ -293491,16 +293491,19 @@
         "name": "DJ Ultimate Remix",
         "id": 37077,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Rare",
         "formatName": "DJ Sona Ultimate Remix",
         "lootEligible": true,
         "cost": "Special",
         "sale": 0,
         "distribution": "0.5% drop rate from the Sanctum or opening 40 Ancient Sparks.",
         "rarity": "Mythic",
-        "chromas": [],
+        "chromas": [
+          null,
+          null
+        ],
         "lore": "An otherworldly talent that moves between genres with ease, Sona mesmerizes anyone lucky enough to catch one of her shows. This “silent virtuoso” is a master of mixing across genres and making the impossible happen, always getting the crowd moving. Sona's never needed words to make herself heard. Her music says it all.",
-        "release": "0000-00-00",
+        "release": "2026-11-18",
         "set": [
           "DJ"
         ],
@@ -390916,7 +390919,7 @@
         "name": "Cafe Cuties",
         "id": 142045,
         "isBase": false,
-        "availability": "Upcoming",
+        "availability": "Available",
         "formatName": "Cafe Cuties",
         "lootEligible": true,
         "cost": 1350,
@@ -391094,7 +391097,7 @@
           }
         ],
         "lore": "Chaotic confectioner of ever-changing delights, Zoe's pastries are out-of-this-world—literally! Zoe reaches into portals for fresh ingredients, even if her magical combinations lead to mixed results. Some days she bakes a perfect cherry pie, other days, dubious slime pudding…. Still, Zoe's equally zany customers will always try what's new on the menu!",
-        "release": "0000-00-00",
+        "release": "2026-11-18",
         "set": [
           "Cafe Cuties"
         ],
