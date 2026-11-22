@@ -58933,7 +58933,7 @@
           "projectile": "TRUE",
           "onHitEffects": null,
           "occurrence": null,
-          "notes": "On the second application of Pale Cascade's shield,  Shield Power will apply to both the new shield amount and the shield amount remaining from the first shield, which has already benefited from shield power.\nBecause of this, shield power effectively applies to the second shield twice, but with reduced efficiency, for up to an increase of 50% of shield power (maximum benefit if no damage was mitigated by the first shield). With 10% shield power, the second shield's total amount will be increased by up to an additional 5%, for a total of 15.5% bonus shield.\nThe formula for the total amount of shield Diana will receive from both shield applications is:\nTotal Shield = (((Shield Amount × (1 + Shield Power)) - Damage Blocked by Shield) + Shield Amount) × (1 + Shield Power)",
+          "notes": "On the second application of Pale Cascade's shield,  Shield Power will apply to both the new shield amount and the shield amount remaining from the first shield, which has already benefited from shield power. Thus shield power is effectivelly enhanced.\nThe formula for the total amount of shield Diana will receive from both shield applications is:\nTotal Shield = (((Shield Amount × (1 + Shield Power)) - Damage Blocked by Shield) + Shield Amount) × (1 + Shield Power)",
           "blurb": "Active:  Diana  shields herself, creating three orbiting spheres that detonate on contact with enemies to deal magic damage in an area.",
           "missileSpeed": null,
           "rechargeRate": null,
