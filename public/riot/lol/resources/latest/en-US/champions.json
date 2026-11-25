@@ -256480,7 +256480,7 @@
             ],
             "rarities": [
               {
-                "rarity": 4,
+                "rarity": 3,
                 "region": "riot"
               }
             ]
@@ -383161,7 +383161,7 @@
           "tetherRadius": null,
           "onTargetCdStatic": null,
           "innerRadius": null,
-          "speed": "N/A Kilcher",
+          "speed": "N/A",
           "width": null,
           "angle": null,
           "castTime": null,
